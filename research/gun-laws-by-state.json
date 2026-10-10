@@ -1,0 +1,404 @@
+{
+  "states": {
+    "Alabama": {
+      "concealed_carry": "Permitless (constitutional) carry since Jan 1, 2023 for 19+ (18+ military); shall-issue permit system kept for reciprocity",
+      "open_carry": "Generally allowed (handgun must be in a holster; 18+)",
+      "private_sale_bg_check": "Not required",
+      "waiting_period": "none",
+      "red_flag_law": "no",
+      "reciprocity": "Recognizes valid concealed carry permits from all other states"
+    },
+    "Alaska": {
+      "concealed_carry": "Permitless carry for 21+; shall-issue permit available for reciprocity purposes",
+      "open_carry": "Generally allowed",
+      "private_sale_bg_check": "Not required",
+      "waiting_period": "none",
+      "red_flag_law": "no",
+      "reciprocity": "Recognizes valid concealed carry permits from all other states"
+    },
+    "Arizona": {
+      "concealed_carry": "Permitless carry for 21+ since 2010; shall-issue permit still available",
+      "open_carry": "Generally allowed (18+)",
+      "private_sale_bg_check": "Not required",
+      "waiting_period": "none",
+      "red_flag_law": "no",
+      "reciprocity": "Recognizes all valid out-of-state permits (holder must be 21+)"
+    },
+    "Arkansas": {
+      "concealed_carry": "Permitless carry (clarified by 2023 Act 777); shall-issue permit available, 21+ (18 military)",
+      "open_carry": "Generally allowed without a permit",
+      "private_sale_bg_check": "Not required",
+      "waiting_period": "none",
+      "red_flag_law": "no",
+      "reciprocity": "Honors carry licenses from every other state"
+    },
+    "California": {
+      "concealed_carry": "Permit required; shall-issue since Bruen/SB 2 (no more 'good cause'); 21+",
+      "open_carry": "Generally prohibited",
+      "private_sale_bg_check": "Universal background checks required (all transfers through a licensed dealer)",
+      "waiting_period": "10 days",
+      "red_flag_law": "yes (Gun Violence Restraining Orders, since 2016)",
+      "reciprocity": "Does not recognize any out-of-state permits"
+    },
+    "Colorado": {
+      "concealed_carry": "Permit required; shall-issue through county sheriff; 21+",
+      "open_carry": "Generally allowed (some cities, e.g. Denver, ban it)",
+      "private_sale_bg_check": "Universal background checks required (through a licensed dealer, via CBI)",
+      "waiting_period": "3 days (HB23-1219, effective Oct 1, 2023)",
+      "red_flag_law": "yes (Extreme Risk Protection Orders, since 2019)",
+      "reciprocity": "Recognizes out-of-state permits if holder is a resident of the issuing state and 21+"
+    },
+    "Connecticut": {
+      "concealed_carry": "Permit required; may-issue (suitability clause); 21+",
+      "open_carry": "Prohibited since Oct 1, 2023, with limited exceptions",
+      "private_sale_bg_check": "Universal background checks required (via DESPP authorization number)",
+      "waiting_period": "10 days (transfer no earlier than the 11th day after authorization)",
+      "red_flag_law": "yes (risk warrant law)",
+      "reciprocity": "Does not recognize out-of-state permits"
+    },
+    "Delaware": {
+      "concealed_carry": "Permit required; may-issue (Superior Court, 'good moral character' standard); 18+",
+      "open_carry": "Generally allowed without a permit",
+      "private_sale_bg_check": "Background check required through a licensed dealer (limited exceptions)",
+      "waiting_period": "none",
+      "red_flag_law": "yes (Lethal Violence Protective Orders)",
+      "reciprocity": "Recognizes permits from a limited list of states, published annually by the AG"
+    },
+    "Florida": {
+      "concealed_carry": "Permitless carry for 21+ (18+ military) since July 1, 2023; license still available",
+      "open_carry": "Generally allowed (open carry ban struck down as unconstitutional Sept 2025)",
+      "private_sale_bg_check": "Not required",
+      "waiting_period": "3 days (excluding weekends/holidays; waived for license holders)",
+      "red_flag_law": "yes (Risk Protection Orders, since 2018)",
+      "reciprocity": "Generally recognizes valid out-of-state licenses"
+    },
+    "Georgia": {
+      "concealed_carry": "Permitless carry since April 12, 2022 (SB 319); shall-issue Weapons Carry License available, 21+ (18 military)",
+      "open_carry": "Generally allowed (no license needed)",
+      "private_sale_bg_check": "Not required",
+      "waiting_period": "none",
+      "red_flag_law": "no",
+      "reciprocity": "Recognizes licenses from all other states"
+    },
+    "Hawaii": {
+      "concealed_carry": "Permit required; shall-issue (since 2023 Act 52), 21+, residents only",
+      "open_carry": "Prohibited (separate license requiring demonstrated need, rarely granted)",
+      "private_sale_bg_check": "Required (universal; purchase permit with background check required for all transfers)",
+      "reciprocity": "None; does not recognize any out-of-state permits",
+      "red_flag_law": "yes",
+      "waiting_period": "14 days (permit-to-acquire issuance)"
+    },
+    "Idaho": {
+      "concealed_carry": "Permitless carry (constitutional carry), 18+",
+      "open_carry": "Generally allowed without permit",
+      "private_sale_bg_check": "Not required",
+      "reciprocity": "Honors permits from all other states; 18+ may carry permitless",
+      "red_flag_law": "no",
+      "waiting_period": "none"
+    },
+    "Illinois": {
+      "concealed_carry": "Permit required (Concealed Carry License), shall-issue, 21+ (FOID also required)",
+      "open_carry": "Prohibited",
+      "private_sale_bg_check": "Required (universal; FOID verification and state police approval)",
+      "reciprocity": "None; does not recognize any out-of-state permits",
+      "red_flag_law": "yes (Firearms Restraining Orders)",
+      "waiting_period": "72 hours for all firearms"
+    },
+    "Indiana": {
+      "concealed_carry": "Permitless carry (since July 1, 2022), 18+; optional shall-issue license",
+      "open_carry": "Generally allowed without permit",
+      "private_sale_bg_check": "Not required",
+      "reciprocity": "Honors permits from all other states",
+      "red_flag_law": "yes (Jake Laird Law; law-enforcement seizure with hearing within 14 days)",
+      "waiting_period": "none"
+    },
+    "Iowa": {
+      "concealed_carry": "Permitless carry (since 2021), 18+; optional shall-issue permit",
+      "open_carry": "Generally allowed without permit",
+      "private_sale_bg_check": "Not required",
+      "reciprocity": "Honors permits from all other states (permit holder must be 21)",
+      "red_flag_law": "no",
+      "waiting_period": "none"
+    },
+    "Kansas": {
+      "concealed_carry": "Permitless carry (since 2015), 21+; optional shall-issue license (provisional for 18-20)",
+      "open_carry": "Generally allowed without permit",
+      "private_sale_bg_check": "Not required",
+      "reciprocity": "Honors permits from all other states",
+      "red_flag_law": "no",
+      "waiting_period": "none"
+    },
+    "Kentucky": {
+      "concealed_carry": "Permitless carry (since 2019), 21+; optional shall-issue CCDW license",
+      "open_carry": "Generally allowed without permit (18+)",
+      "private_sale_bg_check": "Not required",
+      "reciprocity": "Honors permits from all other states",
+      "red_flag_law": "no",
+      "waiting_period": "none"
+    },
+    "Louisiana": {
+      "concealed_carry": "Permitless carry (since July 4, 2024), 18+; optional shall-issue permit",
+      "open_carry": "Generally allowed without permit (18+)",
+      "private_sale_bg_check": "Not required",
+      "reciprocity": "Honors permits only from states that recognize Louisiana permits (~36 states)",
+      "red_flag_law": "no",
+      "waiting_period": "none"
+    },
+    "Maine": {
+      "concealed_carry": "Permitless carry (since 2015), 21+ (18-20 with optional permit or military service)",
+      "open_carry": "Generally allowed without permit (18+)",
+      "private_sale_bg_check": "Required only for advertised or gun-show private sales (must go through dealer)",
+      "reciprocity": "Recognizes resident permits from states that recognize Maine's resident permits (mutual reciprocity)",
+      "red_flag_law": "yes (Question 2 approved by voters Nov 2025; ERPO law alongside existing yellow flag law)",
+      "waiting_period": "72 hours (enjoined by court order in 2025; litigation pending)"
+    },
+    "Maryland": {
+      "concealed_carry": "Permit required (Wear and Carry Permit), shall-issue post-Bruen, 21+",
+      "open_carry": "Prohibited (permit holders must carry concealed)",
+      "private_sale_bg_check": "Required (universal; all transfers through licensed dealer)",
+      "reciprocity": "None; does not recognize any out-of-state permits",
+      "red_flag_law": "yes (Extreme Risk Protective Orders, 2018)",
+      "waiting_period": "7 days"
+    },
+    "Massachusetts": {
+      "concealed_carry": "Permit required (License to Carry); may-issue with suitability discretion, age 21",
+      "open_carry": "Generally allowed with a License to Carry",
+      "private_sale_bg_check": "Required for all private transfers (purchaser's license verified via state Gun Transaction Portal)",
+      "reciprocity": "No reciprocity; does not recognize any out-of-state permits.",
+      "red_flag_law": "yes",
+      "waiting_period": "none"
+    },
+    "Michigan": {
+      "concealed_carry": "Permit required (Concealed Pistol License); shall-issue, age 21",
+      "open_carry": "Generally allowed without a permit (18+; heavily restricted in vehicles without a CPL)",
+      "private_sale_bg_check": "Universal background checks required (all firearms, since Feb 2024)",
+      "reciprocity": "Recognizes all valid out-of-state resident permits.",
+      "red_flag_law": "yes",
+      "waiting_period": "none"
+    },
+    "Minnesota": {
+      "concealed_carry": "Permit required (Permit to Carry); shall-issue, age 18 (court ruling 2023)",
+      "open_carry": "Allowed with a Permit to Carry (permit covers both open and concealed)",
+      "private_sale_bg_check": "Required for handguns and semi-automatic military-style assault weapons; not required for ordinary long guns",
+      "reciprocity": "Recognizes permits from states with 'substantially similar' laws (about 35 states).",
+      "red_flag_law": "yes",
+      "waiting_period": "none"
+    },
+    "Mississippi": {
+      "concealed_carry": "Permitless carry (no permit required since 2016); optional shall-issue license available for reciprocity",
+      "open_carry": "Generally allowed without a permit",
+      "private_sale_bg_check": "not required",
+      "reciprocity": "Recognizes all out-of-state permits.",
+      "red_flag_law": "no",
+      "waiting_period": "none"
+    },
+    "Missouri": {
+      "concealed_carry": "Permitless carry (no permit required since 2017, age 19; 18 for military); optional shall-issue permit for reciprocity",
+      "open_carry": "Generally allowed without a permit (localities may restrict open carry by those without a permit)",
+      "private_sale_bg_check": "not required",
+      "reciprocity": "Recognizes all out-of-state permits.",
+      "red_flag_law": "no",
+      "waiting_period": "none"
+    },
+    "Montana": {
+      "concealed_carry": "Permitless carry (no permit required since 2021); optional shall-issue permit available for reciprocity",
+      "open_carry": "Generally allowed without a permit",
+      "private_sale_bg_check": "not required",
+      "reciprocity": "Recognizes permits from states that recognize Montana permits.",
+      "red_flag_law": "no",
+      "waiting_period": "none"
+    },
+    "Nebraska": {
+      "concealed_carry": "Permitless carry (no permit required since Sept 2023, age 21); optional shall-issue permit available",
+      "open_carry": "Generally allowed without a permit",
+      "private_sale_bg_check": "Required for handguns (buyer must have a Firearm Purchase Permit or Concealed Handgun Permit); not required for long guns",
+      "reciprocity": "Recognizes permits from states that recognize Nebraska permits.",
+      "red_flag_law": "no",
+      "waiting_period": "none"
+    },
+    "Nevada": {
+      "concealed_carry": "Permit required (Concealed Firearm Permit); shall-issue, age 21 (18 for military)",
+      "open_carry": "Generally allowed without a permit",
+      "private_sale_bg_check": "Universal background checks required (through a licensed dealer since 2020)",
+      "reciprocity": "Recognizes permits from a specific list of states (about 30); does not honor all states.",
+      "red_flag_law": "yes",
+      "waiting_period": "none"
+    },
+    "New Hampshire": {
+      "concealed_carry": "Permitless carry (no permit required since Feb 2017); optional shall-issue license for reciprocity",
+      "open_carry": "Generally allowed without a permit",
+      "private_sale_bg_check": "not required",
+      "reciprocity": "Honors many states' resident permits (not non-resident permits); permitless carry covers everyone who may lawfully possess.",
+      "red_flag_law": "no",
+      "waiting_period": "none"
+    },
+    "New Jersey": {
+      "concealed_carry": "Permit required; shall-issue since Bruen (2022), age 21",
+      "open_carry": "prohibited",
+      "private_sale_bg_check": "Universal background checks required (all transfers through a licensed dealer, with narrow exceptions)",
+      "reciprocity": "No reciprocity; does not recognize any out-of-state permits.",
+      "red_flag_law": "yes",
+      "waiting_period": "7 days (minimum between permit application and handgun delivery)"
+    },
+    "New Mexico": {
+      "concealed_carry": "Permit required; shall-issue; minimum age 21",
+      "open_carry": "Generally allowed without a permit",
+      "private_sale_bg_check": "Universal background checks required (through a licensed dealer; family exemption)",
+      "reciprocity": "Recognizes concealed carry permits from about two dozen states with comparable licensing standards.",
+      "red_flag_law": "yes",
+      "waiting_period": "7 days (struck down by 10th Circuit in 2025; enforcement disputed)"
+    },
+    "New York": {
+      "concealed_carry": "Permit required; shall-issue since Bruen (2022); minimum age 21",
+      "open_carry": "Handguns prohibited; long guns generally allowed",
+      "private_sale_bg_check": "Universal background checks required (through a licensed dealer; immediate-family exemption)",
+      "reciprocity": "Does not honor any out-of-state concealed carry permits.",
+      "red_flag_law": "yes",
+      "waiting_period": "none"
+    },
+    "North Carolina": {
+      "concealed_carry": "Permit required; shall-issue; minimum age 21",
+      "open_carry": "Generally allowed without a permit",
+      "private_sale_bg_check": "Not required (pistol purchase permit repealed in 2023)",
+      "reciprocity": "Honors all valid out-of-state concealed carry permits.",
+      "red_flag_law": "no",
+      "waiting_period": "none"
+    },
+    "North Dakota": {
+      "concealed_carry": "Permitless (constitutional) carry for 18+ with valid ID; shall-issue licenses still offered",
+      "open_carry": "Allowed with restrictions (requires a permit North Dakota issues or honors)",
+      "private_sale_bg_check": "Not required",
+      "reciprocity": "Honors permits from states that have reciprocity with North Dakota (permit must be from holder's home state).",
+      "red_flag_law": "no",
+      "waiting_period": "none"
+    },
+    "Ohio": {
+      "concealed_carry": "Permitless carry for qualifying adults 21+; shall-issue licenses still offered",
+      "open_carry": "Generally allowed without a permit",
+      "private_sale_bg_check": "Not required",
+      "reciprocity": "Honors all valid out-of-state concealed carry permits.",
+      "red_flag_law": "no",
+      "waiting_period": "none"
+    },
+    "Oklahoma": {
+      "concealed_carry": "Permitless carry for 21+ (18+ for military); shall-issue licenses still offered",
+      "open_carry": "Generally allowed without a permit",
+      "private_sale_bg_check": "Not required",
+      "reciprocity": "Recognizes any valid out-of-state concealed or unconcealed carry permit by statute.",
+      "red_flag_law": "no (state has an anti-red flag law)",
+      "waiting_period": "none"
+    },
+    "Oregon": {
+      "concealed_carry": "Permit required; shall-issue; minimum age 21",
+      "open_carry": "Allowed with restrictions (cities/counties may ban loaded firearms in public)",
+      "private_sale_bg_check": "Universal background checks required (through a licensed dealer; statutory exemptions)",
+      "reciprocity": "Does not honor any out-of-state concealed carry permits.",
+      "red_flag_law": "yes",
+      "waiting_period": "none"
+    },
+    "Pennsylvania": {
+      "concealed_carry": "License to Carry Firearms required; shall-issue; minimum age 21",
+      "open_carry": "Generally allowed; restricted in Philadelphia (license required there)",
+      "private_sale_bg_check": "Required for handguns only (long guns not required)",
+      "reciprocity": "Recognizes resident permits from about 30 states under AG reciprocity agreements.",
+      "red_flag_law": "no",
+      "waiting_period": "none"
+    },
+    "Rhode Island": {
+      "concealed_carry": "Permit required; hybrid shall-issue (towns) / may-issue (Attorney General); minimum age 21",
+      "open_carry": "Allowed with restrictions (requires AG-issued license)",
+      "private_sale_bg_check": "Universal background checks required",
+      "reciprocity": "Does not honor any out-of-state concealed carry permits.",
+      "red_flag_law": "yes",
+      "waiting_period": "7 days"
+    },
+    "South Carolina": {
+      "concealed_carry": "Permitless carry for 18+ (since March 2024); shall-issue permits still offered",
+      "open_carry": "Generally allowed without a permit",
+      "private_sale_bg_check": "Not required",
+      "reciprocity": "Recognizes resident permits from listed reciprocal states; not universal.",
+      "red_flag_law": "no",
+      "waiting_period": "none"
+    },
+    "South Dakota": {
+      "concealed_carry": "Permitless carry \u2014 no permit required for residents or non-residents 18+; permits still issued for reciprocity travel",
+      "open_carry": "Generally allowed without a permit",
+      "private_sale_bg_check": "Not required on private sales",
+      "reciprocity": "No permit is needed to carry in South Dakota, so out-of-state permit holders are covered without one (state repealed its reciprocity statute)",
+      "red_flag_law": "no",
+      "waiting_period": "none"
+    },
+    "Tennessee": {
+      "concealed_carry": "Permitless carry at 21+ (18\u201320 only with qualifying military service); shall-issue permits also available",
+      "open_carry": "Generally allowed at 21+ (18\u201320 military)",
+      "private_sale_bg_check": "Not required on private sales",
+      "reciprocity": "Recognizes concealed carry permits from all other states",
+      "red_flag_law": "no",
+      "waiting_period": "none"
+    },
+    "Texas": {
+      "concealed_carry": "Permitless carry at 21+ (HB 1927, effective Sept 2021); shall-issue License to Carry still available",
+      "open_carry": "Generally allowed \u2014 handguns must be carried in a holster",
+      "private_sale_bg_check": "Not required on private sales",
+      "reciprocity": "Honors out-of-state permits whose issuing requirements Texas deems substantially similar (most states)",
+      "red_flag_law": "no",
+      "waiting_period": "none"
+    },
+    "Utah": {
+      "concealed_carry": "Permitless carry at 21+; 18\u201320 may carry with a provisional permit",
+      "open_carry": "Generally allowed at 21+; 18\u201320 may open carry unloaded without a permit",
+      "private_sale_bg_check": "Not required on private sales",
+      "reciprocity": "Recognizes valid concealed carry permits from other states",
+      "red_flag_law": "no",
+      "waiting_period": "none"
+    },
+    "Vermont": {
+      "concealed_carry": "Permitless carry \u2014 no permit required and Vermont has no permit system at all",
+      "open_carry": "Generally allowed",
+      "private_sale_bg_check": "Universal background checks required, including on private transfers",
+      "reciprocity": "Vermont issues no permits; anyone who may lawfully possess a firearm may carry without one, so reciprocity is not a factor",
+      "red_flag_law": "yes",
+      "waiting_period": "72 hours"
+    },
+    "Virginia": {
+      "concealed_carry": "Concealed handgun permit required; shall-issue (21+)",
+      "open_carry": "Generally allowed without a permit (18+)",
+      "private_sale_bg_check": "Universal background checks required (restored by 2026 law after a 2025 court ruling struck down the prior version)",
+      "reciprocity": "Recognizes out-of-state permits, but only for holders age 21 and older",
+      "red_flag_law": "yes",
+      "waiting_period": "none"
+    },
+    "Washington": {
+      "concealed_carry": "Concealed pistol license (CPL) required; shall-issue (21+)",
+      "open_carry": "Generally allowed, with some sensitive places restricted",
+      "private_sale_bg_check": "Universal background checks required \u2014 private transfers must go through a licensed dealer",
+      "reciprocity": "Recognizes out-of-state permits only from a short list of states meeting Washington's standards",
+      "red_flag_law": "yes",
+      "waiting_period": "10 business days"
+    },
+    "West Virginia": {
+      "concealed_carry": "Permitless carry at 21+ (provisional permit available at 18); shall-issue permits still offered",
+      "open_carry": "Generally allowed without a permit (18+)",
+      "private_sale_bg_check": "Not required on private sales",
+      "reciprocity": "No permit needed to carry in West Virginia; WV-issued permits are recognized by many other states",
+      "red_flag_law": "no",
+      "waiting_period": "none"
+    },
+    "Wisconsin": {
+      "concealed_carry": "Concealed weapons license required; shall-issue (21+)",
+      "open_carry": "Generally allowed without a permit",
+      "private_sale_bg_check": "Not required on private sales",
+      "reciprocity": "Recognizes permits from many other states, subject to the state's official recognized-state list",
+      "red_flag_law": "no",
+      "waiting_period": "none (the old 48-hour handgun wait was repealed in 2015)"
+    },
+    "Wyoming": {
+      "concealed_carry": "Permitless carry at 21+ for any U.S. resident who may lawfully possess a firearm; permits still available",
+      "open_carry": "Generally allowed without a permit",
+      "private_sale_bg_check": "Not required on private sales",
+      "reciprocity": "Recognizes out-of-state permits; no permit needed to carry in Wyoming",
+      "red_flag_law": "no",
+      "waiting_period": "none"
+    }
+  }
+}
