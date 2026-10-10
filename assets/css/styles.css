@@ -13,14 +13,14 @@
   --accent-dark: #0a5a55;
   --gold: #d9a441;         /* warm highlight */
   --gold-soft: #f7ead0;
-  --line: #e5ded2;         /* hairlines */
+  --line: #ece7db;          /* hairlines, barely-there */
   --text: #2b3038;
   --muted: #5d6470;
   --danger: #b3402e;
-  --radius: 14px;
-  --radius-sm: 9px;
-  --shadow: 0 1px 2px rgba(27, 42, 74, .06), 0 8px 24px rgba(27, 42, 74, .08);
-  --shadow-lg: 0 2px 4px rgba(27, 42, 74, .08), 0 18px 44px rgba(27, 42, 74, .14);
+  --radius: 26px;
+  --radius-sm: 18px;
+  --shadow: 0 1px 2px rgba(27, 42, 74, .04), 0 12px 32px rgba(27, 42, 74, .07);
+  --shadow-lg: 0 2px 6px rgba(27, 42, 74, .05), 0 24px 56px rgba(27, 42, 74, .11);
   --font-display: "Fraunces", Georgia, "Times New Roman", serif;
   --font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   --max: 1120px;
@@ -67,7 +67,6 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
   position: sticky; top: 0; z-index: 50;
   background: rgba(250, 248, 244, .92);
   backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
-  border-bottom: 1px solid var(--line);
 }
 .header-inner { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding-block: .85rem; }
 .brand { display: flex; align-items: center; gap: .7rem; text-decoration: none; }
@@ -102,7 +101,6 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
     radial-gradient(1100px 480px at 85% -10%, rgba(217, 164, 65, .16), transparent 60%),
     radial-gradient(900px 520px at -10% 110%, rgba(15, 118, 110, .12), transparent 60%),
     var(--paper);
-  border-bottom: 1px solid var(--line);
 }
 .hero-inner { padding-block: clamp(3.5rem, 8vw, 6.5rem); max-width: 46rem; }
 .hero h1 { margin-bottom: 1.1rem; }
@@ -139,7 +137,7 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
 /* ---------- topic cards ---------- */
 .topics-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1.1rem; }
 .topic-card {
-  background: var(--card); border: 1px solid var(--line); border-radius: var(--radius);
+  background: var(--card); border: none; border-radius: var(--radius);
   padding: 1.5rem 1.4rem; text-decoration: none; color: inherit;
   box-shadow: var(--shadow); transition: transform .14s ease, box-shadow .14s ease;
   display: flex; flex-direction: column; gap: .55rem;
@@ -173,7 +171,7 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
 /* ---------- resource rows / lists ---------- */
 .resource-list { display: grid; gap: 1rem; }
 .resource {
-  background: var(--card); border: 1px solid var(--line); border-radius: var(--radius);
+  background: var(--card); border: none; border-radius: var(--radius);
   padding: 1.4rem 1.5rem; box-shadow: var(--shadow);
   display: grid; gap: .35rem;
 }
@@ -200,7 +198,7 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
 /* ---------- checklist ---------- */
 .checklist { list-style: none; padding: 0; display: grid; gap: .8rem; }
 .checklist li {
-  background: var(--card); border: 1px solid var(--line); border-radius: var(--radius-sm);
+  background: var(--card); border: none; border-radius: var(--radius-sm);
   padding: 1rem 1.2rem 1rem 3rem; position: relative; box-shadow: var(--shadow);
 }
 .checklist li::before {
@@ -223,7 +221,7 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
 .states-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: .7rem; }
 .state-link {
   display: flex; align-items: center; justify-content: space-between; gap: .5rem;
-  background: var(--card); border: 1px solid var(--line); border-radius: var(--radius-sm);
+  background: var(--card); border: none; border-radius: var(--radius-sm);
   padding: .85rem 1rem; text-decoration: none; color: var(--ink); font-weight: 600; font-size: .97rem;
   box-shadow: var(--shadow); transition: transform .12s ease, border-color .12s ease;
 }
@@ -237,10 +235,10 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
 
 /* ---------- mission / quote ---------- */
 .mission {
-  background: var(--paper-deep); border-block: 1px solid var(--line);
+  background: var(--paper-deep);
 }
 .mission-card {
-  background: var(--card); border: 1px solid var(--line); border-radius: var(--radius);
+  background: var(--card); border: none; border-radius: var(--radius);
   padding: clamp(1.8rem, 4vw, 3rem); box-shadow: var(--shadow-lg); max-width: 52rem; margin-inline: auto;
 }
 .mission-card blockquote {
@@ -254,7 +252,7 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
 /* ---------- CTA band ---------- */
 .cta-band {
   background: linear-gradient(135deg, var(--accent-dark), var(--accent));
-  border-radius: 22px; padding: clamp(2rem, 5vw, 3.5rem);
+  border-radius: 34px; padding: clamp(2rem, 5vw, 3.5rem);
   color: #fff; text-align: center; box-shadow: var(--shadow-lg);
   position: relative; overflow: clip;
 }
@@ -294,7 +292,7 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
 /* ---------- breadcrumb / page head ---------- */
 .crumbs { font-size: .88rem; color: var(--muted); margin-bottom: 1rem; }
 .crumbs a { color: var(--muted); }
-.page-head { padding-block: clamp(2.5rem, 6vw, 4rem); border-bottom: 1px solid var(--line); margin-bottom: clamp(2rem, 5vw, 3.5rem); }
+.page-head { padding-block: clamp(2.5rem, 6vw, 4rem); margin-bottom: clamp(2rem, 5vw, 3.5rem); }
 .page-head h1 { margin-bottom: .8rem; }
 
 /* ---------- two-col ---------- */
