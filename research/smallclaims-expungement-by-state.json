@@ -1,0 +1,404 @@
+{
+  "states": {
+    "Alabama": {
+      "available": "yes — expungement",
+      "filing_fee": "roughly $35–$198 state base (counties add local fees)",
+      "lawyer_allowed": "yes — allowed",
+      "max_claim": "$6,000",
+      "waiting_period": "3 years after misdemeanor conviction; 2-year clean record for dismissed charges",
+      "what_qualifies": "dismissed/acquitted charges; nonviolent misdemeanor, municipal, and minor traffic convictions"
+    },
+    "Alaska": {
+      "available": "very limited — no general expungement",
+      "filing_fee": "$50 (claims up to $2,500) or $100 (over $2,500)",
+      "lawyer_allowed": "allowed but usually not needed",
+      "max_claim": "$10,000",
+      "waiting_period": "N/A — no waiting-period pathway",
+      "what_qualifies": "sealing only for mistaken identity or false accusation"
+    },
+    "Arizona": {
+      "available": "yes — sealing (and marijuana expungement)",
+      "filing_fee": "about $30–$50 depending on county",
+      "lawyer_allowed": "no — attorneys may not appear in small claims",
+      "max_claim": "$5,000 (raised from $3,500 by SB 1022, signed May 2025)",
+      "waiting_period": "2–10 years depending on offense (30 days for non-convictions)",
+      "what_qualifies": "misdemeanors and most felonies; non-conviction records; certain marijuana offenses"
+    },
+    "Arkansas": {
+      "available": "yes — sealing",
+      "filing_fee": "about $35 (varies by district)",
+      "lawyer_allowed": "no — hiring one moves the case to regular civil division",
+      "max_claim": "$5,000",
+      "waiting_period": "none for misdemeanors and nonviolent C/D felonies; 5 years for violent C/D felonies",
+      "what_qualifies": "non-conviction records; most misdemeanors; nonviolent Class C/D felonies and some drug felonies"
+    },
+    "California": {
+      "available": "yes — expungement (and automatic relief for many)",
+      "filing_fee": "$30–$75 depending on claim size",
+      "lawyer_allowed": "no at the hearing — can advise beforehand; allowed on appeal",
+      "max_claim": "$12,500 for individuals ($6,250 for businesses)",
+      "waiting_period": "none once probation/sentence complete",
+      "what_qualifies": "convictions after probation complete; many non-conviction arrests and eligible low-level convictions cleared automatically"
+    },
+    "Colorado": {
+      "available": "yes — sealing (petition-based and automatic)",
+      "filing_fee": "$31–$55 depending on claim size",
+      "lawyer_allowed": "generally no — only if the other side also has one",
+      "max_claim": "$7,500",
+      "waiting_period": "1–5 years by petition; automatic sealing takes longer",
+      "what_qualifies": "non-conviction records; most misdemeanors and lower-level felonies"
+    },
+    "Connecticut": {
+      "available": "yes — expungement (automatic Clean Slate erasure)",
+      "filing_fee": "$95 flat",
+      "lawyer_allowed": "yes — allowed (not required)",
+      "max_claim": "$5,000 ($15,000 for home improvement contracts)",
+      "waiting_period": "7 years for misdemeanors, 10 years for Class D/E felonies (from most recent conviction)",
+      "what_qualifies": "non-convictions; most misdemeanors; Class D/E felonies"
+    },
+    "Delaware": {
+      "available": "yes — expungement",
+      "filing_fee": "$35–$45 depending on claim size",
+      "lawyer_allowed": "yes — parties may appear on their own or with a lawyer",
+      "max_claim": "$25,000",
+      "waiting_period": "3–7 years depending on offense; none for non-convictions",
+      "what_qualifies": "non-conviction records; misdemeanors; single non-violent felony (must show manifest injustice)"
+    },
+    "Florida": {
+      "available": "yes — expungement and sealing",
+      "filing_fee": "$55–$300 depending on claim size",
+      "lawyer_allowed": "yes — allowed",
+      "max_claim": "$8,000",
+      "waiting_period": "none — apply once eligible (FDLE certificate required)",
+      "what_qualifies": "dismissed, dropped, or acquitted charges; eligible withheld-adjudication offenses may be sealed"
+    },
+    "Georgia": {
+      "available": "limited — record restriction only",
+      "filing_fee": "typically $50–$100 (varies by county and claim size)",
+      "lawyer_allowed": "yes — allowed",
+      "max_claim": "$15,000",
+      "waiting_period": "4 years after misdemeanor sentence complete; none for non-convictions",
+      "what_qualifies": "non-conviction arrests; up to two misdemeanor convictions; felonies only after pardon"
+    },
+    "Hawaii": {
+      "available": "yes — expungement",
+      "filing_fee": "$35",
+      "lawyer_allowed": "yes — allowed",
+      "max_claim": "$5,000 (no limit for residential security deposit cases)",
+      "waiting_period": "1 year after discharge for deferred pleas; varies by offense",
+      "what_qualifies": "arrests not charged or dismissed, acquittals, deferred pleas; some convictions under 2024 Clean Slate law"
+    },
+    "Idaho": {
+      "available": "very limited — expungement",
+      "filing_fee": "$69",
+      "lawyer_allowed": "yes — allowed",
+      "max_claim": "$15,000",
+      "waiting_period": "varies by offense",
+      "what_qualifies": "arrests not charged, acquittals, dismissed cases (not convictions)"
+    },
+    "Illinois": {
+      "available": "yes — expungement and sealing",
+      "filing_fee": "about $89–$264 depending on county and claim size",
+      "lawyer_allowed": "yes — allowed",
+      "max_claim": "$10,000",
+      "waiting_period": "none for acquittals/dismissals; 2–3 years for sealing; 5 years for certain probation",
+      "what_qualifies": "dismissed/acquitted cases can be expunged; most convictions can be sealed"
+    },
+    "Indiana": {
+      "available": "yes — expungement (Second Chance Law)",
+      "filing_fee": "about $50–$150 depending on county",
+      "lawyer_allowed": "yes — allowed",
+      "max_claim": "$10,000",
+      "waiting_period": "1 year for arrests; 5 years for misdemeanors; 8–10 years for felonies",
+      "what_qualifies": "most arrests, misdemeanors, and many felonies (not sex or violent offenses)"
+    },
+    "Iowa": {
+      "available": "very limited — expungement",
+      "filing_fee": "$95",
+      "lawyer_allowed": "yes — allowed",
+      "max_claim": "$6,500",
+      "waiting_period": "180 days for acquittals/dismissals; 8 years for misdemeanor convictions",
+      "what_qualifies": "acquittals and dismissed charges; some misdemeanor convictions"
+    },
+    "Kansas": {
+      "available": "yes — expungement",
+      "filing_fee": "$35 (claims up to $500) or $55 (claims over $500)",
+      "lawyer_allowed": "generally no — only if the other side is represented",
+      "max_claim": "$10,000",
+      "waiting_period": "3 years for misdemeanors/minor felonies; 5 years for serious felonies and DUI",
+      "what_qualifies": "most misdemeanors, minor felonies, dismissed charges, diversions (not violent or sex offenses)"
+    },
+    "Kentucky": {
+      "available": "yes — expungement",
+      "filing_fee": "about $35–$75 depending on how the defendant is served",
+      "lawyer_allowed": "yes — allowed",
+      "max_claim": "$2,500",
+      "waiting_period": "5 years after sentence completion",
+      "what_qualifies": "misdemeanors, violations, and many Class D felonies; acquittals and dismissals"
+    },
+    "Louisiana": {
+      "available": "yes — expungement",
+      "filing_fee": "about $100–$160 depending on parish and court",
+      "lawyer_allowed": "yes — allowed (not required)",
+      "max_claim": "$5,000",
+      "waiting_period": "5 years for misdemeanors, 10 years for felonies, after sentence completion",
+      "what_qualifies": "most misdemeanors and non-violent felonies (not sex crimes or crimes of violence)"
+    },
+    "Maine": {
+      "available": "very limited — sealing, not expungement",
+      "filing_fee": "$70",
+      "lawyer_allowed": "yes — allowed",
+      "max_claim": "$10,000",
+      "waiting_period": "4 years after sentence for eligible youthful offenses",
+      "what_qualifies": "sealing for low-level Class E misdemeanors committed at ages 18–21"
+    },
+    "Maryland": {
+      "available": "yes — expungement",
+      "filing_fee": "$34",
+      "lawyer_allowed": "yes — allowed (not required)",
+      "max_claim": "$5,000",
+      "waiting_period": "none for acquittals/dismissals; 3 years for probation-before-judgment; 3–5 years for most convictions",
+      "what_qualifies": "acquittals/dismissals, probation-before-judgment, stet, pardons, and many misdemeanor and felony convictions"
+    },
+    "Massachusetts": {
+      "available": "yes — narrow expungement; broader sealing (CORI)",
+      "filing_fee": "$40–$150 depending on claim size",
+      "lawyer_allowed": "yes",
+      "max_claim": "$7,000",
+      "waiting_period": "3 years (misdemeanors) / 7 years (felonies)",
+      "what_qualifies": "under-21 offenses (expungement); many nonviolent offenses (sealing)"
+    },
+    "Michigan": {
+      "available": "yes — expungement (set aside), including automatic",
+      "filing_fee": "$30–$70 depending on claim size",
+      "lawyer_allowed": "no",
+      "max_claim": "$7,000",
+      "waiting_period": "3–7 years depending on offense",
+      "what_qualifies": "up to 3 felonies and unlimited misdemeanors (most nonviolent offenses)"
+    },
+    "Minnesota": {
+      "available": "yes — expungement (sealing)",
+      "filing_fee": "about $75 (varies by county)",
+      "lawyer_allowed": "generally no, unless the judge allows it",
+      "max_claim": "$20,000 ($4,000 for consumer credit)",
+      "waiting_period": "2–5 years depending on offense",
+      "what_qualifies": "dismissed cases; misdemeanors, gross misdemeanors, and listed felonies; some automatic under Clean Slate"
+    },
+    "Mississippi": {
+      "available": "yes — expungement, limited",
+      "filing_fee": "about $20–$30",
+      "lawyer_allowed": "yes",
+      "max_claim": "$3,500",
+      "waiting_period": "varies — immediate for non-convictions; up to 15 years for felonies",
+      "what_qualifies": "dismissed/acquitted cases; first-offense misdemeanors; up to 3 felonies after 15 years"
+    },
+    "Missouri": {
+      "available": "yes — expungement",
+      "filing_fee": "varies by county (roughly $17–$60)",
+      "lawyer_allowed": "yes",
+      "max_claim": "$5,000",
+      "waiting_period": "1 year (misdemeanors) / 3 years (felonies)",
+      "what_qualifies": "most misdemeanors and non-Class-A felonies (violent/sex/DWI excluded)"
+    },
+    "Montana": {
+      "available": "very limited — no adult felony expungement",
+      "filing_fee": "$20–$30",
+      "lawyer_allowed": "no, unless all parties have one",
+      "max_claim": "$7,000",
+      "waiting_period": "5 years after sentence completion (misdemeanors)",
+      "what_qualifies": "misdemeanors once per lifetime; dismissed deferred sentences"
+    },
+    "Nebraska": {
+      "available": "very limited — no expungement of adult convictions",
+      "filing_fee": "about $26",
+      "lawyer_allowed": "no",
+      "max_claim": "$7,500",
+      "waiting_period": "varies — 1–3 years for sealing non-conviction records",
+      "what_qualifies": "sealing for arrests/charges with no conviction; set-aside for probation/fine sentences"
+    },
+    "Nevada": {
+      "available": "yes — sealing (Nevada doesn't expunge)",
+      "filing_fee": "$45–$175 depending on claim size",
+      "lawyer_allowed": "yes, but attorney's fees can't be awarded",
+      "max_claim": "$10,000",
+      "waiting_period": "1–10 years depending on offense",
+      "what_qualifies": "most misdemeanors and felonies; sex crimes/child crimes/felony DUI excluded"
+    },
+    "New Hampshire": {
+      "available": "yes — annulment (seals the record)",
+      "filing_fee": "$90–$145 depending on claim size",
+      "lawyer_allowed": "yes",
+      "max_claim": "$10,000",
+      "waiting_period": "1–10 years depending on offense",
+      "what_qualifies": "most violations, misdemeanors, and felonies except certain violent/sexual offenses"
+    },
+    "New Jersey": {
+      "available": "yes — expungement; automatic Clean Slate",
+      "filing_fee": "$45 for one defendant (includes service)",
+      "lawyer_allowed": "yes, but not required",
+      "max_claim": "$5,000",
+      "waiting_period": "5 years (most offenses); 10 years for automatic Clean Slate",
+      "what_qualifies": "most indictable offenses (limited number), disorderly persons offenses, municipal ordinances"
+    },
+    "New Mexico": {
+      "available": "yes — expungement (Criminal Record Expungement Act)",
+      "filing_fee": "$25–$75 depending on claim size",
+      "lawyer_allowed": "yes — allowed, not required",
+      "max_claim": "$10,000",
+      "waiting_period": "1 year for non-convictions; 2–10 years for convictions by severity",
+      "what_qualifies": "arrests without conviction; most misdemeanors and felonies after sentence is complete"
+    },
+    "New York": {
+      "available": "yes — Clean Slate automatic sealing (no true expungement except some cannabis cases)",
+      "filing_fee": "$15–$20 depending on claim size",
+      "lawyer_allowed": "yes — allowed, not required",
+      "max_claim": "$10,000 (NYC); $5,000 city/district courts; $3,000 town/village courts",
+      "waiting_period": "3 years for misdemeanors, 8 years for felonies (automatic sealing)",
+      "what_qualifies": "most misdemeanors and nonviolent felonies; arrests that did not lead to conviction are sealed"
+    },
+    "North Carolina": {
+      "available": "yes — expungement",
+      "filing_fee": "$96",
+      "lawyer_allowed": "yes — allowed, not required",
+      "max_claim": "$5,000–$10,000 depending on the county",
+      "waiting_period": "immediate for dismissals; 3 years for misdemeanors; 10 years for felonies",
+      "what_qualifies": "dismissed charges and acquittals; nonviolent misdemeanors and felonies"
+    },
+    "North Dakota": {
+      "available": "yes — sealing (no true expungement of convictions)",
+      "filing_fee": "$10",
+      "lawyer_allowed": "yes — allowed, not required",
+      "max_claim": "$15,000",
+      "waiting_period": "3 years crime-free for misdemeanors; 5 years for felonies",
+      "what_qualifies": "nonviolent misdemeanors and felonies, with good cause and reformation shown"
+    },
+    "Ohio": {
+      "available": "yes — expungement and record sealing",
+      "filing_fee": "varies by court, often around $50",
+      "lawyer_allowed": "yes — allowed, not required",
+      "max_claim": "$6,000",
+      "waiting_period": "6 months–1 year for misdemeanors; 11–13 years for felonies",
+      "what_qualifies": "dismissals and acquittals; misdemeanors; 4th/5th-degree and some 3rd-degree felonies"
+    },
+    "Oklahoma": {
+      "available": "yes — expungement (sealing of records)",
+      "filing_fee": "$58–$213 depending on claim size",
+      "lawyer_allowed": "yes — allowed, not required",
+      "max_claim": "$10,000",
+      "waiting_period": "immediate for dismissals; 5 years for one nonviolent felony; 10 years for two",
+      "what_qualifies": "dismissals and acquittals; deferred sentences; nonviolent misdemeanors and felonies"
+    },
+    "Oregon": {
+      "available": "yes — set aside (sealing)",
+      "filing_fee": "$57–$102 depending on claim size",
+      "lawyer_allowed": "generally no — only with the judge's approval",
+      "max_claim": "$10,000",
+      "waiting_period": "1–7 years depending on offense class",
+      "what_qualifies": "most misdemeanors and eligible felonies (no Class A, violent, or sex offenses)"
+    },
+    "Pennsylvania": {
+      "available": "yes — expungement for non-convictions; Clean Slate automatic sealing",
+      "filing_fee": "unverified — varies by county and claim size",
+      "lawyer_allowed": "yes — allowed, not required",
+      "max_claim": "$12,000",
+      "waiting_period": "5–10 years depending on offense (many records sealed automatically)",
+      "what_qualifies": "non-convictions expunged; summary offenses and most misdemeanors sealed"
+    },
+    "Rhode Island": {
+      "available": "yes — expungement",
+      "filing_fee": "$75.75",
+      "lawyer_allowed": "yes — allowed, not required",
+      "max_claim": "$5,000",
+      "waiting_period": "5 years for misdemeanors; 10 years for felonies (15 for multiple felonies)",
+      "what_qualifies": "first-offender nonviolent misdemeanors and felonies; deferred sentences"
+    },
+    "South Carolina": {
+      "available": "yes — expungement",
+      "filing_fee": "$80 (filing plus service)",
+      "lawyer_allowed": "yes — allowed, not required",
+      "max_claim": "$7,500",
+      "waiting_period": "immediate for dismissals; 3–5 years for convictions",
+      "what_qualifies": "dismissed charges; first-offense misdemeanors; certain nonviolent felonies"
+    },
+    "South Dakota": {
+      "available": "very limited — no general expungement of adult convictions",
+      "filing_fee": "typically $20–$50",
+      "lawyer_allowed": "yes, allowed",
+      "max_claim": "$12,000",
+      "waiting_period": "1 year after dismissal or no-charge arrest; automatic removal of minor offenses after about 5–10 years (sources vary)",
+      "what_qualifies": "arrests never charged, dismissed charges, acquittals; petty/Class 2 misdemeanor offenses auto-removed after about 10 years"
+    },
+    "Tennessee": {
+      "available": "yes — expungement",
+      "filing_fee": "varies by county, roughly $120–$275 including service",
+      "lawyer_allowed": "yes, allowed",
+      "max_claim": "$25,000",
+      "waiting_period": "none for dismissals/acquittals; 5 years after sentence completion for misdemeanors and Class E felonies, 10 years for eligible Class C/D and drug felonies",
+      "what_qualifies": "dismissed/acquitted charges; eligible nonviolent misdemeanors and certain Class C–E felonies"
+    },
+    "Texas": {
+      "available": "yes — expunction (deletion) and nondisclosure (sealing)",
+      "filing_fee": "varies by county, typically $35–$60 filing (service extra)",
+      "lawyer_allowed": "yes, allowed but not required",
+      "max_claim": "$20,000",
+      "waiting_period": "none for acquittals; 180 days–3 years by offense level for dismissals; 5 years after discharge for most felony nondisclosures",
+      "what_qualifies": "acquitted or dismissed charges, pardons; deferred-adjudication cases get nondisclosure (sealing)"
+    },
+    "Utah": {
+      "available": "yes — expungement (petition and automatic/Clean Slate)",
+      "filing_fee": "$60, $100, or $185 depending on claim size",
+      "lawyer_allowed": "yes, allowed (\"with or without counsel\")",
+      "max_claim": "$20,000 (raised effective January 1, 2025)",
+      "waiting_period": "3–10 years depending on offense class (3 yrs Class C misdemeanor, 4 yrs Class B, 5 yrs Class A/felony drug possession, 7 yrs most felonies, 10 yrs DUI)",
+      "what_qualifies": "arrests without conviction; eligible misdemeanors and some nonviolent felonies within conviction-count limits"
+    },
+    "Vermont": {
+      "available": "yes — expungement and sealing",
+      "filing_fee": "$65 (claims up to $1,000) or $90 (over $1,000)",
+      "lawyer_allowed": "yes, allowed but not required",
+      "max_claim": "$10,000 ($5,000 for consumer credit and medical debt claims)",
+      "waiting_period": "5 years after sentence completion for expungement; dismissed charges auto-sealed after about 60 days",
+      "what_qualifies": "qualifying nonviolent misdemeanors and some nonviolent felonies; dismissed charges sealed automatically"
+    },
+    "Virginia": {
+      "available": "yes — expungement for non-convictions, sealing for some convictions since 2025",
+      "filing_fee": "unverified",
+      "lawyer_allowed": "generally no — self-represented (case moves to the regular docket if a lawyer appears)",
+      "max_claim": "$5,000 (small claims division of General District Court)",
+      "waiting_period": "none for dismissals/acquittals; 7 crime-free years for automatic sealing of eligible misdemeanors, 10 years for eligible felonies",
+      "what_qualifies": "dismissed/acquitted charges; since July 2025, certain misdemeanor and Class 5/6 felony convictions"
+    },
+    "Washington": {
+      "available": "yes — \"vacatur\" (Washington's term for expungement)",
+      "filing_fee": "$35 or $50 depending on the county",
+      "lawyer_allowed": "no, unless the judge gives permission",
+      "max_claim": "$10,000 (individuals) / $5,000 (businesses and other entities)",
+      "waiting_period": "3 years after sentence completion (misdemeanors), 5 years (Class C felonies), 10 years (Class B felonies)",
+      "what_qualifies": "certain misdemeanors and Class B/C felonies; not DUI or most sex/violent offenses"
+    },
+    "West Virginia": {
+      "available": "yes — expungement of misdemeanors and nonviolent felonies",
+      "filing_fee": "typically $30–$75 depending on claim amount",
+      "lawyer_allowed": "yes, allowed",
+      "max_claim": "$20,000",
+      "waiting_period": "1 year (single misdemeanor), 2 years (multiple misdemeanors), 5 years (nonviolent felony) after sentence/supervision ends",
+      "what_qualifies": "misdemeanors and nonviolent felonies from the same transaction; excludes violent, sexual, DUI, and domestic-violence offenses"
+    },
+    "Wisconsin": {
+      "available": "yes — expungement, but narrowly limited",
+      "filing_fee": "typically about $95",
+      "lawyer_allowed": "yes, allowed",
+      "max_claim": "$10,000",
+      "waiting_period": "no fixed waiting period — ordered at sentencing and takes effect after sentence completion",
+      "what_qualifies": "under 25 at the time of the offense, offense carries 6 years or less maximum imprisonment, ordered at sentencing"
+    },
+    "Wyoming": {
+      "available": "yes — expungement",
+      "filing_fee": "about $10 filing (service extra)",
+      "lawyer_allowed": "unverified",
+      "max_claim": "$6,000",
+      "waiting_period": "180 days for arrest records; 5 years for misdemeanors; 10 years for felonies after sentence completion",
+      "what_qualifies": "arrests never charged, dismissed charges, acquittals; eligible misdemeanor and nonviolent felony convictions"
+    }
+  }
+}
