@@ -1,0 +1,404 @@
+{
+  "states": {
+    "Alabama": {
+      "min_wage_note": "federal $7.25 applies",
+      "process": "petition the probate court",
+      "publication": "unverified",
+      "time_limit": "2 years (FLSA; 3 for willful violations)",
+      "typical_fee": "~$25\u2013$100",
+      "where_to_file": "no state agency \u2014 file with the federal Department of Labor Wage and Hour Division"
+    },
+    "Alaska": {
+      "min_wage_note": "$14.00 (2026)",
+      "process": "petition the superior court (form CIV-700)",
+      "publication": "yes (newspaper/online posting; waivable for safety)",
+      "time_limit": "2 years (min wage/overtime); 3 years (other wages)",
+      "typical_fee": "~$200",
+      "where_to_file": "Alaska Department of Labor and Workforce Development (Wage and Hour)"
+    },
+    "Arizona": {
+      "min_wage_note": "$15.15 (2026)",
+      "process": "petition the superior court",
+      "publication": "unverified",
+      "time_limit": "1 year",
+      "typical_fee": "varies by county \u2014 check your local court",
+      "where_to_file": "Industrial Commission of Arizona, Labor Department"
+    },
+    "Arkansas": {
+      "min_wage_note": "$11.00 (2025)",
+      "process": "petition the circuit court",
+      "publication": "no",
+      "time_limit": "2 years",
+      "typical_fee": "~$165",
+      "where_to_file": "Arkansas Department of Labor, Wage Claims section"
+    },
+    "California": {
+      "min_wage_note": "$16.90 (2026)",
+      "process": "petition the superior court",
+      "publication": "yes (once a week for 4 weeks; some exceptions)",
+      "time_limit": "3 years (most violations)",
+      "typical_fee": "~$435",
+      "where_to_file": "Labor Commissioner's Office (Division of Labor Standards Enforcement)"
+    },
+    "Colorado": {
+      "min_wage_note": "$15.16 (2026)",
+      "process": "petition the county court (JDF 433)",
+      "publication": "yes (3 times within 21 days; waivable)",
+      "time_limit": "2 years (3 if willful)",
+      "typical_fee": "~$98 (county court)",
+      "where_to_file": "Colorado Department of Labor and Employment, Division of Labor Standards and Statistics"
+    },
+    "Connecticut": {
+      "min_wage_note": "$16.94 (2026)",
+      "process": "petition the probate court (PC-901)",
+      "publication": "unverified",
+      "time_limit": "2 years",
+      "typical_fee": "varies by county \u2014 check your local court",
+      "where_to_file": "Connecticut Department of Labor, Wage and Workplace Standards Division"
+    },
+    "Delaware": {
+      "min_wage_note": "$15.00 (2025)",
+      "process": "petition the Court of Common Pleas",
+      "publication": "yes (once a week for 3 weeks)",
+      "time_limit": "1 year",
+      "typical_fee": "~$78\u2013$85",
+      "where_to_file": "Delaware Department of Labor, Office of Labor Law Enforcement"
+    },
+    "Florida": {
+      "min_wage_note": "$15.00 (2026)",
+      "process": "petition the circuit court (fingerprinting required)",
+      "publication": "no",
+      "time_limit": "4 years (state min-wage suit); 2 years (FLSA)",
+      "typical_fee": "~$400",
+      "where_to_file": "no state agency \u2014 file with the federal Department of Labor Wage and Hour Division"
+    },
+    "Georgia": {
+      "min_wage_note": "federal $7.25 applies",
+      "process": "petition the superior court",
+      "publication": "yes (once a week for 4 weeks)",
+      "time_limit": "2 years (FLSA; 3 if willful)",
+      "typical_fee": "varies by county (~$200\u2013$250 filing)",
+      "where_to_file": "no state agency \u2014 file with the federal Department of Labor Wage and Hour Division"
+    },
+    "Hawaii": {
+      "min_wage_note": "$16.00 (2026)",
+      "process": "apply through the Lieutenant Governor's office (namechange.ehawaii.gov)",
+      "publication": "yes",
+      "time_limit": "1 year (unpaid wages claim)",
+      "typical_fee": "~$50",
+      "where_to_file": "Hawaii Department of Labor and Industrial Relations, Wage Standards Division"
+    },
+    "Idaho": {
+      "min_wage_note": "federal $7.25 applies",
+      "process": "petition the district court in your county",
+      "publication": "yes",
+      "time_limit": "2 years",
+      "typical_fee": "~$166",
+      "where_to_file": "Idaho Department of Labor, Wage and Hour Section"
+    },
+    "Illinois": {
+      "min_wage_note": "$15.00 (2025)",
+      "process": "petition the circuit court in your county",
+      "publication": "no",
+      "time_limit": "1 year",
+      "typical_fee": "varies by county \u2014 check your local court",
+      "where_to_file": "Illinois Department of Labor, wage claims division"
+    },
+    "Indiana": {
+      "min_wage_note": "federal $7.25 applies",
+      "process": "petition the circuit or superior court in your county",
+      "publication": "yes \u2014 waivable by judge for safety",
+      "time_limit": "2 years",
+      "typical_fee": "varies by county \u2014 check your local court",
+      "where_to_file": "Indiana Department of Labor, Wage and Hour Division"
+    },
+    "Iowa": {
+      "min_wage_note": "federal $7.25 applies",
+      "process": "petition the district court in your county",
+      "publication": "sometimes \u2014 judge's discretion",
+      "time_limit": "1 year",
+      "typical_fee": "~$215",
+      "where_to_file": "Iowa Division of Labor (Iowa DIAL)"
+    },
+    "Kansas": {
+      "min_wage_note": "federal $7.25 applies",
+      "process": "petition the district court in your county",
+      "publication": "sometimes \u2014 judge's discretion",
+      "time_limit": "3 years",
+      "typical_fee": "varies by county \u2014 check your local court",
+      "where_to_file": "Kansas Department of Labor"
+    },
+    "Kentucky": {
+      "min_wage_note": "federal $7.25 applies",
+      "process": "petition the district court in your county",
+      "publication": "no",
+      "time_limit": "3 years",
+      "typical_fee": "varies by county \u2014 check your local court",
+      "where_to_file": "Kentucky Labor Cabinet"
+    },
+    "Louisiana": {
+      "min_wage_note": "federal $7.25 applies",
+      "process": "petition the district court in your parish",
+      "publication": "sometimes \u2014 judge's discretion",
+      "time_limit": "3 years",
+      "typical_fee": "varies by parish \u2014 check your local court",
+      "where_to_file": "no state wage-claim agency \u2014 file with the U.S. Department of Labor Wage and Hour Division"
+    },
+    "Maine": {
+      "min_wage_note": "$14.65 (2025)",
+      "process": "petition the probate court in your county",
+      "publication": "no",
+      "time_limit": "unverified",
+      "typical_fee": "~$60",
+      "where_to_file": "Maine Department of Labor, Wage and Hour Division"
+    },
+    "Maryland": {
+      "min_wage_note": "$15.00 (2024)",
+      "process": "petition the circuit court in your county",
+      "publication": "yes",
+      "time_limit": "2 years",
+      "typical_fee": "varies by county \u2014 check your local court",
+      "where_to_file": "Maryland Department of Labor, Division of Labor and Industry (Employment Standards Service)"
+    },
+    "Massachusetts": {
+      "min_wage_note": "$15.00 (2023)",
+      "process": "petition the Probate and Family Court in your county",
+      "publication": "yes \u2014 waivable for good cause",
+      "time_limit": "3 years",
+      "typical_fee": "varies by county \u2014 check your local court",
+      "where_to_file": "Massachusetts Attorney General's Office (Fair Labor Division)"
+    },
+    "Michigan": {
+      "min_wage_note": "$13.73 (2026)",
+      "process": "petition the Family Division of the Circuit Court",
+      "publication": "yes \u2014 unless the court grants nonpublication",
+      "time_limit": "12 months (3 years for min-wage/overtime claims)",
+      "typical_fee": "~$175",
+      "where_to_file": "Michigan Wage and Hour Division (Dept. of Labor and Economic Opportunity)"
+    },
+    "Minnesota": {
+      "min_wage_note": "$11.41 (2026)",
+      "process": "petition the District Court in your county",
+      "publication": "no",
+      "time_limit": "2 years (3 years if willful)",
+      "typical_fee": "~$310\u2013$322",
+      "where_to_file": "Minnesota Department of Labor and Industry"
+    },
+    "Mississippi": {
+      "min_wage_note": "federal $7.25 applies",
+      "process": "petition the Chancery Court in your county",
+      "publication": "sometimes \u2014 varies by county/judge",
+      "time_limit": "2 years under federal law (3 years if willful)",
+      "typical_fee": "varies by county (often under $100)",
+      "where_to_file": "no state agency \u2014 file with the federal Department of Labor Wage and Hour Division"
+    },
+    "Missouri": {
+      "min_wage_note": "$15.00 (2026)",
+      "process": "petition the Circuit Court in your county",
+      "publication": "yes \u2014 after the judgment is granted",
+      "time_limit": "2 years",
+      "typical_fee": "varies by county \u2014 check your local court",
+      "where_to_file": "Missouri Division of Labor Standards"
+    },
+    "Montana": {
+      "min_wage_note": "$10.85 (2026)",
+      "process": "petition the District Court in your county",
+      "publication": "yes",
+      "time_limit": "180 days",
+      "typical_fee": "$120 (official state fee schedule)",
+      "where_to_file": "Montana Department of Labor and Industry, Employment Relations Division (Wage & Hour Unit)"
+    },
+    "Nebraska": {
+      "min_wage_note": "$15.00 (2026)",
+      "process": "petition the District Court in your county",
+      "publication": "yes \u2014 waivable if safety is at risk",
+      "time_limit": "2 years (3 years if willful)",
+      "typical_fee": "~$180 (Douglas County; may vary)",
+      "where_to_file": "Nebraska Department of Labor"
+    },
+    "Nevada": {
+      "min_wage_note": "$12.00 (2024, single rate)",
+      "process": "petition the District Court in your county",
+      "publication": "yes \u2014 with a safety exception",
+      "time_limit": "2 years",
+      "typical_fee": "varies by county \u2014 check your local court",
+      "where_to_file": "Nevada Office of the Labor Commissioner"
+    },
+    "New Hampshire": {
+      "min_wage_note": "federal $7.25 applies",
+      "process": "petition the Probate Division (Circuit Court)",
+      "publication": "no",
+      "time_limit": "3 years",
+      "typical_fee": "~$170",
+      "where_to_file": "New Hampshire Department of Labor"
+    },
+    "New Jersey": {
+      "min_wage_note": "$15.92 (2026)",
+      "process": "petition the Superior Court in your county",
+      "publication": "no (abolished Nov. 2020)",
+      "time_limit": "6 years",
+      "typical_fee": "$250",
+      "where_to_file": "NJ Department of Labor & Workforce Development, Division of Wage and Hour Compliance"
+    },
+    "New Mexico": {
+      "min_wage_note": "$12.00 (2026)",
+      "process": "petition the district court in your county",
+      "publication": "yes (once a week for 2 consecutive weeks)",
+      "time_limit": "3 years",
+      "typical_fee": "varies by county \u2014 check your local court",
+      "where_to_file": "New Mexico Department of Workforce Solutions, Labor Relations Division"
+    },
+    "New York": {
+      "min_wage_note": "$17.00 NYC/Long Island/Westchester, $16.00 rest of state (2026)",
+      "process": "petition the supreme court in your county (NYC Civil Court in NYC)",
+      "publication": "no (requirement repealed Dec 2021)",
+      "time_limit": "6 years",
+      "typical_fee": "~$210",
+      "where_to_file": "New York State Department of Labor, Division of Labor Standards"
+    },
+    "North Carolina": {
+      "min_wage_note": "federal $7.25 applies",
+      "process": "apply to the clerk of superior court in your county",
+      "publication": "no (notice posted at courthouse, not a newspaper)",
+      "time_limit": "2 years",
+      "typical_fee": "varies by county \u2014 check your local court",
+      "where_to_file": "North Carolina Department of Labor"
+    },
+    "North Dakota": {
+      "min_wage_note": "federal $7.25 applies",
+      "process": "petition the district court in your county",
+      "publication": "yes (official county newspaper, 30 days notice; waiver possible)",
+      "time_limit": "2 years",
+      "typical_fee": "~$160",
+      "where_to_file": "North Dakota Department of Labor and Human Rights"
+    },
+    "Ohio": {
+      "min_wage_note": "$11.00 (2026)",
+      "process": "apply to the probate court in your county",
+      "publication": "sometimes \u2014 only if the court orders a hearing",
+      "time_limit": "unverified",
+      "typical_fee": "varies by county \u2014 check your local court",
+      "where_to_file": "Ohio Department of Commerce, Bureau of Wage & Hour Administration"
+    },
+    "Oklahoma": {
+      "min_wage_note": "federal $7.25 applies",
+      "process": "petition the district court in your county",
+      "publication": "yes (newspaper at least 10 days before hearing)",
+      "time_limit": "unverified",
+      "typical_fee": "varies by county \u2014 check your local court",
+      "where_to_file": "Oklahoma Department of Labor, Employment Standards Division Wage & Hour Unit"
+    },
+    "Oregon": {
+      "min_wage_note": "$15.05 standard / $16.30 Portland metro / $14.05 nonurban (regional rates)",
+      "process": "petition the circuit court in the county where you live",
+      "publication": "no",
+      "time_limit": "6 years for regular/minimum wages; 2 years for overtime",
+      "typical_fee": "~$124",
+      "where_to_file": "Oregon Bureau of Labor and Industries (BOLI)"
+    },
+    "Pennsylvania": {
+      "min_wage_note": "federal $7.25 applies",
+      "process": "petition the Court of Common Pleas in your county",
+      "publication": "yes (in newspapers of general circulation)",
+      "time_limit": "3 years",
+      "typical_fee": "varies by county \u2014 check your local court",
+      "where_to_file": "Pennsylvania Department of Labor & Industry, Bureau of Labor Law Compliance"
+    },
+    "Rhode Island": {
+      "min_wage_note": "$16.00 (2026)",
+      "process": "petition the probate court of the city or town where you live",
+      "publication": "no (newspaper notice banned by 2024 law)",
+      "time_limit": "3 years",
+      "typical_fee": "~$30 plus local surcharge (varies by town)",
+      "where_to_file": "Rhode Island Department of Labor and Training, Division of Labor Standards"
+    },
+    "South Carolina": {
+      "min_wage_note": "federal $7.25 applies",
+      "process": "petition a family court judge in your circuit",
+      "publication": "unverified",
+      "time_limit": "3 years",
+      "typical_fee": "varies by county \u2014 check your local court",
+      "where_to_file": "South Carolina Department of Labor, Licensing and Regulation (Office of Wages and Child Labor)"
+    },
+    "South Dakota": {
+      "min_wage_note": "$11.85 (2026)",
+      "process": "petition the circuit court in your county of residence",
+      "publication": "yes \u2014 weekly for 4 consecutive weeks",
+      "time_limit": "no specific statutory deadline \u2014 file promptly",
+      "typical_fee": "varies by county \u2014 check your local court",
+      "where_to_file": "South Dakota Department of Labor and Regulation, Division of Labor and Management"
+    },
+    "Tennessee": {
+      "min_wage_note": "federal $7.25 applies",
+      "process": "petition the chancery court in your county",
+      "publication": "no",
+      "time_limit": "1 year (general statute of limitations)",
+      "typical_fee": "~$150\u2013$250, varies by county",
+      "where_to_file": "Tennessee Department of Labor and Workforce Development, Division of Labor Standards"
+    },
+    "Texas": {
+      "min_wage_note": "federal $7.25 applies",
+      "process": "petition the district court in your county",
+      "publication": "sometimes \u2014 varies by county",
+      "time_limit": "180 days",
+      "typical_fee": "~$150\u2013$300, varies by county",
+      "where_to_file": "Texas Workforce Commission"
+    },
+    "Utah": {
+      "min_wage_note": "federal $7.25 applies",
+      "process": "petition the district court in your county",
+      "publication": "no",
+      "time_limit": "1 year",
+      "typical_fee": "$375",
+      "where_to_file": "Utah Labor Commission, Wage Claim Unit"
+    },
+    "Vermont": {
+      "min_wage_note": "$14.42 (2026)",
+      "process": "petition the probate division of the superior court in your county",
+      "publication": "yes \u2014 once weekly for 2 successive weeks",
+      "time_limit": "2 years",
+      "typical_fee": "$150",
+      "where_to_file": "Vermont Department of Labor, Wage and Hour Division"
+    },
+    "Virginia": {
+      "min_wage_note": "$12.77 (2026)",
+      "process": "petition the circuit court in your county",
+      "publication": "no",
+      "time_limit": "3 years",
+      "typical_fee": "varies by county \u2014 e.g. ~$47 in Arlington County",
+      "where_to_file": "Virginia Department of Labor and Industry, Labor & Employment Law Division"
+    },
+    "Washington": {
+      "min_wage_note": "$17.13 (2026)",
+      "process": "petition the district court in your county",
+      "publication": "no",
+      "time_limit": "3 years",
+      "typical_fee": "varies by county (~$100\u2013$300)",
+      "where_to_file": "Washington State Department of Labor & Industries (L&I)"
+    },
+    "West Virginia": {
+      "min_wage_note": "$8.75",
+      "process": "petition the circuit court in your county",
+      "publication": "yes \u2014 once, at least 10 days before the hearing",
+      "time_limit": "2 years",
+      "typical_fee": "~$200 (varies by county)",
+      "where_to_file": "West Virginia Division of Labor (file a Request for Assistance)"
+    },
+    "Wisconsin": {
+      "min_wage_note": "federal $7.25 applies",
+      "process": "petition the circuit court in your county",
+      "publication": "yes \u2014 once weekly for 3 weeks",
+      "time_limit": "2 years",
+      "typical_fee": "$164.50",
+      "where_to_file": "Wisconsin Department of Workforce Development, Equal Rights Division"
+    },
+    "Wyoming": {
+      "min_wage_note": "federal $7.25 applies",
+      "process": "petition the district court in your county",
+      "publication": "yes",
+      "time_limit": "unverified",
+      "typical_fee": "varies by county (~$70\u2013$195)",
+      "where_to_file": "Wyoming Department of Workforce Services, Labor Standards Division"
+    }
+  }
+}
