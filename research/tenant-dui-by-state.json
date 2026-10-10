@@ -1,0 +1,404 @@
+{
+ "states": {
+  "Alabama": {
+   "bac_limit": "0.08; enhanced 'super DUI' penalties at 0.15",
+   "eviction_notice": "30 days to end month-to-month; 7 business days to pay or vacate for nonpayment",
+   "first_offense": "Up to 1 year in jail (no mandatory jail time), $600-$2,100 fine, 90-day license suspension",
+   "lookback": "10 years",
+   "repair_rights": "No repair-and-deduct and no rent withholding allowed; may terminate the lease after 14 days' written notice if the landlord doesn't fix the problem",
+   "security_deposit": "Max 1 month's rent (extra allowed for pets, alterations, or added liability); return within 60 days with a written itemized list"
+  },
+  "Alaska": {
+   "bac_limit": "0.08",
+   "eviction_notice": "30 days to end month-to-month; 7 days to pay or quit for nonpayment",
+   "first_offense": "Minimum 72 hours in jail, $1,500 minimum fine, 90-day license revocation",
+   "lookback": "15 years",
+   "repair_rights": "May repair and deduct actual reasonable costs for essential services (heat, water, etc.) after giving written notice",
+   "security_deposit": "Max 2 months' rent (no cap if rent is over $2,000/month); return within 14 days if proper move-out notice was given, 30 days otherwise; itemized list required"
+  },
+  "Arizona": {
+   "bac_limit": "0.08; extreme DUI at 0.15, super extreme DUI at 0.20",
+   "eviction_notice": "30 days to end month-to-month; 5 days to pay or quit for nonpayment",
+   "first_offense": "Minimum 10 days jail (9 days can be suspended), $1,250+ fine, 90-day license suspension",
+   "lookback": "7 years",
+   "repair_rights": "May repair and deduct after 10 days' written notice for minor defects, capped at $300 or half a month's rent (whichever is greater)",
+   "security_deposit": "Max 1.5 months' rent; return within 14 days (excluding weekends/holidays) with an itemized list"
+  },
+  "Arkansas": {
+   "bac_limit": "0.08; enhanced penalties at 0.15",
+   "eviction_notice": "30 days to end month-to-month; 3-day notice to quit for nonpayment (civil eviction)",
+   "first_offense": "24 hours to 1 year in jail (community service may substitute), $150-$1,000 fine, 6-month license suspension",
+   "lookback": "5 years",
+   "repair_rights": "No repair-and-deduct and no rent withholding; tenant may cancel the rental agreement 30 days after written notice of an unrepaired required issue",
+   "security_deposit": "Max 2 months' rent (deposit law applies to landlords with 6+ units or who use a property manager); return within 60 days with a written itemized list"
+  },
+  "California": {
+   "bac_limit": "0.08; enhanced penalties at 0.15",
+   "eviction_notice": "3-day notice to pay or quit for nonpayment; 30 days to end month-to-month if tenant has been there under 1 year, 60 days if 1 year or more",
+   "first_offense": "Up to 6 months in jail (48-hour minimum in some counties), $390-$1,000 fine, 6-month license suspension",
+   "lookback": "10 years",
+   "repair_rights": "May repair and deduct up to 1 month's rent after reasonable written notice (Civil Code 1942)",
+   "security_deposit": "Max 1 month's rent (2 months' rent allowed for small landlords with no more than 2 properties/4 units); return within 21 days with a written itemized list"
+  },
+  "Colorado": {
+   "bac_limit": "0.08; persistent-drunk-driver enhanced penalties at 0.15",
+   "eviction_notice": "21 days to end month-to-month if tenancy under 1 year, 91 days if 1 year or more; 10-day notice to pay or quit for nonpayment",
+   "first_offense": "5 days to 1 year in jail, $600-$1,000 fine, 9-month license revocation",
+   "lookback": "lifetime",
+   "repair_rights": "May repair and deduct reasonable costs after written notice under the warranty of habitability (10 days' notice; 48 hours for health/safety emergencies)",
+   "security_deposit": "Max 2 months' rent; return within 1 month (lease may extend the deadline up to 60 days) with a written itemized list"
+  },
+  "Connecticut": {
+   "bac_limit": "0.08",
+   "eviction_notice": "3-day notice to quit for nonpayment (after the 9-day grace period); 3-day notice to quit to end a month-to-month tenancy",
+   "first_offense": "Up to 6 months in jail (48 hours mandatory or 100 hours community service option), $500-$1,000 fine, 45-day license suspension",
+   "lookback": "10 years",
+   "repair_rights": "May procure essential services/repairs and deduct actual reasonable cost after written notice; rent escrow available through Housing Court",
+   "security_deposit": "Max 2 months' rent (1 month's rent if tenant is 62 or older); return within 30 days with an itemized list"
+  },
+  "Delaware": {
+   "bac_limit": "0.08; longer license revocation at 0.15 and 0.19",
+   "eviction_notice": "60 days to end month-to-month; 5-day notice to pay for nonpayment",
+   "first_offense": "Up to 12 months in jail, $500-$1,500 fine, 12-month license revocation",
+   "lookback": "10 years for a second offense; lifetime for third and later",
+   "repair_rights": "May repair and deduct up to $400 or half a month's rent (whichever is less) after written notice",
+   "security_deposit": "Max 1 month's rent for tenancies of 1 year or longer (no cap for furnished units); return within 20 days with an itemized list"
+  },
+  "Florida": {
+   "bac_limit": "0.08; enhanced penalties at 0.15",
+   "eviction_notice": "15 days to end month-to-month; 3-day notice to pay or vacate for nonpayment",
+   "first_offense": "Up to 6 months in jail, $500-$1,000 fine, 6-month to 1-year license revocation",
+   "lookback": "5 years for second-offense enhancements, 10 years for third, lifetime for fourth",
+   "repair_rights": "No general repair-and-deduct statute; may terminate the lease or withhold rent after 7 days' written notice for the landlord's failure to maintain",
+   "security_deposit": "No statutory maximum; return within 15 days if no deductions, otherwise 30 days' written notice of intent to impose a claim on the deposit"
+  },
+  "Georgia": {
+   "bac_limit": "0.08; enhanced penalties at 0.15",
+   "eviction_notice": "60 days to end month-to-month; no statutory cure period for nonpayment - landlord makes a demand, then files a dispossessory action",
+   "first_offense": "24 hours to 12 months in jail, $300-$1,000 fine, up to 1-year license suspension",
+   "lookback": "10 years",
+   "repair_rights": "May repair and deduct reasonable cost after written notice and a reasonable time for the landlord to fix",
+   "security_deposit": "No statutory maximum; return within 30 days with an itemized list"
+  },
+  "Hawaii": {
+   "bac_limit": "0.08; enhanced penalties at 0.15",
+   "eviction_notice": "45 days written notice to end month-to-month; 15-day notice to pay or quit for nonpayment (mediation required)",
+   "first_offense": "2-5 days jail, $250-$1,000 fine, 1-18 month license revocation",
+   "lookback": "10-year lookback",
+   "repair_rights": "May repair and deduct after written notice (cap $500, or $500/one month's rent with two written estimates)",
+   "security_deposit": "Max 1 month's rent; returned within 14 days with itemized deduction list"
+  },
+  "Idaho": {
+   "bac_limit": "0.08; enhanced penalties at 0.20",
+   "eviction_notice": "30 days (one month) to end month-to-month; 3-day notice to pay or quit for nonpayment",
+   "first_offense": "Up to 6 months jail, up to $1,000 fine, 90-180 day license suspension",
+   "lookback": "10-year lookback",
+   "repair_rights": "No repair-and-deduct statute (smoke-detector installation exception only)",
+   "security_deposit": "No cap; returned within 21 days (30 if lease allows); itemized deduction list required"
+  },
+  "Illinois": {
+   "bac_limit": "0.08; enhanced penalties at 0.16 (100 hrs community service)",
+   "eviction_notice": "30 days to end month-to-month; 5-day notice to pay or quit for nonpayment",
+   "first_offense": "Up to 1 year jail, up to $2,500 fine, 6-month license suspension (12 months if test refused)",
+   "lookback": "Lifetime (DUI cannot be expunged or sealed)",
+   "repair_rights": "May repair and deduct after written notice (cap $500 or half month's rent)",
+   "security_deposit": "No statewide cap (Chicago/Cook County have own rules); returned within 45 days, itemized statement within 30 days if deductions"
+  },
+  "Indiana": {
+   "bac_limit": "0.08; enhanced penalties at 0.15 (Class A misdemeanor)",
+   "eviction_notice": "30 days to end month-to-month; 10-day notice to pay or quit for nonpayment",
+   "first_offense": "Up to 60 days jail, up to $500 fine, up to 2-year license suspension",
+   "lookback": "Lifetime (priors count forever; felony enhancements within 7 years)",
+   "repair_rights": "No repair-and-deduct statute (tenant may sue for repairs, damages, and attorney fees)",
+   "security_deposit": "No cap; returned within 45 days; itemized deduction list required"
+  },
+  "Iowa": {
+   "bac_limit": "0.08; enhanced penalties at 0.15",
+   "eviction_notice": "30 days to end month-to-month; 3-day notice to pay or quit for nonpayment",
+   "first_offense": "48 hours-1 year jail, up to $1,250 fine, 180-day license revocation",
+   "lookback": "12-year lookback",
+   "repair_rights": "May repair and deduct after 7-day written notice (cap: one month's rent)",
+   "security_deposit": "Max 2 months' rent; returned within 30 days with written itemized statement"
+  },
+  "Kansas": {
+   "bac_limit": "0.08; enhanced penalties at 0.15 (1-year suspension + 1-year IID restriction)",
+   "eviction_notice": "30 days to end month-to-month; 3-day notice to pay or quit for nonpayment",
+   "first_offense": "48 hours-6 months jail, $750-$1,000 fine, 30-day suspension + 180-day restricted driving",
+   "lookback": "Lifetime",
+   "repair_rights": "No repair-and-deduct statute (may terminate lease after written notice and 14 days to fix)",
+   "security_deposit": "Max 1 month's rent (1.5 months furnished, +0.5 month pet deposit); returned within 30 days with itemized written notice"
+  },
+  "Kentucky": {
+   "bac_limit": "0.08; aggravating threshold at 0.15 (mandatory minimum jail even on first offense)",
+   "eviction_notice": "30 days to end month-to-month; 7-day notice to pay or quit for nonpayment",
+   "first_offense": "2-30 days jail, $200-$500 fine, about 6-month license suspension",
+   "lookback": "10-year lookback",
+   "repair_rights": "May repair and deduct after 14-day written notice (cap $100 or half month's rent) - URLTA jurisdictions only",
+   "security_deposit": "No cap; 30-60 day return timeline depending on circumstances; itemized damage list required"
+  },
+  "Louisiana": {
+   "bac_limit": "0.08; enhanced penalties at 0.15 (fines and 2-year suspension; mandatory jail at 0.20)",
+   "eviction_notice": "10 days to end month-to-month; 5-day notice to vacate before filing (no statutory right to cure)",
+   "first_offense": "10 days-6 months jail, $300-$1,000 fine, up to 90-day license suspension",
+   "lookback": "10-year lookback (cleansing period; priors older than 10 years don't enhance)",
+   "repair_rights": "May repair and deduct for health/safety issues after notice, or end the lease",
+   "security_deposit": "No cap; returned within 1 month with itemized list of deductions"
+  },
+  "Maine": {
+   "bac_limit": "0.08; 48-hour mandatory jail at 0.15+ (with other aggravators)",
+   "eviction_notice": "30 days to end tenancy at will; 7-day notice for nonpayment",
+   "first_offense": "Up to 364 days jail, $500+ fine, 150-day license suspension",
+   "lookback": "10-year lookback",
+   "repair_rights": "May repair and deduct after 14-day written notice by certified mail (cap $500 or half month's rent)",
+   "security_deposit": "Max 2 months' rent; returned within 30 days (21 days for tenancy at will) with itemized list"
+  },
+  "Maryland": {
+   "bac_limit": "0.08; enhanced penalties at 0.15 (plus minor-passenger and other aggravators)",
+   "eviction_notice": "30 days to end month-to-month; 10-day notice for nonpayment",
+   "first_offense": "Up to 1 year jail, up to $1,000 fine, 6-month license suspension (IID required)",
+   "lookback": "5-year lookback for enhanced penalties",
+   "repair_rights": "No repair-and-deduct statute; rent escrow through district court allowed",
+   "security_deposit": "Max 1 month's rent (2 months if utility agreement in writing); returned within 45 days with itemized list"
+  },
+  "Massachusetts": {
+   "bac_limit": "0.08; enhanced penalties at 0.20",
+   "eviction_notice": "30 days to end a month-to-month (tenancy at will); 14-day notice to pay or vacate for nonpayment",
+   "first_offense": "up to 2.5 years in jail, $500-$5,000 fine, 1-year license suspension",
+   "lookback": "lifetime",
+   "repair_rights": "may repair and deduct after written notice and reasonable time",
+   "security_deposit": "1 month's rent maximum; returned within 30 days with an itemized list of deductions"
+  },
+  "Michigan": {
+   "bac_limit": "0.08; enhanced 'super drunk' penalties at 0.17",
+   "eviction_notice": "one rental period (typically 30 days) to end month-to-month; 7-day notice to pay or vacate for nonpayment",
+   "first_offense": "up to 93 days in jail, $100-$500 fine, 30-day suspension plus 150 days restricted driving",
+   "lookback": "lifetime",
+   "repair_rights": "no broad repair-and-deduct right for residential tenants; rent escrow and court remedies allowed",
+   "security_deposit": "1.5 months' rent maximum; returned within 30 days with an itemized list of deductions"
+  },
+  "Minnesota": {
+   "bac_limit": "0.08; enhanced penalties at 0.16",
+   "eviction_notice": "one full rental period (one month) to end month-to-month; 14-day notice for nonpayment",
+   "first_offense": "up to 90 days in jail, up to $1,000 fine, 90-day license revocation",
+   "lookback": "10-year lookback",
+   "repair_rights": "rent escrow allowed; repair-and-deduct only with a court order",
+   "security_deposit": "no statutory maximum; returned within 21 days with an itemized list of deductions"
+  },
+  "Mississippi": {
+   "bac_limit": "0.08",
+   "eviction_notice": "30 days to end month-to-month; 3-day notice to pay or vacate for nonpayment",
+   "first_offense": "up to 48 hours in jail, $250-$1,000 fine, 120-day license suspension",
+   "lookback": "5-year lookback",
+   "repair_rights": "may repair and deduct after written notice and 30 days",
+   "security_deposit": "no statutory maximum; returned within 45 days with an itemized list of deductions"
+  },
+  "Missouri": {
+   "bac_limit": "0.08; enhanced penalties at 0.15",
+   "eviction_notice": "1 month's written notice to end month-to-month; landlord must make a written demand for rent before filing eviction for nonpayment",
+   "first_offense": "up to 6 months in jail, up to $1,000 fine, 90-day license suspension",
+   "lookback": "5-year lookback",
+   "repair_rights": "may repair and deduct after 14 days' written notice (cost up to 1 month's rent)",
+   "security_deposit": "2 months' rent maximum; returned within 30 days with an itemized list of deductions"
+  },
+  "Montana": {
+   "bac_limit": "0.08; aggravated DUI at 0.16",
+   "eviction_notice": "30 days to end month-to-month; 3-day notice to pay or move for nonpayment",
+   "first_offense": "up to 6 months in jail (24-hour minimum), $600-$1,000 fine, up to 6-month license suspension",
+   "lookback": "10-year lookback",
+   "repair_rights": "may repair and deduct after written notice",
+   "security_deposit": "no statutory maximum; returned within 10 days if no deductions, otherwise 30 days with an itemized list"
+  },
+  "Nebraska": {
+   "bac_limit": "0.08; enhanced penalties at 0.15",
+   "eviction_notice": "30 days to end month-to-month; 7-day notice to pay or quit for nonpayment",
+   "first_offense": "7-60 days in jail, $500 fine, 6-month license revocation",
+   "lookback": "15-year lookback",
+   "repair_rights": "may procure essential services and deduct the reasonable cost after written notice",
+   "security_deposit": "1 month's rent maximum (plus up to 1/4 month pet deposit); returned within 14 days with an itemized list"
+  },
+  "Nevada": {
+   "bac_limit": "0.08; enhanced penalties at 0.18 (treatment program ordered at 0.16)",
+   "eviction_notice": "30 days to end month-to-month; 7-day notice to pay or quit for nonpayment",
+   "first_offense": "2 days to 6 months in jail (or 48-96 hours community service), $400-$1,000 fine, 185-day license revocation",
+   "lookback": "7-year lookback",
+   "repair_rights": "may repair and deduct after written notice (limits apply)",
+   "security_deposit": "3 months' rent maximum; returned within 30 days with an itemized list of deductions"
+  },
+  "New Hampshire": {
+   "bac_limit": "0.08; aggravated DWI at 0.16",
+   "eviction_notice": "30 days to end month-to-month (good cause required); 7-day notice to pay or quit for nonpayment",
+   "first_offense": "no mandatory jail (up to 12 months possible), $500+ fine, 9-month license revocation",
+   "lookback": "10-year lookback",
+   "repair_rights": "no repair-and-deduct statute; tenant may pay rent into court or terminate after notice",
+   "security_deposit": "$100 or 1 month's rent maximum (whichever is greater); returned within 30 days with an itemized list"
+  },
+  "New Jersey": {
+   "bac_limit": "0.08; enhanced penalties at 0.10 and 0.15",
+   "eviction_notice": "no pre-filing notice required for nonpayment; generally 30 days' notice to end month-to-month, with good cause required in covered units",
+   "first_offense": "up to 30 days in jail, $250-$400 fine, 3-month suspension (plus ignition interlock) for BAC 0.08-0.10",
+   "lookback": "10-year lookback",
+   "repair_rights": "repair-and-deduct recognized by case law after notice",
+   "security_deposit": "1.5 months' rent maximum; returned within 30 days with an itemized list of deductions"
+  },
+  "New Mexico": {
+   "bac_limit": "0.08; aggravated DWI at 0.16",
+   "eviction_notice": "30 days to end month-to-month; 3-day notice for nonpayment of rent",
+   "first_offense": "Up to 90 days jail; up to $500 fine; license revocation 6-12 months",
+   "lookback": "Lifetime (no time limit on counting prior DWI convictions)",
+   "repair_rights": "No repair-and-deduct statute; tenant may abate rent after 7-day written notice",
+   "security_deposit": "Max 1 month's rent for agreements under 1 year; return within 30 days of termination or move-out (whichever is later), written itemized deduction list required"
+  },
+  "New York": {
+   "bac_limit": "0.08; aggravated DWI at 0.18",
+   "eviction_notice": "14-day written rent demand for nonpayment; 30/60/90 days to end tenancy depending on length of occupancy",
+   "first_offense": "$500-$1,000 fine; up to 1 year jail; license revocation at least 6 months",
+   "lookback": "10 years",
+   "repair_rights": "No general repair-and-deduct; tenants may sue in housing court (HP action) to compel repairs",
+   "security_deposit": "Max 1 month's rent; return within 14 days of move-out, written itemized deduction list required"
+  },
+  "North Carolina": {
+   "bac_limit": "0.08; enhanced penalties at 0.15",
+   "eviction_notice": "10-day notice for nonpayment; 7 days to end month-to-month",
+   "first_offense": "Level 5: up to $200 fine; 24 hours-60 days jail; 1-year license revocation",
+   "lookback": "7 years",
+   "repair_rights": "No rent-withholding or repair-and-deduct statute; tenants may sue in small claims court for repairs and rent reduction",
+   "security_deposit": "Max 1.5 months' rent (month-to-month); return within 30 days with written itemized list of deductions"
+  },
+  "North Dakota": {
+   "bac_limit": "0.08; enhanced penalties at 0.18 (2-day mandatory jail at 0.16+)",
+   "eviction_notice": "3-day notice to pay or quit for nonpayment; 1 calendar month to end month-to-month",
+   "first_offense": "Minimum $500 fine; up to 30 days jail; 91-day license suspension",
+   "lookback": "7 years",
+   "repair_rights": "May repair and deduct after written notice (N.D. Cent. Code 47-16-13)",
+   "security_deposit": "Max 1 month's rent; return within 30 days with itemized written statement"
+  },
+  "Ohio": {
+   "bac_limit": "0.08; high-tier penalties at 0.17",
+   "eviction_notice": "3-day notice to vacate for nonpayment; 30 days to end month-to-month",
+   "first_offense": "3 days-6 months jail; $375-$1,075 fine; 1-3 year license suspension",
+   "lookback": "10 years",
+   "repair_rights": "May deposit rent into court escrow after written notice to landlord; may terminate lease if repairs unmade",
+   "security_deposit": "No maximum limit; return within 30 days with itemized written statement"
+  },
+  "Oklahoma": {
+   "bac_limit": "0.08; aggravated DUI at 0.15",
+   "eviction_notice": "5-day written demand for nonpayment; 30 days to end month-to-month",
+   "first_offense": "10 days-1 year jail; up to $1,000 fine; up to 180-day license revocation",
+   "lookback": "10 years",
+   "repair_rights": "May repair and deduct (up to 1 month's rent) after 14-day written notice",
+   "security_deposit": "No maximum limit; return within 45 days after termination, possession, and written demand, with itemized statement"
+  },
+  "Oregon": {
+   "bac_limit": "0.08; enhanced penalties at 0.15",
+   "eviction_notice": "72-hour notice to pay for nonpayment (144 hours if served earlier); 30 days to end month-to-month (60 days after 1 year)",
+   "first_offense": "48 hours-1 year jail; $1,000-$6,250 fine; 1-year license suspension",
+   "lookback": "Lifetime (priors count regardless of age; felony threshold uses 10-year window)",
+   "repair_rights": "May repair and deduct up to $300 for minor habitability defects after 7-day written notice (ORS 90.368)",
+   "security_deposit": "No statewide maximum; return within 31 days with written accounting"
+  },
+  "Pennsylvania": {
+   "bac_limit": "0.08; tiered penalties at 0.10 and 0.16",
+   "eviction_notice": "10-day notice for nonpayment; 15 days to end month-to-month",
+   "first_offense": "General impairment: up to 6 months probation, $300 fine, no jail; high BAC: 48 hours-6 months jail, $500-$5,000 fine, 12-month license suspension",
+   "lookback": "10 years",
+   "repair_rights": "Limited right to withhold rent or repair and deduct under court doctrine (Pugh v. Holmes); risky without legal advice",
+   "security_deposit": "Max 2 months' rent first year, 1 month thereafter; return within 30 days with written itemized list"
+  },
+  "Rhode Island": {
+   "bac_limit": "0.08; tiered penalties at 0.10 and 0.15",
+   "eviction_notice": "5-day demand for nonpayment (after 15-day grace); 30 days to end month-to-month",
+   "first_offense": "$100-$300 fine; 10-60 hours community service (up to 1 year jail possible); 30-180 day license suspension",
+   "lookback": "10 years (expanded from 5 years effective July 1, 2025)",
+   "repair_rights": "May repair and deduct after notice; tenant must keep itemized list of expenses (R.I. Gen. Laws 34-18-30)",
+   "security_deposit": "Max 1 month's rent; return within 20 days with itemized written list"
+  },
+  "South Carolina": {
+   "bac_limit": "0.08; enhanced penalties at 0.10 and 0.16",
+   "eviction_notice": "5-day written notice for nonpayment; 30 days to end month-to-month",
+   "first_offense": "$400 fine; 48 hours-30 days jail; 6-month license suspension",
+   "lookback": "10 years",
+   "repair_rights": "May terminate lease after 14-day written notice of noncompliance; no general repair-and-deduct (may procure essential services and deduct cost)",
+   "security_deposit": "No maximum limit; return within 30 days with written itemized list of deductions"
+  },
+  "South Dakota": {
+   "bac_limit": "0.08; enhanced penalties at 0.17",
+   "eviction_notice": "3-day notice to pay or vacate for nonpayment; 30 days to end a month-to-month tenancy",
+   "first_offense": "Up to 1 year in jail, up to $2,000 fine, 30-day to 1-year license revocation (no mandatory jail)",
+   "lookback": "10 years",
+   "repair_rights": "No repair-and-deduct statute; habitability claims enforced through court action",
+   "security_deposit": "Max 1 month's rent; return within 2 weeks; written itemized statement of deductions required"
+  },
+  "Tennessee": {
+   "bac_limit": "0.08; enhanced penalties at 0.15 (threshold lowered from 0.20 in July 2024)",
+   "eviction_notice": "14-day notice to pay or quit for nonpayment (URLTA counties); 30 days to end a month-to-month tenancy",
+   "first_offense": "48 hours to 11 months 29 days in jail, $350 to $1,500 fine, 1-year license revocation",
+   "lookback": "10 years",
+   "repair_rights": "Limited repair-and-deduct for essential services after written notice; otherwise tenant may terminate lease or go to court",
+   "security_deposit": "No statewide cap; return within 30 days; itemized list of deductions required"
+  },
+  "Texas": {
+   "bac_limit": "0.08; enhanced charge at BAC 0.15 or higher (Class A misdemeanor)",
+   "eviction_notice": "3-day notice to vacate for nonpayment; 30 days to end a month-to-month tenancy",
+   "first_offense": "72 hours to 180 days in jail, up to $2,000 fine, license suspension up to 1 year",
+   "lookback": "Lifetime",
+   "repair_rights": "May repair and deduct up to 1 month's rent or $500 after written notice",
+   "security_deposit": "No statutory cap; return within 30 days; written itemized list required"
+  },
+  "Utah": {
+   "bac_limit": "0.05; enhanced penalties at 0.16",
+   "eviction_notice": "3-business-day notice to pay or vacate for nonpayment; 15 days to end a month-to-month tenancy",
+   "first_offense": "48 hours to 6 months in jail (or 48 hours community service), fines $700 and up, 120-day license suspension",
+   "lookback": "10 years",
+   "repair_rights": "May repair and deduct up to 2 months' rent after written notice under the Fit Premises Act; rent abatement remedy also available",
+   "security_deposit": "No statutory cap; return within 30 days (or 15 days after forwarding address provided); itemized statement required"
+  },
+  "Vermont": {
+   "bac_limit": "0.08; enhanced penalties at 0.16",
+   "eviction_notice": "14-day notice to pay or quit for nonpayment; 60 days to end a month-to-month tenancy without cause (90 days if tenancy lasted 2+ years)",
+   "first_offense": "Up to 2 years in jail, up to $750 fine, 90-day license suspension (no mandatory jail)",
+   "lookback": "Lifetime",
+   "repair_rights": "May repair minor defects and deduct up to half a month's rent after 30 days' written notice; rent withholding allowed for major code violations",
+   "security_deposit": "No statewide cap; return within 14 days; written itemized statement required"
+  },
+  "Virginia": {
+   "bac_limit": "0.08; mandatory jail at 0.15 to 0.20 (5 days) or over 0.20 (10 days)",
+   "eviction_notice": "14-day notice to pay or quit for nonpayment (increased from 5 days effective July 1, 2026); 30 days to end a month-to-month tenancy",
+   "first_offense": "Up to 12 months in jail, $250 to $2,500 fine, 1-year license revocation, VASAP program required",
+   "lookback": "10 years",
+   "repair_rights": "May hire a third-party contractor and deduct up to $1,500 or 1 month's rent after 14 days' written notice",
+   "security_deposit": "Max 2 months' rent; return within 45 days; itemized list required"
+  },
+  "Washington": {
+   "bac_limit": "0.08; enhanced penalties at 0.15",
+   "eviction_notice": "14-day notice to pay or vacate for nonpayment; 20 days to end a month-to-month tenancy",
+   "first_offense": "24 hours to 364 days in jail, fines roughly $990 to $5,000, 90-day license suspension",
+   "lookback": "7 years",
+   "repair_rights": "May repair and deduct up to 2 months' rent after written notice and estimate (1 month's rent if doing the work personally)",
+   "security_deposit": "No statutory cap; return within 21 days; written itemized statement required"
+  },
+  "West Virginia": {
+   "bac_limit": "0.08; enhanced penalties at 0.15",
+   "eviction_notice": "No statutory notice period for eviction; notice governed by lease terms (month-to-month termination requires 1 full rental period's notice)",
+   "first_offense": "Up to 6 months in jail (24 hours mandatory), $100 to $500 fine, 15-day license suspension plus 6 months ignition interlock",
+   "lookback": "10 years",
+   "repair_rights": "No repair-and-deduct statute; courts recognize rent withholding until landlord makes habitability repairs",
+   "security_deposit": "No statutory cap; return within 60 days (or 45 days after a new tenant occupies); itemized written statement required"
+  },
+  "Wisconsin": {
+   "bac_limit": "0.08; enhanced penalties at 0.15",
+   "eviction_notice": "5-day notice to pay or vacate for nonpayment (14-day no-cure notice on repeat default within 12 months); 28 days to end a month-to-month tenancy",
+   "first_offense": "$150 to $300 fine, no jail, 6 to 9 month license revocation",
+   "lookback": "Lifetime",
+   "repair_rights": "No repair-and-deduct statute; rent abatement remedy for unfit conditions after notice and inspection process",
+   "security_deposit": "No statutory cap; return within 21 days; written itemized statement required"
+  },
+  "Wyoming": {
+   "bac_limit": "0.08; enhanced penalties at 0.15 (6-month ignition interlock requirement)",
+   "eviction_notice": "3-day notice to pay or vacate for nonpayment or lease violations; 30 days to end a month-to-month tenancy",
+   "first_offense": "Up to 6 months in jail, up to $750 fine, 90-day license suspension (mandatory minimum jail now applies)",
+   "lookback": "10 years",
+   "repair_rights": "No repair-and-deduct statute; tenant may sue in circuit court for repairs after written notice",
+   "security_deposit": "No statutory cap; return within 30 days (or 15 days after new address received); written itemized list required"
+  }
+ }
+}

@@ -1,0 +1,404 @@
+{
+  "states": {
+    "Connecticut": {
+      "covers": "new and leased passenger vehicles and motorcycles",
+      "ends_when": "age 18, or age 19 if still in high school",
+      "guideline_info": "Commission for Child Support Guidelines schedule; worksheet on jud.ct.gov",
+      "model": "income shares (both parents' net incomes combined)",
+      "remedy": "refund or replacement vehicle",
+      "threshold": "4+ repair attempts for same defect or 30+ calendar days out of service within 2 years/24,000 miles"
+    },
+    "Delaware": {
+      "covers": "new purchased or leased passenger vehicles only (used vehicles not covered)",
+      "ends_when": "age 18, or 19 if still in high school",
+      "guideline_info": "Melson Formula in Del. Fam. Ct. Civ. R. 500-509; online calculator on courts.delaware.gov",
+      "model": "Melson formula",
+      "remedy": "refund or comparable replacement vehicle (consumer may refuse replacement)",
+      "threshold": "4+ repair attempts for same defect or 30+ calendar days out of service within warranty term or 1 year"
+    },
+    "Maine": {
+      "covers": "new and leased vehicles; used vehicles still under new-car warranty also covered",
+      "ends_when": "age 18, or 19 if still in high school",
+      "guideline_info": "support table in 19-A M.R.S. \u00a7 2006; forms on Maine Judicial Branch website",
+      "model": "income shares (both parents' gross incomes combined)",
+      "remedy": "refund or replacement vehicle",
+      "threshold": "3+ repair attempts for same defect or 15+ business days out of service within 3 years/18,000 miles/warranty term"
+    },
+    "Massachusetts": {
+      "covers": "new vehicles; used vehicles covered under separate Lemon Aid law (G.L. c. 90 \u00a7 7N)",
+      "ends_when": "age 18, up to 23 if a dependent full-time undergraduate student",
+      "guideline_info": "Massachusetts Child Support Guidelines; worksheet and calculator on mass.gov courts site",
+      "model": "income shares (both parents' gross incomes combined)",
+      "remedy": "refund or replacement vehicle",
+      "threshold": "3+ repair attempts or 15+ business days out of service within first year/15,000 miles"
+    },
+    "New Hampshire": {
+      "covers": "new and leased (2+ year lease) passenger vehicles, motorcycles, and OHRVs up to 11,000 lbs",
+      "ends_when": "age 18, or graduation (or 2 months after turning 19) if a full-time high school student",
+      "guideline_info": "RSA 458-C; DHHS Child Support Guideline Calculation Table",
+      "model": "income shares (both parents' adjusted gross incomes combined)",
+      "remedy": "refund or replacement (via the state Motor Vehicle Arbitration Board)",
+      "threshold": "3+ repair attempts for same defect or 30+ business days out of service during the express warranty term"
+    },
+    "New Jersey": {
+      "covers": "new and leased vehicles; used cars under separate used-vehicle warranty law",
+      "ends_when": "age 19 (can extend to 23 for students)",
+      "guideline_info": "NJ Child Support Guidelines, Appendix IX-A of the Court Rules",
+      "model": "income shares (both parents' net incomes combined)",
+      "remedy": "refund or comparable replacement vehicle",
+      "threshold": "3+ repair attempts for same defect or 20+ calendar days out of service within 2 years/24,000 miles"
+    },
+    "New York": {
+      "covers": "new and leased vehicles; used cars under separate used-car lemon law",
+      "ends_when": "age 21",
+      "guideline_info": "Child Support Standards Act (CSSA); worksheet and calculator on NY courts site",
+      "model": "income shares (CSSA percentage applied to combined income)",
+      "remedy": "refund or replacement vehicle",
+      "threshold": "4+ repair attempts or 30+ days out of service within 2 years/18,000 miles"
+    },
+    "Pennsylvania": {
+      "covers": "new purchased and leased vehicles only (no used-car lemon law)",
+      "ends_when": "age 18, or 19/high school graduation if still in high school",
+      "guideline_info": "guidelines at Pa.R.C.P. 1910.16-3; online calculator available",
+      "model": "income shares (both parents' net incomes combined)",
+      "remedy": "refund or replacement vehicle",
+      "threshold": "3+ repair attempts or 30+ days out of service; defect first occurs within 12 months/12,000 miles"
+    },
+    "Rhode Island": {
+      "covers": "new and leased vehicles (motor vehicles under 10,000 lbs); used vehicles also covered",
+      "ends_when": "age 18 and high school graduation, but no later than 19",
+      "guideline_info": "guidelines in R.I.G.L. \u00a7 15-5-16.2; Family Court child support worksheet",
+      "model": "income shares (both parents' gross incomes combined)",
+      "remedy": "refund or replacement vehicle",
+      "threshold": "4+ repair attempts for same defect or 30+ calendar days out of service within 1 year/15,000 miles"
+    },
+    "Vermont": {
+      "covers": "new vehicles",
+      "ends_when": "age 18 or high school graduation, whichever is later",
+      "guideline_info": "VT Office of Child Support (OCS) online calculator and guideline worksheet",
+      "model": "income shares (both parents' incomes combined, split proportionally)",
+      "remedy": "refund or replacement vehicle, at the consumer's option",
+      "threshold": "3+ repair attempts (first during warranty) or 30+ calendar days out of service during the express warranty term"
+    },
+    "Alabama": {
+      "covers": "new vehicles only (Ala. Code \u00a78-20A-2)",
+      "ends_when": "age 19 (Alabama's age of majority)",
+      "guideline_info": "Rule 32, Alabama Rules of Judicial Administration; Form CS-42 schedule on judicial.alabama.gov",
+      "model": "income shares",
+      "remedy": "comparable new replacement vehicle or full refund, at the consumer's option",
+      "threshold": "3+ repair attempts for the same defect plus a final repair attempt by the manufacturer, or 30+ cumulative days out of service, within 24 months/24,000 miles"
+    },
+    "Florida": {
+      "covers": "new vehicles purchased or leased for personal, family, or household use (including demonstrators)",
+      "ends_when": "age 18, or high school graduation with support possible to age 19 if still in school",
+      "guideline_info": "statutory guidelines schedule in F.S. \u00a7 61.30; administered by the Florida Department of Revenue",
+      "model": "income shares",
+      "remedy": "full purchase-price refund or replacement vehicle",
+      "threshold": "3+ repair attempts for the same defect (with a final repair opportunity after written notice), or 30+ cumulative days out of service, within the 24-month lemon law rights period"
+    },
+    "Georgia": {
+      "covers": "new vehicles purchased, leased, or registered in Georgia (cars, demonstrators, trucks under 12,000 lbs, motor home chassis)",
+      "ends_when": "age 18 or high school graduation, whichever later (up to age 20 if still in high school)",
+      "guideline_info": "Georgia Child Support Calculator on childsupport.georgia.gov",
+      "model": "income shares",
+      "remedy": "vehicle replacement or repurchase (refund)",
+      "threshold": "3+ repair attempts for the same problem (1 for a serious safety defect) or 30+ cumulative days out of service in the first 2 years/24,000 miles"
+    },
+    "Kentucky": {
+      "covers": "new vehicles bought or leased in Kentucky (excludes used/subsequent purchasers, motorhomes, motorcycles)",
+      "ends_when": "age 18, or through the school year in which the child turns 19 if still in high school",
+      "guideline_info": "guidelines table in KRS 403.212; state online estimator",
+      "model": "income shares",
+      "remedy": "repurchase (refund of price) or replacement with a comparable vehicle",
+      "threshold": "4+ repair attempts for the same nonconformity or 30+ calendar days out of service in the first 12 months/12,000 miles"
+    },
+    "Maryland": {
+      "covers": "new vehicles purchased or leased in Maryland (cars, trucks, motorcycles)",
+      "ends_when": "age 18, or 19/graduation if still in high school",
+      "guideline_info": "guidelines in Md. Code, Fam. Law \u00a7 12-204; fillable worksheets published by Maryland DHS",
+      "model": "income shares",
+      "remedy": "refund of purchase price or replacement vehicle",
+      "threshold": "4+ repair attempts (1 for brake/steering failure) or 30+ days out of service in the first 24 months/18,000 miles"
+    },
+    "North Carolina": {
+      "covers": "new passenger cars, pick-up trucks, motorcycles, and most vans",
+      "ends_when": "age 18, or up to age 20 if still in primary or secondary school (graduation, leaving school, or age 20, whichever first)",
+      "guideline_info": "child support guidelines published by NC courts (form AOC-A-162), available on nccourts.gov",
+      "model": "income shares",
+      "remedy": "comparable new replacement vehicle or refund, at the consumer's option",
+      "threshold": "4+ repair attempts for the same nonconformity or 20+ business days out of service in any 12-month warranty period; defect within 2 years/24,000 miles"
+    },
+    "South Carolina": {
+      "covers": "new private passenger cars, vans, trucks, and motorcycles purchased and registered in South Carolina",
+      "ends_when": "age 18 or high school graduation, whichever is later",
+      "guideline_info": "official online calculator from SC DSS at dss.sc.gov; statute S.C. Code \u00a7 63-17-470",
+      "model": "income shares",
+      "remedy": "replacement vehicle or refund of the purchase price",
+      "threshold": "3+ repair attempts for the same issue or 30+ cumulative days out of service within the first 12 months/12,000 miles"
+    },
+    "Tennessee": {
+      "covers": "new motor vehicles only (sold or leased after Jan. 1, 1987)",
+      "ends_when": "age 18 or the graduation day of the child's high school class, whichever is later",
+      "guideline_info": "guidelines under Tenn. Code Title 36, Ch. 5; state Excel worksheet calculator",
+      "model": "income shares",
+      "remedy": "replacement with a comparable vehicle or refund of the full purchase price",
+      "threshold": "3+ unsuccessful repair attempts or 30+ cumulative days out of service during the term of protection (1 year from delivery or the warranty term)"
+    },
+    "Virginia": {
+      "covers": "new motor vehicles only",
+      "ends_when": "age 18, or 19/graduation if still in high school",
+      "guideline_info": "guidelines in Va. Code \u00a7 20-108.2; official worksheet forms (e.g. DC-637) on vacourts.gov",
+      "model": "income shares",
+      "remedy": "manufacturer must replace or repurchase the vehicle (consumer may choose a refund)",
+      "threshold": "3+ repair attempts for the same defect (1 for a serious safety defect) or 30+ calendar days out of service within 18 months of original delivery"
+    },
+    "West Virginia": {
+      "covers": "new motor vehicles purchased or registered in West Virginia (passenger autos, pickups, vans, motor home chassis)",
+      "ends_when": "age 18 or high school graduation, whichever is later",
+      "guideline_info": "statutory calculation worksheets in W.Va. Code Ch. 48, Art. 13 (e.g. \u00a748-13-502 worksheet B)",
+      "model": "income shares",
+      "remedy": "revocation of acceptance with refund of purchase price (plus tax/fees) or replacement vehicle",
+      "threshold": "3+ repair attempts for the same nonconformity (1 for a defect likely to cause death or serious injury) or 30+ calendar days out of service within the warranty term or 1 year of delivery"
+    },
+    "Illinois": {
+      "covers": "new vehicles only (purchased or leased; cars, light trucks/vans under 8,000 lbs, RVs)",
+      "ends_when": "age 18, or high school graduation/age 19 if still in high school",
+      "guideline_info": "income shares worksheets from Illinois Dept. of Healthcare and Family Services; statute at 750 ILCS 5/505",
+      "model": "income shares (both parents' net incomes combined)",
+      "remedy": "comparable replacement vehicle or refund of purchase price/lease cost",
+      "threshold": "4+ attempts for same nonconformity or 30+ business days out of service within first 12 months or 12,000 miles"
+    },
+    "Indiana": {
+      "covers": "new vehicles purchased or leased in Indiana (under manufacturer warranty)",
+      "ends_when": "age 19",
+      "guideline_info": "Indiana Child Support Rules and Guidelines, published by the Indiana Judicial Branch (worksheets/schedule)",
+      "model": "income shares (both parents' incomes combined)",
+      "remedy": "refund or replacement vehicle",
+      "threshold": "4+ repair attempts for same defect or 30+ business days out of service within first 18 months or 18,000 miles"
+    },
+    "Iowa": {
+      "covers": "vehicles purchased or leased (under warranty; excludes mopeds, motorcycles, motor homes, vehicles over 10,000 lbs GVW)",
+      "ends_when": "age 18, or high school graduation if reasonably expected before age 19",
+      "guideline_info": "guidelines in Iowa Court Rules; worksheets available on the Iowa Judicial Branch site",
+      "model": "income shares (both parents' incomes combined)",
+      "remedy": "replacement vehicle or refund of full purchase/lease price (less reasonable offset for use)",
+      "threshold": "3+ attempts on same defect (with written notice for a final cure attempt), 20+ cumulative days out of service, or 1 attempt for life-threatening defect \u2014 within lemon law rights period (2 years/24,000 miles)"
+    },
+    "Kansas": {
+      "covers": "new motor vehicles only (sold or leased; 12,000 lbs GVW or less; original purchaser or lessee)",
+      "ends_when": "age 18, or June 30 of the school year of the 18th birthday if still in high school",
+      "guideline_info": "Child Support Guidelines and worksheet published by the Kansas Supreme Court",
+      "model": "income shares (proportionate shares of combined income)",
+      "remedy": "comparable replacement vehicle or refund of full purchase/lease price",
+      "threshold": "4+ attempts for same defect, 30+ calendar days out of service, or 10+ total attempts \u2014 within warranty term or first year"
+    },
+    "Michigan": {
+      "covers": "new motor vehicles only (purchased or leased)",
+      "ends_when": "age 18, or up to 19 1/2 if still attending high school full time",
+      "guideline_info": "state publishes the Michigan Child Support Formula Manual",
+      "model": "income shares (Michigan Child Support Formula, MCSF)",
+      "remedy": "refund of purchase/lease price or comparable replacement vehicle",
+      "threshold": "4+ repair attempts for same defect or 30+ days out of service within first year (or warranty term)"
+    },
+    "Minnesota": {
+      "covers": "new motor vehicles only",
+      "ends_when": "age 18 or high school graduation, up to age 20 if still in secondary school",
+      "guideline_info": "guidelines in Minn. Stat. section 518A.35; Minnesota Dept. of Children, Youth, and Families hosts an online calculator",
+      "model": "income shares (proportionate share of combined parental income, PICS)",
+      "remedy": "refund or replacement vehicle",
+      "threshold": "4+ attempts for same defect or 30+ business days out of service within warranty term or 2 years; 1 attempt for complete brake/steering failure"
+    },
+    "Missouri": {
+      "covers": "new vehicles purchased or leased in Missouri (under manufacturer warranty)",
+      "ends_when": "age 18, or up to 21 if enrolled in secondary or postsecondary education",
+      "guideline_info": "Form 14 child support calculation worksheet published by the Missouri courts (courts.mo.gov)",
+      "model": "income shares (both parents' incomes combined)",
+      "remedy": "replacement vehicle or refund of purchase price (less reasonable use allowance)",
+      "threshold": "4+ repair attempts for same defect or 30+ cumulative days out of service"
+    },
+    "Nebraska": {
+      "covers": "new motor vehicles sold in Nebraska (vehicles under 2 years old under express warranty; motor homes excluded)",
+      "ends_when": "age 19",
+      "guideline_info": "Nebraska Child Support Guidelines published by the Nebraska Judicial Branch (Neb. Ct. R. Article 2), with worksheet",
+      "model": "income shares (both parents' incomes combined)",
+      "remedy": "comparable replacement vehicle or refund of full purchase price",
+      "threshold": "4+ repair attempts or 40+ days out of service during warranty term or first year"
+    },
+    "Ohio": {
+      "covers": "new vehicles purchased or leased (transferees during the warranty term included)",
+      "ends_when": "age 18 or high school graduation, whichever is later, but no later than age 19",
+      "guideline_info": "official schedule in ORC Chapter 3119 (Basic Child Support Schedule), administered by county child support agencies",
+      "model": "income shares (both parents' gross incomes combined)",
+      "remedy": "refund of full purchase price or replacement vehicle, at the consumer's option",
+      "threshold": "3+ attempts on same defect, 30+ cumulative days out of service, 8+ total attempts, or 1 attempt for life-threatening defect \u2014 within first year or 18,000 miles"
+    },
+    "Wisconsin": {
+      "covers": "new motor vehicles only (purchased or leased)",
+      "ends_when": "age 18, or up to 19 if still pursuing a high school diploma",
+      "guideline_info": "Wisconsin Dept. of Children and Families publishes the percentage standard (DCF 150) and an online calculator",
+      "model": "percentage of obligor income (17%/25%/29%/31%/34% of gross income for 1\u20135+ children)",
+      "remedy": "refund or comparable replacement vehicle, at the consumer's choice",
+      "threshold": "4+ repair attempts for same defect or 30+ aggregate days out of service within warranty term or first year"
+    },
+    "Arkansas": {
+      "covers": "new and leased motor vehicles during the quality assurance period (warranty term, up to 2 years/24,000 miles)",
+      "ends_when": "age 18 or high school graduation, whichever is later; if still in HS, until graduation or end of the school year after turning 19, whichever is earlier",
+      "guideline_info": "Income Shares Chart and worksheets at arcourts.gov",
+      "model": "income shares (adopted 2020; guidelines on arcourts.gov)",
+      "remedy": "replacement or full refund (consumer chooses)",
+      "threshold": "3+ repair attempts for the same defect or 30+ calendar days out of service"
+    },
+    "Colorado": {
+      "covers": "new and leased vehicles (also certified pre-owned/used vehicles still under factory warranty)",
+      "ends_when": "age 19",
+      "guideline_info": "check the state court website",
+      "model": "income shares (C.R.S. section 14-10-115)",
+      "remedy": "refund or replacement vehicle",
+      "threshold": "3+ failed repair attempts of the same defect or 24+ business days out of service in the first 2 years/24,000 miles (2 attempts for serious safety defects)"
+    },
+    "Louisiana": {
+      "covers": "new vehicles only",
+      "ends_when": "age 18; extended for unmarried full-time secondary students who are dependent on a parent, up to age 19",
+      "guideline_info": "child support schedule in La. R.S. 9:315.19",
+      "model": "income shares (La. R.S. 9:315)",
+      "remedy": "replacement or refund",
+      "threshold": "4+ repair attempts or 45+ calendar days out of service within the warranty term or first year"
+    },
+    "Montana": {
+      "covers": "new motor vehicles only (excludes motorcycles and trucks 10,000+ lbs GVW)",
+      "ends_when": "emancipation or high school graduation, whichever is later, but no later than the 19th birthday",
+      "guideline_info": "Montana DPHHS Child Support Guidelines Worksheet",
+      "model": "Melson formula (modified: self-support reserve, primary support allowance, then standard-of-living adjustment)",
+      "remedy": "refund or replacement vehicle",
+      "threshold": "4+ repair attempts or 30+ business days out of service during the warranty period (2 years/18,000 miles)"
+    },
+    "New Mexico": {
+      "covers": "new vehicles only (leases not covered; subsequent buyers covered while the original warranty lasts)",
+      "ends_when": "age 18, or until graduation or age 19 if still attending high school",
+      "guideline_info": "state guidelines worksheets via NM courts/HSD (NMSA section 40-4-11.1)",
+      "model": "income shares",
+      "remedy": "refund (minus a reasonable mileage offset) or a comparable replacement vehicle",
+      "threshold": "4+ repair attempts or 30+ business days out of service within the express warranty term or first year"
+    },
+    "North Dakota": {
+      "covers": "new vehicles only (excludes motorcycles, motorhomes, used vehicles)",
+      "ends_when": "age 18 (can extend if still attending high school and living with the recipient parent)",
+      "guideline_info": "ND HHS child support guidelines worksheet",
+      "model": "percentage of obligor's income (rate varies by income bracket, 14-27%)",
+      "remedy": "refund or replacement vehicle (leased vehicles: reimbursement of payments)",
+      "threshold": "3+ repair attempts or 30+ business days out of service within the warranty term or first year"
+    },
+    "Oklahoma": {
+      "covers": "new motor vehicles under 10,000 lbs GVW (includes lessees)",
+      "ends_when": "age 18 or high school graduation; up to age 20 if still enrolled full-time in high school",
+      "guideline_info": "Oklahoma DHS guideline schedule (43 O.S. section 119)",
+      "model": "income shares (43 O.S. section 119)",
+      "remedy": "replacement or full refund (consumer chooses)",
+      "threshold": "4+ repair attempts or 30+ business days out of service within the express warranty term or first year"
+    },
+    "South Dakota": {
+      "covers": "new vehicles only (excludes used vehicles, motorcycles, motorhomes, 10,000+ lb GVWR)",
+      "ends_when": "age 18, or age 19 if a full-time secondary student",
+      "guideline_info": "SD Department of Social Services online Child Support Obligation Calculator",
+      "model": "income shares (both parents' combined net incomes)",
+      "remedy": "refund or replacement vehicle (consumer chooses)",
+      "threshold": "4+ repair attempts or 30+ days out of service in first 2 years/24,000 miles (first attempt within first year/12,000 miles)"
+    },
+    "Texas": {
+      "covers": "new and leased vehicles within 2 years/24,000 miles (also used vehicles still under warranty)",
+      "ends_when": "age 18 or high school graduation, whichever is later",
+      "guideline_info": "Texas Attorney General website has an online estimator",
+      "model": "percentage of obligor's net resources (20-40% by number of children)",
+      "remedy": "replacement vehicle, refund, or cash settlement",
+      "threshold": "4+ failed repairs of the same defect (2 for serious safety hazards) or 30+ days out of service within 24 months/24,000 miles"
+    },
+    "Wyoming": {
+      "covers": "new and leased vehicles under warranty",
+      "ends_when": "age of majority (18)",
+      "guideline_info": "online calculator at childsupport.wyoming.gov",
+      "model": "income shares (Wyo. Stat. section 20-2-304)",
+      "remedy": "refund or replacement vehicle",
+      "threshold": "4+ repair attempts or 30+ days out of service within the first year or 12,000 miles"
+    },
+    "Alaska": {
+      "covers": "new motor vehicles only",
+      "ends_when": "age 18, or through age 19 while pursuing a high school diploma",
+      "guideline_info": "Child Support Guidelines Affidavit (DR-305) on courts.alaska.gov; guidelines in Alaska Civil Rule 90.3",
+      "model": "percentage of obligor income",
+      "remedy": "refund or replacement with a comparable new vehicle, at the owner's option",
+      "threshold": "3+ repair attempts of same defect, or 30+ business days out of service within one year"
+    },
+    "Arizona": {
+      "covers": "new vehicles primarily; limited used-car protection (15 days or 500 miles after purchase)",
+      "ends_when": "age 18, or high school graduation or age 19 if still in high school",
+      "guideline_info": "Arizona Child Support Guidelines and online calculator on azcourts.gov; guidelines in A.R.S. section 25-320",
+      "model": "income shares",
+      "remedy": "replacement vehicle or full refund of purchase price",
+      "threshold": "4+ repair attempts of the same problem or 30+ days out of service within 2 years or 24,000 miles"
+    },
+    "California": {
+      "covers": "new and leased vehicles with a manufacturer's express warranty; also used cars still under factory warranty (demos, certified pre-owned)",
+      "ends_when": "age 18, or age 19 if still in high school full-time",
+      "guideline_info": "California Department of Child Support Services online guideline calculator (childsupport.ca.gov); formula in Family Code section 4055",
+      "model": "income shares (state guideline formula)",
+      "remedy": "replacement or refund of purchase price (consumer's choice)",
+      "threshold": "4+ repair attempts of same problem, 2+ attempts for a defect likely to cause death or serious injury, or 30+ days out of service within 18 months or 18,000 miles"
+    },
+    "Hawaii": {
+      "covers": "new motor vehicles purchased or leased (including demos); no used-car lemon law",
+      "ends_when": "age 18, or up to age 19 if enrolled full-time in school",
+      "guideline_info": "Hawaii State Judiciary Child Support Guidelines Worksheet",
+      "model": "Melson formula",
+      "remedy": "refund or replacement vehicle",
+      "threshold": "3+ repairs of the same nonconformity, 1 repair of a serious safety defect, or 30+ business days out of service within the warranty term, 2 years, or 24,000 miles"
+    },
+    "Idaho": {
+      "covers": "new motor vehicles purchased or leased in Idaho; vehicles transferred while the express warranty is in effect",
+      "ends_when": "age 18, or high school graduation or age 19 if still in high school",
+      "guideline_info": "Idaho Standard Child Support Worksheet; guidelines in Idaho Rules of Family Law Procedure Rule 120",
+      "model": "income shares",
+      "remedy": "replacement with a comparable new vehicle or full refund (less a reasonable use allowance)",
+      "threshold": "4+ repair attempts of the same defect, 30+ business days out of service, or 1 failed brake/steering repair likely to cause death or serious injury, within 2 years or 24,000 miles"
+    },
+    "Mississippi": {
+      "covers": "new motor vehicles under the manufacturer's express warranty",
+      "ends_when": "age 21",
+      "guideline_info": "guidelines in Mississippi Code Ann. section 43-19-101 (14%/20%/22%/24%/26% of adjusted gross income)",
+      "model": "percentage of obligor income",
+      "remedy": "replacement with a comparable vehicle or full refund less a reasonable use allowance (20 cents per mile), at the consumer's option",
+      "threshold": "3+ repair attempts of the same nonconformity or 15+ working days out of service within the warranty term or one year"
+    },
+    "Nevada": {
+      "covers": "new and used vehicles still covered by the manufacturer's express warranty",
+      "ends_when": "first day of the month after age 18, or 19 if still in high school",
+      "guideline_info": "Nevada Child Support Guidelines Calculator (selfhelp.nvcourts.gov); tiered formula in NAC 425",
+      "model": "percentage of obligor income (tiered percentages)",
+      "remedy": "replacement or repurchase of the vehicle",
+      "threshold": "4+ repair attempts of the same nonconformity or 30+ calendar days out of service within the express warranty or one year"
+    },
+    "Oregon": {
+      "covers": "new motor vehicles (and new travel trailers) purchased or leased in Oregon; not used vehicles",
+      "ends_when": "age 18, or up to age 21 if attending school",
+      "guideline_info": "Oregon Department of Justice child support calculator; guidelines in OAR 137-050-0700 through 0765",
+      "model": "income shares",
+      "remedy": "replacement with a new motor vehicle or full refund of purchase or lease price (less a use allowance)",
+      "threshold": "3+ repair attempts, 30+ calendar days out of service, or 1 repair attempt on a defect likely to cause death or serious injury, within 2 years or 24,000 miles"
+    },
+    "Utah": {
+      "covers": "new motor vehicles (New Motor Vehicle Warranties Act)",
+      "ends_when": "age 18 or high school graduation, whichever is later",
+      "guideline_info": "online child support calculator on the Utah courts/DHS website; guidelines in Utah Code Title 81, chapter 6",
+      "model": "income shares",
+      "remedy": "replacement or repurchase of the vehicle",
+      "threshold": "4+ repair attempts of the same defect or 30+ business days out of service within the express warranty term or one year"
+    },
+    "Washington": {
+      "covers": "new vehicles purchased or leased in Washington, including vehicles bought with under 24,000 miles; not used vehicles",
+      "ends_when": "age 18 or high school graduation, whichever is later (court may order post-secondary support)",
+      "guideline_info": "Washington State Child Support Schedule worksheets on courts.wa.gov",
+      "model": "income shares",
+      "remedy": "replacement or repurchase (refund) of the vehicle",
+      "threshold": "4+ repair attempts of the same problem, 2+ attempts for a defect likely to cause death or substantial bodily injury, or 30+ cumulative days out of service within 2 years or 24,000 miles"
+    }
+  }
+}
