@@ -1,0 +1,44 @@
+{
+ "states": {
+  "South Dakota": {
+   "bullying_help": "https://doe.sd.gov/bullying/",
+   "bullying_law": "https://sdlegislature.gov/Statutes/13-32-15"
+  },
+  "Tennessee": {
+   "bullying_help": "https://www.tn.gov/education/legal-services/civil-rights/civil-rights-bullying-compliance-report.html",
+   "bullying_law": "https://www.tn.gov/education/legal-services/civil-rights/civil-rights-bullying-compliance-report.html"
+  },
+  "Texas": {
+   "bullying_help": "https://tea.texas.gov/texas-schools/health-safety-discipline/coordinated-school-health/coordinated-school-health-bullying-and-cyberbullying",
+   "bullying_law": "https://tea.texas.gov/texas-schools/health-safety-discipline/coordinated-school-health/coordinated-school-health-bullying-and-cyberbullying"
+  },
+  "Utah": {
+   "bullying_help": "https://schools.utah.gov/prevention/bullyingprevention",
+   "bullying_law": "https://schools.utah.gov/prevention/bullyingprevention"
+  },
+  "Vermont": {
+   "bullying_help": "https://education.vermont.gov/student-support/safe-and-healthy-schools/harassment-hazing-and-bullying-prevention-and-response",
+   "bullying_law": "https://education.vermont.gov/student-support/safe-and-healthy-schools/harassment-hazing-and-bullying-prevention-and-response"
+  },
+  "Virginia": {
+   "bullying_help": "https://www.doe.virginia.gov/programs-services/student-services/prevention-strategies-programs/bullying-prevention",
+   "bullying_law": "https://www.doe.virginia.gov/programs-services/student-services/prevention-strategies-programs/bullying-prevention"
+  },
+  "Washington": {
+   "bullying_help": "https://ospi.k12.wa.us/student-success/health-safety/school-safety-center/harassment-intimidation-and-bullying-hib",
+   "bullying_law": "https://ospi.k12.wa.us/student-success/health-safety/school-safety-center/harassment-intimidation-and-bullying-hib"
+  },
+  "West Virginia": {
+   "bullying_help": "https://wvde.us/student-support-wellness/school-safety/bullying-prevention",
+   "bullying_law": "https://code.wvlegislature.gov/18-2C-2/"
+  },
+  "Wisconsin": {
+   "bullying_help": "https://dpi.state.wi.us/sspw/safe-schools/bullying-prevention",
+   "bullying_law": "https://dpi.state.wi.us/sspw/safe-schools/bullying-prevention"
+  },
+  "Wyoming": {
+   "bullying_help": "https://edu.wyoming.gov/healthsafety/model-bullying-policy/",
+   "bullying_law": "https://edu.wyoming.gov/healthsafety/model-bullying-policy/"
+  }
+ }
+}

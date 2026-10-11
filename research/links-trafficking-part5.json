@@ -1,0 +1,44 @@
+{
+ "states": {
+  "South Dakota": {
+   "state_resource": "https://sdnafvsa.com/human-trafficking-in-south-dakota/",
+   "victim_help": "https://calltofreedom.org/about/"
+  },
+  "Tennessee": {
+   "state_resource": "https://www.tn.gov/tbi/crime-issues/crime-issues/human-trafficking.html",
+   "victim_help": "https://www.ancoratn.org/"
+  },
+  "Texas": {
+   "state_resource": "https://www.texasattorneygeneral.gov/human-trafficking",
+   "victim_help": "https://gov.texas.gov/organization/cjd/childsextrafficking"
+  },
+  "Utah": {
+   "state_resource": "https://www.utiptaskforce.org/about-us",
+   "victim_help": "https://www.utiptaskforce.org/copy-of-how-to-identify-1"
+  },
+  "Vermont": {
+   "state_resource": "https://givewaytofreedom.org/wp-content/uploads/2021/01/VT-Human-Trafficking-Resource-Guide-for-Providers.pdf",
+   "victim_help": "https://givewaytofreedom.org/vermont-rapid-response-support-system/"
+  },
+  "Virginia": {
+   "state_resource": "https://www.oag.state.va.us/programs-outreach/human-trafficking?id=219",
+   "victim_help": "https://vanetwork.org/human-trafficking-infoline/"
+  },
+  "Washington": {
+   "state_resource": "https://www.atg.wa.gov/sex-trafficking",
+   "victim_help": "https://watraffickinghelp.org/"
+  },
+  "West Virginia": {
+   "state_resource": "https://stophumantraffickingwv.org/",
+   "victim_help": "https://fusioncenter.wv.gov/west-virginia-human-trafficking-victim-resources"
+  },
+  "Wisconsin": {
+   "state_resource": "https://www.BeFreeWisconsin.com/",
+   "victim_help": "https://www.wcasa.org/survivors/service-providers/"
+  },
+  "Wyoming": {
+   "state_resource": "https://dvs.wyo.gov/human-trafficking-task-force",
+   "victim_help": "https://uprisingwyo.org/"
+  }
+ }
+}
