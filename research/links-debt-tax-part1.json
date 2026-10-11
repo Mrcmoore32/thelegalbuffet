@@ -1,0 +1,44 @@
+{
+  "states": {
+    "Alabama": {
+      "credit_debt": "https://www.alabamaag.gov/consumer-complaint/",
+      "tax_clinic": "https://legalservicesalabama.org/tax-season-at-lsa/"
+    },
+    "Alaska": {
+      "credit_debt": "http://law.alaska.gov/department/civil/consumer/debt.html",
+      "tax_clinic": "https://abdc.org/tax-education"
+    },
+    "Arizona": {
+      "credit_debt": "https://www.azag.gov/consumer/tips/collections-and-debt-settlement",
+      "tax_clinic": "http://dnalegalservices.org/get-legal-help/dna-low-income-taxpayer-clinics-litc/"
+    },
+    "Arkansas": {
+      "credit_debt": "https://arkansasag.gov/divisions/public-protection/finances/debt-relief-services-fair-debt-collection/",
+      "tax_clinic": "https://ualr.edu/law/clinical-programs/litc/"
+    },
+    "California": {
+      "credit_debt": "https://oag.ca.gov/consumers/general/debt-collectors",
+      "tax_clinic": "https://bettzedek.org/our-services/justice-for-workers/low-income-taxpayer-initiative/"
+    },
+    "Colorado": {
+      "credit_debt": "https://coag.gov/office-sections/consumer-protection/consumer-credit-unit/collection-agency-regulation",
+      "tax_clinic": "https://law.du.edu/academics/practical-experience/low-income-taxpayer-clinic"
+    },
+    "Connecticut": {
+      "credit_debt": "https://portal.ct.gov/dob/consumer/consumer-education/consumer-collection-practices",
+      "tax_clinic": "https://law.uconn.edu/academics/clinics-experiential-education/tax-clinic/tax-clinic-information-for-the-public/"
+    },
+    "Delaware": {
+      "credit_debt": "https://attorneygeneral.delaware.gov/fraud/",
+      "tax_clinic": "https://dcrac.org/dcrac-law"
+    },
+    "Florida": {
+      "credit_debt": "https://www.myfloridalegal.com/consumer-protection/how-to-protect-yourself-debt-collections",
+      "tax_clinic": "https://bals.org/clinics/low-income-taxpayer-clinic"
+    },
+    "Georgia": {
+      "credit_debt": "https://consumer.georgia.gov/consumer-topics/debt-collectors",
+      "tax_clinic": "https://law.gsu.edu/student-experience/experiential-learning/clinics/philip-c-cook-low-income-taxpayer-clinic/"
+    }
+  }
+}
