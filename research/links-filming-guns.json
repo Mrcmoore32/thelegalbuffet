@@ -1,0 +1,204 @@
+{
+ "states": {
+  "Alabama": {
+   "filming_police": "https://www.aclu.org/know-your-rights/recording-and-documenting-police-and-federal-agents",
+   "gun_laws": "https://www.alea.gov/gun-laws"
+  },
+  "Alaska": {
+   "filming_police": "https://www.aclu.org/know-your-rights/recording-and-documenting-police-and-federal-agents",
+   "gun_laws": "https://DPS.ALASKA.GOV/Statewide/R-I/PermitsLicensing/InAlaska"
+  },
+  "Arizona": {
+   "filming_police": "https://www.aclu.org/know-your-rights/recording-and-documenting-police-and-federal-agents",
+   "gun_laws": "https://www.azdps.gov/services/public-services-center/concealed-weapons-and-permits?qt-cwp_menu_=9"
+  },
+  "Arkansas": {
+   "filming_police": "https://www.acluarkansas.org/know-your-rights/know-your-rights-observing-and-recording-police/",
+   "gun_laws": "https://www.nraila.org/gun-laws/state-gun-laws/arkansas/"
+  },
+  "California": {
+   "filming_police": "https://www.aclusocal.org/know-your-rights/when-stopped-officer/",
+   "gun_laws": "https://OAG.CA.GOV/FIREARMS"
+  },
+  "Colorado": {
+   "filming_police": "https://www.aclu-co.org/know-your-rights/protesters-rights/",
+   "gun_laws": "https://publicsafety.colorado.gov/get-involved/colorado-gun-laws"
+  },
+  "Connecticut": {
+   "filming_police": "https://www.acluct.org/sites/default/files/field_documents/know_your_rights-_recording_the_police_11.pdf",
+   "gun_laws": "https://portal.ct.gov/despp/knowledge-base/articles/frequently-asked-questions/slfu/firearm-rules-and-regulations"
+  },
+  "Delaware": {
+   "filming_police": "https://www.aclu.org/know-your-rights/recording-and-documenting-police-and-federal-agents",
+   "gun_laws": "https://handgunlaw.us/states/delaware.pdf"
+  },
+  "Florida": {
+   "filming_police": "https://www.aclu.org/know-your-rights/recording-and-documenting-police-and-federal-agents",
+   "gun_laws": "https://www.fdacs.gov/Consumer-Resources/Concealed-Weapon-License/Applying-for-a-Concealed-Weapon-License"
+  },
+  "Georgia": {
+   "filming_police": "https://www.acluga.org/know-your-rights/kyr/",
+   "gun_laws": "https://www.nraila.org/gun-laws/state-gun-laws/georgia/"
+  },
+  "Hawaii": {
+   "filming_police": "https://www.acluhi.org/news/know-your-rights-page/",
+   "gun_laws": "https://www.nraila.org/gun-laws/state-gun-laws/hawaii?page=12&state=1547&startDate&endDate&search&contributor=0&contentBuckets=8166%2C8176%2C8177%2C8178%2C8195%2C8180%2C8188%2C8190%2C8189%2C8181%2C8183%2C8185%2C8191%2C8182%2C8186%2C8192%2C8194%2C8187&geo=1547&isHomePage=False"
+  },
+  "Idaho": {
+   "filming_police": "https://www.rcfp.org/reporters-recording-guide/idaho/",
+   "gun_laws": "https://www.ag.idaho.gov/office-resources/concealed-weapons/"
+  },
+  "Illinois": {
+   "filming_police": "https://www.rcfp.org/reporters-recording-guide/illinois/",
+   "gun_laws": "https://isp.illinois.gov/Foid"
+  },
+  "Indiana": {
+   "filming_police": "https://www.aclu-in.org/know-your-rights/recording-and-documenting-police-and-federal-agents/",
+   "gun_laws": "https://www.in.gov/isp/firearms-licensing/"
+  },
+  "Iowa": {
+   "filming_police": "https://www.aclu-ia.org/know-your-rights/photo/",
+   "gun_laws": "https://dps.iowa.gov/iowa-dps/weapon-permits"
+  },
+  "Kansas": {
+   "filming_police": "https://www.rcfp.org/reporters-recording-guide/kansas/",
+   "gun_laws": "https://www.ag.ks.gov/divisions/civil/licensing-inspections/concealed-carry-licensing"
+  },
+  "Kentucky": {
+   "filming_police": "https://www.rcfp.org/reporters-recording-guide/kentucky/",
+   "gun_laws": "https://www.kentuckystatepolice.ky.gov/ccdw-home"
+  },
+  "Louisiana": {
+   "filming_police": "https://www.aclu.org/know-your-rights/recording-and-documenting-police-and-federal-agents",
+   "gun_laws": "https://lsp.org/about/leadershipsections/support/bcii/concealed-handgun-information/concealed-handgun-faqs/"
+  },
+  "Maine": {
+   "filming_police": "https://www.rcfp.org/reporters-recording-guide/maine/",
+   "gun_laws": "http://www.maine.gov/dps/msp/licenses-permits/concealed-carry-maine"
+  },
+  "Maryland": {
+   "filming_police": "https://www.rcfp.org/reporters-recording-guide/maryland/",
+   "gun_laws": "https://mdsp.maryland.gov/organization/pages/criminalinvestigationbureau/licensingdivision.aspx"
+  },
+  "Massachusetts": {
+   "filming_police": "https://www.aclum.org/know-your-rights/know-your-rights-photographing-or-recording-police/",
+   "gun_laws": "https://www.mass.gov/info-details/massachusetts-law-about-guns-and-other-firearms"
+  },
+  "Michigan": {
+   "filming_police": "https://www.aclumich.org/publications/know-your-rights-videotaping-police-officers/",
+   "gun_laws": "https://www.michigan.gov/msp/services/ccw"
+  },
+  "Minnesota": {
+   "filming_police": "https://www.aclu-mn.org/en/know-your-rights/what-if-im-stopped-police-or-ice",
+   "gun_laws": "https://dps.mn.gov/divisions/bca/public-services-bca/firearms-information/permit-carry"
+  },
+  "Mississippi": {
+   "filming_police": "https://www.aclu-ms.org/know-your-rights/police-encounters/",
+   "gun_laws": "https://www.nraila.org/gun-laws/state-gun-laws/Mississippi/?page=12&state=1564&startDate&endDate&search&contributor=0&contentBuckets=8166%2C8176%2C8177%2C8178%2C8195%2C8180%2C8188%2C8190%2C8189%2C8181%2C8183%2C8185%2C8191%2C8182%2C8186%2C8192%2C8194%2C8187&geo=1564&isHomePage=False"
+  },
+  "Missouri": {
+   "filming_police": "https://www.aclu-mo.org/app/uploads/2025/03/know_your_protest_rights_march_2025.pdf",
+   "gun_laws": "http://handgunlaw.us/states/missouri.pdf"
+  },
+  "Montana": {
+   "filming_police": "https://www.aclu.org/know-your-rights/recording-and-documenting-police-and-federal-agents",
+   "gun_laws": "https://dojmt.gov/dci-home/concealed-weapons/"
+  },
+  "Nebraska": {
+   "filming_police": "https://www.aclunebraska.org/news/mobile-justice/",
+   "gun_laws": "https://statepatrol.nebraska.gov/services/concealed-handgun-permits"
+  },
+  "Nevada": {
+   "filming_police": "https://www.aclunv.org/press-releases/aclu-has-app-justice/",
+   "gun_laws": "https://www.nraila.org/gun-laws/state-gun-laws/nevada?page=43&state=1568&startDate&endDate&search&contributor=0&contentBuckets=8166%2C8176%2C8177%2C8178%2C8195%2C8180%2C8188%2C8190%2C8189%2C8181%2C8183%2C8185%2C8191%2C8182%2C8186%2C8192%2C8194%2C8187&geo=1568&isHomePage=False"
+  },
+  "New Hampshire": {
+   "filming_police": "https://www.aclu-nh.org/press-releases/manchester-pays-275000-aclu-nh-lawsuit-brought-behalf-client-wrongly-arrested/",
+   "gun_laws": "https://www.nhsp.dos.nh.gov/our-services/justice-information-bureau/permits-and-licensing/permits-and-licensing-faqs"
+  },
+  "New Jersey": {
+   "filming_police": "https://www.aclu-nj.org/know-your-rights/what-do-if-youre-stopped-police-new-jersey/",
+   "gun_laws": "https://njsp.njoag.gov/firearms-investigation-unit/"
+  },
+  "New Mexico": {
+   "filming_police": "https://www.aclu-nm.org/know-your-rights/know-your-rights-when-protesting/",
+   "gun_laws": "https://www.dps.nm.gov/law-enforcement-records-bureau/concealed-carry-licenses/"
+  },
+  "New York": {
+   "filming_police": "https://www.nysenate.gov/legislation/laws/CVR/79-P",
+   "gun_laws": "https://gunsafety.ny.gov/"
+  },
+  "North Carolina": {
+   "filming_police": "https://www.acluofnorthcarolina.org/news/you-have-right-film-police/",
+   "gun_laws": "http://ncdoj.gov/download/98/concealed-carry-handgun/368625/2024-firearms-laws-and-permits.pdf"
+  },
+  "North Dakota": {
+   "filming_police": "https://www.aclu.org/know-your-rights/recording-and-documenting-police-and-federal-agents",
+   "gun_laws": "https://attorneygeneral.nd.gov/public-safety/constitutional-concealed-carry/"
+  },
+  "Ohio": {
+   "filming_police": "https://www.acluohio.org/app/uploads/2026/02/Recording-and-Documenting-Police-and-Federal-Agents_ACLU.pdf",
+   "gun_laws": "https://www.nraila.org/gun-laws/state-gun-laws/ohio/"
+  },
+  "Oklahoma": {
+   "filming_police": "https://www.acluok.org/en/know-your-rights/stopped-police",
+   "gun_laws": "http://oklahoma.gov/osbi/services/information-services-division/self-defense-act-unit/handgun-licensing.html?page=9"
+  },
+  "Oregon": {
+   "filming_police": "https://www.aclu.org/know-your-rights/recording-and-documenting-police-and-federal-agents",
+   "gun_laws": "https://www.nraila.org/gun-laws/state-gun-laws/oregon/"
+  },
+  "Pennsylvania": {
+   "filming_police": "https://www.aclupa.org/app/uploads/2024/04/kyrrecordingpolice_.pdf",
+   "gun_laws": "https://www.pa.gov/agencies/psp/programs/firearms/firearms-information"
+  },
+  "Rhode Island": {
+   "filming_police": "https://www.riaclu.org/app/uploads/2026/01/kyr_bystander_fullPage.pdf",
+   "gun_laws": "https://riag.ri.gov/about-our-office/divisions-and-units/bureau-criminal-identification-bci/pistol-permits"
+  },
+  "South Carolina": {
+   "filming_police": "https://www.aclusc.org/know-your-rights/know-your-rights-immigration/",
+   "gun_laws": "https://www.sled.sc.gov/constitutional-carry-guidance"
+  },
+  "South Dakota": {
+   "filming_police": "https://www.rcfp.org/reporters-recording-guide/south-dakota/",
+   "gun_laws": "https://sdsos.gov/general-services/concealed-pistol-permits/cc-default.aspx"
+  },
+  "Tennessee": {
+   "filming_police": "https://www.rcfp.org/reporters-recording-guide/tennessee/",
+   "gun_laws": "https://www.tn.gov/safety/tnhp/handgun/"
+  },
+  "Texas": {
+   "filming_police": "https://www.rcfp.org/reporters-recording-guide/texas/",
+   "gun_laws": "https://www.dps.texas.gov/section/handgun-licensing"
+  },
+  "Utah": {
+   "filming_police": "https://www.rcfp.org/reporters-recording-guide/utah/",
+   "gun_laws": "https://bci.utah.gov/concealed-firearm/general-information/concealed-firearm-permit-frequently-asked-questions/"
+  },
+  "Vermont": {
+   "filming_police": "https://www.rcfp.org/reporters-recording-guide/vermont/",
+   "gun_laws": "https://dps.vermont.gov/node/152"
+  },
+  "Virginia": {
+   "filming_police": "https://www.acluva.org/app/uploads/2026/03/2026-Protest-Rights-in-Virginia-KYR-English.pdf",
+   "gun_laws": "https://vsp.virginia.gov/services/firearms/faq/"
+  },
+  "Washington": {
+   "filming_police": "https://www.aclu-wa.org/know-your-rights/know-your-rights-guide-protests/",
+   "gun_laws": "https://atg.wa.gov/firearms"
+  },
+  "West Virginia": {
+   "filming_police": "https://www.rcfp.org/reporters-recording-guide/west-virginia/",
+   "gun_laws": "https://ago.wv.gov/gunreciprocity/Pages/FAQ.aspx"
+  },
+  "Wisconsin": {
+   "filming_police": "https://www.aclu-wi.org/app/uploads/2023/08/kyr_protest_english.pdf",
+   "gun_laws": "https://www.wisdoj.gov/Law%20Enforcement%20Services/ccw-informational-brochure.pdf"
+  },
+  "Wyoming": {
+   "filming_police": "https://www.aclu-wy.org/news/kyr-protesters/",
+   "gun_laws": "https://wyomingdci.wyo.gov/criminal-justice-information-services-cjis/concealed-firearm-permits/cfp-faq"
+  }
+ }
+}

@@ -1,0 +1,204 @@
+{
+ "states": {
+  "Alabama": {
+   "child_support": "https://dhr.alabama.gov/child-support-enforcement-division/applying-for-child-support-services/",
+   "lemon_law": "https://bbbprograms.org/programs/dr/lemon-law/alabama"
+  },
+  "Alaska": {
+   "child_support": "https://childsupport.alaska.gov/",
+   "lemon_law": "https://bbbprograms.org/programs/dr/lemon-law/alaska"
+  },
+  "Arizona": {
+   "child_support": "https://DES.az.gov/services/child-and-family/child-support",
+   "lemon_law": "https://www.azag.gov/consumer/tips/auto-purchases"
+  },
+  "Arkansas": {
+   "child_support": "https://www.dfa.arkansas.gov/office/details/child-support",
+   "lemon_law": "https://bbbprograms.org/programs/dr/lemon-law/arkansas"
+  },
+  "California": {
+   "child_support": "https://childsupport.ca.gov/",
+   "lemon_law": "https://oag.ca.gov/consumers/general/cars"
+  },
+  "Colorado": {
+   "child_support": "https://childsupport.colorado.gov/",
+   "lemon_law": "https://coag.gov/2024/8-6-24/"
+  },
+  "Connecticut": {
+   "child_support": "https://www.jud.ct.gov/childsupport/",
+   "lemon_law": "https://ct.gov/DCP/LemonLaw"
+  },
+  "Delaware": {
+   "child_support": "https://dhss.delaware.gov/dcss/division-of-child-support-services/child-support/",
+   "lemon_law": "https://attorneygeneral.delaware.gov/fraud/cpu/delaware-lemon-law/"
+  },
+  "Florida": {
+   "child_support": "https://floridarevenue.com/childsupport/Pages/default.aspx",
+   "lemon_law": "http://www.MyFloridaLegal.com/lemon-law"
+  },
+  "Georgia": {
+   "child_support": "https://childsupport.georgia.gov/",
+   "lemon_law": "https://consumer.georgia.gov/resolve-your-dispute/georgia-lemon-law"
+  },
+  "Hawaii": {
+   "child_support": "https://ag.hawaii.gov/csea/",
+   "lemon_law": "none-found"
+  },
+  "Idaho": {
+   "child_support": "https://healthandwelfare.idaho.gov/services-programs/children-families-older-adults/about-child-support",
+   "lemon_law": "https://www.ag.idaho.gov/office-resources/manuals/"
+  },
+  "Illinois": {
+   "child_support": "https://hfs.illinois.gov/childsupport.html",
+   "lemon_law": "https://illinoisattorneygeneral.gov/Consumer-Protection/Auto-Sales-and-Repairs/"
+  },
+  "Indiana": {
+   "child_support": "http://in.gov/dcs/child-support/about-us/",
+   "lemon_law": "https://faqs.in.gov/hc/en-us/articles/115005057987-What-are-the-Indiana-Lemon-Law-requirements"
+  },
+  "Iowa": {
+   "child_support": "https://childsupport.ia.gov",
+   "lemon_law": "https://www.legis.iowa.gov/docs/code/2026/322G.html"
+  },
+  "Kansas": {
+   "child_support": "none-found",
+   "lemon_law": "https://assets.bbbprograms.org/docs/default-source/auto-line/statelemonlaws/kansas-lemonlaw.pdf?sfvrsn=42c0a65f_5"
+  },
+  "Kentucky": {
+   "child_support": "https://www.ag.ky.gov/Resources/Child-Support/Pages/default.aspx",
+   "lemon_law": "https://bbbprograms.org/programs/dr/lemon-law/kentucky"
+  },
+  "Louisiana": {
+   "child_support": "https://dcfs.la.gov/CSE",
+   "lemon_law": "https://bbbprograms.org/programs/dr/lemon-law/louisiana"
+  },
+  "Maine": {
+   "child_support": "https://www1.maine.gov/dhhs/ofi/programs-services/child-support-services",
+   "lemon_law": "https://www.maine.gov/ag/consumer-protection/consumer-help-topics/purchasing-goods-or-services/lemon-law"
+  },
+  "Maryland": {
+   "child_support": "http://dhs.maryland.gov/child-support-services/",
+   "lemon_law": "https://oag.maryland.gov/i-need-to/Pages/lemon-law.aspx"
+  },
+  "Massachusetts": {
+   "child_support": "https://www.mass.gov/css",
+   "lemon_law": "https://www.mass.gov/guides/guide-to-new-and-leased-car-lemon-law"
+  },
+  "Michigan": {
+   "child_support": "https://michigan.gov/mdhhs/adult-child-serv/child-sup",
+   "lemon_law": "https://www.michigan.gov/consumerprotection/protect-yourself/consumer-alerts/auto/lemon-law"
+  },
+  "Minnesota": {
+   "child_support": "https://dcyf.mn.gov/individuals-and-families/family-services/child-support",
+   "lemon_law": "https://www.ag.state.mn.us/consumer/handbooks/MNCarlaws/CH1.asp"
+  },
+  "Mississippi": {
+   "child_support": "none-found",
+   "lemon_law": "none-found"
+  },
+  "Missouri": {
+   "child_support": "https://dss.mo.gov/child-support/",
+   "lemon_law": "none-found"
+  },
+  "Montana": {
+   "child_support": "https://dphhs.mt.gov/cssd/",
+   "lemon_law": "https://dojmt.gov/office-of-consumer-protection/vehicles-and-the-lemon-law/"
+  },
+  "Nebraska": {
+   "child_support": "https://dhhs.ne.gov/Pages/Child-Support.aspx",
+   "lemon_law": "https://assets.bbbprograms.org/docs/default-source/auto-line/lemon-law-charts/ne-ll-chart.pdf"
+  },
+  "Nevada": {
+   "child_support": "https://dwss.nv.gov/Support/",
+   "lemon_law": "none-found"
+  },
+  "New Hampshire": {
+   "child_support": "https://www.dhhs.nh.gov/programs-services/childcare-parenting-childbirth/child-support-services",
+   "lemon_law": "https://www.dmv.nh.gov/vehicles-boats-and-titles/new-motor-vehicle-arbitration-board-lemon-law"
+  },
+  "New Jersey": {
+   "child_support": "https://www.njchildsupport.org/",
+   "lemon_law": "https://www.njconsumeraffairs.gov/llu/Pages/default.aspx"
+  },
+  "New Mexico": {
+   "child_support": "https://www.hca.nm.gov/lookingforassistance/child_support/",
+   "lemon_law": "https://bbbprograms.org/programs/dr/lemon-law/new-mexico"
+  },
+  "New York": {
+   "child_support": "https://childsupport.ny.gov/services/cs",
+   "lemon_law": "https://ag.ny.gov/resources/individuals/car-auto/lemon-law-program"
+  },
+  "North Carolina": {
+   "child_support": "https://ncchildsupport.ncdhhs.gov/ecoa/index.jsp",
+   "lemon_law": "https://ncdoj.gov/protecting-consumers/automobiles/lemon-law/"
+  },
+  "North Dakota": {
+   "child_support": "https://childsupport.dhs.nd.gov/",
+   "lemon_law": "https://attorneygeneral.nd.gov/consumer-resources/consumer-rights/"
+  },
+  "Ohio": {
+   "child_support": "https://ohiochildsupportcalculator.ohio.gov/home.html",
+   "lemon_law": "https://ohioattorneygeneral.gov/Individuals-and-Families/Consumers/Consumer-Tips/Lemon-Laws"
+  },
+  "Oklahoma": {
+   "child_support": "https://oklahoma.gov/dac/about/child-support-enforcement.html",
+   "lemon_law": "https://oklahoma.gov/content/dam/ok/en/onmvc/documents/Lemon Law.pdf"
+  },
+  "Oregon": {
+   "child_support": "https://www.doj.state.or.us/child-support/about-us/",
+   "lemon_law": "https://www.doj.state.or.us/consumer-protection/motor-vehicles/lemon-law/"
+  },
+  "Pennsylvania": {
+   "child_support": "https://www.pa.gov/agencies/dhs/departments-offices/oim-info/oim-bureau-child-support-enforcement",
+   "lemon_law": "https://bbbprograms.org/programs/dr/lemon-law/pennsylvania"
+  },
+  "Rhode Island": {
+   "child_support": "https://ocss.ri.gov/",
+   "lemon_law": "https://riag.ri.gov/what-we-do/civil-division/public-protection/consumer-protection/lemon-law"
+  },
+  "South Carolina": {
+   "child_support": "https://dss.sc.gov/child-support/",
+   "lemon_law": "https://consumer.sc.gov/business-resourceslaws/lemon-law"
+  },
+  "South Dakota": {
+   "child_support": "https://dss.sd.gov/childsupport/electronicpayment.aspx",
+   "lemon_law": "https://consumer.sd.gov/laws.aspx"
+  },
+  "Tennessee": {
+   "child_support": "https://www.tn.gov/humanservices/for-families/child-support-services/",
+   "lemon_law": "https://revenue.support.tn.gov/hc/en-us/articles/360060411791-VTR-58-The-Lemon-Law"
+  },
+  "Texas": {
+   "child_support": "https://oag.state.tx.us/child-support/who-we-are",
+   "lemon_law": "http://www.txdmv.gov/motorists/consumer-protection/lemon-law"
+  },
+  "Utah": {
+   "child_support": "https://ors.utah.gov/child-support",
+   "lemon_law": "https://bbbprograms.org/programs/dr/lemon-law/utah"
+  },
+  "Vermont": {
+   "child_support": "http://dcf.vermont.gov/services/child-support",
+   "lemon_law": "http://dmv.vermont.gov/enforcement-and-safety/laws/lemon-law"
+  },
+  "Virginia": {
+   "child_support": "https://dss.virginia.gov/empowering-families/apply-for-child-support/",
+   "lemon_law": "https://www.oag.state.va.us/Consumer-protection/index.php/tips-info2?view=article&id=158"
+  },
+  "Washington": {
+   "child_support": "https://www.dshs.wa.gov/esa/division-child-support",
+   "lemon_law": "https://www.atg.wa.gov/general-lemon-law"
+  },
+  "West Virginia": {
+   "child_support": "https://bcse.wv.gov/",
+   "lemon_law": "https://ago.wv.gov/consumer-protection/file-complaint-consumer-protection-division"
+  },
+  "Wisconsin": {
+   "child_support": "https://dcf.wisconsin.gov/cs/home",
+   "lemon_law": "https://wisconsindot.gov/Pages/dmv/cons-protect/lemon-law/lemonlaw.aspx"
+  },
+  "Wyoming": {
+   "child_support": "http://childsupport.wyo.gov/parents-caregivers/",
+   "lemon_law": "https://bbbprograms.org/programs/dr/lemon-law/wyoming"
+  }
+ }
+}
