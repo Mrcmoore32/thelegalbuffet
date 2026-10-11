@@ -1,0 +1,204 @@
+{
+  "states": {
+    "Alabama": {
+      "expungement": "http://alea.gov/criminal-record-expungement",
+      "small_claims": "http://judicial.alabama.gov/docs/library/docs/smguide.pdf"
+    },
+    "Alaska": {
+      "expungement": "none-found",
+      "small_claims": "https://public.courts.alaska.gov/web/forms/docs/sc-100.pdf"
+    },
+    "Arizona": {
+      "expungement": "https://clsaz.org/legal-practice-areas/2022-set-asides/",
+      "small_claims": "https://www.pinalcourtsaz.gov/DocumentCenter/View/1003/SC-Small-Claims-How-To-Packet-Packet"
+    },
+    "Arkansas": {
+      "expungement": "https://dps.arkansas.gov/crime-info-support/arkansas-crime-information-center/forms/criminal-history/",
+      "small_claims": "https://arkansasag.gov/divisions/public-protection/legal-resources/guide-to-small-claims-court/"
+    },
+    "California": {
+      "expungement": "https://selfhelp.courts.ca.gov/clean-your-record",
+      "small_claims": "https://selfhelp.courts.ca.gov/small-claims"
+    },
+    "Colorado": {
+      "expungement": "https://www.coloradojudicial.gov/sites/default/files/2023-07/JDF640.pdf",
+      "small_claims": "https://lawhelp.colorado.gov/how-do-i-file-the-small-claims-paperwork"
+    },
+    "Connecticut": {
+      "expungement": "https://portal.ct.gov/cleanslate",
+      "small_claims": "https://vvv.jud.ct.gov/Publications/CV045.pdf"
+    },
+    "Delaware": {
+      "expungement": "https://courts.delaware.gov/Forms/Download.aspx?id=118548",
+      "small_claims": "https://courts.delaware.gov/help/proceedings/jp_startcivil.aspx"
+    },
+    "Florida": {
+      "expungement": "https://www.fdle.state.fl.us/Seal-and-Expunge-Process/Frequently-Asked-Questions",
+      "small_claims": "https://www.floridabar.org/public/consumer/tip015/"
+    },
+    "Georgia": {
+      "expungement": "https://gbi.georgia.gov/services/georgia-criminal-history-record-restrictions",
+      "small_claims": "https://www.georgialegalaid.org/resource/how-to-sue-in-magistrate-court"
+    },
+    "Hawaii": {
+      "expungement": "https://ag.hawaii.gov/hcjdc/expungements/",
+      "small_claims": "https://www.courts.state.hi.us/small_claims"
+    },
+    "Idaho": {
+      "expungement": "https://isp.idaho.gov/bci/criminal-history/",
+      "small_claims": "https://courtselfhelp.idaho.gov/Forms/claims"
+    },
+    "Illinois": {
+      "expungement": "https://www.illinoislegalaid.org/legal-information/expunging-or-sealing-criminal-record-common-questions",
+      "small_claims": "https://www.illinoislegalaid.org/legal-information/small-claims-basics"
+    },
+    "Indiana": {
+      "expungement": "https://www.indianalegalservices.org/expungement/",
+      "small_claims": "https://www.in.gov/courts/publications/small-claims-manual/"
+    },
+    "Iowa": {
+      "expungement": "https://www.iowacourts.gov/browse/files/38328ca81c814cb1af15d52daa6f49f9/download",
+      "small_claims": "https://www.iowacourts.gov/for-the-public/representing-yourself/small-claims"
+    },
+    "Kansas": {
+      "expungement": "https://www.kansaslegalservices.org/node/facts-about-expungement-kansas",
+      "small_claims": "https://www.kjc.ks.gov/legal-forms/small-claims"
+    },
+    "Kentucky": {
+      "expungement": "https://kycourts.gov/AOC/Information-and-Technology/Pages/Expungement.aspx",
+      "small_claims": "https://www.kycourts.gov/Legal-Help/Documents/P-6_Small_Claims_Handbook_25.pdf"
+    },
+    "Louisiana": {
+      "expungement": "https://orleansda.com/assistance/expungement/amp/",
+      "small_claims": "https://www.aglizmurrill.com/Files/Shared/Documents/AGuideToLaJpcCourt.pdf"
+    },
+    "Maine": {
+      "expungement": "https://Courts.maine.gov/help/criminal/sealing.html",
+      "small_claims": "https://www.courts.maine.gov/help/small-claims/index.html"
+    },
+    "Maryland": {
+      "expungement": "https://www.mdcourts.gov/legalhelp/expungement",
+      "small_claims": "http://www.mdcourts.gov/legalhelp/smallclaims"
+    },
+    "Massachusetts": {
+      "expungement": "https://www.mass.gov/how-to/request-a-time-based-expungement-of-your-criminal-record",
+      "small_claims": "https://www.mass.gov/small-claims"
+    },
+    "Michigan": {
+      "expungement": "https://michigan.gov/ag/initiatives/expungement-assistance",
+      "small_claims": "https://michiganlegalhelp.org/resources/money-debt-and-consumer-issues/overview-of-small-claims-court"
+    },
+    "Minnesota": {
+      "expungement": "https://mncourts.gov/help-topics/criminal-expungement/definitions",
+      "small_claims": "https://mncourts.gov/help-topics/conciliation-court"
+    },
+    "Mississippi": {
+      "expungement": "https://ccresourcecenter.org/state-restoration-profiles/mississippi-restoration-of-rights-pardon-expungement-sealing-2/",
+      "small_claims": "https://courts.ms.gov/trialcourts/justicecourt/justicecourt.php"
+    },
+    "Missouri": {
+      "expungement": "https://clearmyrecordmo.org/missouri-expungement-types/",
+      "small_claims": "https://www.courts.mo.gov/page.jsp?id=704"
+    },
+    "Montana": {
+      "expungement": "https://dojmt.gov/dci-home/conviction-expungement-process/?ref=blog.counselstack.com",
+      "small_claims": "http://dojmt.gov/wp-content/uploads/2025/02/Small-Claims-Court-Brochure_OCP-2.pdf"
+    },
+    "Nebraska": {
+      "expungement": "https://supremecourt.nebraska.gov/sites/default/files/CC-6-12-a.pdf",
+      "small_claims": "https://supremecourt.ne.gov/self-help/small-claims/filing-small-claims-case-nebraska"
+    },
+    "Nevada": {
+      "expungement": "https://nevadalegalservices.org/criminal-record-sealing/",
+      "small_claims": "https://nvcourts.gov/aoc/discover_nevada_justice/discover_nevada_justice_articles/small_claims_court"
+    },
+    "New Hampshire": {
+      "expungement": "https://www.603legalaid.org/how-to-remove-your-criminal-record",
+      "small_claims": "https://www.courts.nh.gov/our-courts/circuit-court/district-division/small-claims"
+    },
+    "New Jersey": {
+      "expungement": "https://www.njcourts.gov/self-help/expunge-record",
+      "small_claims": "https://www.njcourts.gov/self-help/small-claims-court"
+    },
+    "New Mexico": {
+      "expungement": "https://nmcourts.gov/court-administration/office-of-general-counsel/expungement/",
+      "small_claims": "https://supremecourt.nmcourts.gov/wp-content/uploads/sites/30/2024/01/How-to-File-a-Lawsuit.pdf"
+    },
+    "New York": {
+      "expungement": "https://www.nycourts.gov/help/criminal/sealed-records-after-10-years-cpl-16059",
+      "small_claims": "https://www.nycourts.gov/help/small-claims"
+    },
+    "North Carolina": {
+      "expungement": "https://www.nccourts.gov/help-topics/court-records/expunctions",
+      "small_claims": "https://www.nccourts.gov/courts/small-claims-court"
+    },
+    "North Dakota": {
+      "expungement": "https://www.ndcourts.gov/Media/Default/legal-resources/legal-self-help/other-forms/Sealing%20Criminal%20Records%20Research%20Guide.pdf",
+      "small_claims": "https://www.ndcourts.gov/legal-self-help/small-claims"
+    },
+    "Ohio": {
+      "expungement": "https://www.ohiolegalhelp.org/topic/seal-criminal-record",
+      "small_claims": "https://www.ohiolegalhelp.org/topic/small-claims"
+    },
+    "Oklahoma": {
+      "expungement": "https://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=440214",
+      "small_claims": "https://digitalprairie.ok.gov/digital/api/collection/stgovpub/id/238966/download"
+    },
+    "Oregon": {
+      "expungement": "https://www.courts.oregon.gov/courts/lane/help/pages/expungement.aspx",
+      "small_claims": "https://www.courts.oregon.gov/courts/multnomah/go/Pages/smallclaims.aspx"
+    },
+    "Pennsylvania": {
+      "expungement": "https://staging.pacourts.us/learn/learn-about-the-judicial-system/clean-slate-expungement-and-limited-access",
+      "small_claims": "https://www.courts.phila.gov/municipal/civil/small-claims-cases/"
+    },
+    "Rhode Island": {
+      "expungement": "https://riag.ri.gov/community-outreach/expungements",
+      "small_claims": "https://www.courts.ri.gov/Courts/districtcourt/Pages/Small%20Claims.aspx"
+    },
+    "South Carolina": {
+      "expungement": "https://www.sccourts.org/resources/general-public/expungement-application-process/for-magistrate-municipal-courts/",
+      "small_claims": "https://www.sccourts.org/courts/trial-courts/magistrate-court/"
+    },
+    "Tennessee": {
+      "expungement": "https://preprod.tn.gov/content/dam/tn/tbi/documents/Expungement-FAQ-81023.pdf",
+      "small_claims": "https://laet.org/wp-content/uploads/2025/11/Representing-Yourself-Brochure-3.pdf"
+    },
+    "Texas": {
+      "expungement": "https://texaslawhelp.org/guide/i-need-to-clear-an-arrest-from-my-record-expunction",
+      "small_claims": "https://guides.sll.texas.gov/small-claims"
+    },
+    "Utah": {
+      "expungement": "http://www.utcourts.gov/en/self-help/case-categories/criminal-justice/expunge.html",
+      "small_claims": "http://utcourts.gov/howto/smallclaims/"
+    },
+    "Vermont": {
+      "expungement": "https://vtlawhelp.org/expungement",
+      "small_claims": "https://vtlawhelp.org/court-process-small-claims"
+    },
+    "Virginia": {
+      "expungement": "https://www.co.augusta.va.us/home/showpublisheddocument/20631/639184151820730000",
+      "small_claims": "https://selfhelp.vacourts.gov/page/11/small-claims"
+    },
+    "Washington": {
+      "expungement": "https://www.washingtonlawhelp.org/vacate-criminal-records-basics",
+      "small_claims": "https://www.atg.wa.gov/small-claims-court-0"
+    },
+    "West Virginia": {
+      "expungement": "https://code.wvlegislature.gov/61-11-26/",
+      "small_claims": "http://www.courtswv.gov/lower-courts/magistrate-courts"
+    },
+    "Wisconsin": {
+      "expungement": "https://wisatj.org/wp-content/uploads/Expungement-brochure.pdf",
+      "small_claims": "http://www.wicourts.gov/ecourts/prose.htm"
+    },
+    "Wyoming": {
+      "expungement": "https://www.uwyo.edu/studentatty/legal-information-by-topic/criminal-law.pdf",
+      "small_claims": "https://www.wyocourts.gov/legal-help-by-topic/small-claims/"
+    },
+    "South Dakota": {
+      "small_claims": "https://ujs.sd.gov/faq/judgments/",
+      "expungement": "https://ccresourcecenter.org/state-restoration-profiles/south-dakota-restoration-of-rights-pardon-expungement-sealing/"
+    }
+  }
+}

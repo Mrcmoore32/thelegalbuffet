@@ -1,0 +1,204 @@
+{
+ "states": {
+  "Alabama": {
+   "name_change": "https://www.alabamalegalhelp.org/issues/families-and-children/name-change?amp%3Bpage=1",
+   "wage_claim": "https://www.dol.gov/agencies/whd"
+  },
+  "Alaska": {
+   "name_change": "http://courts.alaska.gov/main/faq.htm",
+   "wage_claim": "https://labor.alaska.gov/lss/whfaq.htm"
+  },
+  "Arizona": {
+   "name_change": "https://www.azcourts.gov/selfservicecenter/Forms/Name-Change",
+   "wage_claim": "http://www.azica.gov/labor-claims-unpaid-wages"
+  },
+  "Arkansas": {
+   "name_change": "https://a.arlawhelp.org/name-change/adults",
+   "wage_claim": "https://labor.arkansas.gov/labor/labor-standards/wage-claims/"
+  },
+  "California": {
+   "name_change": "https://courts.ca.gov/1053.htm",
+   "wage_claim": "https://www.dir.ca.gov/dlse/HowToFileWageClaim.htm"
+  },
+  "Colorado": {
+   "name_change": "https://www.coloradojudicial.gov/self-help/adult",
+   "wage_claim": "https://cdle.colorado.gov/dlss/labor-laws-by-topic/wage-and-hour-laws-including-paid-sick-leave"
+  },
+  "Connecticut": {
+   "name_change": "https://jud.ct.gov/LAWLIB/Notebooks/Pathfinders/names.pdf",
+   "wage_claim": "https://portal.ct.gov/dol/divisions/wage-and-workplace-standards/wage-complaint"
+  },
+  "Delaware": {
+   "name_change": "https://courts.delaware.gov/commonpleas/jurisdiction.aspx",
+   "wage_claim": "none-found"
+  },
+  "Florida": {
+   "name_change": "https://www.jud11.flcourts.org/Family-Court-Self-Help-Packets-And-Forms",
+   "wage_claim": "https://www.dol.gov/agencies/whd"
+  },
+  "Georgia": {
+   "name_change": "https://www.georgialegalaid.org/resource/what-should-i-know-about-name-changes-and-gender-marker-changes-in-georgia",
+   "wage_claim": "https://www.dol.gov/agencies/whd"
+  },
+  "Hawaii": {
+   "name_change": "https://namechange.ehawaii.gov",
+   "wage_claim": "https://labor.hawaii.gov/wsd/unpaid-wages/"
+  },
+  "Idaho": {
+   "name_change": "https://courtselfhelp.idaho.gov/Forms/name",
+   "wage_claim": "https://www2.labor.idaho.gov/whclaim"
+  },
+  "Illinois": {
+   "name_change": "https://www.illinoiscourts.gov/forms/approved/name_change/name-change/",
+   "wage_claim": "https://labor.illinois.gov/unpaidwages.html"
+  },
+  "Indiana": {
+   "name_change": "https://indianalegalhelp.org/legal-topic/name-change/",
+   "wage_claim": "http://in.gov/dol/wage-and-hour/wage-and-hour-home/"
+  },
+  "Iowa": {
+   "name_change": "https://iowalegalaid.org/resource/changing-your-name-in-iowa/",
+   "wage_claim": "https://dial.iowa.gov/i-need/claims/how-do-i-wage-claim"
+  },
+  "Kansas": {
+   "name_change": "https://self-help.kscourts.gov/Home/NameChange",
+   "wage_claim": "https://www.dol.ks.gov/employers/workplace-laws/wage-claims"
+  },
+  "Kentucky": {
+   "name_change": "https://kycourts.gov/Legal-Forms/Pages/default.aspx",
+   "wage_claim": "none-found"
+  },
+  "Louisiana": {
+   "name_change": "https://orleansda.com/assistance/name-change/",
+   "wage_claim": "https://www.dol.gov/agencies/whd"
+  },
+  "Maine": {
+   "name_change": "https://ptla.org/changing-your-name",
+   "wage_claim": "https://www.maine.gov/labor/complaint/"
+  },
+  "Maryland": {
+   "name_change": "https://www.mdcourts.gov/family/family-forms",
+   "wage_claim": "https://labor.maryland.gov/labor/wages/"
+  },
+  "Massachusetts": {
+   "name_change": "https://www.mass.gov/info-details/how-do-i-file-a-change-of-name-for-an-adult",
+   "wage_claim": "https://www.mass.gov/how-to/file-a-minimum-wage-complaint"
+  },
+  "Michigan": {
+   "name_change": "https://michiganlegalhelp.org/resources/ids-and-name-change/i-want-change-my-name",
+   "wage_claim": "https://www.michigan.gov/leo/bureaus-agencies/ber/wage-and-hour/min-wage/filing-a-minimum-wage-or-overtime-complaint"
+  },
+  "Minnesota": {
+   "name_change": "https://www.mncourts.gov/Help-Topics/Name-Change.aspx",
+   "wage_claim": "https://www.dli.mn.gov/wage-claim"
+  },
+  "Mississippi": {
+   "name_change": "https://www.msatjc.org/family-and-children-law",
+   "wage_claim": "https://www.dol.gov/agencies/whd"
+  },
+  "Missouri": {
+   "name_change": "https://www.courts.mo.gov/page.jsp?id=3834",
+   "wage_claim": "https://labor.mo.gov/dls/minimum-wage/file-complaint"
+  },
+  "Montana": {
+   "name_change": "https://courts.mt.gov/forms/Adult_Name_Change_3_2_20261.pdf",
+   "wage_claim": "https://erd.dli.mt.gov/labor-standards/wage-and-hour-payment-act"
+  },
+  "Nebraska": {
+   "name_change": "https://supremecourt.nebraska.gov/self-help/name-change/adult-name-change",
+   "wage_claim": "https://dol.nebraska.gov/LaborStandards/wages/WageComplaint"
+  },
+  "Nevada": {
+   "name_change": "https://selfhelp.nvcourts.gov/self-help/name-changes/name-changes-for-adults",
+   "wage_claim": "none-found"
+  },
+  "New Hampshire": {
+   "name_change": "https://courts.nh.gov/self-help/name-changes",
+   "wage_claim": "https://www.dol.nh.gov/online-forms/file-online-wage-claim"
+  },
+  "New Jersey": {
+   "name_change": "https://www.njcourts.gov/self-help/name-change/name-change-adults",
+   "wage_claim": "https://www.nj.gov/labor/wageandhour/"
+  },
+  "New Mexico": {
+   "name_change": "https://selfrepresentation.nmcourts.gov/name-change/",
+   "wage_claim": "https://www.dol.gov/agencies/whd/state/contacts"
+  },
+  "New York": {
+   "name_change": "https://www.nycourts.gov/help/name-change-andor-sex-designation-change/name-change-basics",
+   "wage_claim": "https://dol.ny.gov/file-labor-standards-wage-theft-claim"
+  },
+  "North Carolina": {
+   "name_change": "https://www3.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_101/GS_101-5.html",
+   "wage_claim": "https://www.labor.nc.gov/workplace-rights/employee-rights-regarding-time-worked-and-wages-earned/how-file-wage-complaint"
+  },
+  "North Dakota": {
+   "name_change": "https://www.ndcourts.gov/legal-self-help/name-change-adult",
+   "wage_claim": "https://www.nd.gov/labor/wage-claim-process"
+  },
+  "Ohio": {
+   "name_change": "https://www.ohiolegalhelp.org/topic/name-change",
+   "wage_claim": "https://www.dol.gov/agencies/whd/state/contacts"
+  },
+  "Oklahoma": {
+   "name_change": "https://oklaw.org/files/CB59BD67-E9D4-A408-BB53-C676C85FEED2/attachments/E61259F6-1D53-483C-AF54-7DA7E7543B32/adult-name-change-forms.pdf",
+   "wage_claim": "https://Oklahoma.gov/content/dam/ok/en/labor/documents/safety-and-health/workplace-rights/wage-hour/2022_1214_WPR_WH_WageClaim%20Form.pdf"
+  },
+  "Oregon": {
+   "name_change": "https://www.courts.oregon.gov/courts/clackamas/help/pages/name-sex-change-forms.aspx",
+   "wage_claim": "http://www.oregon.gov/boli/workers/Pages/paychecks.aspx"
+  },
+  "Pennsylvania": {
+   "name_change": "https://pailp.org/s/Name-changing-info.pdf",
+   "wage_claim": "https://www.pa.gov/services/dli/file-a-wage-payment-and-collection-complaint.htm"
+  },
+  "Rhode Island": {
+   "name_change": "https://webserver.rilegislature.gov/Statutes/TITLE33/33-22/33-22-28.htm",
+   "wage_claim": "http://dlt.ri.gov/regulation-and-safety/labor-standards/wage-complaints"
+  },
+  "South Carolina": {
+   "name_change": "https://www.scstatehouse.gov/code/t15c049.php",
+   "wage_claim": "https://llr.sc.gov/wage/paymentofwages.aspx"
+  },
+  "South Dakota": {
+   "name_change": "https://ujs.sd.gov/self-help/civil-law-help/name-change/",
+   "wage_claim": "http://dlr.sd.gov/employment_laws/wage_hour_issues.aspx"
+  },
+  "Tennessee": {
+   "name_change": "none-found",
+   "wage_claim": "https://www.tn.gov/workforce/employees/labor-laws/labor-laws-redirect/wages-breaks/wcf.html"
+  },
+  "Texas": {
+   "name_change": "https://texaslawhelp.org/guide/i-want-to-change-my-name",
+   "wage_claim": "https://www.twc.texas.gov/programs/wage-and-hour/texas-payday-law"
+  },
+  "Utah": {
+   "name_change": "https://www.utcourts.gov/en/self-help/case-categories/family/name-change/sex-change.html",
+   "wage_claim": "http://laborcommission.utah.gov/divisions/utah-antidiscrimination-and-labor-uald/wage-claim/"
+  },
+  "Vermont": {
+   "name_change": "http://www.vermontjudiciary.org/probate/name-changes",
+   "wage_claim": "https://labor.vermont.gov/form/online-wage-claim-form"
+  },
+  "Virginia": {
+   "name_change": "none-found",
+   "wage_claim": "https://doli.virginia.gov/programs/labor-law/payment-of-wage/"
+  },
+  "Washington": {
+   "name_change": "https://www.washingtonlawhelp.org/en/name-change-guide",
+   "wage_claim": "http://lni.wa.gov/workers-rights/workplace-complaints/worker-rights-complaints"
+  },
+  "West Virginia": {
+   "name_change": "none-found",
+   "wage_claim": "https://labor.wv.gov/media/117/download?inline"
+  },
+  "Wisconsin": {
+   "name_change": "https://www.wicourts.gov/services/public/selfhelp/namechange.htm",
+   "wage_claim": "https://dwd.wisconsin.gov/er/laborstandards/lscomplaint.htm"
+  },
+  "Wyoming": {
+   "name_change": "https://www.wyocourts.gov/app/uploads/2025/12/Instructions_for_adult_name_change_forms_Rev.07.01.22-FINAL-1.pdf",
+   "wage_claim": "https://dws.wyo.gov/dws-division/labor-standards/file-a-claim-for-wages/"
+  }
+ }
+}
