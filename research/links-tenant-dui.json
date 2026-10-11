@@ -1,0 +1,204 @@
+{
+  "states": {
+    "Alabama": {
+      "dui": "https://www.alea.gov/dps/driver-license/license-and-id-cards/ignition-interlock-laws",
+      "tenant_rights": "https://www.hud.gov/al"
+    },
+    "Alaska": {
+      "dui": "https://www.nhtsa.gov/sites/nhtsa.gov/files/811673.pdf",
+      "tenant_rights": "http://law.alaska.gov/pdf/consumer/LandlordTenant_web.pdf"
+    },
+    "Arizona": {
+      "dui": "https://azdot.gov/mvd/services/dui-suspension/driving-under-influence-dui",
+      "tenant_rights": "https://housing.az.gov/general-public/arizona-residential-landlord-and-tenant-act"
+    },
+    "Arkansas": {
+      "dui": "https://www.dfa.arkansas.gov/office/driver-services/dui-dwi-information/dui-dwi-bui-bwi-offenses/",
+      "tenant_rights": "https://arkansasag.gov/divisions/public-protection/homes/landlord-and-tenant-rights/"
+    },
+    "California": {
+      "dui": "https://qr.dmv.ca.gov/portal/handbook/california-driver-handbook/alcohol-and-drugs/",
+      "tenant_rights": "https://oag.ca.gov/housing"
+    },
+    "Colorado": {
+      "dui": "https://csp.colorado.gov/press-release/plan-while-you-can",
+      "tenant_rights": "https://doh.colorado.gov/legal-and-rent-assistance-resources-for-tenants"
+    },
+    "Connecticut": {
+      "dui": "https://portal.ct.gov/DMV/Licenses-Permits-IDs/License-Suspension/Driving-Under-Influence",
+      "tenant_rights": "https://jud.ct.gov/Publications/HM031.pdf"
+    },
+    "Delaware": {
+      "dui": "https://DELCODE.DELAWARE.GOV/title21/c041/sc09/index.html",
+      "tenant_rights": "http://courts.delaware.gov/help/landlordtenant/"
+    },
+    "Florida": {
+      "dui": "https://www.flhsmv.gov/driver-licenses-id-cards/education-courses/dui-and-iid/florida-dui-administrative-suspension-laws/",
+      "tenant_rights": "https://www.fdacs.gov/Consumer-Resources/Landlord-Tenant-Law-in-Florida"
+    },
+    "Georgia": {
+      "dui": "https://dds.georgia.gov/georgia-licenseid/violations-suspensions-revocations/violations-and-suspensions-faqs/dui-first",
+      "tenant_rights": "https://consumer.georgia.gov/consumer-topics/landlord-tenant-issues-and-handbook"
+    },
+    "Hawaii": {
+      "dui": "https://www.honolulupd.org/information/motor-vehicle-safety",
+      "tenant_rights": "https://cca.hawaii.gov/ocp/landlord-tenant-residential-code/"
+    },
+    "Idaho": {
+      "dui": "https://apps.itd.idaho.gov/apps/dmv-audio/documents/DLChapter8.pdf",
+      "tenant_rights": "https://www.ag.idaho.gov/office-resources/manuals/"
+    },
+    "Illinois": {
+      "dui": "https://isp.illinois.gov/StaticFiles/docs/TrafficResources/DUI.pdf",
+      "tenant_rights": "http://illinoisattorneygeneral.gov:443/Page-Attachments/LandlordAndTenantRightsLaws.pdf"
+    },
+    "Indiana": {
+      "dui": "https://www.in.gov/bmv/licenses-permits-ids/suspension-and-reinstatement/common-traffic-violations/",
+      "tenant_rights": "https://www.in.gov/ihcda/homeowners-and-renters/renters-rights/"
+    },
+    "Iowa": {
+      "dui": "https://iowadot.gov/mvd/driverslicense/OWI",
+      "tenant_rights": "https://iowalegalaid.org/resource/landlord-and-tenant-law-questions-and-answers/"
+    },
+    "Kansas": {
+      "dui": "https://kslegislature.gov/media/statute/008_000_0000_chapter/008_015_0000_article/008_015_0067_section/008_015_0067_k.pdf",
+      "tenant_rights": "https://www.kansaslegalservices.org/page/1934/tenant-issues-and-rights-kansas-renters"
+    },
+    "Kentucky": {
+      "dui": "http://drive.ky.gov/Drivers/Pages/DUI.aspx",
+      "tenant_rights": "https://ag.ky.gov:443/Resources/Consumer-Resources/Consumers/home/pages/rental-housing.aspx"
+    },
+    "Louisiana": {
+      "dui": "https://expresslane.la.gov/omv/drivers/driver-reinstatement/suspensions/",
+      "tenant_rights": "https://ag.louisiana.gov/Files/Shared/Documents/MovingInOut.pdf"
+    },
+    "Maine": {
+      "dui": "https://www1.maine.gov/sos/bmv/licenses/oui.html",
+      "tenant_rights": "https://www.maine.gov/ag/consumer-protection/consumer-help-topics/housing/tenant-rights"
+    },
+    "Maryland": {
+      "dui": "https://mva.maryland.gov/your-mva-guide/drivers-revoked-or-suspended-licenses/driving-under-influence-dui",
+      "tenant_rights": "https://oag.maryland.gov/i-need-to/Pages/landlord-tenant-disputes.aspx"
+    },
+    "Massachusetts": {
+      "dui": "https://www.mass.gov/info-details/alcohol-and-drug-suspensions-for-over-21-years-of-age",
+      "tenant_rights": "https://www.mass.gov/info-details/tenant-rights"
+    },
+    "Michigan": {
+      "dui": "https://legislature.mi.gov/Laws/MCL?objectName=mcl-257-625",
+      "tenant_rights": "https://www.michigan.gov/consumerprotection/protect-yourself/renters-rights"
+    },
+    "Minnesota": {
+      "dui": "https://www.revisor.mn.gov/statutes/cite/169A.54",
+      "tenant_rights": "https://ag.state.mn.us/brochures/publandlordtenants.pdf"
+    },
+    "Mississippi": {
+      "dui": "https://www.driverservicebureau.dps.ms.gov/node/86",
+      "tenant_rights": "https://www.hud.gov/states/mississippi"
+    },
+    "Missouri": {
+      "dui": "https://dor.MO.gov/driver-license/revocation-reinstatement/dwi.html",
+      "tenant_rights": "https://ago.mo.gov/get-help/programs-services-from-a-z/landlord-tenant-law/"
+    },
+    "Montana": {
+      "dui": "https://leg.mt.gov/bills/MCA/title_0610/chapter_0080/part_0100/section_0070/0610-0080-0100-0070.html",
+      "tenant_rights": "https://dojmt.gov/office-of-consumer-protection/tenants-and-landlords/"
+    },
+    "Nebraska": {
+      "dui": "https://nebraskalegislature.gov/laws/statutes.php?statute=60-6,197.03",
+      "tenant_rights": "https://legalaidofnebraska.org/file_download/2595770f-9acb-4623-b5e2-c3b98d5fb01a"
+    },
+    "Nevada": {
+      "dui": "https://dmv.nv.gov/dui.htm",
+      "tenant_rights": "https://www.hud.gov/states/nevada"
+    },
+    "New Hampshire": {
+      "dui": "https://www.dmv.nh.gov/tickets-accidents-or-restorations/suspension-and-restoration",
+      "tenant_rights": "https://www.doj.nh.gov/consumer/sourcebook/renting.htm"
+    },
+    "New Jersey": {
+      "dui": "https://www.nj.gov/mvc/license/duitable.html",
+      "tenant_rights": "https://nj.gov/dca/home/landlord-tenant.shtml"
+    },
+    "New Mexico": {
+      "dui": "https://www.mvd.newmexico.gov/nm-drivers-licenses-ids/dwi-information/what-to-do-after-a-dwi/",
+      "tenant_rights": "https://housingnm.org/individuals-and-families/find-housing/tools-resources/renters-guide"
+    },
+    "New York": {
+      "dui": "http://dmv.ny.gov/points-and-penalties/penalties-for-alcohol-or-drug-related-violations",
+      "tenant_rights": "https://ag.ny.gov/resources/individuals/tenants-homeowners/tenants"
+    },
+    "North Carolina": {
+      "dui": "https://www.ncdot.gov/initiatives-policies/safety/booze-it-lose-it/pages/default.aspx",
+      "tenant_rights": "https://www.nccourts.gov/help-topics/housing/landlordtenant-issues"
+    },
+    "North Dakota": {
+      "dui": "https://www.visionzero.nd.gov/reaching-zero/road-users/impaired-driving",
+      "tenant_rights": "https://attorneygeneral.nd.gov/consumer-resources/tenant-rights"
+    },
+    "Ohio": {
+      "dui": "https://codes.ohio.gov/ohio-revised-code/section-4511.19",
+      "tenant_rights": "https://ohiohome.org/renters.aspx"
+    },
+    "Oklahoma": {
+      "dui": "https://enduiok.com",
+      "tenant_rights": "https://oklaw.org/resource/landlord-tenant-rights-and-duties"
+    },
+    "Oregon": {
+      "dui": "https://www.oregon.gov/odot/Safety/Documents/DUII_Brochure.pdf",
+      "tenant_rights": "https://www.courts.oregon.gov/help/Pages/landlord-tenant.aspx"
+    },
+    "Pennsylvania": {
+      "dui": "https://pa.gov/agencies/penndot/traveling-in-pa/safety/traffic-safety-driver-topics/impaired-driving",
+      "tenant_rights": "https://cdn.attorneygeneral.gov/wp-content/uploads/ConsumerTenant-Landlord-Guide.pdf"
+    },
+    "Rhode Island": {
+      "dui": "https://dmv.ri.gov/node/1381",
+      "tenant_rights": "https://www.hud.gov/states/rhode-island"
+    },
+    "South Carolina": {
+      "dui": "https://scdps.sc.gov/drivinginsc/impaired-driving",
+      "tenant_rights": "https://www.hud.gov/sc"
+    },
+    "South Dakota": {
+      "dui": "https://www.brookingscountysd.gov/246/Driving-While-Under-the-Influence",
+      "tenant_rights": "https://consumer.sd.gov/fastfacts/landlordtenant.aspx"
+    },
+    "Tennessee": {
+      "dui": "https://www.tn.gov/safety/publicsafety/duioutline.html",
+      "tenant_rights": "https://las.org/get-help/self-help-resources-copy/"
+    },
+    "Texas": {
+      "dui": "https://www.dps.texas.gov/section/driver-license/alcohol-related-offenses",
+      "tenant_rights": "https://www.texasattorneygeneral.gov/consumer-protection/home-real-estate-and-travel/renters-rights"
+    },
+    "Utah": {
+      "dui": "https://highwaysafety.utah.gov/drive-sober/",
+      "tenant_rights": "https://www.utcourts.gov/selfhelp/housing.php"
+    },
+    "Vermont": {
+      "dui": "http://shso.vermont.gov/programs/impaired-driving",
+      "tenant_rights": "http://accd.vermont.gov/housing/resources-rules/renters-landlords/education-materials"
+    },
+    "Virginia": {
+      "dui": "https://www.dmv.virginia.gov/safety/programs/drinking",
+      "tenant_rights": "https://www.oag.state.va.us/consumer-protection/index.php/tips-info2?view=article&id=157:landlord-tenant&catid=15"
+    },
+    "Washington": {
+      "dui": "https://dol.wa.gov/driver-licenses-and-permits/suspended-driver-license/types-driver-license-suspensions/dui-driving-under-influence",
+      "tenant_rights": "https://www.atg.wa.gov/landlord-tenant"
+    },
+    "West Virginia": {
+      "dui": "https://code.wvlegislature.gov/17C-5-2/",
+      "tenant_rights": "http://wvlegalservices.org/tenevict.pdf"
+    },
+    "Wisconsin": {
+      "dui": "https://wisconsindot.gov/Pages/dmv/license-drvs/susp-or-rvkd/owi.aspx",
+      "tenant_rights": "https://datcp.wi.gov/Pages/Publications/LT-TenantsRights143.aspx"
+    },
+    "Wyoming": {
+      "dui": "none-found",
+      "tenant_rights": "https://www.wyocourts.gov/app/uploads/2025/04/Renters-Rights-Handout.pdf"
+    }
+  }
+}
