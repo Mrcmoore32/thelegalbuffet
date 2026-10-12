@@ -5,6 +5,7 @@
   if (!box || !results) return;
 
   var prefix = location.pathname.indexOf('/states/') !== -1 ? '../' : '';
+  var curPage = location.pathname.split('/').pop() || 'index.html';
   var index = null;
 
   function norm(s) {
@@ -44,7 +45,10 @@
     } else {
       results.innerHTML = matches.slice(0, 12).map(function (m) {
         var e = m.e;
-        var url = prefix + e.u + (e.a ? '#' + e.a : '');
+        var samePage = e.u.split('/').pop() === curPage;
+        var url = samePage
+          ? (e.a ? '#' + e.a : curPage)
+          : (prefix + e.u + (e.a ? '#' + e.a : ''));
         var page = e.p.replace(/ \| The Legal Buffet| — The Legal Buffet| - The Legal Buffet/, '');
         return '<a class="ss-hit" href="' + url + '">' +
           '<span class="ss-h">' + e.h.replace(/</g, '&lt;') + '</span>' +
@@ -55,7 +59,6 @@
   }
 
   var t = null;
-  var curPage = location.pathname.split('/').pop() || 'index.html';
   box.addEventListener('input', function () {
     clearTimeout(t);
     var q = box.value.trim();
