@@ -42,7 +42,7 @@
       results.innerHTML = '<div class="ss-empty">No results for &ldquo;' +
         q.replace(/</g, '&lt;') + '&rdquo;. Try a state name or topic.</div>';
     } else {
-      results.innerHTML = matches.slice(0, 8).map(function (m) {
+      results.innerHTML = matches.slice(0, 12).map(function (m) {
         var e = m.e;
         var url = prefix + e.u + (e.a ? '#' + e.a : '');
         var page = e.p.replace(/ \| The Legal Buffet| — The Legal Buffet| - The Legal Buffet/, '');

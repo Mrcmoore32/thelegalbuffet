@@ -367,8 +367,9 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
 .site-search input::-webkit-search-cancel-button { cursor: pointer; }
 .site-search-results {
   position: absolute; top: calc(100% + .5rem); right: 0; width: min(22rem, 80vw);
+  max-height: 70vh; overflow-y: auto; -webkit-overflow-scrolling: touch;
   background: var(--card); border: 1px solid var(--line); border-radius: var(--radius-sm);
-  box-shadow: var(--shadow-lg); overflow: hidden; z-index: 60;
+  box-shadow: var(--shadow-lg); overflow-x: hidden; z-index: 60;
 }
 .ss-hit { display: block; padding: .7rem .9rem; text-decoration: none; border-bottom: 1px solid var(--line); }
 .ss-hit:last-child { border-bottom: none; }
