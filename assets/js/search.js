@@ -55,6 +55,7 @@
   }
 
   var t = null;
+  var curPage = location.pathname.split('/').pop() || 'index.html';
   box.addEventListener('input', function () {
     clearTimeout(t);
     var q = box.value.trim();
@@ -65,7 +66,11 @@
         var scored = [];
         for (var i = 0; i < idx.length; i++) {
           var s = score(idx[i], words);
-          if (s > 0) scored.push({ e: idx[i].e, s: s });
+          if (s > 0) {
+            // boost results from the page the visitor is already on
+            if (idx[i].e.u.split('/').pop() === curPage) s += 10;
+            scored.push({ e: idx[i].e, s: s });
+          }
         }
         scored.sort(function (a, b) { return b.s - a.s; });
         render(scored, q);
