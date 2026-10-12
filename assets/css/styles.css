@@ -383,3 +383,17 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
   .site-search input { width: 100%; }
   .site-search-results { left: 0; right: 0; width: auto; }
 }
+
+/* ---------- topic menu (state pages) ---------- */
+.topic-menu {
+  background: var(--card); border: 1px solid var(--line); border-radius: var(--radius);
+  box-shadow: var(--shadow); padding: 1.1rem 1.25rem; margin-bottom: 2rem;
+}
+.topic-menu-title { font-weight: 800; font-size: .85rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 0 0 .7rem; }
+.topic-menu ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: .5rem; }
+.topic-menu a {
+  display: inline-block; padding: .45rem .8rem; font-size: .85rem; font-weight: 600;
+  background: var(--paper-deep); border: 1px solid var(--line); border-radius: 999px;
+  color: var(--ink); text-decoration: none;
+}
+.topic-menu a:hover { background: var(--accent); border-color: var(--accent); color: #fff; }
