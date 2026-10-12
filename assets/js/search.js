@@ -39,6 +39,7 @@
   }
 
   function render(matches, q) {
+    lastMatches = matches;
     if (!matches.length) {
       results.innerHTML = '<div class="ss-empty">No results for &ldquo;' +
         q.replace(/</g, '&lt;') + '&rdquo;. Try a state name or topic.</div>';
@@ -59,6 +60,7 @@
   }
 
   var t = null;
+  var lastMatches = [];
   box.addEventListener('input', function () {
     clearTimeout(t);
     var q = box.value.trim();
@@ -86,5 +88,15 @@
   });
   box.addEventListener('keydown', function (ev) {
     if (ev.key === 'Escape') { results.hidden = true; box.blur(); }
+    if (ev.key === 'Enter' && lastMatches.length) {
+      // jump straight to the top result (same URL logic as the rendered links)
+      var e = lastMatches[0].e;
+      var samePage = e.u.split('/').pop() === curPage;
+      var url = samePage
+        ? (e.a ? '#' + e.a : curPage)
+        : (prefix + e.u + (e.a ? '#' + e.a : ''));
+      ev.preventDefault();
+      location.href = url;
+    }
   });
 })();
