@@ -351,3 +351,6 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
   html { scroll-behavior: auto; }
   *, *::before, *::after { transition: none !important; }
 }
+
+/* ---------- link freshness stamp ---------- */
+.link-freshness { font-size: .8rem; color: var(--muted); margin: 0 0 .6rem; }
