@@ -19,6 +19,11 @@
       <span class="brand-mark"><span>LB</span></span>
       <span class="brand-text"><strong>The Legal Buffet</strong><small>Every state. Every legal topic.</small></span>
     </a>
+    <div class="site-search">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+      <input type="search" id="site-search" placeholder="Search legal topics&hellip;" aria-label="Search the site" autocomplete="off">
+      <div class="site-search-results" id="site-search-results" hidden></div>
+    </div>
     <button class="nav-toggle" aria-expanded="false" aria-label="Open menu">
       <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
     </button>
@@ -46,7 +51,7 @@
         <p style="margin-bottom:1.5rem">That didn't sit right. The people who need legal help the most are usually the ones going through the worst time of their lives: a divorce, an eviction, an arrest, a custody fight. They're stressed, they're scared, and the last thing they need is to dig through 47 tabs of legalese hoping to stumble onto the right phone number.</p>
         <p style="margin-bottom:1.5rem">So I built The Legal Buffet: one place, every state, every kind of legal trouble &mdash; with the good stuff front and center, in plain language, with every link verified against an official source.</p>
 
-        <h2 style="margin-top:2.5rem">What we promise</h2>
+        <h2 id="what-we-promise" style="margin-top:2.5rem">What we promise</h2>
         <ul class="checklist" style="margin-top:1.2rem">
           <li><strong>Free, always.</strong> No paywalls, no accounts, no upsells. If it costs money, we'll say so upfront.</li>
           <li><strong>Verified links only.</strong> Every organization, phone number, and link is checked against an official source. If we can't verify it, it doesn't go on the site.</li>
@@ -54,7 +59,7 @@
           <li><strong>Honest about limits.</strong> We're not lawyers and this isn't legal advice &mdash; it says so on every page. We'll point you to real attorneys and real aid offices for the rest.</li>
         </ul>
 
-        <h2 style="margin-top:2.5rem">What this site is not</h2>
+        <h2 id="what-this-site-is-not" style="margin-top:2.5rem">What this site is not</h2>
         <p>We're not a law firm, we're not lawyers, and nothing here is legal advice. Think of us as the friend who's been through it and hands you the right phone numbers &mdash; not the attorney who represents you. For advice about your specific situation, talk to a licensed attorney in your state.</p>
       </div>
       <aside class="sticky-side">
@@ -126,5 +131,6 @@
 
 <script src="assets/js/site.js"></script>
 <button class="quick-exit" data-quick-exit aria-label="Leave this site quickly">Quick exit &times;</button>
+  <script src="assets/js/search.js"></script>
 </body>
 </html>
