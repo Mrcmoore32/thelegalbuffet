@@ -397,3 +397,10 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
   color: var(--ink); text-decoration: none;
 }
 .topic-menu a:hover { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+/* ---------- deadline notice banner ---------- */
+.deadline-notice {
+  background: #fdf3e3; border: 1px solid #ecd9ac; border-left: 4px solid #d9a441;
+  border-radius: var(--radius-sm); padding: .7rem 1rem; font-size: .88rem;
+  color: #5c4a1e; margin: 0 0 1.25rem;
+}
