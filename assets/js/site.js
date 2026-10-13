@@ -82,7 +82,7 @@
   if (langSel) {
     try {
       var gm = document.cookie.match(/(?:^|;)\s*googtrans=\/en\/([a-zA-Z-]+)/);
-      if (gm && gm[1]) langSel.value = gm[1];
+      langSel.value = (gm && gm[1]) ? gm[1] : "";
     } catch (e) {}
     langSel.addEventListener("change", function () {
       var lang = this.value || "en";
