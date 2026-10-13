@@ -76,4 +76,22 @@
   document.querySelectorAll("[data-year]").forEach(function (el) {
     el.textContent = new Date().getFullYear();
   });
+
+  /* Language picker: drive Google Translate via the googtrans cookie. */
+  var langSel = document.getElementById("lang-select");
+  if (langSel) {
+    try {
+      var gm = document.cookie.match(/(?:^|;)\s*googtrans=\/en\/([a-zA-Z-]+)/);
+      if (gm && gm[1]) langSel.value = gm[1];
+    } catch (e) {}
+    langSel.addEventListener("change", function () {
+      var lang = this.value || "en";
+      var c = "googtrans=/en/" + lang;
+      var host = location.hostname.replace(/^www\./, "");
+      document.cookie = c + ";path=/";
+      document.cookie = c + ";path=/;domain=." + host;
+      try { location.hash = "googtrans(en/" + lang + ")"; } catch (e) {}
+      location.reload();
+    });
+  }
 })();
