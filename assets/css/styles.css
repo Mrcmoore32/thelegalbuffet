@@ -416,3 +416,13 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
 .goog-te-banner-frame, .goog-te-balloon-frame { display: none !important; }
 body { top: 0 !important; }
 .skiptranslate iframe { display: none !important; }
+
+/* ---------- translation patience note ---------- */
+.trans-note {
+  position: fixed; left: 50%; bottom: 1.2rem; z-index: 200;
+  transform: translate(-50%, 16px); opacity: 0; transition: opacity .4s ease, transform .4s ease;
+  background: var(--ink); color: #fff; padding: .7rem 1.15rem; border-radius: 999px;
+  font-size: .85rem; box-shadow: var(--shadow-lg); max-width: 92vw; text-align: center;
+  cursor: pointer;
+}
+.trans-note.show { opacity: 1; transform: translate(-50%, 0); }

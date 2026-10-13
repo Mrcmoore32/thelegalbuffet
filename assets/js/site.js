@@ -94,4 +94,24 @@
       location.reload();
     });
   }
+
+  /* Translation note: Google fills in long pages progressively as you scroll.
+     Show a one-time hint per session while a translation is active. */
+  try {
+    var tgm = document.cookie.match(/(?:^|;)\s*googtrans=\/en\/([a-zA-Z-]+)/);
+    var tActive = tgm && tgm[1] && tgm[1] !== "en";
+    if (tActive && !sessionStorage.getItem("lb-trans-note")) {
+      sessionStorage.setItem("lb-trans-note", "1");
+      var tnote = document.createElement("div");
+      tnote.className = "trans-note";
+      tnote.textContent = "Translating this page \u2014 scroll down and each section flips over as you go.";
+      document.body.appendChild(tnote);
+      tnote.addEventListener("click", function () { tnote.remove(); });
+      setTimeout(function () { tnote.classList.add("show"); }, 800);
+      setTimeout(function () {
+        tnote.classList.remove("show");
+        setTimeout(function () { tnote.remove(); }, 600);
+      }, 8000);
+    }
+  } catch (e) {}
 })();
