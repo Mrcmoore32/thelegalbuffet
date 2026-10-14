@@ -9,6 +9,20 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,500&family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/styles.css?v=20261013c">
+  <style>
+    /* Guided helper banner — links to the 3-question helper on the homepage. */
+    .helper-banner {
+      display: flex; gap: .9rem; align-items: center;
+      background: var(--card); border-radius: var(--radius);
+      box-shadow: var(--shadow); padding: 1.1rem 1.3rem;
+      text-decoration: none; color: inherit; margin: 0 0 2.5rem;
+      transition: transform .14s ease, box-shadow .14s ease;
+    }
+    .helper-banner:hover { transform: translateY(-2px); box-shadow: var(--shadow-lg); color: inherit; }
+    .helper-banner svg { flex: none; color: var(--accent-dark); }
+    .helper-banner span { font-size: 1rem; }
+    .helper-banner strong { display: block; font-size: 1.05rem; margin-bottom: .15rem; }
+  </style>
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231b2a4a'/%3E%3Ctext x='32' y='42' font-family='Georgia,serif' font-size='30' font-weight='bold' fill='white' text-anchor='middle'%3ELB%3C/text%3E%3C/svg%3E">
 </head>
 <body>
@@ -72,6 +86,11 @@
       <h1>Start here.</h1>
       <p class="lede">If you've never dealt with lawyers or courts before, this page is your orientation. Read it once and you'll walk into any consultation knowing what's going on.</p>
     </div>
+
+    <a class="helper-banner" href="index.html#helper">
+      <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M9.1 9a3 3 0 0 1 5.8 1c0 2-3 3-3 3"/><path d="M12 17v.01"/></svg>
+      <span><strong>Not sure where to start?</strong>Answer 3 quick questions and we&rsquo;ll point you to the right resources for your state &rarr;</span>
+    </a>
 
     <div class="two-col" style="margin-bottom:3.5rem">
       <div>

@@ -1,0 +1,87 @@
+/* The Legal Buffet — print styles (checklists page) */
+@media print {
+
+  /* Hide everything that isn't the checklist content */
+  .site-header,
+  .site-footer,
+  .quick-exit,
+  .topic-menu,
+  .page-head .crumbs,
+  .page-head .eyebrow,
+  .translate-wrap,
+  #google_translate_element,
+  .site-search {
+    display: none !important;
+  }
+
+  /* Full-width content, black on white */
+  html, body {
+    background: #fff !important;
+    color: #000 !important;
+  }
+  .wrap {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  main {
+    padding: 0 !important;
+  }
+  .two-col {
+    display: block !important;
+  }
+
+  /* Drop card styling — flat, ink-friendly */
+  .block {
+    background: #fff !important;
+    box-shadow: none !important;
+    border: none !important;
+    border-radius: 0 !important;
+    page-break-inside: avoid;
+  }
+
+  /* Readable print type */
+  body {
+    font-size: 11pt;
+    line-height: 1.45;
+  }
+  h1 { font-size: 20pt; color: #000 !important; }
+  h2 { font-size: 15pt; color: #000 !important; margin-top: 1.5em; }
+  p, li, a { color: #000 !important; }
+  a { text-decoration: none; }
+
+  /* Printable checkboxes: real square glyphs, bordered so pens work too */
+  .checklist {
+    list-style: none;
+    padding: 0;
+    display: block !important;
+  }
+  .checklist li {
+    background: #fff !important;
+    box-shadow: none !important;
+    border: none !important;
+    border-radius: 0 !important;
+    padding: .35rem 0 .35rem 1.8rem !important;
+    margin: 0 0 .55rem;
+    position: relative;
+  }
+  .checklist li::before {
+    content: "\2610" !important;        /* ☐ ballot box */
+    position: absolute;
+    left: 0;
+    top: .28rem;
+    width: auto !important;
+    height: auto !important;
+    border: none !important;
+    border-radius: 0 !important;
+    background: none !important;
+    font-size: 13pt;
+    line-height: 1.2;
+    color: #000 !important;
+  }
+  .checklist strong { color: #000 !important; }
+
+  /* Keep each checklist section from splitting awkwardly */
+  section { page-break-inside: avoid; }
+}

@@ -9,6 +9,61 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,500&family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/styles.css?v=20261013c">
+  <style>
+    /* Guided helper widget — homepage hero (styles live here so styles.css is untouched). */
+    .helper-card {
+      background: var(--card);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow-lg);
+      padding: clamp(1.4rem, 4vw, 2.2rem);
+      margin-top: 1.75rem;
+      max-width: 46rem;
+    }
+    .helper-card h2 { margin: 0 0 .4rem; font-size: 1.35rem; }
+    .helper-sub { color: var(--muted); margin: 0 0 1.4rem; font-size: .98rem; }
+    .helper-field { margin: 0 0 1.15rem; border: 0; padding: 0; }
+    .helper-field > label, .helper-field > legend {
+      font-weight: 700; display: block; margin-bottom: .55rem; padding: 0;
+    }
+    .helper-card select {
+      appearance: none; -webkit-appearance: none;
+      font: inherit; font-weight: 600; color: var(--ink); width: 100%;
+      background: #fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='9' viewBox='0 0 14 9'%3E%3Cpath d='M1 1l6 6 6-6' fill='none' stroke='%231b2a4a' stroke-width='2' stroke-linecap='round'/%3E%3C/svg%3E") no-repeat right 1.1rem center;
+      border: 1.5px solid var(--line); border-radius: var(--radius-sm);
+      padding: .9rem 3rem .9rem 1.15rem; cursor: pointer;
+    }
+    .helper-card select:hover { border-color: var(--accent); }
+    .helper-urgency { display: flex; flex-wrap: wrap; gap: .6rem; }
+    .helper-urgency label { margin: 0; cursor: pointer; }
+    .helper-urgency input {
+      position: absolute; opacity: 0; width: 1px; height: 1px; overflow: hidden;
+    }
+    .helper-urgency .pill {
+      display: inline-block; font: inherit; font-weight: 600; font-size: .94rem;
+      border: 1.5px solid var(--line); border-radius: 999px;
+      padding: .7rem 1.15rem; background: #fff; color: var(--ink);
+      transition: border-color .12s ease, background .12s ease;
+    }
+    .helper-urgency input:checked + .pill {
+      border-color: var(--accent-dark); background: var(--accent); color: #fff;
+      box-shadow: var(--shadow);
+    }
+    .helper-urgency input:focus-visible + .pill { outline: 2px solid var(--accent-dark); outline-offset: 2px; }
+    .helper-urgency input[value="danger"]:checked + .pill {
+      border-color: #a33a26; background: #a33a26;
+    }
+    .helper-error {
+      color: #a33a26; font-weight: 700; font-size: .95rem; margin: 0 0 1rem;
+    }
+    .helper-safety { margin: 0 0 1.4rem; font-size: 1rem; }
+    .helper-safety > div { width: 100%; }
+    .helper-safety p { margin: 0 0 .6rem; }
+    .helper-safety a { color: #a33a26; font-weight: 700; }
+    .helper-hotlines { margin: .2rem 0 .8rem 1.1rem; padding: 0; }
+    .helper-hotlines li { margin-bottom: .35rem; }
+    .helper-continue { margin: 1rem 0 0; }
+    .helper-note { margin: 1.1rem 0 0; font-size: .88rem; color: var(--muted); }
+  </style>
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231b2a4a'/%3E%3Ctext x='32' y='42' font-family='Georgia,serif' font-size='30' font-weight='bold' fill='white' text-anchor='middle'%3ELB%3C/text%3E%3C/svg%3E">
 </head>
 <body>
@@ -125,6 +180,64 @@
           <span class="go">Explore &rarr;</span>
         </a>
       </div>
+
+      <!-- GUIDED HELPER -->
+      <section class="helper-card" id="helper" aria-labelledby="helper-heading">
+        <h2 id="helper-heading">What kind of help do you need?</h2>
+        <p class="helper-sub">Answer 3 quick questions and we&rsquo;ll take you straight to the right section for your state.</p>
+        <form id="helper-form" novalidate>
+          <div class="alert helper-safety" id="helper-safety" role="alert" hidden>
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 9v4M12 17.5v.01"/><path d="M10.3 3.9L1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z"/></svg>
+            <div>
+              <p><strong>Safety first.</strong> If you or someone else is in immediate danger, call <a href="tel:911">911</a> right now.</p>
+              <ul class="helper-hotlines">
+                <li>National Domestic Violence Hotline: <a href="tel:18007997233">1-800-799-7233</a> (24/7)</li>
+                <li>Childhelp National Child Abuse Hotline: <a href="tel:18004224453">1-800-422-4453</a></li>
+              </ul>
+              <p class="helper-continue" id="helper-safety-continue" hidden><a class="btn btn-dark" id="helper-safety-link" href="#">Continue to state resources &rarr;</a></p>
+            </div>
+          </div>
+          <div class="helper-field">
+            <label for="helper-topic">1. What&rsquo;s going on?</label>
+            <select id="helper-topic" name="topic">
+              <option value="">Pick a topic&hellip;</option>
+              <option value="car-accident" data-anchor="car-accident-injuries">Car accident</option>
+              <option value="divorce" data-anchor="how-divorce-filing-works">Divorce</option>
+              <option value="child-custody" data-anchor="">Child custody</option>
+              <option value="eviction" data-anchor="tenant-rights">Eviction / tenant rights</option>
+              <option value="traffic-dui" data-anchor="dui-dwi">Traffic ticket / DUI</option>
+              <option value="small-claims" data-anchor="small-claims-court">Small claims court</option>
+              <option value="domestic-abuse" data-anchor="">Domestic abuse</option>
+              <option value="child-support" data-anchor="child-support">Child support</option>
+              <option value="unpaid-wages" data-anchor="unpaid-wages">Unpaid wages</option>
+              <option value="bail" data-anchor="bail-and-bail-bondsmen">Bail</option>
+              <option value="whistleblower" data-anchor="whistleblower-protection">Whistleblower</option>
+              <option value="foreclosure" data-anchor="">Foreclosure</option>
+              <option value="identity-theft" data-anchor="">Identity theft</option>
+              <option value="gun-rights" data-anchor="gun-laws">Gun rights</option>
+              <option value="name-change" data-anchor="changing-your-name">Name change</option>
+            </select>
+          </div>
+          <div class="helper-field">
+            <label for="helper-state">2. Which state?</label>
+            <select id="helper-state" name="state">
+              <option value="">Pick a state&hellip;</option>
+            </select>
+          </div>
+          <fieldset class="helper-field">
+            <legend>3. How urgent is it?</legend>
+            <div class="helper-urgency">
+              <label><input type="radio" name="urgency" value="research" checked><span class="pill">Just researching</span></label>
+              <label><input type="radio" name="urgency" value="deadline"><span class="pill">I have a deadline</span></label>
+              <label><input type="radio" name="urgency" value="danger"><span class="pill">Someone is in danger right now</span></label>
+            </div>
+          </fieldset>
+          <p class="helper-error" id="helper-error" hidden>Please pick a topic and a state so we can point you to the right spot.</p>
+          <button class="btn btn-primary" type="submit">Find my state&rsquo;s resources &rarr;</button>
+        </form>
+        <p class="helper-note">Not legal advice &mdash; The Legal Buffet is an informational resource, not a law firm. For advice about your situation, talk to a licensed attorney in your state.</p>
+      </section>
+
       <p class="hero-note">
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
         <span>Every link on this site is checked against an official source. If we can't verify it, we leave it out.</span>
@@ -389,6 +502,99 @@
 
 <script src="assets/js/site.js"></script>
 <button class="quick-exit" data-quick-exit aria-label="Leave this site quickly">Quick exit &times;</button>
+<script>
+/* Guided helper: "What kind of help do you need?" — inline so assets/js/site.js stays untouched. */
+(function () {
+  "use strict";
+
+  /* Same 50 states and slugs as the state picker (see assets/js/site.js). */
+  var STATES = [
+    ["Alabama", "alabama"], ["Alaska", "alaska"], ["Arizona", "arizona"],
+    ["Arkansas", "arkansas"], ["California", "california"], ["Colorado", "colorado"],
+    ["Connecticut", "connecticut"], ["Delaware", "delaware"], ["Florida", "florida"],
+    ["Georgia", "georgia"], ["Hawaii", "hawaii"], ["Idaho", "idaho"],
+    ["Illinois", "illinois"], ["Indiana", "indiana"], ["Iowa", "iowa"],
+    ["Kansas", "kansas"], ["Kentucky", "kentucky"], ["Louisiana", "louisiana"],
+    ["Maine", "maine"], ["Maryland", "maryland"], ["Massachusetts", "massachusetts"],
+    ["Michigan", "michigan"], ["Minnesota", "minnesota"], ["Mississippi", "mississippi"],
+    ["Missouri", "missouri"], ["Montana", "montana"], ["Nebraska", "nebraska"],
+    ["Nevada", "nevada"], ["New Hampshire", "new-hampshire"], ["New Jersey", "new-jersey"],
+    ["New Mexico", "new-mexico"], ["New York", "new-york"], ["North Carolina", "north-carolina"],
+    ["North Dakota", "north-dakota"], ["Ohio", "ohio"], ["Oklahoma", "oklahoma"],
+    ["Oregon", "oregon"], ["Pennsylvania", "pennsylvania"], ["Rhode Island", "rhode-island"],
+    ["South Carolina", "south-carolina"], ["South Dakota", "south-dakota"],
+    ["Tennessee", "tennessee"], ["Texas", "texas"], ["Utah", "utah"],
+    ["Vermont", "vermont"], ["Virginia", "virginia"], ["Washington", "washington"],
+    ["West Virginia", "west-virginia"], ["Wisconsin", "wisconsin"], ["Wyoming", "wyoming"]
+  ];
+
+  var form = document.getElementById("helper-form");
+  if (!form) return;
+
+  var topicSel = document.getElementById("helper-topic");
+  var stateSel = document.getElementById("helper-state");
+  var errorEl = document.getElementById("helper-error");
+  var safetyBox = document.getElementById("helper-safety");
+  var safetyContinue = document.getElementById("helper-safety-continue");
+  var safetyLink = document.getElementById("helper-safety-link");
+
+  /* Populate the state select. */
+  STATES.forEach(function (s) {
+    var o = document.createElement("option");
+    o.value = s[1];
+    o.textContent = s[0];
+    stateSel.appendChild(o);
+  });
+
+  function urgencyValue() {
+    var el = form.querySelector('input[name="urgency"]:checked');
+    return el ? el.value : "research";
+  }
+
+  /* Reveal the safety box immediately when "in danger" is picked. */
+  var radios = form.querySelectorAll('input[name="urgency"]');
+  Array.prototype.forEach.call(radios, function (r) {
+    r.addEventListener("change", function () {
+      safetyBox.hidden = urgencyValue() !== "danger";
+    });
+  });
+
+  function helperUrl(topicOpt, stateSlug) {
+    var anchor = topicOpt ? (topicOpt.getAttribute("data-anchor") || "") : "";
+    var url = "states/" + stateSlug + ".html";
+    if (anchor) url += "#" + anchor + "-in-" + stateSlug;
+    return url;
+  }
+
+  form.addEventListener("submit", function (e) {
+    e.preventDefault();
+    var topicOpt = topicSel.options[topicSel.selectedIndex];
+    var stateSlug = stateSel.value;
+
+    if (!stateSlug || !topicSel.value) {
+      errorEl.hidden = false;
+      errorEl.scrollIntoView({ behavior: "smooth", block: "center" });
+      return;
+    }
+    errorEl.hidden = true;
+
+    var url = helperUrl(topicOpt, stateSlug);
+
+    if (urgencyValue() === "danger") {
+      /* Safety FIRST: show the safety box before offering the state link. */
+      var stateName = stateSel.options[stateSel.selectedIndex].text;
+      safetyLink.href = url;
+      safetyLink.textContent = "Continue to " + stateName + " resources for \u201C" + topicOpt.text + "\u201D \u2192";
+      safetyContinue.hidden = false;
+      safetyBox.hidden = false;
+      safetyBox.scrollIntoView({ behavior: "smooth", block: "start" });
+      return;
+    }
+
+    window.location.href = url;
+  });
+})();
+</script>
   <script src="assets/js/search.js?v=20261012d"></script>
 <script>
 function googleTranslateElementInit() {
