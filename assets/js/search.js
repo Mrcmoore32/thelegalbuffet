@@ -4,6 +4,10 @@
   var results = document.getElementById('site-search-results');
   if (!box || !results) return;
 
+  /* Let screen readers announce results as they appear. */
+  results.setAttribute('role', 'status');
+  results.setAttribute('aria-live', 'polite');
+
   var prefix = location.pathname.indexOf('/states/') !== -1 ? '../' : '';
   var curPage = location.pathname.split('/').pop() || 'index.html';
   var index = null;
@@ -87,7 +91,17 @@
     if (!ev.target.closest('.site-search')) { results.hidden = true; }
   });
   box.addEventListener('keydown', function (ev) {
-    if (ev.key === 'Escape') { results.hidden = true; box.blur(); }
+    if (ev.key === 'Escape') { results.hidden = true; box.blur(); return; }
+    if (ev.key === 'ArrowDown' || ev.key === 'ArrowUp') {
+      var hits = results.querySelectorAll('.ss-hit');
+      if (!hits.length) return;
+      ev.preventDefault();
+      var idx = Array.prototype.indexOf.call(hits, document.activeElement);
+      if (ev.key === 'ArrowDown') idx = idx < hits.length - 1 ? idx + 1 : 0;
+      else idx = idx > 0 ? idx - 1 : hits.length - 1;
+      hits[idx].focus();
+      return;
+    }
     if (ev.key === 'Enter' && lastMatches.length) {
       // jump straight to the top result (same URL logic as the rendered links)
       var e = lastMatches[0].e;

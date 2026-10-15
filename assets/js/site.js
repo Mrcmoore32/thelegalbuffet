@@ -22,7 +22,6 @@
     ["Vermont", "vermont"], ["Virginia", "virginia"], ["Washington", "washington"],
     ["West Virginia", "west-virginia"], ["Wisconsin", "wisconsin"], ["Wyoming", "wyoming"]
   ];
-  var READY = { minnesota: true, wisconsin: true, iowa: true, "north-dakota": true, "south-dakota": true, illinois: true, california: true, texas: true, florida: true, "new-york": true, michigan: true, pennsylvania: true, ohio: true, georgia: true, "north-carolina": true, "new-jersey": true, virginia: true, washington: true, arizona: true, massachusetts: true, tennessee: true, maryland: true, colorado: true, "south-carolina": true, alabama: true, louisiana: true };
 
   /* Populate any <select data-state-picker> with the 50 states. */
   document.querySelectorAll("select[data-state-picker]").forEach(function (sel) {
@@ -62,6 +61,7 @@
     toggle.addEventListener("click", function () {
       var open = nav.classList.toggle("open");
       toggle.setAttribute("aria-expanded", open ? "true" : "false");
+      toggle.setAttribute("aria-label", open ? "Close menu" : "Open menu");
     });
   }
 

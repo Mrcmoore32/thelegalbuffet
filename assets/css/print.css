@@ -84,4 +84,8 @@
 
   /* Keep each checklist section from splitting awkwardly */
   section { page-break-inside: avoid; }
+
+  /* Printing a single checklist: hide the other checklist sections */
+  body.print-one section.block { display: none !important; }
+  body.print-one section.block.print-target { display: block !important; }
 }

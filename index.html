@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,500&family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/css/styles.css?v=20261015d">
+  <link rel="stylesheet" href="assets/css/styles.css?v=20261015e">
   <style>
     /* Guided helper widget — homepage hero (styles live here so styles.css is untouched). */
     .helper-card {
@@ -67,7 +67,8 @@
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231b2a4a'/%3E%3Ctext x='32' y='42' font-family='Georgia,serif' font-size='30' font-weight='bold' fill='white' text-anchor='middle'%3ELB%3C/text%3E%3C/svg%3E">
 </head>
 <body class="home">
-<div class="lb-emergency" role="alert">
+    <a class="skip-link" href="#main">Skip to main content</a>
+<div class="lb-emergency" role="note">
 <style>
 .lb-emergency{background:#7f1d1d;color:#fff;font-size:.85rem;padding:.45rem 1rem;display:flex;flex-wrap:wrap;gap:.25rem 1.25rem;align-items:center;justify-content:center;text-align:center;line-height:1.5}
 .lb-emergency a{color:#fff;font-weight:700;text-decoration:underline}
@@ -130,7 +131,7 @@
   </div>
 </header>
 
-<main>
+<main id="main">
   <!-- HERO -->
   <section class="hero">
     <div class="wrap hero-inner">
@@ -149,49 +150,49 @@
           <option value="">Choose your state&hellip;</option>
         </select>
         <a class="btn btn-primary" href="states.html">Browse all 50 states</a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-addiction-help.jpg" alt="Drug &amp; Alcohol Addiction" loading="lazy"></span>
           <h3>Drug &amp; Alcohol Addiction</h3>
           <p>Treatment help, the 24/7 SAMHSA helpline, and drug courts that offer treatment instead of jail.</p>
           <span class="go">Explore &rarr;</span>
         </a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-human-trafficking-banner.jpg" alt="Human Trafficking Victims" loading="lazy"></span>
           <h3>Human Trafficking Victims</h3>
           <p>The national hotline 1-888-373-7888, plus your state's trafficking resources and victim services.</p>
           <span class="go">Explore &rarr;</span>
         </a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-bullying.jpg" alt="Bullying" loading="lazy"></span>
           <h3>Bullying</h3>
           <p>Your child's rights at school, how to report bullying, and every state's anti-bullying law.</p>
           <span class="go">Explore &rarr;</span>
         </a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-homelessness.jpg" alt="Homelessness Help" loading="lazy"></span>
           <h3>Homelessness Help</h3>
           <p>Find shelter fast: HUD's shelter finder, 211 (press 6), and your state's homelessness resources.</p>
           <span class="go">Explore &rarr;</span>
         </a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-deed-fraud.jpg" alt="Deed Fraud &amp; Squatters" loading="lazy"></span>
           <h3>Deed Fraud &amp; Squatters</h3>
           <p>Protect your home's title from thieves, and the right way to remove unlawful occupants.</p>
           <span class="go">Explore &rarr;</span>
         </a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-copyright.jpg" alt="Copyright" loading="lazy"></span>
           <h3>Copyright</h3>
           <p>Protect your creative work, register a copyright, and resolve small disputes through the Copyright Claims Board.</p>
           <span class="go">Explore &rarr;</span>
         </a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-debt-help-banner.jpg" alt="Credit Card &amp; Debt" loading="lazy"></span>
           <h3>Credit Card &amp; Debt</h3>
           <p>Your rights against debt collectors, disputing debts, and getting out from under credit cards.</p>
           <span class="go">Explore &rarr;</span>
         </a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-tax-help.jpg" alt="Tax Help" loading="lazy"></span>
           <h3>Tax Help</h3>
           <p>Free clinics for IRS disputes and the Taxpayer Advocate line 1-877-777-4778.</p>
@@ -221,7 +222,7 @@
               <option value="">Pick a topic&hellip;</option>
               <option value="car-accident" data-anchor="car-accident-injuries">Car accident</option>
               <option value="divorce" data-anchor="how-divorce-filing-works">Divorce</option>
-              <option value="child-custody" data-anchor="">Child custody</option>
+              <option value="child-custody" data-anchor="how-divorce-filing-works">Child custody</option>
               <option value="eviction" data-anchor="tenant-rights">Eviction / tenant rights</option>
               <option value="traffic-dui" data-anchor="dui-dwi">Traffic ticket / DUI</option>
               <option value="small-claims" data-anchor="small-claims-court">Small claims court</option>
@@ -230,8 +231,8 @@
               <option value="unpaid-wages" data-anchor="unpaid-wages">Unpaid wages</option>
               <option value="bail" data-anchor="bail-and-bail-bondsmen">Bail</option>
               <option value="whistleblower" data-anchor="whistleblower-protection">Whistleblower</option>
-              <option value="foreclosure" data-anchor="">Foreclosure</option>
-              <option value="identity-theft" data-anchor="">Identity theft</option>
+              <option value="foreclosure" data-anchor-exact="free-or-low-cost-legal-help">Foreclosure</option>
+              <option value="identity-theft" data-anchor="credit-card-debt-help">Identity theft</option>
               <option value="gun-rights" data-anchor="gun-laws">Gun rights</option>
               <option value="name-change" data-anchor="changing-your-name">Name change</option>
               <option value="defamation" data-anchor="defamation">Someone posted lies about me</option>
@@ -251,7 +252,7 @@
               <label><input type="radio" name="urgency" value="danger"><span class="pill">Someone is in danger right now</span></label>
             </div>
           </fieldset>
-          <p class="helper-error" id="helper-error" hidden>Please pick a topic and a state so we can point you to the right spot.</p>
+          <p class="helper-error" id="helper-error" role="alert" hidden>Please pick a topic and a state so we can point you to the right spot.</p>
           <button class="btn btn-primary" type="submit">Find my state&rsquo;s resources &rarr;</button>
         </form>
         <p class="helper-note">Not legal advice &mdash; The Legal Buffet is an informational resource, not a law firm. For advice about your situation, talk to a licensed attorney in your state.</p>
@@ -273,109 +274,109 @@
         <p>Pick what's going on in your life. Each topic page points you to your state's resources, in plain language.</p>
       </div>
       <div class="topics-grid">
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper" data-topic="divorce">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-divorce.jpg" alt="Divorce &amp; Family" loading="lazy"></span>
           <h3>Divorce &amp; Family</h3>
           <p>Filing for divorce, custody, child support, and how the process works in your state.</p>
           <span class="go">Explore &rarr;</span>
         </a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-child-safety.jpg" alt="Child Safety" loading="lazy"></span>
           <h3>Child Safety</h3>
           <p>Reporting suspected abuse, protective services, and legal help for children and families.</p>
           <span class="go">Explore &rarr;</span>
         </a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper" data-topic="domestic-abuse">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-domestic-abuse-banner.jpg" alt="Domestic Abuse" loading="lazy"></span>
           <h3>Domestic Abuse</h3>
           <p>Protection orders, safe shelter, and legal help if someone is hurting you or your kids.</p>
           <span class="go">Explore &rarr;</span>
         </a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-abortion-laws.jpg" alt="Abortion Laws" loading="lazy"></span>
           <h3>Abortion Laws</h3>
           <p>What the law says in your state, where to confirm it, and how to find care.</p>
           <span class="go">Explore &rarr;</span>
         </a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper" data-topic="defamation">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-defamation.jpg" alt="Defamation" loading="lazy"></span>
           <h3>Defamation</h3>
           <p>Someone posted lies about you? What counts, your deadline to sue, and anti-SLAPP protection.</p>
           <span class="go">Explore &rarr;</span>
         </a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper" data-topic="identity-theft">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-identity-theft.jpg" alt="Identity Theft &amp; Fraud" loading="lazy"></span>
           <h3>Identity Theft &amp; Fraud</h3>
           <p>Someone using your name, scams, or fraud — how to report it and get a recovery plan.</p>
           <span class="go">Explore &rarr;</span>
         </a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-seniors.jpg" alt="Seniors &amp; Elder Abuse" loading="lazy"></span>
           <h3>Seniors &amp; Elder Abuse</h3>
           <p>Help for older adults — abuse, neglect, scams targeting seniors, and local support.</p>
           <span class="go">Explore &rarr;</span>
         </a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper" data-topic="traffic-dui">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-traffic.jpg" alt="Traffic &amp; Driving" loading="lazy"></span>
           <h3>Traffic &amp; Driving</h3>
           <p>Tickets, license issues, DUI/DWI, and what your options are before you just pay the fine.</p>
           <span class="go">Explore &rarr;</span>
         </a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-criminal.jpg" alt="Criminal" loading="lazy"></span>
           <h3>Criminal</h3>
           <p>Arrests, charges, public defenders, and record expungement &mdash; know your rights.</p>
           <span class="go">Explore &rarr;</span>
         </a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper" data-topic="eviction">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-tenant-rights.jpg" alt="Housing &amp; Renters" loading="lazy"></span>
           <h3>Housing &amp; Renters</h3>
           <p>Eviction, security deposits, repairs your landlord won't make, and tenant rights.</p>
           <span class="go">Explore &rarr;</span>
         </a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper" data-topic="unpaid-wages">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-unpaid-wages.jpg" alt="Work &amp; Employment" loading="lazy"></span>
           <h3>Work &amp; Employment</h3>
           <p>Wrongful termination, wage theft, workplace injuries, and unemployment help.</p>
           <span class="go">Explore &rarr;</span>
         </a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-debt-help-banner.jpg" alt="Money &amp; Debt" loading="lazy"></span>
           <h3>Money &amp; Debt</h3>
           <p>Debt collectors, bankruptcy basics, and free credit counseling that isn't a scam.</p>
           <span class="go">Explore &rarr;</span>
         </a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper" data-topic="foreclosure">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-foreclosure.jpg" alt="Foreclosure Help" loading="lazy"></span>
           <h3>Foreclosure Help</h3>
           <p>Behind on your mortgage? HUD-approved counselors give <strong>free</strong> help: call <strong>1-800-569-4287</strong>.</p>
           <span class="go">Explore &rarr;</span>
         </a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-bankruptcy.jpg" alt="Bankruptcy" loading="lazy"></span>
           <h3>Bankruptcy</h3>
           <p>Chapter 7 and Chapter 13 basics, court forms, and finding a lawyer &mdash; from the U.S. Courts.</p>
           <span class="go">Explore &rarr;</span>
         </a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-immigration.jpg" alt="Immigration" loading="lazy"></span>
           <h3>Immigration</h3>
           <p>Finding trustworthy immigration help and avoiding notario fraud.</p>
           <span class="go">Explore &rarr;</span>
         </a>
-                <a class="topic-card" href="states.html">
+                <a class="topic-card" href="#helper">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-civil-rights.jpg" alt="Civil Rights Violations" loading="lazy"></span>
           <h3>Civil Rights Violations</h3>
           <p>Report police misconduct, job or housing discrimination, and voting rights violations &mdash; federal and state complaint routes.</p>
           <span class="go">Explore &rarr;</span>
         </a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-lawyer-referral.jpg" alt="Lawyer Referral Services" loading="lazy"></span>
           <h3>Lawyer Referral Services</h3>
           <p>Earn too much for legal aid but can&rsquo;t afford a retainer? State bar referral services match you with a local lawyer &mdash; many offer a low-cost first consultation.</p>
           <span class="go">Explore &rarr;</span>
         </a>
-<a class="topic-card" href="states.html">
+<a class="topic-card" href="#helper">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-wills.jpg" alt="Wills &amp; Estates" loading="lazy"></span>
           <h3>Wills &amp; Estates</h3>
           <p>Wills, power of attorney, and what happens when someone dies without one.</p>
@@ -387,20 +388,20 @@
           <p>The full text &mdash; all seven Articles and 27 Amendments &mdash; transcribed from the National Archives.</p>
           <span class="go">Read it &rarr;</span>
         </a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper" data-topic="car-accident">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-carcrash.jpg" alt="Car Accident Injuries" loading="lazy"></span>
           <h3>Car Accident Injuries</h3>
           <p>Hurt in a crash? What to do, fault vs. no-fault rules, filing deadlines, and how injury lawyers get paid.</p>
           <span class="go">Learn more &rarr;</span>
         </a>
 
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper" data-topic="whistleblower">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-whistleblower.jpg" alt="Whistleblower Protection" loading="lazy"></span>
           <h3>Whistleblower Protection</h3>
           <p>Punished at work for reporting something illegal or unsafe? Your rights, where to complain, and the deadlines.</p>
           <span class="go">Learn more &rarr;</span>
         </a>
-        <a class="topic-card" href="states.html">
+        <a class="topic-card" href="#helper" data-topic="bail">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-bail-banner.jpg" alt="Bail &amp; Bail Bondsmen" loading="lazy"></span>
           <h3>Bail &amp; Bail Bondsmen</h3>
           <p>Someone in jail? How bail works, what a bondsman costs, and how to check they're licensed.</p>
@@ -485,7 +486,7 @@
         <p>Free, plain-language legal resources for all 50 states. Built by someone who's been through it.</p>
       </div>
       <nav class="footer-nav" aria-label="Footer">
-        <h4>Site</h4>
+        <h2>Site</h2>
         <ul>
           <li><a href="index.html">Home</a></li>
           <li><a href="start-here.html">Start Here</a></li>
@@ -493,11 +494,12 @@
           <li><a href="about.html">About</a></li>
           <li><a href="checklists.html">Court checklists</a></li>
           <li><a href="class-actions.html">Class action lawsuits</a></li>
+          <li><a href="constitution.html">The Constitution</a></li>
           <li><a href="privacy.html">Privacy</a></li>
         </ul>
       </nav>
       <nav class="footer-nav" aria-label="Resources">
-        <h4>National resources</h4>
+        <h2>National resources</h2>
         <ul>
           <li><a href="https://www.lawhelp.org" rel="noopener">LawHelp.org</a></li>
           <li><a href="https://www.211.org" rel="noopener">211.org &mdash; call 211</a></li>
@@ -532,7 +534,7 @@
   </div>
 </footer>
 
-<script src="assets/js/site.js"></script>
+<script src="assets/js/site.js?v=20261015a"></script>
 <button class="quick-exit" data-quick-exit aria-label="Leave this site quickly">Quick exit &times;</button>
 <script>
 /* Guided helper: "What kind of help do you need?" — inline so assets/js/site.js stays untouched. */
@@ -592,11 +594,21 @@
   });
 
   function helperUrl(topicOpt, stateSlug) {
-    var anchor = topicOpt ? (topicOpt.getAttribute("data-anchor") || "") : "";
     var url = "states/" + stateSlug + ".html";
+    var exact = topicOpt ? topicOpt.getAttribute("data-anchor-exact") : null;
+    if (exact) return url + "#" + exact;
+    var anchor = topicOpt ? (topicOpt.getAttribute("data-anchor") || "") : "";
     if (anchor) url += "#" + anchor + "-in-" + stateSlug;
     return url;
   }
+
+  /* Topic cards: preselect the matching helper topic, then jump to the helper. */
+  document.querySelectorAll('.topic-card[href="#helper"]').forEach(function (card) {
+    card.addEventListener("click", function () {
+      var t = card.getAttribute("data-topic");
+      if (t) topicSel.value = t;
+    });
+  });
 
   form.addEventListener("submit", function (e) {
     e.preventDefault();
@@ -627,7 +639,7 @@
   });
 })();
 </script>
-  <script src="assets/js/search.js?v=20261012d"></script>
+  <script src="assets/js/search.js?v=20261015a"></script>
 <script>
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false}, 'google_translate_element');
