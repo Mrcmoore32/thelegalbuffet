@@ -103,14 +103,39 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
     var(--paper);
 }
 .hero-inner { padding-block: clamp(3.5rem, 8vw, 6.5rem); max-width: 46rem; }
-.hero-grid { display: grid; gap: 2rem; align-items: center; margin-bottom: 2rem; }
-.hero-media { margin: 0; }
-.hero-media img { display: block; width: 100%; max-width: 340px; height: auto; border-radius: var(--radius); box-shadow: var(--shadow); margin-inline: auto; }
-@media (min-width: 56rem) {
-  .hero-inner { max-width: 68rem; }
-  .hero-grid { grid-template-columns: 1.25fr .75fr; }
-  .hero-media img { margin-inline: 0; justify-self: end; }
+/* Homepage hero — navy & gold, built around the brand graphic */
+.hero {
+  background:
+    radial-gradient(1000px 500px at 50% -10%, rgba(217, 164, 65, .22), transparent 60%),
+    radial-gradient(800px 500px at 90% 110%, rgba(217, 164, 65, .10), transparent 60%),
+    #0c1730;
 }
+.hero-grid { display: block; margin-bottom: 2rem; text-align: center; }
+.hero-media { margin: 0 0 2.2rem; }
+.hero-media img {
+  display: block; width: 100%; max-width: min(600px, 92vw); height: auto;
+  margin-inline: auto; border-radius: var(--radius);
+  box-shadow: 0 0 0 1px rgba(217, 164, 65, .35), 0 30px 80px rgba(0, 0, 0, .55);
+}
+.hero-copy { max-width: 44rem; margin-inline: auto; }
+.hero .eyebrow { color: var(--gold); }
+.hero h1 { color: #fff; }
+.hero h1 em { color: var(--gold); }
+.hero .lede { color: #c9d2e3; margin-inline: auto; }
+.hero .state-picker { justify-content: center; }
+.hero .btn-primary { background: var(--gold); color: #16233f; }
+.hero .btn-primary:hover { background: #e8ba5d; color: #16233f; }
+.hero .hero-note { color: #9aa7c2; }
+.hero .hero-note svg { color: var(--gold); }
+/* Homepage header goes navy to match */
+.home .site-header { background: rgba(12, 23, 48, .95); }
+.home .brand-text strong { color: #fff; }
+.home .brand-text small { color: #9aa7c2; }
+.home .site-nav a { color: #c9d2e3; }
+.home .site-nav a:hover { background: rgba(255, 255, 255, .08); color: #fff; }
+.home .site-nav a.cta { background: var(--gold); color: #16233f; }
+.home .site-nav a.cta:hover { background: #e8ba5d; color: #16233f; }
+.home .nav-toggle { color: #fff; border-color: rgba(255, 255, 255, .3); }
 .hero h1 { margin-bottom: 1.1rem; }
 .hero h1 em { font-style: italic; color: var(--accent-dark); }
 .hero .lede { margin-bottom: 2rem; }
