@@ -181,6 +181,11 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
   background: linear-gradient(135deg, var(--gold-soft), #fbf3e2);
   color: var(--ink); margin-bottom: .3rem;
 }
+.topic-img {
+  display: block; margin: -1.5rem -1.4rem 1rem; border-radius: var(--radius) var(--radius) 0 0;
+  overflow: hidden; background: #101d33;
+}
+.topic-img img { display: block; width: 100%; height: auto; aspect-ratio: 16/10; object-fit: cover; object-position: center 38%; }
 .topic-card h3 { font-size: 1.12rem; margin: 0; }
 .topic-card p { font-size: .94rem; color: var(--muted); margin: 0; }
 .topic-card .go { margin-top: auto; padding-top: .6rem; font-weight: 700; font-size: .92rem; color: var(--accent-dark); }
