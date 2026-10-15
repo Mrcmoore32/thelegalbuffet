@@ -103,6 +103,14 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
     var(--paper);
 }
 .hero-inner { padding-block: clamp(3.5rem, 8vw, 6.5rem); max-width: 46rem; }
+.hero-grid { display: grid; gap: 2rem; align-items: center; margin-bottom: 2rem; }
+.hero-media { margin: 0; }
+.hero-media img { display: block; width: 100%; max-width: 340px; height: auto; border-radius: var(--radius); box-shadow: var(--shadow); margin-inline: auto; }
+@media (min-width: 56rem) {
+  .hero-inner { max-width: 68rem; }
+  .hero-grid { grid-template-columns: 1.25fr .75fr; }
+  .hero-media img { margin-inline: 0; justify-self: end; }
+}
 .hero h1 { margin-bottom: 1.1rem; }
 .hero h1 em { font-style: italic; color: var(--accent-dark); }
 .hero .lede { margin-bottom: 2rem; }
