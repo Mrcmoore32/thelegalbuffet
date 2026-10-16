@@ -137,7 +137,7 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
 .site-nav a.cta:hover { background: #e8ba5d; color: #16233f; }
 .nav-toggle { color: #fff; border-color: rgba(255, 255, 255, .3); }
 .hero h1 { margin-bottom: 1.1rem; }
-.hero h1 em { font-style: italic; color: var(--accent-dark); }
+.hero h1 em { font-style: italic; }
 .hero .lede { margin-bottom: 2rem; }
 .state-picker { display: flex; flex-wrap: wrap; gap: .75rem; align-items: stretch; }
 .state-picker select {
@@ -484,3 +484,114 @@ body { top: 0 !important; }
   cursor: pointer;
 }
 .trans-note.show { opacity: 1; transform: translate(-50%, 0); }
+
+/* ============================================================
+   SON REDESIGN PREVIEW — presentation-only refinements
+   Navy-and-gold brand kept intact. No routes, anchors, links,
+   or JavaScript behavior changed. Calm, editorial, trustworthy.
+   ============================================================ */
+
+::selection { background: var(--gold-soft); color: var(--ink); }
+
+/* ---------- homepage hero: clearer sub-block rhythm ---------- */
+.hero-topics {
+  margin-top: 2.75rem;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+}
+.hero-topics .topic-card { padding: 1.15rem 1.1rem; gap: .45rem; }
+.hero-topics .topic-img { margin: -1.15rem -1.1rem .85rem; }
+.hero-topics .topic-card h3 { font-size: 1.02rem; }
+.hero-topics .topic-card p { font-size: .87rem; }
+.hero-topics .topic-card .go { font-size: .86rem; }
+.hero .state-picker { margin-top: .4rem; }
+
+/* ---------- topic cards: refined hover + image treatment ---------- */
+.topic-card { position: relative; overflow: hidden; }
+.topic-card::after {
+  content: ""; position: absolute; left: 1.4rem; right: 1.4rem; bottom: 0;
+  height: 3px; border-radius: 3px 3px 0 0; background: var(--gold);
+  transform: scaleX(0); transform-origin: left center;
+  transition: transform .22s ease;
+}
+.topic-card:hover::after { transform: scaleX(1); }
+.topic-img img { transition: transform .35s ease; }
+.topic-card:hover .topic-img img { transform: scale(1.045); }
+.topic-card .go { transition: color .15s ease; }
+.topic-card:hover .go { color: var(--accent); }
+
+/* ---------- guide sections: consistent rhythm + scannable headers ----------
+   Targets only sections carrying inline padding (state guides, checklists,
+   class actions) — homepage bands keep their own spacing. */
+main section.block[style] {
+  padding-block: 2.5rem !important;
+  border-top: 1px solid var(--line);
+}
+main section.block[style]:first-of-type { border-top: none; }
+main section.block[style] > h2::before {
+  content: ""; display: block; width: 2.75rem; height: 4px;
+  background: var(--gold); border-radius: 2px; margin-bottom: .9rem;
+}
+main section.block[style] > h2 { margin-bottom: 1.15rem; }
+
+/* ---------- "What to do next" — distinct action blocks ---------- */
+.next-steps {
+  background: linear-gradient(180deg, #fdf9ef 0%, var(--gold-soft) 100%);
+  border: 1px solid #ecd9ae;
+  border-left: 5px solid var(--gold);
+  border-radius: var(--radius-sm);
+  padding: 1.25rem 1.35rem 1.35rem;
+  margin-top: 1.5rem;
+}
+.next-steps > p:first-child { margin: 0 0 .8rem; }
+.next-steps > p:first-child strong {
+  color: #7a4d12; font-size: .82rem; font-weight: 800;
+  letter-spacing: .1em; text-transform: uppercase;
+}
+.next-steps .checklist { gap: .6rem; }
+.next-steps .checklist li {
+  background: rgba(255, 255, 255, .78);
+  border: 1px solid #ecd9ae;
+  box-shadow: none;
+  padding: .85rem 1.1rem .85rem 2.9rem;
+}
+.next-steps .checklist li::before {
+  border-color: #b98a2e;
+  background: radial-gradient(circle, #b98a2e 0 3px, transparent 4px);
+}
+
+/* ---------- topic menu: stronger brand tie ---------- */
+.topic-menu { border-top: 3px solid var(--gold); padding: 1.25rem 1.4rem; }
+
+/* ---------- resource cards: quieter, more editorial ---------- */
+.resource { border: 1px solid transparent; transition: border-color .15s ease, box-shadow .15s ease; }
+.resource:hover { border-color: var(--line); box-shadow: var(--shadow-lg); }
+.resource .r-link { display: inline-flex; align-items: center; gap: .3rem; }
+
+/* ---------- how-it-works band: airier steps ---------- */
+.steps { gap: 1.25rem; }
+.step { padding: 1.8rem 1.6rem; }
+.step-num { font-size: 2.3rem; }
+
+/* ---------- footer: calmer rhythm ---------- */
+.footer-grid { row-gap: 2.5rem; }
+.disclaimer { line-height: 1.75; }
+
+/* ---------- responsive polish ---------- */
+@media (max-width: 760px) {
+  .hero-topics { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: .85rem; }
+  main section.block[style] { padding-block: 2rem !important; }
+  .next-steps { padding: 1.1rem 1.15rem 1.2rem; }
+}
+
+/* ---------- constitution: long-document rhythm ---------- */
+.constitution-text { max-width: 46rem; }
+.constitution-text h2:not(:first-child) {
+  margin-top: 3rem; padding-top: 2.25rem;
+  border-top: 1px solid var(--line);
+}
+.constitution-text h2::before {
+  content: ""; display: block; width: 2.75rem; height: 4px;
+  background: var(--gold); border-radius: 2px; margin-bottom: .9rem;
+}
+.constitution-text p { margin-bottom: 1.1rem; }
