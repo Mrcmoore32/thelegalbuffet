@@ -4,25 +4,25 @@
    ============================================================ */
 
 :root {
-  --ink: #1b2a4a;          /* deep navy */
-  --ink-soft: #33415e;     /* softer navy for secondary text on light */
-  --paper: #faf8f4;        /* warm paper */
-  --paper-deep: #f1ece3;   /* slightly deeper warm tone for bands */
+  --ink: #102744;          /* brand navy */
+  --ink-soft: #2e435f;     /* softer navy for secondary text on light */
+  --paper: #FBF9F4;        /* brand cream */
+  --paper-deep: #f3eee2;   /* slightly deeper cream for bands */
   --card: #ffffff;
-  --accent: #1e3a6e;       /* bright navy for interactive accents */
-  --accent-dark: #152a52;  /* deeper navy for text accents */
-  --gold: #d9a441;         /* warm highlight */
-  --gold-soft: #f7ead0;
-  --line: #ece7db;          /* hairlines, barely-there */
+  --accent: #1d3d63;       /* bright navy for interactive accents */
+  --accent-dark: #102744;  /* brand navy for text accents */
+  --gold: #B58A43;         /* brand gold */
+  --gold-soft: #f6eeda;
+  --line: #eae3d3;          /* hairlines, barely-there */
   --text: #2b3038;
   --muted: #5d6470;
   --danger: #b3402e;
   --radius: 26px;
   --radius-sm: 18px;
-  --shadow: 0 1px 2px rgba(27, 42, 74, .04), 0 12px 32px rgba(27, 42, 74, .07);
-  --shadow-lg: 0 2px 6px rgba(27, 42, 74, .05), 0 24px 56px rgba(27, 42, 74, .11);
-  --font-display: "Fraunces", Georgia, "Times New Roman", serif;
-  --font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --shadow: 0 1px 2px rgba(16, 39, 68, .04), 0 12px 32px rgba(16, 39, 68, .07);
+  --shadow-lg: 0 2px 6px rgba(16, 39, 68, .05), 0 24px 56px rgba(16, 39, 68, .11);
+  --font-display: "Cormorant Garamond", Georgia, "Times New Roman", serif;
+  --font-body: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   --max: 1120px;
   --pad: clamp(1.25rem, 4vw, 2.5rem);
 }
@@ -71,15 +71,13 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
 .header-inner { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding-block: .85rem; }
 .brand { display: flex; align-items: center; gap: .7rem; text-decoration: none; }
 .brand-mark {
-  width: 42px; height: 42px; border-radius: 12px; flex: none;
-  background: linear-gradient(135deg, var(--ink) 0%, #2b3f6b 100%);
+  width: 46px; height: 46px; flex: none;
   display: grid; place-items: center;
-  color: #fff; font-family: var(--font-display); font-weight: 700; font-size: 1.05rem;
-  box-shadow: var(--shadow);
+  filter: drop-shadow(0 1px 2px rgba(16, 39, 68, .18));
 }
-.brand-mark span { transform: translateY(-1px); }
+.brand-mark svg { width: 46px; height: 46px; }
 .brand-text { line-height: 1.2; }
-.brand-text strong { display: block; font-family: var(--font-display); color: var(--ink); font-size: 1.12rem; font-weight: 700; }
+.brand-text strong { display: block; font-family: var(--font-display); color: var(--ink); font-size: 1.3rem; font-weight: 700; letter-spacing: .06em; }
 .brand-text small { color: var(--muted); font-size: .78rem; letter-spacing: .02em; }
 .site-nav { display: flex; align-items: center; gap: .25rem; }
 .site-nav a {
@@ -458,7 +456,7 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
 
 /* ---------- deadline notice banner ---------- */
 .deadline-notice {
-  background: #fdf3e3; border: 1px solid #ecd9ac; border-left: 4px solid #d9a441;
+  background: #faf3e4; border: 1px solid #e8d9b8; border-left: 4px solid #B58A43;
   border-radius: var(--radius-sm); padding: .7rem 1rem; font-size: .88rem;
   color: #5c4a1e; margin: 0 0 1.25rem;
 }
