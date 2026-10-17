@@ -76,7 +76,8 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
   display: grid; place-items: center;
   filter: drop-shadow(0 1px 2px rgba(16, 39, 68, .18));
 }
-.brand-mark svg { width: 46px; height: 46px; }
+.brand-mark svg, .brand-mark img { width: 46px; height: 46px; }
+.brand-mark img { border-radius: 10px; display: block; }
 .brand-text { line-height: 1.2; }
 .brand-text strong { display: block; font-family: var(--font-display); color: var(--ink); font-size: 1.3rem; font-weight: 700; letter-spacing: .06em; white-space: nowrap; }
 .brand-text small { color: var(--muted); font-size: .78rem; letter-spacing: .02em; }
@@ -129,7 +130,7 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
 /* Site header — deep navy, gold CTA */
 .site-header { background: rgba(12, 23, 48, .96); }
 .brand-text strong { color: #fff; }
-.brand-text small { color: #9aa7c2; }
+.brand-text small { color: var(--gold); letter-spacing: .08em; font-weight: 600; }
 .site-nav a { color: #c9d2e3; }
 .site-nav a:hover { background: rgba(255, 255, 255, .08); color: #fff; }
 .site-nav a.cta { background: var(--gold); color: #16233f; }
@@ -389,6 +390,8 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
 
 /* ---------- responsive ---------- */
 @media (max-width: 760px) {
+  /* mobile brand lockup: tagline larger and more readable, lockup uncrowded */
+  .brand-text small { font-size: .9rem; letter-spacing: .1em; line-height: 1.5; }
   .site-nav {
     display: none; position: absolute; top: 100%; left: 0; right: 0;
     background: #101d33; border-bottom: 1px solid rgba(255,255,255,.12);
