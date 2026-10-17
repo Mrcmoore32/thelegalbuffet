@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
   <circle cx="120" cy="120" r="116" fill="#102744"/>
-  <circle cx="120" cy="120" r="107" fill="none" stroke="#B58A43" stroke-width="3"/>
+  <circle cx="120" cy="120" r="107" fill="none" stroke="#B58A43" stroke-width="8"/>
   <text x="108" y="140" text-anchor="middle" font-family="'Cormorant Garamond',Georgia,serif" font-size="120" font-weight="700" fill="#B58A43">T</text>
   <text x="95" y="205" text-anchor="middle" font-family="'Cormorant Garamond',Georgia,serif" font-size="126" font-weight="700" fill="#B58A43">L</text>
   <text x="152" y="205" text-anchor="middle" font-family="'Cormorant Garamond',Georgia,serif" font-size="126" font-weight="700" fill="#B58A43">B</text>
