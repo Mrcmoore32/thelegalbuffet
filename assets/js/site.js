@@ -37,6 +37,62 @@
     });
   });
 
+
+  /* ZIP code prefix (first 3 digits) -> state slug. Covers all 50 states. */
+  var ZIP_RANGES = [
+    [5, 5, "new-york"],
+    [10, 27, "massachusetts"], [28, 29, "rhode-island"],
+    [30, 38, "new-hampshire"], [39, 49, "maine"], [50, 59, "vermont"],
+    [60, 69, "connecticut"], [70, 89, "new-jersey"],
+    [100, 149, "new-york"], [150, 196, "pennsylvania"],
+    [197, 199, "delaware"], [201, 201, "virginia"],
+    [206, 219, "maryland"], [220, 246, "virginia"],
+    [247, 268, "west-virginia"], [270, 289, "north-carolina"],
+    [290, 299, "south-carolina"], [300, 319, "georgia"],
+    [320, 349, "florida"], [350, 369, "alabama"], [370, 385, "tennessee"],
+    [386, 397, "mississippi"], [398, 399, "georgia"],
+    [400, 427, "kentucky"], [430, 458, "ohio"], [460, 479, "indiana"],
+    [480, 499, "michigan"], [500, 528, "iowa"], [530, 549, "wisconsin"],
+    [550, 567, "minnesota"], [570, 577, "south-dakota"],
+    [580, 588, "north-dakota"], [590, 599, "montana"],
+    [600, 629, "illinois"], [630, 658, "missouri"], [660, 679, "kansas"],
+    [680, 693, "nebraska"], [700, 714, "louisiana"], [716, 729, "arkansas"],
+    [730, 732, "oklahoma"], [733, 733, "texas"], [734, 749, "oklahoma"], [750, 799, "texas"], [800, 816, "colorado"],
+    [820, 831, "wyoming"], [832, 838, "idaho"], [840, 847, "utah"],
+    [850, 865, "arizona"], [870, 884, "new-mexico"], [890, 898, "nevada"],
+    [900, 961, "california"], [967, 968, "hawaii"], [970, 979, "oregon"],
+    [980, 994, "washington"], [995, 999, "alaska"]
+  ];
+
+  function stateForZip(zip) {
+    var digits = String(zip).replace(/\D/g, "").slice(0, 5);
+    if (digits.length < 3) return null;
+    var prefix = parseInt(digits.slice(0, 3), 10);
+    for (var i = 0; i < ZIP_RANGES.length; i++) {
+      if (prefix >= ZIP_RANGES[i][0] && prefix <= ZIP_RANGES[i][1]) {
+        return ZIP_RANGES[i][2];
+      }
+    }
+    return null;
+  }
+
+  /* ZIP search forms: jump to the matching state page. */
+  document.querySelectorAll("form[data-zip-form]").forEach(function (form) {
+    form.addEventListener("submit", function (e) {
+      e.preventDefault();
+      var input = form.querySelector("input[data-zip-input]");
+      var msg = form.querySelector("[data-zip-msg]");
+      var slug = stateForZip(input.value);
+      if (slug) {
+        window.location.href = "states/" + slug + ".html";
+      } else if (msg) {
+        msg.textContent = "Hmm, we couldn't match that zip — try choosing your state from the list.";
+        msg.hidden = false;
+        input.focus();
+      }
+    });
+  });
+
   /* States index: live search filter. */
   var search = document.getElementById("state-search");
   var grid = document.getElementById("states-grid");

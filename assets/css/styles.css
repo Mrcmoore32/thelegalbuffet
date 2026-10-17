@@ -152,6 +152,23 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
 .hero-note { margin-top: 1.4rem; font-size: .92rem; color: var(--muted); display: flex; gap: .6rem; align-items: flex-start; }
 .hero-note svg { flex: none; margin-top: .2rem; }
 
+
+/* ---------- zip code search ---------- */
+.picker-or {
+  align-self: center; font-weight: 600; color: var(--muted); padding: 0 .25rem;
+}
+.zip-form { display: flex; flex-wrap: wrap; gap: .5rem; align-items: center; }
+.zip-form input[data-zip-input] {
+  font: inherit; font-weight: 600; color: var(--ink);
+  border: 1.5px solid var(--line); border-radius: var(--radius-sm);
+  padding: .9rem 1.15rem; width: 11rem; max-width: 100%;
+  box-shadow: var(--shadow);
+}
+.zip-form input[data-zip-input]:focus { border-color: var(--accent); outline: none; }
+.zip-form .btn { padding: .9rem 1.3rem; }
+.zip-msg { flex-basis: 100%; margin: .25rem 0 0; font-size: .9rem; color: #b3261e; }
+.hero .zip-msg { color: #f0b429; }
+
 /* ---------- buttons ---------- */
 .btn {
   display: inline-flex; align-items: center; justify-content: center; gap: .55rem;
