@@ -389,6 +389,8 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
 
 /* ---------- responsive ---------- */
 @media (max-width: 760px) {
+  /* mobile brand lockup: tagline larger and more readable, lockup uncrowded */
+  .brand-text small { font-size: .9rem; letter-spacing: .1em; line-height: 1.5; }
   .site-nav {
     display: none; position: absolute; top: 100%; left: 0; right: 0;
     background: #101d33; border-bottom: 1px solid rgba(255,255,255,.12);
