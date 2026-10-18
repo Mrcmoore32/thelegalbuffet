@@ -170,4 +170,69 @@
       }, 8000);
     }
   } catch (e) {}
+
+  /* Share this page: native share sheet on mobile, fallback menu on desktop.
+     Plain share-intent links only — no third-party SDKs, no trackers. */
+  try {
+    var footerBrand = document.querySelector(".site-footer .footer-brand");
+    if (footerBrand && !document.querySelector("[data-share-block]")) {
+      var pageUrl = location.href.split("#")[0];
+      var pageTitle = document.title || "The Legal Buffet";
+      var encUrl = encodeURIComponent(pageUrl);
+      var encTitle = encodeURIComponent(pageTitle);
+
+      var block = document.createElement("div");
+      block.className = "share-block";
+      block.setAttribute("data-share-block", "1");
+      block.innerHTML =
+        '<p class="share-label">Know someone who could use this? Pass it on.</p>' +
+        '<button type="button" class="btn btn-primary btn-share" data-share-btn>' +
+        '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.6" y1="10.5" x2="15.4" y2="6.5"/><line x1="8.6" y1="13.5" x2="15.4" y2="17.5"/></svg>' +
+        "Share this page</button>" +
+        '<div class="share-menu" data-share-menu hidden>' +
+        '<a href="https://www.facebook.com/sharer/sharer.php?u=' + encUrl + '" target="_blank" rel="noopener">Facebook</a>' +
+        '<a href="https://twitter.com/intent/tweet?url=' + encUrl + "&text=" + encTitle + '" target="_blank" rel="noopener">X</a>' +
+        '<a href="mailto:?subject=' + encTitle + "&body=" + encUrl + '">Email</a>' +
+        '<button type="button" data-copy-link>Copy link</button>' +
+        "</div>" +
+        '<p class="share-copied" data-share-copied hidden>Link copied.</p>';
+      footerBrand.appendChild(block);
+
+      var shareBtn = block.querySelector("[data-share-btn]");
+      var shareMenu = block.querySelector("[data-share-menu]");
+      var copiedMsg = block.querySelector("[data-share-copied]");
+
+      function showCopied() {
+        copiedMsg.hidden = false;
+        setTimeout(function () { copiedMsg.hidden = true; }, 2500);
+      }
+
+      shareBtn.addEventListener("click", function () {
+        if (navigator.share) {
+          navigator.share({ title: pageTitle, url: pageUrl }).catch(function () {});
+        } else {
+          shareMenu.hidden = !shareMenu.hidden;
+        }
+      });
+
+      document.addEventListener("click", function (ev) {
+        if (!shareMenu.hidden && !block.contains(ev.target)) shareMenu.hidden = true;
+      });
+
+      block.querySelector("[data-copy-link]").addEventListener("click", function () {
+        function done() { shareMenu.hidden = true; showCopied(); }
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(pageUrl).then(done, function () { fallbackCopy(); });
+        } else { fallbackCopy(); }
+        function fallbackCopy() {
+          var ta = document.createElement("textarea");
+          ta.value = pageUrl;
+          ta.style.position = "fixed"; ta.style.opacity = "0";
+          document.body.appendChild(ta); ta.select();
+          try { document.execCommand("copy"); } catch (e) {}
+          document.body.removeChild(ta); done();
+        }
+      });
+    }
+  } catch (e) {}
 })();
