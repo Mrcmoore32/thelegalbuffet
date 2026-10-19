@@ -651,3 +651,10 @@ main section.block[style] > h2 { margin-bottom: 1.15rem; }
 }
 .info-card h3 { margin: 0 0 .6rem; font-size: 1.15rem; }
 .info-card p { margin: 0; color: var(--ink); }
+
+/* Header CTA cutoff fix (2026-10-19): on medium widths the "States" link and the
+   "Find your state" button go to the same page — hide the redundant link so the
+   button never gets squeezed off the edge. */
+@media (max-width: 1024px) {
+  .site-nav a[href="states.html"]:not(.cta) { display: none; }
+}
