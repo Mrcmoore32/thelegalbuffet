@@ -631,3 +631,23 @@ main section.block[style] > h2 { margin-bottom: 1.15rem; }
 }
 .share-menu a:hover, .share-menu button:hover { background: var(--paper); }
 .share-copied { font-size: .88rem; font-weight: 700; color: var(--accent-dark); margin: .6rem 0 0; }
+
+/* Hero trust line + homepage info grid (added 2026-10-19). */
+.hero-trust {
+  margin: 1rem 0 0; font-weight: 700; font-size: .98rem;
+  color: var(--gold);
+}
+.info-grid {
+  display: grid; gap: 1.4rem;
+  grid-template-columns: 1fr;
+}
+@media (min-width: 760px) {
+  .info-grid { grid-template-columns: 1fr 1fr; }
+}
+.info-card {
+  background: var(--card); border-radius: var(--radius-sm);
+  border-top: 4px solid var(--gold); box-shadow: var(--shadow);
+  padding: 1.6rem 1.7rem;
+}
+.info-card h3 { margin: 0 0 .6rem; font-size: 1.15rem; }
+.info-card p { margin: 0; color: var(--ink); }
