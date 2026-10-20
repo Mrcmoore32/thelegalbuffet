@@ -652,11 +652,21 @@ main section.block[style] > h2 { margin-bottom: 1.15rem; }
 .info-card h3 { margin: 0 0 .6rem; font-size: 1.15rem; }
 .info-card p { margin: 0; color: var(--ink); }
 
-/* Header CTA cutoff fix (2026-10-19): on medium widths the "States" link and the
-   "Find your state" button go to the same page — hide the redundant link so the
-   button never gets squeezed off the edge. */
-@media (max-width: 1024px) {
+/* Header CTA cutoff fix (2026-10-19, extended 2026-10-20): the full desktop
+   header (brand + search + language + 4 links + gold button) is wider than a
+   laptop screen, so the "Find your state" button ran off the right edge at
+   ~1280px. In the laptop range: slim the search box, language picker, brand
+   wordmark and link padding, and hide the redundant "States" link (same page
+   as the gold button) and, narrower still, "Home" (the logo links home). */
+@media (max-width: 1400px) {
+  .site-search input { width: 9.5rem; }
+  #lang-select { max-width: 7.5rem; }
+  .brand-text strong { font-size: 1.12rem; }
+  .site-nav a { padding: .55rem .6rem; }
   .site-nav a[href="states.html"]:not(.cta) { display: none; }
+}
+@media (max-width: 1150px) {
+  .site-nav a[href="index.html"]:not(.cta) { display: none; }
 }
 
 /* Podcast page (added 2026-10-19). */
