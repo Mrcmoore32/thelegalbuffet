@@ -658,3 +658,14 @@ main section.block[style] > h2 { margin-bottom: 1.15rem; }
 @media (max-width: 1024px) {
   .site-nav a[href="states.html"]:not(.cta) { display: none; }
 }
+
+/* Podcast page (added 2026-10-19). */
+.episode-card {
+  background: var(--card); border-radius: var(--radius-sm);
+  border-top: 4px solid var(--gold); box-shadow: var(--shadow);
+  padding: 1.8rem; margin: 0 0 2rem; max-width: 46rem;
+}
+.episode-card h2 { margin: .4rem 0 .8rem; font-size: 1.5rem; }
+.episode-card audio { width: 100%; margin: 1.2rem 0 .8rem; }
+.episode-meta { color: var(--muted); font-size: .9rem; margin: 0; }
+.podcast-note { color: var(--muted); font-size: .92rem; max-width: 46rem; }
