@@ -40,28 +40,36 @@
 
   /* ZIP code prefix (first 3 digits) -> state slug. Covers all 50 states. */
   var ZIP_RANGES = [
-    [5, 5, "new-york"],
-    [10, 27, "massachusetts"], [28, 29, "rhode-island"],
-    [30, 38, "new-hampshire"], [39, 49, "maine"], [50, 59, "vermont"],
-    [60, 69, "connecticut"], [70, 89, "new-jersey"],
-    [100, 149, "new-york"], [150, 196, "pennsylvania"],
-    [197, 199, "delaware"], [201, 201, "virginia"],
-    [206, 219, "maryland"], [220, 246, "virginia"],
-    [247, 268, "west-virginia"], [270, 289, "north-carolina"],
-    [290, 299, "south-carolina"], [300, 319, "georgia"],
-    [320, 349, "florida"], [350, 369, "alabama"], [370, 385, "tennessee"],
-    [386, 397, "mississippi"], [398, 399, "georgia"],
-    [400, 427, "kentucky"], [430, 458, "ohio"], [460, 479, "indiana"],
-    [480, 499, "michigan"], [500, 528, "iowa"], [530, 549, "wisconsin"],
-    [550, 567, "minnesota"], [570, 577, "south-dakota"],
-    [580, 588, "north-dakota"], [590, 599, "montana"],
-    [600, 629, "illinois"], [630, 658, "missouri"], [660, 679, "kansas"],
-    [680, 693, "nebraska"], [700, 714, "louisiana"], [716, 729, "arkansas"],
-    [730, 732, "oklahoma"], [733, 733, "texas"], [734, 749, "oklahoma"], [750, 799, "texas"], [800, 816, "colorado"],
-    [820, 831, "wyoming"], [832, 838, "idaho"], [840, 847, "utah"],
-    [850, 865, "arizona"], [870, 884, "new-mexico"], [890, 898, "nevada"],
-    [900, 961, "california"], [967, 968, "hawaii"], [970, 979, "oregon"],
-    [980, 994, "washington"], [995, 999, "alaska"]
+    [5, 5, "new-york"], [10, 27, "massachusetts"], [28, 29, "rhode-island"],
+    [30, 38, "new-hampshire"], [39, 49, "maine"], [50, 54, "vermont"],
+    [55, 55, "massachusetts"], [56, 59, "vermont"], [60, 69, "connecticut"],
+    [70, 89, "new-jersey"], [100, 149, "new-york"], [150, 191, "pennsylvania"],
+    [193, 196, "pennsylvania"], [197, 199, "delaware"], [201, 201, "virginia"],
+    [206, 212, "maryland"], [214, 219, "maryland"], [220, 246, "virginia"],
+    [247, 268, "west-virginia"], [270, 289, "north-carolina"], [290, 299, "south-carolina"],
+    [300, 319, "georgia"], [320, 342, "florida"], [344, 344, "florida"],
+    [346, 347, "florida"], [349, 349, "florida"], [350, 352, "alabama"],
+    [354, 369, "alabama"], [370, 385, "tennessee"], [386, 397, "mississippi"],
+    [398, 398, "georgia"], [400, 418, "kentucky"], [420, 427, "kentucky"],
+    [430, 458, "ohio"], [460, 479, "indiana"], [480, 499, "michigan"],
+    [500, 528, "iowa"], [530, 532, "wisconsin"], [534, 535, "wisconsin"],
+    [537, 549, "wisconsin"], [550, 551, "minnesota"], [553, 567, "minnesota"],
+    [570, 577, "south-dakota"], [580, 588, "north-dakota"], [590, 599, "montana"],
+    [600, 620, "illinois"], [622, 629, "illinois"], [630, 631, "missouri"],
+    [633, 641, "missouri"], [644, 648, "missouri"], [650, 658, "missouri"],
+    [660, 662, "kansas"], [664, 679, "kansas"], [680, 681, "nebraska"],
+    [683, 693, "nebraska"], [700, 701, "louisiana"], [703, 708, "louisiana"],
+    [710, 714, "louisiana"], [716, 729, "arkansas"], [730, 731, "oklahoma"],
+    [733, 733, "texas"], [734, 741, "oklahoma"], [743, 749, "oklahoma"],
+    [750, 799, "texas"], [800, 816, "colorado"], [820, 831, "wyoming"],
+    [832, 838, "idaho"], [840, 841, "utah"], [843, 847, "utah"],
+    [850, 853, "arizona"], [855, 857, "arizona"], [859, 860, "arizona"],
+    [863, 865, "arizona"], [870, 871, "new-mexico"], [873, 875, "new-mexico"],
+    [877, 884, "new-mexico"], [885, 889, "texas"], [890, 891, "nevada"],
+    [893, 895, "nevada"], [897, 898, "nevada"], [900, 908, "california"],
+    [910, 928, "california"], [930, 961, "california"], [967, 968, "hawaii"],
+    [970, 979, "oregon"], [980, 986, "washington"], [988, 994, "washington"],
+    [995, 999, "alaska"]
   ];
 
   function stateForZip(zip) {
@@ -172,31 +180,47 @@
   } catch (e) {}
 
   /* Share this page: native share sheet on mobile, fallback menu on desktop.
-     Plain share-intent links only — no third-party SDKs, no trackers. */
+     Plain share-intent links only — no third-party SDKs, no trackers.
+     The share block is rendered in the page HTML; this fills in the current
+     page's share URLs and wires up the button/menu. If a page has no block
+     (e.g. an older cached copy), build one exactly like the static markup. */
   try {
-    var footerBrand = document.querySelector(".site-footer .footer-brand");
-    if (footerBrand && !document.querySelector("[data-share-block]")) {
-      var pageUrl = location.href.split("#")[0];
-      var pageTitle = document.title || "The Legal Buffet";
-      var encUrl = encodeURIComponent(pageUrl);
-      var encTitle = encodeURIComponent(pageTitle);
+    var pageUrl = location.href.split("#")[0];
+    var pageTitle = document.title || "The Legal Buffet";
+    var encUrl = encodeURIComponent(pageUrl);
+    var encTitle = encodeURIComponent(pageTitle);
 
-      var block = document.createElement("div");
-      block.className = "share-block";
-      block.setAttribute("data-share-block", "1");
-      block.innerHTML =
-        '<p class="share-label">Know someone who could use this? Pass it on.</p>' +
-        '<button type="button" class="btn btn-primary btn-share" data-share-btn>' +
-        '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.6" y1="10.5" x2="15.4" y2="6.5"/><line x1="8.6" y1="13.5" x2="15.4" y2="17.5"/></svg>' +
-        "Share this page</button>" +
-        '<div class="share-menu" data-share-menu hidden>' +
-        '<a href="https://www.facebook.com/sharer/sharer.php?u=' + encUrl + '" target="_blank" rel="noopener">Facebook</a>' +
-        '<a href="https://twitter.com/intent/tweet?url=' + encUrl + "&text=" + encTitle + '" target="_blank" rel="noopener">X</a>' +
-        '<a href="mailto:?subject=' + encTitle + "&body=" + encUrl + '">Email</a>' +
-        '<button type="button" data-copy-link>Copy link</button>' +
-        "</div>" +
-        '<p class="share-copied" data-share-copied hidden>Link copied.</p>';
-      footerBrand.appendChild(block);
+    var block = document.querySelector("[data-share-block]");
+    if (!block) {
+      var footerBrand = document.querySelector(".site-footer .footer-brand");
+      if (footerBrand) {
+        block = document.createElement("div");
+        block.className = "share-block";
+        block.setAttribute("data-share-block", "1");
+        block.innerHTML =
+          '<p class="share-label">Know someone who could use this? Pass it on.</p>' +
+          '<button type="button" class="btn btn-primary btn-share" data-share-btn>' +
+          '<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.6" y1="10.5" x2="15.4" y2="6.5"/><line x1="8.6" y1="13.5" x2="15.4" y2="17.5"/></svg>' +
+          "Share this page</button>" +
+          '<div class="share-menu" data-share-menu hidden>' +
+          '<a data-share-fb target="_blank" rel="noopener">Facebook</a>' +
+          '<a data-share-x target="_blank" rel="noopener">X</a>' +
+          '<a data-share-email>Email</a>' +
+          '<button type="button" data-copy-link>Copy link</button>' +
+          "</div>" +
+          '<p class="share-copied" data-share-copied hidden>Link copied.</p>';
+        footerBrand.appendChild(block);
+      }
+    }
+
+    if (block) {
+      /* Fill in the share URLs (the static block ships without hrefs). */
+      var fbLink = block.querySelector("[data-share-fb]");
+      if (fbLink) fbLink.href = "https://www.facebook.com/sharer/sharer.php?u=" + encUrl;
+      var xLink = block.querySelector("[data-share-x]");
+      if (xLink) xLink.href = "https://twitter.com/intent/tweet?url=" + encUrl + "&text=" + encTitle;
+      var emailLink = block.querySelector("[data-share-email]");
+      if (emailLink) emailLink.href = "mailto:?subject=" + encTitle + "&body=" + encUrl;
 
       var shareBtn = block.querySelector("[data-share-btn]");
       var shareMenu = block.querySelector("[data-share-menu]");
