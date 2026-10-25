@@ -73,6 +73,31 @@
     .helper-hotlines li { margin-bottom: .35rem; }
     .helper-continue { margin: 1rem 0 0; }
     .helper-note { margin: 1.1rem 0 0; font-size: .88rem; color: var(--muted); }
+
+    /* Collapsible topic list — Option A (Oct 2026): the grid is folded by
+       default so the homepage scrolls shorter; content stays in the HTML. */
+    .collapse { margin-top: 1.4rem; }
+    .collapse-summary {
+      list-style: none; cursor: pointer;
+      display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+      background: var(--ink); color: #fff;
+      border-radius: var(--radius-sm); padding: 1rem 1.3rem;
+      font-family: var(--font-display); font-size: 1.3rem; font-weight: 700;
+    }
+    .collapse-summary::-webkit-details-marker { display: none; }
+    .collapse-summary::marker { content: ""; }
+    .collapse-summary:hover { background: var(--accent); }
+    .collapse-summary:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+    .collapse-summary .count-badge {
+      font-family: var(--font-body); font-size: .75rem; font-weight: 700;
+      background: rgba(255,255,255,.18); color: #fff; border-radius: 999px;
+      padding: .3rem .8rem; white-space: nowrap;
+    }
+    .collapse-summary .chev { transition: transform .2s ease; font-size: 1rem; }
+    .collapse[open ] .collapse-summary .chev { transform: rotate(180deg); }
+    .collapse[open ] .collapse-summary .show-label { display: none; }
+    .collapse:not([open]) .collapse-summary .hide-label { display: none; }
+    .collapse .topics-grid { margin-top: 1.4rem; }
   </style>
   <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 240 240'%3E%3Ccircle cx='120' cy='120' r='116' fill='%23102744'/%3E%3Ccircle cx='120' cy='120' r='107' fill='none' stroke='%23B58A43' stroke-width='8'/%3E%3Ctext x='100' y='118' text-anchor='middle' font-family='Georgia,serif' font-size='120' font-weight='bold' fill='%23B58A43'%3ET%3C/text%3E%3Ctext x='134' y='205' text-anchor='middle' font-family='Georgia,serif' font-size='128' font-weight='bold' fill='%23B58A43'%3EL%3C/text%3E%3Ctext x='165' y='208' text-anchor='middle' font-family='Georgia,serif' font-size='128' font-weight='bold' fill='%23B58A43'%3EB%3C/text%3E%3C/svg%3E">
 </head>
@@ -390,6 +415,11 @@
         <h2 id="legal-help-by-topic">Legal help by topic</h2>
         <p>Pick what's going on in your life. Each topic page points you to your state's resources, in plain language.</p>
       </div>
+      <details class="collapse" id="topics-collapse">
+        <summary class="collapse-summary">
+          <span><span class="show-label">Show all 24 topics</span><span class="hide-label">Hide topics</span></span>
+          <span><span class="count-badge">24 topics</span> <span class="chev" aria-hidden="true">&#9662;</span></span>
+        </summary>
       <div class="topics-grid">
         <a class="topic-card" href="#helper" data-topic="divorce">
           <span class="topic-img"><img src="assets/img/topics/legal-buffet-divorce.jpg" alt="Divorce &amp; Family" loading="lazy"></span>
@@ -542,6 +572,7 @@
 
 
       </div>
+      </details>
     </div>
   </section>
 
@@ -797,6 +828,35 @@
 
     window.location.href = url;
   });
+})();
+</script>
+<script>
+/* Collapsible topics (Option A): auto-expand the topic list when the helper
+   picks a topic whose card lives inside it, or when an anchor points inside it. */
+(function () {
+  "use strict";
+  var topics = document.getElementById("topics-collapse");
+  if (!topics) return;
+  var topicSel = document.getElementById("helper-topic");
+
+  function openForTopic(value) {
+    if (!value) return;
+    if (topics.querySelector('.topic-card[data-topic="' + value + '"]')) {
+      topics.open = true;
+    }
+  }
+  if (topicSel) {
+    topicSel.addEventListener("change", function () { openForTopic(topicSel.value); });
+    openForTopic(topicSel.value);
+  }
+  function openForHash() {
+    var id = window.location.hash ? window.location.hash.slice(1) : "";
+    if (!id) return;
+    var el = document.getElementById(id);
+    if (el && topics.contains(el)) topics.open = true;
+  }
+  window.addEventListener("hashchange", openForHash);
+  openForHash();
 })();
 </script>
   <script src="assets/js/search.js?v=20261015a"></script>
