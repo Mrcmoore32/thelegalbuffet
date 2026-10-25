@@ -432,6 +432,9 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
 /* ---------- link freshness stamp ---------- */
 .link-freshness { font-size: .8rem; color: var(--muted); margin: 0 0 .6rem; }
 
+/* ---------- footer contact line ---------- */
+.footer-contact { font-size: .8rem; color: var(--muted); margin: 0 0 .6rem; }
+
 /* ---------- site search ---------- */
 .site-search { position: relative; display: flex; align-items: center; }
 .site-search svg { position: absolute; left: .7rem; color: var(--muted); pointer-events: none; }
