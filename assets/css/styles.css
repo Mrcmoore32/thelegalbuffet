@@ -694,3 +694,30 @@ main section.block[style] > h2 { margin-bottom: 1.15rem; }
 .podcast-channel { margin-top: 1rem; max-width: 46rem; }
 .episode-youtube { margin: .9rem 0 0; }
 .episode-youtube a { font-weight: 700; color: var(--accent-dark); }
+
+/* Collapsible lists — Option A (Oct 2026): long grids folded by default so
+   pages scroll shorter; content stays in the HTML. Moved here from
+   index.html's inline style so states.html can share the pattern. */
+.collapse { margin-top: 1.4rem; }
+.collapse-summary {
+  list-style: none; cursor: pointer;
+  display: flex; align-items: center; justify-content: space-between; gap: 1rem;
+  background: var(--ink); color: #fff;
+  border-radius: var(--radius-sm); padding: 1rem 1.3rem;
+  font-family: var(--font-display); font-size: 1.3rem; font-weight: 700;
+}
+.collapse-summary::-webkit-details-marker { display: none; }
+.collapse-summary::marker { content: ""; }
+.collapse-summary:hover { background: var(--accent); }
+.collapse-summary:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+.collapse-summary .count-badge {
+  font-family: var(--font-body); font-size: .75rem; font-weight: 700;
+  background: rgba(255,255,255,.18); color: #fff; border-radius: 999px;
+  padding: .3rem .8rem; white-space: nowrap;
+}
+.collapse-summary .chev { transition: transform .2s ease; font-size: 1rem; }
+.collapse[open ] .collapse-summary .chev { transform: rotate(180deg); }
+.collapse[open ] .collapse-summary .show-label { display: none; }
+.collapse:not([open]) .collapse-summary .hide-label { display: none; }
+.collapse .topics-grid { margin-top: 1.4rem; }
+.collapse .states-grid { margin-top: 1.4rem; }

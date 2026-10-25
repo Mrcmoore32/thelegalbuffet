@@ -104,6 +104,7 @@
   /* States index: live search filter. */
   var search = document.getElementById("state-search");
   var grid = document.getElementById("states-grid");
+  var statesCollapse = document.getElementById("states-collapse");
   if (search && grid) {
     search.addEventListener("input", function () {
       var q = search.value.trim().toLowerCase();
@@ -115,6 +116,9 @@
       });
       var empty = document.getElementById("states-empty");
       if (empty) empty.style.display = visible ? "none" : "";
+      /* The state list is folded by default (Option A): open it when the
+         filter matches something, so results are visible. */
+      if (q && visible && statesCollapse) statesCollapse.open = true;
     });
   }
 
