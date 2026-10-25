@@ -436,6 +436,10 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
 .footer-contact { font-size: .8rem; color: var(--muted); margin: 0 0 .6rem; text-align: right; }
 .footer-contact a { color: var(--gold); }
 .footer-contact a:hover { color: #d9c08a; text-decoration: underline; }
+/* Keep "Email us at <address>" together on one line; if the line must wrap,
+   it breaks after "Spotted something wrong?" instead. */
+.footer-contact .nowrap { white-space: nowrap; }
+@media (max-width: 480px) { .footer-contact { font-size: .75rem; } }
 
 /* ---------- site search ---------- */
 .site-search { position: relative; display: flex; align-items: center; }
