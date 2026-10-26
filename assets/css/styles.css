@@ -433,7 +433,7 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
 .link-freshness { font-size: .8rem; color: var(--muted); margin: 0 0 .6rem; }
 
 /* ---------- footer contact line ---------- */
-.footer-contact { font-size: .8rem; color: var(--muted); margin: 0 0 .6rem; text-align: right; }
+.footer-contact { font-size: .8rem; color: #fff; margin: 0 0 .6rem; text-align: right; }
 .footer-contact a { color: var(--gold); }
 .footer-contact a:hover { color: #d9c08a; text-decoration: underline; }
 /* Keep "Email us at <address>" together on one line; if the line must wrap,
