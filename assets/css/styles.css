@@ -700,7 +700,8 @@ main section.block[style] > h2 { margin-bottom: 1.15rem; }
 }
 
 /* Podcast YouTube links (added 2026-10-25). */
-.podcast-channel { margin-top: 1rem; max-width: 46rem; }
+.podcast-channel { margin-top: 1rem; max-width: 46rem; color: #c9d2e3; }
+.podcast-channel a { color: var(--gold); }
 .episode-youtube { margin: .9rem 0 0; }
 .episode-youtube a { font-weight: 700; color: var(--accent-dark); }
 
