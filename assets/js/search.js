@@ -90,6 +90,11 @@
   document.addEventListener('click', function (ev) {
     if (!ev.target.closest('.site-search')) { results.hidden = true; }
   });
+  /* Same-page anchor results don't reload the page, so the dropdown would
+     otherwise stay open over the section it just jumped to. */
+  results.addEventListener('click', function (ev) {
+    if (ev.target.closest('.ss-hit')) results.hidden = true;
+  });
   box.addEventListener('keydown', function (ev) {
     if (ev.key === 'Escape') { results.hidden = true; box.blur(); return; }
     if (ev.key === 'ArrowDown' || ev.key === 'ArrowUp') {
@@ -110,6 +115,7 @@
         ? (e.a ? '#' + e.a : curPage)
         : (prefix + e.u + (e.a ? '#' + e.a : ''));
       ev.preventDefault();
+      results.hidden = true;
       location.href = url;
     }
   });

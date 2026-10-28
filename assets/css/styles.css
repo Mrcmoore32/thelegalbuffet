@@ -46,6 +46,9 @@ a:hover { color: var(--accent); }
 
 /* ---------- layout ---------- */
 h2[id] { scroll-margin-top: 96px; }
+/* The helper anchor sits on the section itself, not an h2 — give it the
+   same clearance so its heading doesn't land under the sticky header. */
+#helper { scroll-margin-top: 96px; }
 .wrap { max-width: var(--max); margin-inline: auto; padding-inline: var(--pad); }
 section.block { padding-block: clamp(3rem, 7vw, 5.5rem); }
 .eyebrow {
