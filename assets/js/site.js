@@ -140,6 +140,20 @@
     });
   });
 
+  /* Deep links: some mobile browsers land at the top instead of the anchor
+     when the page is still settling (fonts, translate widget). Once the
+     page has loaded, scroll to the fragment target again so the link
+     lands where it should. Harmless when the browser already got it right. */
+  function scrollToFragment() {
+    var id = window.location.hash ? window.location.hash.slice(1) : "";
+    if (!id) return;
+    var el = document.getElementById(decodeURIComponent(id));
+    if (el) el.scrollIntoView();
+  }
+  window.addEventListener("load", function () {
+    setTimeout(scrollToFragment, 150);
+  });
+
   /* Footer year. */
   document.querySelectorAll("[data-year]").forEach(function (el) {
     el.textContent = new Date().getFullYear();
