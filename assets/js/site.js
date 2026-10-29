@@ -278,3 +278,29 @@
     }
   } catch (e) {}
 })();
+
+/* Letter templates: copy/print one letter (added 2026-10-28). Nothing is stored or sent. */
+(function () {
+  "use strict";
+  document.querySelectorAll("[data-copy-letter]").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      var letter = btn.closest(".letter");
+      var body = letter && letter.querySelector(".letter-body");
+      if (!body) return;
+      var text = body.innerText || body.textContent;
+      var done = function () { var t = btn.textContent; btn.textContent = "Copied!"; setTimeout(function () { btn.textContent = t; }, 2000); };
+      if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(text).then(done, function () {}); }
+    });
+  });
+  document.querySelectorAll("[data-print-letter]").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      var letter = btn.closest(".letter");
+      if (!letter) return;
+      document.body.classList.add("printing-letter");
+      letter.classList.add("letter-print-target");
+      var cleanup = function () { document.body.classList.remove("printing-letter"); letter.classList.remove("letter-print-target"); window.removeEventListener("afterprint", cleanup); };
+      window.addEventListener("afterprint", cleanup);
+      window.print();
+    });
+  });
+})();
