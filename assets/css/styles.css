@@ -770,3 +770,11 @@ input.action-check { width: 1.15rem; height: 1.15rem; margin: 0 .7rem .1rem 0; v
   body.action-plan-print input.action-check { display: none !important; }
   body.action-plan-print .resource-list, body.action-plan-print .facts { display: none !important; }
 }
+
+/* Back to top + collapsible state topic menu (added 2026-10-28). */
+.back-to-top { position: fixed; right: 1rem; bottom: 5.5rem; z-index: 90; display: none; background: var(--ink); color: #fff; border: 2px solid var(--gold); border-radius: 999px; padding: .6rem 1rem; font: inherit; font-weight: 700; cursor: pointer; box-shadow: var(--shadow); }
+.back-to-top.is-visible { display: block; }
+.back-to-top:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+.topic-menu-collapse { border-top: 3px solid var(--gold); padding: 1.25rem 0; }
+.topic-menu-collapse > ul { margin: 1rem 0 0; }
+.topic-menu-collapse .collapse-summary { font-size: 1.15rem; padding: .8rem 1.1rem; }

@@ -340,3 +340,22 @@
     window.print();
   });
 })();
+
+/* Back-to-top button (added 2026-10-28). State pages ship the button in HTML; this covers other pages and the show/hide + smooth scroll. */
+(function () {
+  "use strict";
+  var btn = document.querySelector("[data-back-to-top]");
+  if (!btn) {
+    btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "back-to-top";
+    btn.setAttribute("data-back-to-top", "");
+    btn.setAttribute("aria-label", "Back to top");
+    btn.innerHTML = "&uarr; Top";
+    document.body.appendChild(btn);
+  }
+  function onScroll() { btn.classList.toggle("is-visible", window.scrollY > 600); }
+  window.addEventListener("scroll", onScroll, { passive: true });
+  onScroll();
+  btn.addEventListener("click", function () { window.scrollTo({ top: 0, behavior: "smooth" }); });
+})();
