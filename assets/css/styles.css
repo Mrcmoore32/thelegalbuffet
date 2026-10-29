@@ -778,3 +778,9 @@ input.action-check { width: 1.15rem; height: 1.15rem; margin: 0 .7rem .1rem 0; v
 .topic-menu-collapse { border-top: 3px solid var(--gold); padding: 1.25rem 0; }
 .topic-menu-collapse > ul { margin: 1rem 0 0; }
 .topic-menu-collapse .collapse-summary { font-size: 1.15rem; padding: .8rem 1.1rem; }
+
+/* Podcast transcripts (added 2026-10-28). */
+.episode-transcript { margin-top: 1.2rem; border-top: 1px solid var(--line); padding-top: 1rem; }
+.episode-transcript summary { cursor: pointer; font-weight: 700; color: var(--accent-dark); }
+.episode-transcript summary:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+.episode-transcript p { margin: 0 0 .8rem; }
