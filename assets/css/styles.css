@@ -750,3 +750,23 @@ main section.block[style] > h2 { margin-bottom: 1.15rem; }
   body.printing-letter .letter:not(.letter-print-target) { display: none !important; }
   body.printing-letter .letter-print-target { box-shadow: none !important; max-width: 100% !important; }
 }
+
+/* My Action Plan checkboxes + print mode (added 2026-10-28). */
+.action-plan-bar { background: var(--card); border: 1px solid #ecd9ae; border-radius: var(--radius-sm); box-shadow: var(--shadow); padding: 1rem 1.3rem; margin: 0 0 1.8rem; }
+.action-plan-bar p { margin: 0 0 .7rem; }
+.action-plan-bar .action-plan-msg { color: #7f1d1d; font-weight: 700; margin: .7rem 0 0; }
+.checklist li:has(> input.action-check) { padding-left: 1.2rem; }
+.checklist li:has(> input.action-check)::before { display: none; }
+.next-steps .checklist li:has(> input.action-check) { padding-left: 1.1rem; }
+input.action-check { width: 1.15rem; height: 1.15rem; margin: 0 .7rem .1rem 0; vertical-align: middle; accent-color: var(--accent); cursor: pointer; }
+@media print {
+  body.action-plan-print .site-header, body.action-plan-print .site-footer, body.action-plan-print .quick-exit,
+  body.action-plan-print .topic-menu, body.action-plan-print .topic-menu-collapse, body.action-plan-print .page-head,
+  body.action-plan-print .action-plan-bar, body.action-plan-print .back-to-top, body.action-plan-print .lb-emergency,
+  body.action-plan-print .translate-wrap, body.action-plan-print .site-search { display: none !important; }
+  body.action-plan-print section.block:not(:has(.checklist li.action-checked)) { display: none !important; }
+  body.action-plan-print .checklist li:not(.action-checked) { display: none !important; }
+  body.action-plan-print .checklist li.action-checked { box-shadow: none !important; border: 1px solid #999 !important; }
+  body.action-plan-print input.action-check { display: none !important; }
+  body.action-plan-print .resource-list, body.action-plan-print .facts { display: none !important; }
+}

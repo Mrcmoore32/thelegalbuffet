@@ -304,3 +304,39 @@
     });
   });
 })();
+
+/* My Action Plan: tick-and-print checklists (added 2026-10-28). Print-only: nothing is stored, sent, or tied to an account. */
+(function () {
+  "use strict";
+  var lists = document.querySelectorAll("ol.checklist, ul.checklist");
+  if (!lists.length) return;
+  lists.forEach(function (list) {
+    list.querySelectorAll(":scope > li").forEach(function (li) {
+      if (li.querySelector("input.action-check")) return;
+      var box = document.createElement("input");
+      box.type = "checkbox";
+      box.className = "action-check";
+      box.setAttribute("aria-label", "Include this step in my action plan");
+      box.addEventListener("change", function () { li.classList.toggle("action-checked", box.checked); });
+      li.insertBefore(box, li.firstChild);
+    });
+  });
+  var main = document.querySelector("main");
+  if (!main) return;
+  var bar = document.createElement("div");
+  bar.className = "action-plan-bar";
+  bar.innerHTML = '<p><strong>My action plan:</strong> tick the steps that apply to you, then print just your plan. Nothing is saved or sent.</p><button type="button" class="btn btn-primary action-plan-print-btn">Print my action plan (checked steps only)</button><p class="action-plan-msg" hidden>Tick at least one step first, then print.</p>';
+  var anchor = main.querySelector(".deadline-notice") || main.querySelector(".page-head") || main.firstChild;
+  if (anchor && anchor.parentNode) { anchor.parentNode.insertBefore(bar, anchor.nextSibling); }
+  else { main.insertBefore(bar, main.firstChild); }
+  var btn = bar.querySelector(".action-plan-print-btn");
+  var msg = bar.querySelector(".action-plan-msg");
+  btn.addEventListener("click", function () {
+    if (!document.querySelector(".checklist li.action-checked")) { msg.hidden = false; return; }
+    msg.hidden = true;
+    document.body.classList.add("action-plan-print");
+    var cleanup = function () { document.body.classList.remove("action-plan-print"); window.removeEventListener("afterprint", cleanup); };
+    window.addEventListener("afterprint", cleanup);
+    window.print();
+  });
+})();
