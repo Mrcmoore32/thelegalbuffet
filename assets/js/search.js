@@ -42,18 +42,52 @@
     return s;
   }
 
+  function urlFor(e) {
+    var samePage = e.u.split('/').pop() === curPage;
+    return samePage
+      ? (e.a ? '#' + e.a : curPage)
+      : (prefix + e.u + (e.a ? '#' + e.a : ''));
+  }
+
+  /* Ordered matches for a query: real content first. Entries that only
+     point at the homepage helper (#helper) are last-resort — on the
+     homepage itself they used to outrank every content page, so picking
+     the top "Divorce" result just dropped the visitor back at the
+     helper box on the same page. */
+  function runSearch(q) {
+    q = (q || '').trim();
+    if (q.length < 2) return Promise.resolve([]);
+    return load().then(function (idx) {
+      var words = norm(q).split(/\s+/);
+      var content = [];
+      var helper = [];
+      for (var i = 0; i < idx.length; i++) {
+        var s = score(idx[i], words);
+        if (s <= 0) continue;
+        if (idx[i].e.a === 'helper') {
+          helper.push({ e: idx[i].e, s: s });
+          continue;
+        }
+        // boost results from the page the visitor is already on
+        if (idx[i].e.u.split('/').pop() === curPage) s += 10;
+        content.push({ e: idx[i].e, s: s });
+      }
+      content.sort(function (a, b) { return b.s - a.s; });
+      helper.sort(function (a, b) { return b.s - a.s; });
+      return content.concat(helper);
+    });
+  }
+
   function render(matches, q) {
     lastMatches = matches;
+    lastQuery = q;
     if (!matches.length) {
       results.innerHTML = '<div class="ss-empty">No results for &ldquo;' +
         q.replace(/</g, '&lt;') + '&rdquo;. Try a state name or topic.</div>';
     } else {
       results.innerHTML = matches.slice(0, 12).map(function (m) {
         var e = m.e;
-        var samePage = e.u.split('/').pop() === curPage;
-        var url = samePage
-          ? (e.a ? '#' + e.a : curPage)
-          : (prefix + e.u + (e.a ? '#' + e.a : ''));
+        var url = urlFor(e);
         var page = e.p.replace(/ \| The Legal Buffet| — The Legal Buffet| - The Legal Buffet/, '');
         return '<a class="ss-hit" href="' + url + '">' +
           '<span class="ss-h">' + e.h.replace(/</g, '&lt;') + '</span>' +
@@ -65,25 +99,13 @@
 
   var t = null;
   var lastMatches = [];
+  var lastQuery = '';
   box.addEventListener('input', function () {
     clearTimeout(t);
     var q = box.value.trim();
-    if (q.length < 2) { results.hidden = true; results.innerHTML = ''; return; }
+    if (q.length < 2) { results.hidden = true; results.innerHTML = ''; lastMatches = []; lastQuery = ''; return; }
     t = setTimeout(function () {
-      load().then(function (idx) {
-        var words = norm(q).split(/\s+/);
-        var scored = [];
-        for (var i = 0; i < idx.length; i++) {
-          var s = score(idx[i], words);
-          if (s > 0) {
-            // boost results from the page the visitor is already on
-            if (idx[i].e.u.split('/').pop() === curPage) s += 10;
-            scored.push({ e: idx[i].e, s: s });
-          }
-        }
-        scored.sort(function (a, b) { return b.s - a.s; });
-        render(scored, q);
-      });
+      runSearch(q).then(function (matches) { render(matches, q); });
     }, 180);
   });
 
@@ -107,16 +129,26 @@
       hits[idx].focus();
       return;
     }
-    if (ev.key === 'Enter' && lastMatches.length) {
-      // jump straight to the top result (same URL logic as the rendered links)
-      var e = lastMatches[0].e;
-      var samePage = e.u.split('/').pop() === curPage;
-      var url = samePage
-        ? (e.a ? '#' + e.a : curPage)
-        : (prefix + e.u + (e.a ? '#' + e.a : ''));
+    if (ev.key === 'Enter') {
       ev.preventDefault();
-      results.hidden = true;
-      location.href = url;
+      clearTimeout(t);
+      var q = box.value.trim();
+      /* Fast path: results for exactly this query are already shown. */
+      if (lastMatches.length && lastQuery === q) {
+        results.hidden = true;
+        location.href = urlFor(lastMatches[0].e);
+        return;
+      }
+      /* Slow path: Enter beat the debounce or the index is still
+         loading — search now instead of doing nothing. */
+      runSearch(q).then(function (matches) {
+        if (matches.length) {
+          results.hidden = true;
+          location.href = urlFor(matches[0].e);
+        } else {
+          render(matches, q);
+        }
+      });
     }
   });
 })();

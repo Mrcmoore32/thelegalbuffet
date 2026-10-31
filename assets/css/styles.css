@@ -105,7 +105,7 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
     radial-gradient(900px 520px at -10% 110%, rgba(15, 118, 110, .12), transparent 60%),
     var(--paper);
 }
-.hero-inner { padding-block: clamp(1.75rem, 4vw, 2.75rem); max-width: 46rem; }
+.hero-inner { padding-block: clamp(1.1rem, 2.5vw, 1.6rem); max-width: 46rem; }
 /* Homepage hero — navy & gold, built around the brand graphic */
 .hero {
   background:
@@ -113,10 +113,10 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
     radial-gradient(800px 500px at 90% 110%, rgba(217, 164, 65, .10), transparent 60%),
     #0c1730;
 }
-.hero-grid { display: block; margin-bottom: 1.25rem; text-align: center; }
-.hero-media { margin: 0 0 1.25rem; }
+.hero-grid { display: block; margin-bottom: .8rem; text-align: center; }
+.hero-media { margin: 0 0 .9rem; }
 .hero-media img {
-  display: block; width: 100%; max-width: min(300px, 72vw); height: auto;
+  display: block; width: 100%; max-width: min(200px, 55vw); height: auto;
   margin-inline: auto; border-radius: var(--radius);
   box-shadow: 0 0 0 1px rgba(217, 164, 65, .35), 0 30px 80px rgba(0, 0, 0, .55);
 }
@@ -139,9 +139,9 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
 .site-nav a.cta { background: var(--gold); color: #16233f; }
 .site-nav a.cta:hover { background: #e8ba5d; color: #16233f; }
 .nav-toggle { color: #fff; border-color: rgba(255, 255, 255, .3); }
-.hero h1 { margin-bottom: 1.1rem; }
+.hero h1 { margin-bottom: .7rem; }
 .hero h1 em { font-style: italic; }
-.hero .lede { margin-bottom: 1.25rem; }
+.hero .lede { margin-bottom: .9rem; }
 .state-picker { display: flex; flex-wrap: wrap; gap: .75rem; align-items: stretch; }
 .state-picker select {
   appearance: none; -webkit-appearance: none;
@@ -152,7 +152,7 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
   box-shadow: var(--shadow); cursor: pointer;
 }
 .state-picker select:hover { border-color: var(--accent); }
-.hero-note { margin-top: 1.4rem; font-size: .92rem; color: var(--muted); display: flex; gap: .6rem; align-items: flex-start; }
+.hero-note { margin-top: .9rem; font-size: .92rem; color: var(--muted); display: flex; gap: .6rem; align-items: flex-start; }
 .hero-note svg { flex: none; margin-top: .2rem; }
 
 
