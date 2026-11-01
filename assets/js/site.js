@@ -305,6 +305,22 @@
   });
 })();
 
+/* Private gun-transfer steps: print one state's transfer block (added 2026-11-01). */
+(function () {
+  "use strict";
+  document.querySelectorAll("[data-print-transfer]").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      var block = btn.closest(".private-transfer");
+      if (!block) return;
+      document.body.classList.add("printing-transfer");
+      block.classList.add("transfer-print-target");
+      var cleanup = function () { document.body.classList.remove("printing-transfer"); block.classList.remove("transfer-print-target"); window.removeEventListener("afterprint", cleanup); };
+      window.addEventListener("afterprint", cleanup);
+      window.print();
+    });
+  });
+})();
+
 /* My Action Plan: tick-and-print checklists (added 2026-10-28). Print-only: nothing is stored, sent, or tied to an account. */
 (function () {
   "use strict";

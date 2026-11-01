@@ -1,0 +1,2188 @@
+{
+ "total": 2743,
+ "dead": [
+  {
+   "url": "http://dcf.vermont.gov/services/child-support",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "http://detr.nv.gov/NERC",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "http://dpbh.nv.gov/Programs/ClinicalSAPTA/Home_-_SAPTA/",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "http://illinoisattorneygeneral.gov:443/Page-Attachments/DebtCollection.pdf",
+   "detail": "HTTP 400"
+  },
+  {
+   "url": "http://illinoisattorneygeneral.gov:443/Page-Attachments/LandlordAndTenantRightsLaws.pdf",
+   "detail": "HTTP 400"
+  },
+  {
+   "url": "http://judicial.alabama.gov/docs/library/docs/smguide.pdf",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "http://marylandpublicschools.org/about/Pages/DSFSS/SSSP/Bullying/index.aspx",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "http://mcadv.org/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "http://ncdoj.gov/download/98/concealed-carry-handgun/368625/2024-firearms-laws-and-permits.pdf",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "http://ui.nv.gov/",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "http://www.aijustice.org/",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "http://www.house.ga.gov/budget/Documents/2019_Session/2019_Session_Brief_Health_and_Human_Services_Highlights.pdf",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "http://www.jud.ct.gov/faq/represent.html",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "http://www.kdads.ks.gov/services-programs/behavioral-health/services-and-programs/substance-use-disorder-treatment-services",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "http://www.lgc.state.pa.us/getfile.cfm?file=/Reports/deskbook2025/Private Property - 03 - Adverse Possession.pdf",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "http://www.sde.idaho.gov/student-engagement/sdfs/",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "http://www.texasbar.com/AM/Template.cfm?Section=Lawyer_Referral_Service_LRIS_",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "http://www.wicourts.gov/ecourts/prose.htm",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "http://www.wicourts.gov/services/public/selfhelp/index.htm",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://211eok.org/211-oklahoma/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://DPS.ALASKA.GOV/Statewide/R-I/PermitsLicensing/InAlaska",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://Portal.ct.gov/chro/office-of-public-hearings/whistleblower-retaliation/whistleblower-retaliation-complaints-frequently-asked-questions",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://ag.ks.gov/licensing/concealed-carry",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://ago.alabama.gov/Firearms",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://ago.wv.gov/gunreciprocity/Pages/FAQ.aspx",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://assessor.lacounty.gov/news-information/enotification",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://bci.utah.gov/concealed-firearm/general-information/concealed-firearm-permit-frequently-asked-questions/",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://bettzedek.org/our-services/justice-for-workers/low-income-taxpayer-initiative/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://billstatus.ls.state.ms.us/documents/2026/pdf/HB/1600-1699/HB1613SG.pdf",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://cga.ct.gov/2025/rpt/pdf/2025-R-0158.pdf?t=1769731200345",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://childsupport.dhs.nd.gov/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://childsupport.ny.gov/services/cs",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://cohhio.org/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://commerce.mt.gov/Housing/Homeownership/Homeowner-Assistance-Fund-FAQs",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://courts.nh.gov/self-help/name-changes",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://dese.ade.arkansas.gov/Files/FINAL_2025_AR_DESE_Bullying_Prevention_Guidance_DO.pdf",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://detr.nv.gov/nerc/",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://dev2022.njsba.com/county-bar-associations-for-the-public/",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://dhhs.nh.gov/programs-services/homeless-services",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://difs.state.mi.us/locators",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://doa.alaska.gov/pda/",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://documents.courts.state.wy.us/Opinions/S-24-0326%20State%20v.%20Johnson%20Final.pdf",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://dojmt.gov/enforcement/concealed-weapons/",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://dojmt.gov/office-of-consumer-protection/",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://dojmt.gov/office-of-consumer-protection/consumer-complaints/",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://dojmt.gov/office-of-consumer-protection/tenants-and-landlords/",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://dojmt.gov/office-of-consumer-protection/vehicles-and-the-lemon-law/",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://dos.fl.gov/elections/for-voters/voter-registration/register-to-vote-or-update-your-information/",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://dps.alaska.gov/Statewide/PermitsLicensing/Reciprocity",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://dps.alaska.gov/getmedia/253b657e-b2dc-4a0e-a436-b71d75850aaa/Alaska-Concealed-Carry-Permit-Questions.pdf;.aspx",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://fchonline.org/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://fchonline.org/resources/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://findaddictiontreatment.ny.gov/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://firrp.org/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://floridajobs.org/workforce-resources/reemployment-assistance/claimants/apply-for-benefits",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://fonts.googleapis.com",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://fonts.gstatic.com",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://georgiainnocenceproject.org/",
+   "detail": "HTTP 502"
+  },
+  {
+   "url": "https://georgialegalaid.org/",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://hrb.dws.nm.gov/?lang=en",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://icadvinc.org/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://idfpr.illinois.gov/consumers/file-complaint.html",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://ilga.gov/Documents/legislation/ilcs/documents/010500050K22-110.htm",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://ilga.gov/legislation/ILCS/details?ActID=3987&amp;ActName=Reproductive+Health+Act.&amp;ChapAct=775+ILCS+55%2F&amp;Chapter=HUMAN+RIGHTS&amp;ChapterID=64&amp;MajorTopic=RIGHTS+AND+REMEDIES&amp;SeqEnd=1100000&amp;SeqStart=100000&amp;Print=True",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://immigrantjustice.org/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://indianainnocenceproject.org/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://indianavoters.in.gov/",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://indysb.org/itvap/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://innocenceprojectpa.org/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://iowalegalaid.org",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://iowalegalaid.org/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://iowalegalaid.org/resource/changing-your-name-in-iowa/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://iowalegalaid.org/resource/find-a-location-for-free-tax-help/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://iowalegalaid.org/resource/landlord-and-tenant-law-questions-and-answers/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://jud.ct.gov/LAWLIB/Notebooks/Pathfinders/names.pdf",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://jud.ct.gov/Publications/CR137P.pdf",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://jud.ct.gov/Publications/HM031.pdf",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://jud.ct.gov/lawlib/Law/possession.htm",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://kentuckystatepolice.org/ccdw/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://labor.wv.gov/Licensing/Contractor_License/Pages/default.aspx",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://legalaidchicago.org/get-help/legal-aid-chicago-clinics/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=325",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=2983.2",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://lieapwyo.org/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://louisianalawhelp.org/",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://louisianalawhelp.org/issues/consumer-issues/automobiles",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://mcadv.org",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://mdek12.org/secondaryeducation/mental-health/",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://missourilawyershelp.org/discounted-pro-bono-services/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://mnvotes.sos.mn.gov/OVRBlackOut/Index",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://mvic.sos.state.mi.us/",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://mvlslaw.org/about-us/what-we-do/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://myportal.dfs.ny.gov/web/guest-applications/bail-bonds-search",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://myvote.wi.gov/en-us/",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://ncdoj.gov",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://ncdoj.gov/file-a-complaint/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://ncdoj.gov/law-enforcement-training/law-enforcement-liason/concealed-weapon-reciprocity/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://ncdoj.gov/watch-out-for-debt-collection-scams/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://neoc.nebraska.gov/complaint/complaint.html",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://nevadalawhelp.org/consumer/lemon-law",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://njcbw.org",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://nomoreht.org/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://ok.gov/wcc/",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://oklahoma.gov/content/dam/ok/en/onmvc/documents/Lemon Law.pdf",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://oklaw.org/files/CB59BD67-E9D4-A408-BB53-C676C85FEED2/attachments/E61259F6-1D53-483C-AF54-7DA7E7543B32/adult-name-change-forms.pdf",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://oklaw.org/issues/consumer/debt-collection-garnishment-repossession?lang=EN",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://oklaw.org/resource/landlord-tenant-rights-and-duties",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://otda.ny.gov/programs/bria/trafficking.asp",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://otda.ny.gov/programs/heap/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://palawhelp.org/issues/consumer/debt-collection-repossession",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://portal.ct.gov/DESPP/Division-of-State-Police/Special-Licensing-and-Firearms/Special-Licensing-and-Firearms",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://pr.mo.gov/healingarts.asp",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://psc.mt.gov/Consumers/Request-Assistance",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://psc.nd.gov/public/consinfo/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://ptla.org/changing-your-name",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://rca.alaska.gov/RCAWeb/ContactUs/ContactInfo.aspx",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://selfhelp.nvcourts.gov/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://selfhelp.nvcourts.gov/pro/small-estates/entitlement",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://selfhelp.nvcourts.gov/self-help/custody-paternity-child-support/together/together",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://selfhelp.nvcourts.gov/self-help/divorce",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://selfhelp.nvcourts.gov/self-help/name-changes/name-changes-for-adults",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://sojournerri.org/services/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://staging.pacourts.us/learn/learn-about-the-judicial-system/clean-slate-expungement-and-limited-access",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://stlouiscityrecorder.org/news/property-fraud-alert/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://supremecourt.ne.gov/self-help/small-claims/filing-small-claims-case-nebraska",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://texaslawhelp.org/article/repossession-vehicle-or-property",
+   "detail": "HTTP 502"
+  },
+  {
+   "url": "https://texaslawhelp.org/guide/i-need-a-divorce-we-do-not-have-minor-children",
+   "detail": "HTTP 502"
+  },
+  {
+   "url": "https://texaslawhelp.org/guide/i-need-to-clear-an-arrest-from-my-record-expunction",
+   "detail": "HTTP 502"
+  },
+  {
+   "url": "https://texaslawhelp.org/guide/i-want-to-change-my-name",
+   "detail": "HTTP 502"
+  },
+  {
+   "url": "https://tnrefugees.org/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://udvc.org",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://ujs.sd.gov/News/News_Details.aspx?Id=1356",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://uprisingwyo.org/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://vvv.jud.ct.gov/Publications/CV045.pdf",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://wcc.state.md.us/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://workcomp.virginia.gov/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://wp.cga.ct.gov/cwcseo/trafficking-in-persons-tip-council/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://ww2.nycourts.gov/courts/problem_solving/drugcourts/index.shtml",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://www.211texas.org/",
+   "detail": "HTTP 502"
+  },
+  {
+   "url": "https://www.acluct.org/sites/default/files/field_documents/know_your_rights-_recording_the_police_11.pdf",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://www.ag.ks.gov/divisions/civil/licensing-inspections/concealed-carry-licensing",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.ag.ks.gov/divisions/public-protection/consumer-protection",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.ag.ks.gov/divisions/public-protection/resources/mediation-program",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.ag.ks.gov/divisions/victim-services",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.ag.ks.gov/divisions/victim-services/human-trafficking",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.ago.ms.gov",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.akleg.gov/basis/get_documents.asp?session=33&amp;docid=31382",
+   "detail": "HTTP 500"
+  },
+  {
+   "url": "https://www.alabamalegalhelp.org/issues/families-and-children/name-change?amp%3Bpage=1",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.attorneygeneral.gov/protect-yourself/home-improvement/",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://www.awcc.ar.gov/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.banking.nh.gov/consumer-assistance/foreclosure-information-assistance",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.bwc.ohio.gov/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.capitol.hawaii.gov/hrscurrent/Vol03_Ch0121-0200/HRS0134/HRS_0134-0009.htm",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.capitol.hawaii.gov/hrscurrent/Vol03_Ch0121-0200D/HRS0134/HRS_0134-0009.htm",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.casscountynd.gov/Home/Components/News/News/2357/16?selectview=1",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.co.augusta.va.us/home/showpublisheddocument/20631/639184151820730000",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.coloradojudicial.gov/courts/trial-courts/denver-juvenile?language=en",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.coloradojudicial.gov/problem-solving-courts",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.coloradojudicial.gov/self-help-forms?page=28",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.coloradojudicial.gov/sites/default/files/2023-07/JDF640.pdf",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.commerce.Alaska.gov/web/ins/Consumers/Complaints/FileaComplaint.aspx",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.commerce.alaska.gov/web/cbpl/ProfessionalLicensing/ConstructionContractors/ConsumerInformation.aspx",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.commerce.alaska.gov/web/cbpl/ProfessionalLicensing/StateMedicalBoard/ProfessionalLicenseSearch.aspx",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.compass.dhs.pa.gov/CWIS/public/home",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://www.courts.mo.gov/hosted/circuit13/courtoffices/Probate/bneprobate.htm",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.courts.mo.gov/page.jsp?id=216673&amp;version=meter",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.courts.mo.gov/page.jsp?id=3834",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.courts.mo.gov/page.jsp?id=5240",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.courts.mo.gov/page.jsp?id=704",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.courts.nh.gov/our-courts/circuit-court/district-division/landlordtenant",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.courts.nh.gov/our-courts/circuit-court/district-division/small-claims",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.courts.nh.gov/our-courts/circuit-court/family-division/divorceparenting/how-file-divorce-petition",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.courts.nh.gov/our-courts/treatment-courts",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.courts.nh.gov/resources/committees/access-justice-commission/nh-legal-aid-programs",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.courts.nh.gov/self-help/representing-yourself",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.cslb.ca.gov/consumers/filing_a_complaint/",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.ctbar.org/find",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.dfs.ny.gov/consumers/help_for_homeowners/foreclosure_assistance/help_for_homeowners_facing_foreclosure",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.dhhs.nh.gov/programs-services/childcare-parenting-childbirth/child-support-services",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.dhhs.nh.gov/report-concern/report-child-abuse",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.dhs.state.il.us/PAGE.ASPX?item=159358",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.dhs.state.il.us/PAGE.ASPX?item=82023",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.dhs.state.il.us/page.aspx?item=32300",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.dhs.wisconsin.gov/news/releases/103123.htm",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.dir.ca.gov/dlse/HowToFileWageClaim.htm",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.dir.ct.gov/ag/complaint/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.dmv.nh.gov/tickets-accidents-or-restorations/suspension-and-restoration",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.dmv.nh.gov/vehicles-boats-and-titles/new-motor-vehicle-arbitration-board-lemon-law",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.doe.virginia.gov/programs-services/student-services/prevention-strategies-programs/bullying-prevention",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.doj.nh.gov/citizens/consumer-protection-antitrust-bureau/consumer-protection-hotline",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.doj.nh.gov/consumer/sourcebook/renting.htm",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.dol.gov/agencies/whd",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.dol.gov/agencies/whd/state/contacts",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.dol.ks.gov/employers/workplace-laws/wage-claims",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.dol.ks.gov/unemployment/overview",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.dol.ks.gov/workers-compensation",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.dol.nh.gov/online-forms/file-online-wage-claim",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.education.nh.gov/who-we-are/division-of-learner-support/bureau-wellness-and-nutrition/bullying-cyber-bullying",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.energy.nh.gov/consumers/file-complaint",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.energy.nh.gov/consumers/help-energy-and-utility-bills/fuel-assistance-program",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.fdle.state.fl.us/Seal-and-Expunge-Process/Frequently-Asked-Questions",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.fema.gov/fact-sheet/how-appeal-fema-decision-3",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.fldoe.org/core/fileparse.php/7749/urlt/2020-Jeffrey-Johnston-Report-FINAL-2.pdf",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.fldoe.org/safe-schools/bullying-prevention.stml",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.forsyth.cc/rod/property_fraud.aspx",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.ftc.gov/refunds",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://www.georgialegalaid.org/resource/how-to-sue-in-magistrate-court",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.georgialegalaid.org/resource/what-should-i-know-about-bankruptcy",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.georgialegalaid.org/resource/what-should-i-know-about-name-changes-and-gender-marker-changes-in-georgia",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.hhs.texas.gov/services/mental-health-substance-use/mental-health-substance-use-resources",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.humanrights.nh.gov/types-discrimination/employment-discrimination/retaliation",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.icadvinc.org",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.inbar.org/page/getlegalhelp",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.insurance.kansas.gov/consumers/file-a-complaint",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.insurance.nh.gov/consumers/filing-complaint",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.iowalegalaid.org/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.isba.org/public/illinoislawyerfinder",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.jud.ct.gov/childsupport/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.jud.ct.gov/foreclosure/homeowner_qs.htm",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.jud.ct.gov/lawlib/law/custody.htm",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.jud.ct.gov/selfhelp.htm",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.justice.gov/crt/how-report",
+   "detail": "HTTP 401"
+  },
+  {
+   "url": "https://www.justice.gov/servicemembers/know-your-rights-guide-servicemembers-civil-relief-act",
+   "detail": "HTTP 401"
+  },
+  {
+   "url": "https://www.justice.gov/usao-md/human-trafficking",
+   "detail": "HTTP 401"
+  },
+  {
+   "url": "https://www.justice.gov/usao-wdky/pr/federal-grand-jury-indicts-five-fraud-and-money-laundering-related-deed-theft-and",
+   "detail": "HTTP 401"
+  },
+  {
+   "url": "https://www.justice.gov/ust",
+   "detail": "HTTP 401"
+  },
+  {
+   "url": "https://www.kjc.ks.gov/legal-forms/parentage",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.kjc.ks.gov/legal-forms/small-claims",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.laramiecountywy.gov/County-Government/Elected-Officials/County-Clerk/Real-EstateRecordings?lang_update=638497871454728780",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.law.uw.edu/academics/experiential-learning/clinics/federal-tax",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.lawhelp.org",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.lawhelp.org/sc/resource/low-income-taxpayer-clinic",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.lawhelpca.org/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.lawhelpca.org/about-us",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.lawhelpnc.org",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.lawv.net/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.legalaidnyc.org/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.lvmpd.com/about/bureaus/records-and-fingerprint-bureau/concealed-firearm-permits",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.lvmpd.com/services/southern-nevada-human-trafficking-task-force",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.maine.gov/dps/msp/licensespermits/concealedcarrymaine",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://www.mainebar.org/page/LawyerReferralService",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/courts/forms",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/cpcs/",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/css",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/decision-tree/file-a-complaint-of-discrimination-at-the-mcad",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/dpu-consumer-information",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/guides/guide-to-new-and-leased-car-lemon-law",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/how-to/apply-for-or-renew-a-firearms-license",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/how-to/apply-for-unemployment-insurance-benefits",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/how-to/file-a-minimum-wage-complaint",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/how-to/report-child-abuse-or-neglect",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/how-to/request-a-time-based-expungement-of-your-criminal-record",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/human-trafficking-commercial-sexual-exploitation-of-children-services",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/info-details/alcohol-and-drug-suspensions-for-over-21-years-of-age",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/info-details/doi-online-insurance-complaint-form",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/info-details/firearms-license-frequently-asked-questions",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/info-details/get-a-no-fault-1b-divorce",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/info-details/home-energy-assistance",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/info-details/home-improvement-contractor-guaranty-fund",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/info-details/home-improvement-contractor-program-hic",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/info-details/how-do-i-file-a-change-of-name-for-an-adult",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/info-details/human-trafficking-division-resources",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/info-details/massachusetts-law-about-debt-collection",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/info-details/massachusetts-law-about-guns-and-other-firearms",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/info-details/my-car-was-taken-from-me-what-do-i-need-to-know",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/info-details/probate-and-family-court-efiling-custody-support-parenting-time",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/info-details/probate-and-family-court-voluntary-administration-statement-mpc-170",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/info-details/public-sector-whistleblower-protection",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/info-details/submit-a-complaint-against-a-physician",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/info-details/tenant-rights",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/news/may-is-national-drug-court-month",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/orgs/department-of-industrial-accidents",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/orgs/massachusetts-commission-against-discrimination",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/orgs/office-for-refugees-and-immigrants",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mass.gov/small-claims",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.mbc.ca.gov/Resources/BreEZe-Resources-Center/Complaints.aspx",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.michigan.gov/mdcr/divisions/enforcement/virtual-intake",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://www.mslegalservices.org/resource/eviction-faqs",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.nccourts.gov/locations/durham-county/pro-se-absolute-divorce-packet",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.nh.gov/hrc/",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.nh.gov/hrc/howto.html",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.nh.gov/labor/workers-comp/",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.nhdeeds.org/hillsborough-pfa/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.nhes.nh.gov/individuals/file-unemployment-benefits",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.nhsp.dos.nh.gov/our-services/justice-information-bureau/permits-and-licensing/permits-and-licensing-faqs",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.nhtsa.gov/sites/nhtsa.gov/files/811673.pdf",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.nj.gov/njsp/firearms/index.shtml",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://www.njconsumeraffairs.gov/Pages/Consumer-Complaints.aspx",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.njcourts.gov/self-help/child-support-custody/case",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.oklaw.org/",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.op.nysed.gov/consumer-information-professions/you-have-right",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.oplc.nh.gov/board-medicine",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.oplc.nh.gov/license-lookup",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.osbar.org/probono/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.palawhelp.org",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.palawhelp.org/issues/consumer/bankruptcy",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.palawhelp.org/resource/repossessions-1",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.psc.state.wv.us/scripts/complaints/instructions.cfm",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.rib.uscourts.gov",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://www.sccmo.org/474/Concealed-Carry-Permit-Renewal-Instructions",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.sccourts.org/court-forms/?courtType=PC",
+   "detail": "HTTP 406"
+  },
+  {
+   "url": "https://www.sccourts.org/courts/trial-courts/magistrate-court/",
+   "detail": "HTTP 406"
+  },
+  {
+   "url": "https://www.sclegal.org",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.sec.gov/whistleblower",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.selfrepresent.mo.gov/",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.sos.nh.gov/elections/register-vote",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.ssa.gov/ssi/text-appeals-ussi.htm",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.stopbullying.gov/",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.stopbullying.gov/resources/laws/hawaii",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.stopbullying.gov/resources/laws/idaho",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.stopbullying.gov/resources/laws/indiana",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.stopbullying.gov/resources/laws/kansas",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.stopbullying.gov/resources/laws/louisiana",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.stopbullying.gov/resources/laws/michigan",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.stopbullying.gov/resources/laws/mississippi",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.stopbullying.gov/resources/laws/missouri",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.stopbullying.gov/resources/laws/montana",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.stopbullying.gov/resources/laws/nebraska",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.stopbullying.gov/resources/laws/nevada",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.stopbullying.gov/resources/laws/new-jersey",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.stopbullying.gov/resources/laws/new-mexico",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.stopbullying.gov/resources/laws/new-york",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.stopbullying.gov/resources/laws/north-carolina",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.stopbullying.gov/resources/laws/north-dakota",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.stopbullying.gov/resources/laws/oklahoma",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.stopbullying.gov/resources/laws/oregon",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.stopbullying.gov/resources/laws/pennsylvania",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.stopbullying.gov/resources/laws/south-carolina",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.texasbar.com/AM/Template.cfm?Section=LRIS_Online_Referral_Form",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.texasbar.com/probonocollege",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.thedoorway.nh.gov/welcome",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.tn.gov/humanservices/for-families/mental-health-substance-abuse-services/substance-abuse-services.html",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://www.tn.gov/mentalhealth/substance-abuse-services/treatment-court.html",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://www.tn.gov/safety/publicsafety/duioutline.html",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://www.txcourts.gov/programs-services/drug-court/",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://www.utcourts.gov/howto/court/drugcourt.html",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://www.utcourts.gov/selfhelp/housing.php",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://www.vacourts.gov/programs/dtc/dtcprogram.html",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://www.vermontjudiciary.org/court-programs-and-services/drug-treatment-courts",
+   "detail": "HTTP 404"
+  },
+  {
+   "url": "https://www.waynecountymi.gov/Government/Elected-Officials/Register-of-Deeds/FAQs",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.wcc.ne.gov/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.wvhdf.com/wp-content/uploads/2026/02/Mortgage-Assistance-Application-1.pdf",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://www.wvinsurance.gov/",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://www.wvinsurance.gov/Consumer-Services-P-C",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://wycokck.org/Departments/Register-of-Deeds",
+   "detail": "HTTP 403"
+  },
+  {
+   "url": "https://wyomingdvsa.org",
+   "detail": "HTTP 000"
+  },
+  {
+   "url": "https://wyomingdvsa.org/",
+   "detail": "HTTP 000"
+  }
+ ],
+ "errors": [],
+ "moved_domains": [
+  {
+   "url": "http://Oklahoma.gov/oag/about/divisions/civil-rights-enforcement.html",
+   "detail": " -> redirects to https://oklahoma.gov/oag/about/divisions/civil-rights-enforcement.html"
+  },
+  {
+   "url": "http://alea.gov/criminal-record-expungement",
+   "detail": " -> redirects to https://www.alea.gov/criminal-record-expungement"
+  },
+  {
+   "url": "http://chfs.ky.gov/agencies/dcbs/dpp/cpb/pages/default.aspx",
+   "detail": " -> redirects to https://www.chfs.ky.gov/agencies/dcbs/dpp/cpb/pages/default.aspx"
+  },
+  {
+   "url": "http://courts.in.gov/selfservice/",
+   "detail": " -> redirects to https://www.in.gov/courts/selfservice/"
+  },
+  {
+   "url": "http://courts.michigan.gov/siteassets/forms/scao-approved/instfoc65.pdf",
+   "detail": " -> redirects to https://www.courts.michigan.gov/siteassets/forms/scao-approved/instfoc65.pdf"
+  },
+  {
+   "url": "http://flcourts.gov/content/download/2448144/file/2024%20Florida%20Problem-Solving%20Courts%20Annual%20Report%20-%20Final.pdf",
+   "detail": " -> redirects to https://flcourts-media.flcourts.gov/content/download/2448144/file/2024%20Florida%20Problem-Solving%20Courts%20Annual%20Report%20-%20Final.pdf"
+  },
+  {
+   "url": "http://gencourt.state.nh.us/rsa/html/xii/159/159-mrg.htm",
+   "detail": " -> redirects to https://gc.nh.gov/rsa/html/xii/159/159-mrg.htm"
+  },
+  {
+   "url": "http://in.gov/dcs/child-support/about-us/",
+   "detail": " -> redirects to https://www.in.gov/dcs/child-support/about-us/"
+  },
+  {
+   "url": "http://in.gov/dol/wage-and-hour/wage-and-hour-home/",
+   "detail": " -> redirects to https://www.in.gov/dol/wage-and-hour/wage-and-hour-home/"
+  },
+  {
+   "url": "http://in.gov/icrc/",
+   "detail": " -> redirects to https://www.in.gov/icrc/"
+  },
+  {
+   "url": "http://in.gov/ihcda/indiana-balance-of-state-continuum-of-care",
+   "detail": " -> redirects to https://www.in.gov/ihcda/indiana-balance-of-state-continuum-of-care/"
+  },
+  {
+   "url": "http://in.gov/oucc/utility-complaints",
+   "detail": " -> redirects to https://www.in.gov/oucc/utility-complaints/"
+  },
+  {
+   "url": "http://lni.wa.gov/workers-rights/workplace-complaints/worker-rights-complaints",
+   "detail": " -> redirects to https://lni.wa.gov:443/workers-rights/workplace-complaints/worker-rights-complaints"
+  },
+  {
+   "url": "http://muteh.org/",
+   "detail": " -> redirects to https://www.muteh.org/"
+  },
+  {
+   "url": "http://tba.org/?pg=Pro_Bono_Opportunities",
+   "detail": " -> redirects to https://www.tba.org/?pg=Pro_Bono_Opportunities"
+  },
+  {
+   "url": "http://trla.org/",
+   "detail": " -> redirects to https://www.trla.org/"
+  },
+  {
+   "url": "http://utcourts.gov/howto/smallclaims/",
+   "detail": " -> redirects to https://www.utcourts.gov/en/self-help/case-categories/consumer/small-claims.html"
+  },
+  {
+   "url": "http://vermontjudiciary.org/self-help/divorce-parentage",
+   "detail": " -> redirects to https://www.vtcourts.gov/self-help/divorce-parentage"
+  },
+  {
+   "url": "http://www.MyFloridaLegal.com/lemon-law",
+   "detail": " -> redirects to https://www.myfloridalegal.com:443/lemon-law"
+  },
+  {
+   "url": "http://www.courts.state.hi.us/general_information/overview",
+   "detail": " -> redirects to https://www.courts.state.hi.us:443/general_information/overview"
+  },
+  {
+   "url": "http://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/18/00.061.009.000..HTM",
+   "detail": " -> redirects to https://www.legis.state.pa.us:443/WU01/LI/LI/CT/HTM/18/00.061.009.000..HTM"
+  },
+  {
+   "url": "http://www.michiganimmigrant.org/",
+   "detail": " -> redirects to https://michiganimmigrant.org/"
+  },
+  {
+   "url": "http://www.myfloridalicense.com/DBPR/construction-industry/",
+   "detail": " -> redirects to https://www2.myfloridalicense.com/construction-industry/"
+  },
+  {
+   "url": "http://www.myfloridalicense.com/DBPR/construction-industry/florida-homeowners-construction-recovery-fund/",
+   "detail": " -> redirects to https://www2.myfloridalicense.com/"
+  },
+  {
+   "url": "http://www.txdmv.gov/motorists/consumer-protection/lemon-law",
+   "detail": " -> redirects to https://www.txdmv.gov:443/motorists/consumer-protection/lemon-law"
+  },
+  {
+   "url": "http://www.vermontjudiciary.org/probate/name-changes",
+   "detail": " -> redirects to https://www.vtcourts.gov/probate/name-changes"
+  },
+  {
+   "url": "http://www.violencefreecolorado.org/",
+   "detail": " -> redirects to https://violencefreecolorado.org/"
+  },
+  {
+   "url": "http://www11.maine.gov/future/ona",
+   "detail": " -> redirects to https://www.maine.gov/future/ona"
+  },
+  {
+   "url": "https://211.idaho.gov/",
+   "detail": " -> redirects to https://healthandwelfare.idaho.gov/services-programs/211"
+  },
+  {
+   "url": "https://211connectsalabama.org/",
+   "detail": " -> redirects to https://www.211connectsalabama.org/"
+  },
+  {
+   "url": "https://406stop.com/",
+   "detail": " -> redirects to https://www.simplyreport.com/"
+  },
+  {
+   "url": "https://aclb.arkansas.gov/complaints",
+   "detail": " -> redirects to https://labor.arkansas.gov/licensing/arkansas-contractors-licensing-board/"
+  },
+  {
+   "url": "https://ag.ky.gov",
+   "detail": " -> redirects to https://www.ag.ky.gov/Pages/default.aspx"
+  },
+  {
+   "url": "https://ag.ky.gov/Resources/Victim-Resources/Pages/resources.aspx",
+   "detail": " -> redirects to https://www.ag.ky.gov/Resources/Victim-Resources/Pages/resources.aspx"
+  },
+  {
+   "url": "https://ag.ky.gov/about/Office-Divisions/OCP/Pages/default.aspx",
+   "detail": " -> redirects to https://www.ag.ky.gov/about/Office-Divisions/OCP/Pages/default.aspx"
+  },
+  {
+   "url": "https://ag.ky.gov:443/Resources/Consumer-Resources/Consumers/home/pages/rental-housing.aspx",
+   "detail": " -> redirects to https://www.ag.ky.gov/Resources/Consumer-Resources/Consumers/home/pages/rental-housing.aspx"
+  },
+  {
+   "url": "https://apps.dfi.wi.gov/OFL/brochures/credit/debt_collection.htm",
+   "detail": " -> redirects to https://dfi.wi.gov/Pages/ConsumerServices/WisconsinConsumerAct/DealingWithDebtCollectors.aspx"
+  },
+  {
+   "url": "https://asp.arkansas.gov/services-and-programs/detail/concealed-handgun-licensing",
+   "detail": " -> redirects to https://dps.arkansas.gov/law-enforcement/arkansas-state-police/"
+  },
+  {
+   "url": "https://atg.wa.gov/firearms",
+   "detail": " -> redirects to https://www.atg.wa.gov/firearms"
+  },
+  {
+   "url": "https://chfs.ky.gov/agencies/dbhdid/Pages/default.aspx",
+   "detail": " -> redirects to https://www.chfs.ky.gov/agencies/dbhdid/Pages/default.aspx"
+  },
+  {
+   "url": "https://childsupport.ia.gov",
+   "detail": " -> redirects to https://secureapp.dhs.state.ia.us/CustomerWeb/"
+  },
+  {
+   "url": "https://consumerprotection.utah.gov/",
+   "detail": " -> redirects to https://commerce.utah.gov/dcp/"
+  },
+  {
+   "url": "https://courts.ca.gov/1053.htm",
+   "detail": " -> redirects to https://selfhelp.courts.ca.gov/name-change"
+  },
+  {
+   "url": "https://ct.gov/DCP/LemonLaw",
+   "detail": " -> redirects to https://portal.ct.gov/dcp/lemon-law-program?language=en_US"
+  },
+  {
+   "url": "https://dcfs.la.gov/CSE",
+   "detail": " -> redirects to http://dcfs.louisiana.gov/child-support-enforcement/"
+  },
+  {
+   "url": "https://dcfs.nv.gov/",
+   "detail": " -> redirects to https://www.dcfs.nv.gov/"
+  },
+  {
+   "url": "https://dcp.utah.gov/",
+   "detail": " -> redirects to https://commerce.utah.gov/dcp/"
+  },
+  {
+   "url": "https://dids.nv.gov/",
+   "detail": " -> redirects to https://www.dids.nv.gov/"
+  },
+  {
+   "url": "https://dopl.utah.gov/contracting/",
+   "detail": " -> redirects to https://commerce.utah.gov/dopl/contracting/"
+  },
+  {
+   "url": "https://dopl.utah.gov/file-a-complaint/",
+   "detail": " -> redirects to https://commerce.utah.gov/dopl/file-a-complaint/"
+  },
+  {
+   "url": "https://dss.virginia.gov/empowering-families/apply-for-child-support/",
+   "detail": " -> redirects to https://www.dss.virginia.gov/empowering-families/apply-for-child-support/"
+  },
+  {
+   "url": "https://dws.arkansas.gov/workforce-services/unemployment/ezarc/",
+   "detail": " -> redirects to https://reemployment.arkansas.gov/unemployment-for-individuals/how-to/apply-for-unemployment-insurance/#how-to-apply"
+  },
+  {
+   "url": "https://dwss.nv.gov/Support/",
+   "detail": " -> redirects to https://www.dss.nv.gov/programs/child-support/x1-0-0-support-1/"
+  },
+  {
+   "url": "https://easternusa.salvationarmy.org/southwest-ohio/central-ohio/help-trafficking-survivors/",
+   "detail": " -> redirects to https://www.salvationarmyusa.org/usa-eastern-territory/southwest-ohio-northeast-kentucky/central-ohio-area-services/anti-human-trafficking/"
+  },
+  {
+   "url": "https://education.ky.gov/school/sdfs/Pages/Bullying.aspx",
+   "detail": " -> redirects to https://www.education.ky.gov/school/sdfs/Pages/Bullying.aspx"
+  },
+  {
+   "url": "https://endabusewi.org",
+   "detail": " -> redirects to https://www.endabusewi.org/"
+  },
+  {
+   "url": "https://energyhelp.ohio.gov/",
+   "detail": " -> redirects to https://jfs.ohio.gov:443/public-assistance/energy-and-community-assistance"
+  },
+  {
+   "url": "https://floridaallianceendht.com/",
+   "detail": " -> redirects to https://www.floridaallianceendht.com/"
+  },
+  {
+   "url": "https://govotetn.gov",
+   "detail": " -> redirects to https://sos.tn.gov/govotetn"
+  },
+  {
+   "url": "https://hca.wa.gov/free-or-low-cost-health-care/i-need-behavioral-health-support/substance-use-treatment",
+   "detail": " -> redirects to https://www.hca.wa.gov/free-or-low-cost-health-care/i-need-behavioral-health-support/substance-use-treatment"
+  },
+  {
+   "url": "https://help.flcourts.gov/Other-Resources/Probate",
+   "detail": " -> redirects to https://www.flcourts.gov/Courts-System/florida-courts-help/other-resources/Probate"
+  },
+  {
+   "url": "https://homelessness.utah.gov/",
+   "detail": " -> redirects to https://jobs.utah.gov/homelessness/"
+  },
+  {
+   "url": "https://hum.wa.gov/employment",
+   "detail": " -> redirects to https://www.hum.wa.gov/employment"
+  },
+  {
+   "url": "https://humantrafficking.scag.gov",
+   "detail": " -> redirects to https://www.scag.gov/human-trafficking/"
+  },
+  {
+   "url": "https://illinoiscourts.gov/forms/approved-forms/forms-circuit-court/divorce-child-support-maintenance",
+   "detail": " -> redirects to https://www.illinoiscourts.gov/forms/approved-forms/forms-circuit-court/divorce-child-support-maintenance/"
+  },
+  {
+   "url": "https://illinoisinnocenceproject.org/",
+   "detail": " -> redirects to https://www.illinoisinnocenceproject.org/"
+  },
+  {
+   "url": "https://in.gov/courts/iocs/files/pubs-trial-court-problem-solving-courts.pdf",
+   "detail": " -> redirects to https://www.in.gov/courts/iocs/files/pubs-trial-court-problem-solving-courts.pdf"
+  },
+  {
+   "url": "https://indianaconsumer.com",
+   "detail": " -> redirects to https://www.in.gov/attorneygeneral/consumer-protection-division/"
+  },
+  {
+   "url": "https://insurance.ehawaii.gov/hils/",
+   "detail": " -> redirects to https://cca.hawaii.gov:443/ins/"
+  },
+  {
+   "url": "https://ip-no.org/",
+   "detail": " -> redirects to https://justicelouisiana.org/"
+  },
+  {
+   "url": "https://janedoe.org",
+   "detail": " -> redirects to https://www.janedoe.org/"
+  },
+  {
+   "url": "https://jud11.flcourts.org/Family-Court-Self-Help-Program",
+   "detail": " -> redirects to https://www.jud11.flcourts.org/Family-Court-Self-Help-Program"
+  },
+  {
+   "url": "https://kcoj.info/SelfHelpPortal",
+   "detail": " -> redirects to https://www.kycourts.gov/Legal-Help/Pages/Self-Help-Portal.aspx"
+  },
+  {
+   "url": "https://knoxcounty.org/register/",
+   "detail": " -> redirects to https://rod.knoxcounty.org/"
+  },
+  {
+   "url": "https://kshomeless.com/",
+   "detail": " -> redirects to https://www.kshomeless.com/"
+  },
+  {
+   "url": "https://kycourts.gov/AOC/Information-and-Technology/Pages/Expungement.aspx",
+   "detail": " -> redirects to https://www.kycourts.gov/AOC/Information-and-Technology/Pages/Expungement.aspx"
+  },
+  {
+   "url": "https://kycourts.gov/Legal-Forms/Pages/default.aspx",
+   "detail": " -> redirects to https://www.kycourts.gov/Legal-Forms/Pages/default.aspx"
+  },
+  {
+   "url": "https://kycourts.gov/Legal-Help/Pages/Self-Help-Portal.aspx",
+   "detail": " -> redirects to https://www.kycourts.gov/Legal-Help/Pages/Self-Help-Portal.aspx"
+  },
+  {
+   "url": "https://labor.alabama.gov/",
+   "detail": " -> redirects to https://adol.alabama.gov/"
+  },
+  {
+   "url": "https://labor.alabama.gov/wc/",
+   "detail": " -> redirects to https://adol.alabama.gov/divisions/workers-compensation/"
+  },
+  {
+   "url": "https://labor.delaware.gov/divisions/industrial-affairs/discrimination/",
+   "detail": " -> redirects to https://industrialaffairs.delaware.gov/en-us/"
+  },
+  {
+   "url": "https://labor.delaware.gov/divisions/industrial-affairs/workers-compensation/",
+   "detail": " -> redirects to https://industrialaffairs.delaware.gov/en-us/"
+  },
+  {
+   "url": "https://labor.ky.gov/dwc/",
+   "detail": " -> redirects to https://elc.ky.gov/Pages/index.aspx"
+  },
+  {
+   "url": "https://leg.colorado.gov/sites/default/files/bullying_prevention_in_colorado_schools_2016.pdf",
+   "detail": " -> redirects to https://content.leg.colorado.gov/sites/default/files/bullying_prevention_in_colorado_schools_2016.pdf"
+  },
+  {
+   "url": "https://leg.mt.gov/bills/MCA/title_0610/chapter_0080/part_0100/section_0070/0610-0080-0100-0070.html",
+   "detail": " -> redirects to https://mca.legmt.gov/bills/mca/title_0610/chapter_0080/part_0100/section_0070/0610-0080-0100-0070.html"
+  },
+  {
+   "url": "https://leg.mt.gov/bills/mca/title_0700/chapter_0190/part_0040/section_0110/0700-0190-0040-0110.html",
+   "detail": " -> redirects to https://mca.legmt.gov/bills/mca/title_0700/chapter_0190/part_0040/section_0110/0700-0190-0040-0110.html"
+  },
+  {
+   "url": "https://lscd.com/",
+   "detail": " -> redirects to https://www.lscd.com/"
+  },
+  {
+   "url": "https://maine.gov/dhhs/obh/support-services/treatment-services",
+   "detail": " -> redirects to https://www.maine.gov/dhhs/obh/support-services/substance-use-disorder-services/treatment-services"
+  },
+  {
+   "url": "https://maine.gov/mhrc/file",
+   "detail": " -> redirects to https://www.maine.gov/mhrc/file"
+  },
+  {
+   "url": "https://masslegalhelp.org/",
+   "detail": " -> redirects to https://www.masslegalhelp.org/"
+  },
+  {
+   "url": "https://mcadsv.com/",
+   "detail": " -> redirects to https://www.mcadsv.com/"
+  },
+  {
+   "url": "https://mdcourts.gov/opsc",
+   "detail": " -> redirects to https://www.mdcourts.gov/opsc"
+  },
+  {
+   "url": "https://mha.ohio.gov/",
+   "detail": " -> redirects to https://dbh.ohio.gov:443/"
+  },
+  {
+   "url": "https://michigan.gov/ag/initiatives/expungement-assistance",
+   "detail": " -> redirects to https://www.michigan.gov/ag/initiatives/expungement-assistance"
+  },
+  {
+   "url": "https://michigan.gov/mdhhs/adult-child-serv/child-sup",
+   "detail": " -> redirects to https://www.michigan.gov/mdhhs/adult-child-serv/child-sup"
+  },
+  {
+   "url": "https://mn.gov/boards/medical-practice/consumers/complaints/index.jsp",
+   "detail": " -> redirects to http://validate.perfdrive.com/d5bd5333eafe8b0ccd6023ba818d1aa6/?ssa=0d9d169c-c1ab-4197-89ae-31f780dc706f&ssb=23640258616&ssc=https%3A%2F%2Fmn.gov%2Fboards%2Fmedical-practice%2Fconsumers%2Fcomplaints%2Findex.jsp&ssi=4ca42529-bf56-416c-83de-6e1eb10f38dd&ssk=support@shieldsquare.com&ssm=94308406172357816103003415571777&ssn=65f1870d542ed3e86ba03f45a61e5556ae499b11a49f-6c57-4614-bb8dff&sso=2aeb8f1e-64430a33d14a73cd3a4632fe758b0c6bb89f7dd403713cda&ssp=14361662781793578351179350910782806&ssq=20489863725486203886737254343679096207637&ssr=MTA0LjI5LjE5NC41NQ==&sst=Mozilla/5.0+(compatible;+LegalBuffet-linkcheck/1.0)&ssu=&ssv=&ssw=&ssx=W10="
+  },
+  {
+   "url": "https://mn.gov/commerce/",
+   "detail": " -> redirects to http://validate.perfdrive.com/d5bd5333eafe8b0ccd6023ba818d1aa6/?ssa=5efbccb0-70d7-47e7-9398-9ef96ac565f4&ssb=23640258616&ssc=https%3A%2F%2Fmn.gov%2Fcommerce%2F&ssi=85da84c4-bf56-4e4a-aa8e-44df142752b4&ssk=support@shieldsquare.com&ssm=94308406172357816103003415571777&ssn=65f1870d246ac13dcfb610391ca05556ae49bcbdf2fe-29f0-4a88-ab8dff&sso=2aeb8442-658046a7cbff73cd3a46d4c6775049518dad400403713cda&ssp=14361662781793578351179350910782806&ssq=20489863725486203886737254343679096207637&ssr=MTA0LjI5LjE5NC41Ng==&sst=Mozilla/5.0+(compatible;+LegalBuffet-linkcheck/1.0)&ssu=&ssv=&ssw=&ssx=W10="
+  },
+  {
+   "url": "https://mn.gov/commerce/energy/consumer-assistance/energy-assistance-program/",
+   "detail": " -> redirects to http://validate.perfdrive.com/d5bd5333eafe8b0ccd6023ba818d1aa6/?ssa=e0be6b35-2316-42be-a843-8909981414a8&ssb=23640258616&ssc=https%3A%2F%2Fmn.gov%2Fcommerce%2Fenergy%2Fconsumer-assistance%2Fenergy-assistance-program%2F&ssi=0b625155-bf56-4998-83f7-7676d55fc06d&ssk=support@shieldsquare.com&ssm=94308406172357816103003415571777&ssn=65f1870dd4cea0d241ee266c236a5556ae49bd7c3fe7-28db-4229-bb8dff&sso=2aeb8a69-f40ab4dc403e73cd3a46b13e173f9886098af02b03713cda&ssp=14361662781793578351179350910782806&ssq=20489863725486203886737254343679096207637&ssr=MTA0LjI5LjIwMC4yMzg=&sst=Mozilla/5.0+(compatible;+LegalBuffet-linkcheck/1.0)&ssu=&ssv=&ssw=&ssx=W10="
+  },
+  {
+   "url": "https://mn.gov/commerce/insurance/auto/index.jsp",
+   "detail": " -> redirects to http://validate.perfdrive.com/d5bd5333eafe8b0ccd6023ba818d1aa6/?ssa=eda973f3-0704-4aa2-ace5-0a22df999a79&ssb=23640258616&ssc=https%3A%2F%2Fmn.gov%2Fcommerce%2Finsurance%2Fauto%2Findex.jsp&ssi=de5c7371-bf56-4e5b-b4f4-98549fc9b0ee&ssk=support@shieldsquare.com&ssm=94308406172357816103003415571777&ssn=65f1870daa91548a26bbc597682a5556ae493279b679-163b-4f02-ab8dff&sso=2aeb8baa-5d4621f58a5873cd3a4674e87cf95369e68c614403713cda&ssp=14361662781793578351179350910782806&ssq=20489863725486203886737254343679096207637&ssr=MTA0LjI5LjE5NC4xOTA=&sst=Mozilla/5.0+(compatible;+LegalBuffet-linkcheck/1.0)&ssu=&ssv=&ssw=&ssx=W10="
+  },
+  {
+   "url": "https://mn.gov/dhs/mental-health/addiction-and-recovery/alcohol-drugs-addictions/about/",
+   "detail": " -> redirects to http://validate.perfdrive.com/d5bd5333eafe8b0ccd6023ba818d1aa6/?ssa=f8cb1931-46cf-4847-ad9a-76901ffb9f54&ssb=22209246024&ssc=https%3A%2F%2Fmn.gov%2Fdhs%2Fmental-health%2Faddiction-and-recovery%2Falcohol-drugs-addictions%2Fabout%2F&ssi=68de6e30-bf56-4bee-9075-3824f1b8ed35&ssk=support@shieldsquare.com&ssm=89096236018043981108498395624883&ssn=6618d637ce3dbd52d4731d9ec980a1bab303f995c77d-38ce-40cc-961b0a&sso=59debf70-19318ec7e7ab111eea5bdb8b560969eeaa8825d36a5f8d4c&ssp=46932295031793533717179357959632744&ssq=43414043725463415457237254670663589219039&ssr=MTA0LjI5LjE5Ny4yMDg=&sst=Mozilla/5.0+(compatible;+LegalBuffet-linkcheck/1.0)&ssu=&ssv=&ssw=&ssx=W10="
+  },
+  {
+   "url": "https://mn.gov/dhs/people-we-serve/adults/services/housing-treatment-food-support/",
+   "detail": " -> redirects to http://validate.perfdrive.com/d5bd5333eafe8b0ccd6023ba818d1aa6/?ssa=c6c78d5b-4921-403f-abc6-852ff91e33b2&ssb=22209246024&ssc=https%3A%2F%2Fmn.gov%2Fdhs%2Fpeople-we-serve%2Fadults%2Fservices%2Fhousing-treatment-food-support%2F&ssi=bfa0dc15-bf56-484d-b4c9-fbddf2fcb1c7&ssk=support@shieldsquare.com&ssm=89096236018043981108498395624883&ssn=6618d637d7bd4ca063f8a4105451a1bab3037bd1ca1d-1530-4848-a61b0a&sso=59deb0bc-b43591785eeb111eea5be9227768aca358180d746a5f8d4c&ssp=46932295031793533717179357959632744&ssq=43414043725563415457237255670663589219039&ssr=MTA0LjI5LjIwMC4yMzk=&sst=Mozilla/5.0+(compatible;+LegalBuffet-linkcheck/1.0)&ssu=&ssv=&ssw=&ssx=W10="
+  },
+  {
+   "url": "https://mn.gov/dhs/resettlement/rns-map",
+   "detail": " -> redirects to http://validate.perfdrive.com/d5bd5333eafe8b0ccd6023ba818d1aa6/?ssa=d4a26216-3ca4-4671-86a5-0768d0cce811&ssb=22209246024&ssc=https%3A%2F%2Fmn.gov%2Fdhs%2Fresettlement%2Frns-map&ssi=6c47bd47-bf56-4b9a-889b-7dbd0a7e6386&ssk=support@shieldsquare.com&ssm=89096236018043981108498395624883&ssn=6618d63797f64c158cbda799d7d1a1bab30306a0e25c-2c89-4b10-a61b0a&sso=59deba8a-272f7530ca53111eea5bb08ee6a1757ac192c2076a5f8d4c&ssp=46932295031793533717179357959632744&ssq=43414043725563415457237255670663589219039&ssr=MTA0LjI5LjIwMC4xNjQ=&sst=Mozilla/5.0+(compatible;+LegalBuffet-linkcheck/1.0)&ssu=&ssv=&ssw=&ssx=W10="
+  },
+  {
+   "url": "https://mn.gov/mdhr/",
+   "detail": " -> redirects to http://validate.perfdrive.com/d5bd5333eafe8b0ccd6023ba818d1aa6/?ssa=d275ebb0-6fce-45e2-a728-a9507e25b7fa&ssb=22209246024&ssc=https%3A%2F%2Fmn.gov%2Fmdhr%2F&ssi=6400987b-bf56-4799-98d7-82fef086146a&ssk=support@shieldsquare.com&ssm=89096236018043981108498395624883&ssn=6618d6376485fa26c394357afe09a1bab303cc147fc3-c5ed-4a18-961b0a&sso=59debd5a-352c43e7cc22111eea5bad1873dd25022786f5ac6a5f8d4c&ssp=46932295031793533717179357959632744&ssq=43414043725563415457237255670663589219039&ssr=MTA0LjI5LjIwMC4yMzg=&sst=Mozilla/5.0+(compatible;+LegalBuffet-linkcheck/1.0)&ssu=&ssv=&ssw=&ssx=W10="
+  },
+  {
+   "url": "https://mn.gov/mdhr/employers/eeoc",
+   "detail": " -> redirects to http://validate.perfdrive.com/d5bd5333eafe8b0ccd6023ba818d1aa6/?ssa=08e158df-9f0c-466e-9e3d-e75c28068122&ssb=22209246024&ssc=https%3A%2F%2Fmn.gov%2Fmdhr%2Femployers%2Feeoc&ssi=7e6e34c0-bf56-4b55-bc70-0588848cc76f&ssk=support@shieldsquare.com&ssm=89096236018043981108498395624883&ssn=6618d63751774c5a97f732732304a1bab303ef99c984-f83c-4d52-961b0a&sso=59deb787-23d758e78cf9111eea5b7cb493a75a97de10941f6a5f8d4c&ssp=46932295031793533717179357959632744&ssq=43414043725563415457237255670663589219039&ssr=MTA0LjI5LjE5Ny4xNDA=&sst=Mozilla/5.0+(compatible;+LegalBuffet-linkcheck/1.0)&ssu=&ssv=&ssw=&ssx=W10="
+  },
+  {
+   "url": "https://mnadv.org",
+   "detail": " -> redirects to https://www.mnadv.org/"
+  },
+  {
+   "url": "https://ndhttf.org/",
+   "detail": " -> redirects to https://www.ndhttf.org/"
+  },
+  {
+   "url": "https://ne211.org/",
+   "detail": " -> redirects to https://uwm211.org/"
+  },
+  {
+   "url": "https://nmceh.org/",
+   "detail": " -> redirects to https://www.nmceh.org/"
+  },
+  {
+   "url": "https://ohiolegalhelp.org/",
+   "detail": " -> redirects to https://www.ohiolegalhelp.org/"
+  },
+  {
+   "url": "https://oregon.gov/cjc/sc/Pages/default.aspx",
+   "detail": " -> redirects to https://www.oregon.gov/cjc/sc/Pages/default.aspx"
+  },
+  {
+   "url": "https://osbi.ok.gov/handgun-licensing",
+   "detail": " -> redirects to https://oklahoma.gov/osbi/services/information-services-division/self-defense-act-unit/handgun-licensing.html"
+  },
+  {
+   "url": "https://pa.gov/agencies/penndot/traveling-in-pa/safety/traffic-safety-driver-topics/impaired-driving",
+   "detail": " -> redirects to https://www.pa.gov/agencies/penndot/traveling-in-pa/safety/traffic-safety-driver-topics/impaired-driving"
+  },
+  {
+   "url": "https://pa.gov/agencies/phrc/programs-and-services/file-a-complaint",
+   "detail": " -> redirects to https://www.pa.gov/agencies/phrc/programs-and-services/file-a-complaint"
+  },
+  {
+   "url": "https://pailp.org/s/Name-changing-info.pdf",
+   "detail": " -> redirects to https://static1.squarespace.com/static/589b4d9f725e250f864b8d07/t/59e4dead4c0dbf18791feb6c/1508171441506/Name+changing+info.pdf"
+  },
+  {
+   "url": "https://phila.gov/services/property-lots-housing/get-help-with-deed-or-mortgage-fraud/sign-up-for-deed-fraud-protection/",
+   "detail": " -> redirects to https://www.phila.gov/services/property-lots-housing/get-help-with-deed-or-mortgage-fraud/sign-up-for-deed-fraud-protection/"
+  },
+  {
+   "url": "https://ptla.org/",
+   "detail": " -> redirects to https://www.ptla.org/"
+  },
+  {
+   "url": "https://schomeless.org/",
+   "detail": " -> redirects to https://www.schomeless.org/"
+  },
+  {
+   "url": "https://seconddistrictcourt.nmcourts.gov/home/programs-specialty-courts/specialty-court-self-help-dispute-resolution/",
+   "detail": " -> redirects to https://seconddistrict.nmcourts.gov/self-representation/self-help-center/"
+  },
+  {
+   "url": "https://self-help.nmcourts.gov/divorce/",
+   "detail": " -> redirects to https://selfrepresentation.nmcourts.gov/divorce/"
+  },
+  {
+   "url": "https://sos.kansas.gov/Pubs/Elections/Guides/Register-to-Vote-Guide.pdf",
+   "detail": " -> redirects to https://sos.ks.gov/Pubs/Elections/Guides/Register-to-Vote-Guide.pdf"
+  },
+  {
+   "url": "https://supremecourt.nebraska.gov/courts/problem-solving-courts",
+   "detail": " -> redirects to https://nebraskajudicial.gov/courts/problem-solving-courts"
+  },
+  {
+   "url": "https://supremecourt.nebraska.gov/forms?title=&field_form_number_value=&field_form_type_tid=204&field_form_category_tid=All&field_language_tid=All&field_form_set_tid=All&order=field_form_number&sort=desc&page=4",
+   "detail": " -> redirects to https://nebraskajudicial.gov/forms?title=&field_form_number_value=&field_form_type_tid=204&field_form_category_tid=All&field_language_tid=All&field_form_set_tid=All&order=field_form_number&sort=desc&page=4"
+  },
+  {
+   "url": "https://supremecourt.nebraska.gov/self-help/families-children/simple-divorce-no-children",
+   "detail": " -> redirects to https://nebraskajudicial.gov/self-help/families-children/simple-divorce-no-children"
+  },
+  {
+   "url": "https://supremecourt.nebraska.gov/self-help/name-change/adult-name-change",
+   "detail": " -> redirects to https://nebraskajudicial.gov/self-help/name-change/adult-name-change"
+  },
+  {
+   "url": "https://supremecourt.nebraska.gov/sites/default/files/CC-6-12-a.pdf",
+   "detail": " -> redirects to https://nebraskajudicial.gov/sites/default/files/CC-6-12-a.pdf"
+  },
+  {
+   "url": "https://supremecourt.ohio.gov/courts/services-to-courts/children-families/dom-rel-juvenile-forms/dissolution-without-children/",
+   "detail": " -> redirects to https://www.supremecourt.ohio.gov/courts/services-to-courts/children-families/dom-rel-juvenile-forms/dissolution-without-children/"
+  },
+  {
+   "url": "https://thelifelink.org/",
+   "detail": " -> redirects to https://www.thelifelink.org/"
+  },
+  {
+   "url": "https://thn.org/",
+   "detail": " -> redirects to https://www.thn.org/"
+  },
+  {
+   "url": "https://turnaroundinc.org/",
+   "detail": " -> redirects to https://www.turnaroundinc.org/"
+  },
+  {
+   "url": "https://uidaho.edu/law/academics/experiential-learning/clinics/low-income-tax",
+   "detail": " -> redirects to https://www.uidaho.edu/law/legal-clinics-and-support/tax"
+  },
+  {
+   "url": "https://ujslawhelp.sd.gov/needhelp.aspx",
+   "detail": " -> redirects to https://ujs.sd.gov/self-help/get-legal-help/"
+  },
+  {
+   "url": "https://verify.tn.gov/",
+   "detail": " -> redirects to https://search.cloud.commerce.tn.gov/"
+  },
+  {
+   "url": "https://watraffickinghelp.org/",
+   "detail": " -> redirects to https://www.watraffickinghelp.org/"
+  },
+  {
+   "url": "https://www.211.org",
+   "detail": " -> redirects to https://211.org/"
+  },
+  {
+   "url": "https://www.211.org/",
+   "detail": " -> redirects to https://211.org/"
+  },
+  {
+   "url": "https://www.211iowa.org/",
+   "detail": " -> redirects to https://211iowa.org/"
+  },
+  {
+   "url": "https://www.211maine.org/",
+   "detail": " -> redirects to https://211maine.org/"
+  },
+  {
+   "url": "https://www.BeFreeWisconsin.com/",
+   "detail": " -> redirects to https://www.wisdoj.gov/Pages/PublicSafety/human-trafficking.aspx"
+  },
+  {
+   "url": "https://www.acadv.org",
+   "detail": " -> redirects to https://acadv.org/"
+  },
+  {
+   "url": "https://www.acesdv.org",
+   "detail": " -> redirects to https://acesdv.org/"
+  },
+  {
+   "url": "https://www.alaska211.org/",
+   "detail": " -> redirects to https://alaska211.org/"
+  },
+  {
+   "url": "https://www.andvsa.org",
+   "detail": " -> redirects to https://andvsa.org/"
+  },
+  {
+   "url": "https://www.arkansasfindalawyer.com/",
+   "detail": " -> redirects to https://www.arkbar.com/?pg=Arkansas-Find-a-Lawyer"
+  },
+  {
+   "url": "https://www.awakenreno.org/",
+   "detail": " -> redirects to https://www.awakenjustice.org/"
+  },
+  {
+   "url": "https://www.azlawhelp.org",
+   "detail": " -> redirects to https://azlawhelp.org:443/"
+  },
+  {
+   "url": "https://www.benefits.gov",
+   "detail": " -> redirects to https://www.usa.gov/benefit-finder?utm_source=usa_benefits-gov&utm_medium=redirect&utm_campaign=redirect_benefits-gov&modal=b-welcome-1899"
+  },
+  {
+   "url": "https://www.cde.state.co.us/mtss/familybullyingprevention",
+   "detail": " -> redirects to https://ed.cde.state.co.us/mtss/bullying/familybullyingprevention"
+  },
+  {
+   "url": "https://www.childhelp.org/hotline/",
+   "detail": " -> redirects to http://childhelp.org/hotline/"
+  },
+  {
+   "url": "https://www.courts.ca.gov/10440.htm?rdeLocaleAttr=es",
+   "detail": " -> redirects to https://selfhelp.courts.ca.gov/probate/simple-transfer?rdeLocaleAttr=es"
+  },
+  {
+   "url": "https://www.dhr.ny.gov/human-rights-commissions",
+   "detail": " -> redirects to https://dhr.ny.gov/"
+  },
+  {
+   "url": "https://www.doj.state.wi.us/dls/consumer-protection",
+   "detail": " -> redirects to https://www.wisdoj.gov/Pages/home.aspx"
+  },
+  {
+   "url": "https://www.domesticpeace.com",
+   "detail": " -> redirects to https://domesticpeace.com/"
+  },
+  {
+   "url": "https://www.dos.pa.gov/ProfessionalLicensing/FileaComplaint/Pages/default.aspx",
+   "detail": " -> redirects to https://www.pa.gov/agencies/dos/file-a-complaint"
+  },
+  {
+   "url": "https://www.edd.ca.gov/unemployment/create-account.htm",
+   "detail": " -> redirects to https://edd.ca.gov/en/unemployment/ui_online"
+  },
+  {
+   "url": "https://www.endhtga.org/",
+   "detail": " -> redirects to https://endhtga.org/"
+  },
+  {
+   "url": "https://www.fns.usda.gov/snap/state-directory",
+   "detail": " -> redirects to https://www.fna.usda.gov/snap/state-directory"
+  },
+  {
+   "url": "https://www.govotecolorado.gov",
+   "detail": " -> redirects to https://www.coloradosos.gov/voter/pages/pub/home.xhtml"
+  },
+  {
+   "url": "https://www.housingforthehomeless.org/",
+   "detail": " -> redirects to https://www.sdhousing.org/housing-partners/housing-for-the-homeless"
+  },
+  {
+   "url": "https://www.icadv.org",
+   "detail": " -> redirects to https://www.violencefreeiowa.org/"
+  },
+  {
+   "url": "https://www.iowainnocence.org/",
+   "detail": " -> redirects to https://iapa2026.com/"
+  },
+  {
+   "url": "https://www.kcadv.org/",
+   "detail": " -> redirects to https://www.zerov.org/"
+  },
+  {
+   "url": "https://www.lasnny.org/litc/",
+   "detail": " -> redirects to https://lasnny.org/litc/"
+  },
+  {
+   "url": "https://www.legalaction.org",
+   "detail": " -> redirects to https://legalaction.org/"
+  },
+  {
+   "url": "https://www.legalaidofnebraska.org",
+   "detail": " -> redirects to https://legalaidofnebraska.org/"
+  },
+  {
+   "url": "https://www.legalaidofnebraska.org/",
+   "detail": " -> redirects to https://legalaidofnebraska.org/"
+  },
+  {
+   "url": "https://www.legalaidok.org",
+   "detail": " -> redirects to https://legalaidok.org/"
+  },
+  {
+   "url": "https://www.legalservicesalabama.org/",
+   "detail": " -> redirects to https://legalservicesalabama.org/"
+  },
+  {
+   "url": "https://www.legislature.state.al.us/pdf/SearchableInstruments/2024RS/HB182-enr.pdf",
+   "detail": " -> redirects to https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2024RS/HB182-enr.pdf"
+  },
+  {
+   "url": "https://www.lsp.org/services/concealed-handgun-information",
+   "detail": " -> redirects to https://lsp.org/"
+  },
+  {
+   "url": "https://www.mnbar.org/member-directory/find-a-lawyer",
+   "detail": " -> redirects to https://mnbars.org/?pg=FindALawyer"
+  },
+  {
+   "url": "https://www.mncourts.gov/Help-Topics/Name-Change.aspx",
+   "detail": " -> redirects to https://mncourts.gov/help-topics/name-change"
+  },
+  {
+   "url": "https://www.mobar.org/",
+   "detail": " -> redirects to https://mobar.org/"
+  },
+  {
+   "url": "https://www.mt211.org/",
+   "detail": " -> redirects to https://montana211.org/"
+  },
+  {
+   "url": "https://www.myunemployment.nj.gov/",
+   "detail": " -> redirects to https://www.nj.gov/labor/myunemployment/"
+  },
+  {
+   "url": "https://www.naic.org/",
+   "detail": " -> redirects to https://content.naic.org/"
+  },
+  {
+   "url": "https://www.nccadv.org/",
+   "detail": " -> redirects to https://nccadv.org/"
+  },
+  {
+   "url": "https://www.nccai.org/",
+   "detail": " -> redirects to https://nccai.org/"
+  },
+  {
+   "url": "https://www.nddsvc.org/",
+   "detail": " -> redirects to https://nddsvc.org/"
+  },
+  {
+   "url": "https://www.nebraskacoalition.org",
+   "detail": " -> redirects to https://nebraskacoalition.org/"
+  },
+  {
+   "url": "https://www.nebraskacoalition.org/",
+   "detail": " -> redirects to https://nebraskacoalition.org/"
+  },
+  {
+   "url": "https://www.njchildsupport.org/",
+   "detail": " -> redirects to https://www.njchildsupport.gov/clear-redirect.html"
+  },
+  {
+   "url": "https://www.nmcadv.org/",
+   "detail": " -> redirects to https://nmcadv.org/"
+  },
+  {
+   "url": "https://www.nmcrisisline.com/",
+   "detail": " -> redirects to https://nmcrisisline.com/"
+  },
+  {
+   "url": "https://www.opd.state.md.us/",
+   "detail": " -> redirects to https://opd.state.md.us/"
+  },
+  {
+   "url": "https://www.oregonconsumer.gov/",
+   "detail": " -> redirects to https://www.doj.state.or.us/consumer-protection/"
+  },
+  {
+   "url": "https://www.phrc.pa.gov/Redirect?originalPath=/Complaints/Pages/How-to-File-a-Complaint.aspx&originalQuery=",
+   "detail": " -> redirects to https://www.pa.gov/agencies/phrc/programs-and-services/file-a-complaint"
+  },
+  {
+   "url": "https://www.rainn.org/",
+   "detail": " -> redirects to https://rainn.org:443/"
+  },
+  {
+   "url": "https://www.ricadv.org/",
+   "detail": " -> redirects to https://ricadv.org/"
+  },
+  {
+   "url": "https://www.slls.org",
+   "detail": " -> redirects to https://slls.org/en/"
+  },
+  {
+   "url": "https://www.speakupnc.org",
+   "detail": " -> redirects to https://speakupnc.org/"
+  },
+  {
+   "url": "https://www.tmb.state.tx.us/resources/for-the-public/complaint-about-licensee",
+   "detail": " -> redirects to https://www.tmb.texas.gov/resources/for-the-public/complaint-about-licensee"
+  },
+  {
+   "url": "https://www.vermont211.org/",
+   "detail": " -> redirects to https://vermont211.org/"
+  },
+  {
+   "url": "https://www.vermontjudiciary.org/self-help",
+   "detail": " -> redirects to https://www.vtcourts.gov/self-help"
+  },
+  {
+   "url": "https://www.violencefreecolorado.org",
+   "detail": " -> redirects to https://violencefreecolorado.org/"
+  },
+  {
+   "url": "https://www.wiboscoc.org/",
+   "detail": " -> redirects to https://wiboscoc.org/"
+  },
+  {
+   "url": "https://www.wv211.org/",
+   "detail": " -> redirects to https://wv211.org/"
+  },
+  {
+   "url": "https://www.wvceh.org/",
+   "detail": " -> redirects to https://wvceh.org/"
+  },
+  {
+   "url": "https://www1.maine.gov/sos/bmv/licenses/oui.html",
+   "detail": " -> redirects to https://www.maine.gov/sos/bmv/driver-licenses-and-ids/license-suspended/operating-under-the-influence-information"
+  }
+ ]
+}

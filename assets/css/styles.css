@@ -752,6 +752,17 @@ main section.block[style] > h2 { margin-bottom: 1.15rem; }
   body.printing-letter .letter-print-target { box-shadow: none !important; max-width: 100% !important; }
 }
 
+/* Private gun-transfer print mode (added 2026-11-01): print only the targeted transfer block. */
+@media print {
+  body.printing-transfer .site-header, body.printing-transfer .site-footer, body.printing-transfer .quick-exit,
+  body.printing-transfer .topic-menu, body.printing-transfer .topic-menu-collapse, body.printing-transfer .page-head,
+  body.printing-transfer .back-to-top, body.printing-transfer .lb-emergency, body.printing-transfer .translate-wrap,
+  body.printing-transfer .site-search, body.printing-transfer .action-plan-bar, body.printing-transfer .transfer-actions { display: none !important; }
+  body.printing-transfer section.block:not(:has(.transfer-print-target)) { display: none !important; }
+  body.printing-transfer section.block:has(.transfer-print-target) > *:not(.private-transfer) { display: none !important; }
+  body.printing-transfer .transfer-print-target { box-shadow: none !important; max-width: 100% !important; }
+}
+
 /* My Action Plan checkboxes + print mode (added 2026-10-28). */
 .action-plan-bar { background: var(--card); border: 1px solid #ecd9ae; border-radius: var(--radius-sm); box-shadow: var(--shadow); padding: 1rem 1.3rem; margin: 0 0 1.8rem; }
 .action-plan-bar p { margin: 0 0 .7rem; }
