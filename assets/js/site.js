@@ -292,6 +292,26 @@
       if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(text).then(done, function () {}); }
     });
   });
+  /* Fill-in letter spots (added 2026-11-04): click a [bracketed spot] and type;
+     untouched or emptied spots print as blank lines for filling in by hand. */
+  var fills = document.querySelectorAll(".letter-body .fill");
+  fills.forEach(function (f) {
+    f.addEventListener("focus", function () {
+      var r = document.createRange(); r.selectNodeContents(f);
+      var s = window.getSelection(); s.removeAllRanges(); s.addRange(r);
+    });
+    f.addEventListener("paste", function (e) {
+      e.preventDefault();
+      var t = (e.clipboardData || window.clipboardData).getData("text");
+      document.execCommand("insertText", false, t);
+    });
+  });
+  window.addEventListener("beforeprint", function () {
+    fills.forEach(function (f) {
+      var t = f.textContent.trim();
+      f.classList.toggle("fill-blank", t === "" || t === (f.getAttribute("data-ph") || "").trim());
+    });
+  });
   document.querySelectorAll("[data-print-letter]").forEach(function (btn) {
     btn.addEventListener("click", function () {
       var letter = btn.closest(".letter");

@@ -743,11 +743,16 @@ main section.block[style] > h2 { margin-bottom: 1.15rem; }
 .letter-use { color: var(--text); }
 .letter-body { background: #fff; border: 1px solid var(--line); border-radius: var(--radius-sm); padding: 1.4rem 1.6rem; margin: 1.2rem 0; line-height: 1.6; }
 .letter-body p { margin: 0 0 1rem; }
+.letter-tip { background: #fdf6e3; border: 1px dashed var(--accent); border-radius: var(--radius-sm); padding: .6rem .9rem; font-size: .95rem; }
+.fill { background: rgba(181,138,67,.16); border-bottom: 1px dashed var(--accent); border-radius: 2px; padding: 0 2px; cursor: text; }
+.fill:focus { outline: 2px solid var(--accent); background: #fdf6e3; }
 .letters-link { background: rgba(255,255,255,.78); border: 1px solid #ecd9ae; border-radius: var(--radius-sm); padding: .8rem 1rem; }
 @media print {
   body.printing-letter .site-header, body.printing-letter .site-footer, body.printing-letter .quick-exit,
   body.printing-letter .letters-toc, body.printing-letter .letters-intro, body.printing-letter .page-head,
-  body.printing-letter .letter-actions, body.printing-letter .back-to-top, body.printing-letter .action-plan-bar { display: none !important; }
+  body.printing-letter .letter-actions, body.printing-letter .back-to-top, body.printing-letter .action-plan-bar, body.printing-letter .letter-tip, body.printing-letter .disclaimer { display: none !important; }
+  .fill { background: transparent !important; border-bottom: 1px solid #555; display: inline-block; min-width: 5em; }
+  .fill-blank { color: transparent !important; }
   body.printing-letter .letter:not(.letter-print-target) { display: none !important; }
   body.printing-letter .letter-print-target { box-shadow: none !important; max-width: 100% !important; }
 }
