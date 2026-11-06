@@ -344,7 +344,7 @@
 /* My Action Plan: tick-and-print checklists (added 2026-10-28). Print-only: nothing is stored, sent, or tied to an account. */
 (function () {
   "use strict";
-  var lists = document.querySelectorAll("ol.checklist, ul.checklist");
+  var lists = document.querySelectorAll("ol.checklist:not([data-no-plan]), ul.checklist:not([data-no-plan])");
   if (!lists.length) return;
   lists.forEach(function (list) {
     list.querySelectorAll(":scope > li").forEach(function (li) {
