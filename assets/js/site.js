@@ -368,7 +368,7 @@
   var btn = bar.querySelector(".action-plan-print-btn");
   var msg = bar.querySelector(".action-plan-msg");
   btn.addEventListener("click", function () {
-    if (!document.querySelector(".checklist li.action-checked")) { msg.hidden = false; return; }
+    if (!document.querySelector(".checklist li.action-checked")) { msg.hidden = false; msg.scrollIntoView({ behavior: "smooth", block: "center" }); return; }
     msg.hidden = true;
     document.body.classList.add("action-plan-print");
     var cleanup = function () { document.body.classList.remove("action-plan-print"); window.removeEventListener("afterprint", cleanup); };
