@@ -570,7 +570,7 @@
       <!-- GUIDED HELPER -->
       <section class="helper-card" id="helper" aria-labelledby="helper-heading">
         <h2 id="helper-heading">What kind of help do you need?</h2>
-        <p class="helper-sub">Answer 3 quick questions and we&rsquo;ll take you straight to the right section for your state.</p>
+        <p class="helper-sub">Pick a topic and your state &mdash; we&rsquo;ll take you straight to the right section.</p>
         <form id="helper-form" novalidate>
           <div class="alert helper-safety" id="helper-safety" role="alert" hidden>
             <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 9v4M12 17.5v.01"/><path d="M10.3 3.9L1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z"/></svg>
@@ -660,7 +660,7 @@
             </select>
           </div>
           <fieldset class="helper-field">
-            <legend>3. How urgent is it?</legend>
+            <legend>How urgent is it? (optional)</legend>
             <div class="helper-urgency">
               <label><input type="radio" name="urgency" value="research" checked><span class="pill">Just researching</span></label>
               <label><input type="radio" name="urgency" value="deadline"><span class="pill">I have a deadline</span></label>
@@ -1049,13 +1049,54 @@
     return el ? el.value : "research";
   }
 
-  /* Reveal the safety box immediately when "in danger" is picked. */
+  function currentUrl() {
+    var topicOpt = topicSel.options[topicSel.selectedIndex];
+    return helperUrl(topicOpt, stateSel.value);
+  }
+
+  /* Safety first: when "in danger" is picked, show the hotline box.
+     Once a topic and state are picked too, the box carries a continue
+     link to the chosen section instead of navigating straight there. */
+  function showSafety() {
+    safetyBox.hidden = false;
+    if (topicSel.value && stateSel.value) {
+      var topicOpt = topicSel.options[topicSel.selectedIndex];
+      var stateName = stateSel.options[stateSel.selectedIndex].text;
+      safetyLink.href = currentUrl();
+      safetyLink.textContent = "Continue to " + stateName + " resources for \u201C" + topicOpt.text + "\u201D \u2192";
+      safetyContinue.hidden = false;
+    } else {
+      safetyContinue.hidden = true;
+    }
+  }
+
+  /* Straight to the topic: as soon as a topic AND a state are picked,
+     go — no extra steps. Only the danger pick pauses, for the hotlines. */
+  function tryGo() {
+    if (!topicSel.value || !stateSel.value) return;
+    errorEl.hidden = true;
+    if (urgencyValue() === "danger") {
+      showSafety();
+      safetyBox.scrollIntoView({ behavior: "smooth", block: "start" });
+      return;
+    }
+    window.location.href = currentUrl();
+  }
+
   var radios = form.querySelectorAll('input[name="urgency"]');
   Array.prototype.forEach.call(radios, function (r) {
     r.addEventListener("change", function () {
-      safetyBox.hidden = urgencyValue() !== "danger";
+      if (urgencyValue() === "danger") {
+        showSafety();
+      } else {
+        safetyBox.hidden = true;
+        tryGo();
+      }
     });
   });
+
+  topicSel.addEventListener("change", tryGo);
+  stateSel.addEventListener("change", tryGo);
 
   function helperUrl(topicOpt, stateSlug) {
     var url = "states/" + stateSlug + ".html";
@@ -1076,30 +1117,13 @@
 
   form.addEventListener("submit", function (e) {
     e.preventDefault();
-    var topicOpt = topicSel.options[topicSel.selectedIndex];
-    var stateSlug = stateSel.value;
-
-    if (!stateSlug || !topicSel.value) {
+    if (!stateSel.value || !topicSel.value) {
       errorEl.hidden = false;
       errorEl.scrollIntoView({ behavior: "smooth", block: "center" });
       return;
     }
     errorEl.hidden = true;
-
-    var url = helperUrl(topicOpt, stateSlug);
-
-    if (urgencyValue() === "danger") {
-      /* Safety FIRST: show the safety box before offering the state link. */
-      var stateName = stateSel.options[stateSel.selectedIndex].text;
-      safetyLink.href = url;
-      safetyLink.textContent = "Continue to " + stateName + " resources for \u201C" + topicOpt.text + "\u201D \u2192";
-      safetyContinue.hidden = false;
-      safetyBox.hidden = false;
-      safetyBox.scrollIntoView({ behavior: "smooth", block: "start" });
-      return;
-    }
-
-    window.location.href = url;
+    tryGo();
   });
 })();
 </script>
