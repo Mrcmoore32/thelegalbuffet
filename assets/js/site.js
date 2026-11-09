@@ -395,3 +395,19 @@
   onScroll();
   btn.addEventListener("click", function () { window.scrollTo({ top: 0, behavior: "smooth" }); });
 })();
+
+/* Postnuptial worksheet: print one state's worksheet (added 2026-11-09). */
+(function () {
+  "use strict";
+  document.querySelectorAll("[data-print-worksheet]").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      var sheet = btn.closest(".postnup-worksheet");
+      if (!sheet) return;
+      document.body.classList.add("printing-worksheet");
+      sheet.classList.add("worksheet-print-target");
+      var cleanup = function () { document.body.classList.remove("printing-worksheet"); sheet.classList.remove("worksheet-print-target"); window.removeEventListener("afterprint", cleanup); };
+      window.addEventListener("afterprint", cleanup);
+      window.print();
+    });
+  });
+})();
