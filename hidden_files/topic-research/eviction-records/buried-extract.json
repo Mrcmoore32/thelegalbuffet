@@ -1,0 +1,404 @@
+{
+ "states": {
+  "alabama": {
+   "slug": "alabama",
+   "state": "Alabama",
+   "sealing": "Alabama has no statewide law that seals or expunges an eviction case because you won, the case was dismissed, or time passed. Under the Alabama Rules of Court-Record Privacy and Confidentiality (effective January 1, 2025), court records are open to the public unless a statute, rule, or court order makes them confidential, and eviction cases are not on the confidential list. A judge can seal a record only under the general Rule 301 standard — clear and convincing proof of a narrow ground such as a trade secret, national security, scandal or defamation, a wholly private family matter, or a serious threat of harassment or harm — which is not an eviction-record remedy based on how the case came out.",
+   "applying": null,
+   "link": "https://judicial.alabama.gov/docs/rules/RulesofRecordPrivacyConfidentiality.pdf",
+   "link_label": "Alabama Rules of Court-Record Privacy and Confidentiality — Alabama Judicial System"
+  },
+  "alaska": {
+   "slug": "alaska",
+   "state": "Alaska",
+   "sealing": "Alaska has no statewide law that seals or expunges eviction (forcible entry and detainer) cases. Eviction cases are public court records that appear in the Alaska Court System's CourtView index; the court's published list of case types removed from public view under Administrative Rule 40 covers things like protective orders and certain dismissed criminal cases, not evictions. An eviction record can be kept from public view only if a court orders it sealed in that individual case under the general court rules.",
+   "applying": null,
+   "link": "https://courts.alaska.gov/trialcourts/cvinfo.htm",
+   "link_label": "CourtView Online Information — Alaska Court System"
+  },
+  "arizona": {
+   "slug": "arizona",
+   "state": "Arizona",
+   "sealing": "Arizona courts must seal the records of an eviction action when the case is dismissed before judgment or judgment is entered in the tenant's favor (A.R.S. § 33-1379). The court must also seal the file when the landlord and tenant file a written stipulation to set aside the eviction order and seal the records. Once sealed, the records can be seen only by the person whose records are sealed, the parties and their attorneys, the court, and the clerk's records office, and a sealed case may not be sold or released to a third party as part of a records transfer.",
+   "applying": null,
+   "link": "https://www.azleg.gov/viewdocument/?docName=https%3A%2F%2Fwww.azleg.gov%2Fars%2F33%2F01379.htm",
+   "link_label": "A.R.S. § 33-1379 — Eviction action; dismissal; sealed records (Arizona State Legislature)"
+  },
+  "arkansas": {
+   "slug": "arkansas",
+   "state": "Arkansas",
+   "sealing": "Arkansas has no statewide sealing statute for eviction records — the state's record-sealing act covers criminal records only — and eviction (unlawful detainer) cases are civil court records. Eviction case information is publicly searchable through the Arkansas Judiciary's CourtConnect / Search ARCourts system and from the clerk of the court where the case was filed. Nothing in the Attorney General's landlord-tenant guide or the unlawful detainer statutes provides a way to remove an eviction filing from the public record because of how the case ended.",
+   "applying": null,
+   "link": "https://arkansasag.gov/consumer-protection/home/landlord-and-tenant-rights/",
+   "link_label": "Landlord and Tenant Rights — Arkansas Attorney General"
+  },
+  "california": {
+   "slug": "california",
+   "state": "California",
+   "sealing": "California does not seal eviction records after the fact; instead, Code of Civil Procedure § 1161.2 restricts access to unlawful detainer court files from the start. The clerk may open the file only to the parties and their attorneys, to a person who provides at least one plaintiff name and one defendant name plus the address of the premises, to a resident who shows proof of residency, or to a person with a court order granted for good cause. The general public can see the file only if judgment against all defendants was entered for the landlord within 60 days of filing, or by court order when judgment for the landlord after trial is entered more than 60 days after filing — so a case the tenant won or that was dismissed stays restricted. The parties can also stipulate to a court order barring access to the record.",
+   "applying": "Civil Code § 1950.6 caps a rental screening fee at the landlord's actual out-of-pocket cost and never more than $30 per applicant, adjusted each year for inflation beginning January 1, 1998. A landlord may not charge a fee when the landlord knows or should know no unit is available or will be available within a reasonable time, must give an itemized receipt, must refund any unused amount, and must give the applicant a copy of any consumer credit report obtained within 7 days. Unless the landlord refunds the entire fee to every applicant who is not selected, the fee may be charged only under a first-come process with written screening criteria, applications considered in the order received, and no fee collected until the application is actually considered.",
+   "link": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CCP&sectionNum=1161.2",
+   "link_label": "Code of Civil Procedure § 1161.2 — California Legislative Information"
+  },
+  "colorado": {
+   "slug": "colorado",
+   "state": "Colorado",
+   "sealing": "Colorado suppresses eviction court records automatically when a case is filed (C.R.S. § 13-40-110.5): while a record is suppressed, only judges, court staff, the parties and their attorneys, authorized Judicial Department staff, and a person with a valid court order can see it, and the parties' names may not be published online. If the court enters an order giving the landlord possession, the record is no longer suppressed and becomes public unless the landlord and tenant agree it should remain suppressed. The same suppression rule applies to evictions from mobile home parks.",
+   "applying": "Under SB 23-184 (2023), a Colorado landlord generally may not require a prospective tenant to have an annual income that exceeds 200% of the annual cost of rent, and the act restricts what a landlord may consider or inquire about in a prospective tenant's income and credit history, with penalties for violations ($50 initially, and $2,500 if the violation is not cured, plus damages, costs, and attorney fees).",
+   "link": "https://content.leg.colorado.gov/sites/default/files/2020a_1009_signed.pdf",
+   "link_label": "HB 20-1009 signed act — C.R.S. § 13-40-110.5 (Colorado General Assembly)"
+  },
+  "connecticut": {
+   "slug": "connecticut",
+   "state": "Connecticut",
+   "sealing": "Connecticut does not seal the court file in an eviction (summary process) case, but Conn. Gen. Stat. § 47a-26j requires the Judicial Department to remove the record and any identifying information about the case from its website within 30 days after the case is withdrawn, is dismissed, or ends in a judgment for the tenant. Information removed under this law also may not be included in bulk sales of court records, and no one may disclose it for a commercial purpose — expressly including consumer reports and tenant screening. If there is later activity in the case or an appeal keeps it going, the information can be restored to the website.",
+   "applying": "Conn. Gen. Stat. § 47a-4d bars landlords from demanding any application-processing fee or other charge before or at the start of a tenancy other than a security deposit, the first month's rent, a deposit for a key or equipment, and a tenant screening report fee — move-in and move-out fees are prohibited. The screening report fee is capped at $50 plus an inflation adjustment determined annually by the Commissioner of Housing, and a landlord who charges it must give the applicant a copy of the report (or information for requesting it from the provider) and a copy of the receipt or invoice.",
+   "link": "https://www.cga.ct.gov/current/pub/chap_832.htm",
+   "link_label": "Conn. Gen. Stat. Chapter 832 (Summary Process), § 47a-26j — Connecticut General Assembly"
+  },
+  "delaware": {
+   "slug": "delaware",
+   "state": "Delaware",
+   "sealing": "Delaware's shielding law (25 Del. C. § 5720, in effect since January 2026) lets a tenant apply to the court where the eviction was filed to shield the record — there is no filing fee, and shielding is not automatic. The court must grant the application if the landlord withdrew the complaint, the court dismissed it, the final judgment was for the tenant, the parties settled and the tenant complied with the agreement, both sides agree to shielding, or shielding is clearly in the interests of justice; a judgment against the tenant can be shielded once 5 or more years have passed, any money owed under it has been paid, and the tenant has had no other similar judgment within 5 years of applying. When shielding is granted, any judgment is set aside, the case is treated as if it had never been filed, and the public can no longer access the record, though the court keeps it internally.",
+   "applying": "Under 25 Del. C. § 5514(d), a landlord's fee for determining a rental applicant's creditworthiness — an application fee — may not exceed the greater of 10% of the monthly rent or $50. The landlord must give the applicant a receipt and keep complete application-fee records for at least 2 years, and a landlord who charges more than the cap owes the tenant double damages.",
+   "link": "https://courts.delaware.gov/jpcourt/eviction-shielding.aspx",
+   "link_label": "Eviction Shielding — Delaware Courts (Justice of the Peace Court)"
+  },
+  "florida": {
+   "slug": "florida",
+   "state": "Florida",
+   "sealing": "Florida has no statewide statute that seals or expunges eviction records — bills to create one (a proposed § 83.626) have been introduced repeatedly but never enacted, and the 2025 Florida Statutes' landlord-tenant chapter (Chapter 83, Part II) contains no sealing section. An eviction case is a public court record kept by the clerk of court in the county where it was filed, and Florida court dockets and documents are publicly accessible through the courts' online access system. There is no outcome-based route — dismissal or a judgment for the tenant — that removes the case from the public record.",
+   "applying": null,
+   "link": "https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/0083PartIIContentsIndex.html&StatuteYear=2025&Title=-%3E2025-%3EChapter%2083-%3EPart%20II",
+   "link_label": "Florida Statutes, Chapter 83, Part II — contents index (2025, Online Sunshine)"
+  },
+  "georgia": {
+   "slug": "georgia",
+   "state": "Georgia",
+   "sealing": "Georgia has no eviction-record sealing law in effect as of November 2, 2026: the dispossessory statutes (O.C.G.A. Title 44, Chapter 7, Article 3) contain no sealing or expungement section, and a 2025 bill (HB 875) that would have let judges restrict some dispossessory records was not enacted. Dispossessory cases are public court records kept by the clerk of the court where the case was filed. There is currently no statewide process to remove an eviction filing from the public record because the tenant won, the case was settled, or time passed.",
+   "applying": null,
+   "link": "https://dca.ga.gov/node/6681/documents/2085",
+   "link_label": "Landlord-Tenant Handbook — Georgia Department of Community Affairs"
+  },
+  "hawaii": {
+   "slug": "hawaii",
+   "state": "Hawaii",
+   "sealing": "Hawaii has no law that seals eviction court records. Eviction cases (called summary possession cases) remain court records, and the Legislature has not enacted a sealing law: SB 154 (2025-2026), which would have required courts to seal eviction records, was referred to committee in January 2025, was carried over to the 2026 session, and never received a hearing. Its companion, HB 463, was amended into a Judiciary study of removing a tenant's name from eviction cases, with a report due before the 2027 session - a study, not a sealing law.",
+   "applying": "Hawaii law (HRS section 521-46, effective May 1, 2024) lets a landlord charge an application screening fee only for an applicant who is 18 or older or an emancipated minor, and only to cover the actual costs of obtaining information about the applicant, such as reference checks, tenant reports, criminal background checks, and credit reports. On request, the landlord must give the applicant a receipt and a breakdown of the costs, and any part of the fee not used must be returned within 30 days after the landlord submits the screening requests; the state consumer protection office explains that charges above the actual cost of screening must be refunded.",
+   "link": "https://data.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=154&year=2026",
+   "link_label": "Hawaii State Legislature - SB 154, Relating to Eviction Records (official measure status page)"
+  },
+  "idaho": {
+   "slug": "idaho",
+   "state": "Idaho",
+   "sealing": "Idaho has an Eviction Record Shielding Act (Idaho Code section 6-303A). If you were a defendant in an unlawful detainer (eviction) case filed on or after January 1, 2025, and the entire case was dismissed with no appeal pending, the court records are shielded from public disclosure automatically - you do not have to file anything - once at least 3 years have passed from the date the case was filed. The landlord and tenant can also agree in a written stipulation filed with the court to shield the records, and shielding does not destroy the records: the parties and court staff keep access.",
+   "applying": null,
+   "link": "https://courtselfhelp.idaho.gov/Forms/housing",
+   "link_label": "Idaho Judicial Branch - Court Assistance Office, Housing forms page (eviction record shielding forms and instructions)"
+  },
+  "illinois": {
+   "slug": "illinois",
+   "state": "Illinois",
+   "sealing": "Illinois law provides for sealing of eviction court files (735 ILCS 5/9-121). The court must seal the file in cases that are dismissed, in cases brought under section 9-207.5, and for occupants named only through a foreclosure case. The court may also seal an eviction file where the landlord's action was sufficiently without basis in fact or law (including lack of jurisdiction), sealing is clearly in the interests of justice, and those interests are not outweighed by the public's interest in knowing about the case.",
+   "applying": "Under 765 ILCS 705/30, if a prospective tenant gives the landlord a reusable tenant screening report that meets the statute's criteria - prepared within the previous 30 days by a consumer credit reporting agency at the tenant's request and expense, made directly available to the landlord (or through a compliant third-party website) at no cost, and containing all of the screening criteria the landlord consistently uses - the landlord may not charge the tenant a fee to access the report or an application screening fee.",
+   "link": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=073500050K9-121",
+   "link_label": "Illinois General Assembly - 735 ILCS 5/9-121 (official statute text)"
+  },
+  "indiana": {
+   "slug": "indiana",
+   "state": "Indiana",
+   "sealing": "Indiana law (IC 32-31-11) requires the court to issue a nondisclosure order - the state's form of sealing - when an eviction case is dismissed (including for the landlord's failure to prosecute), when judgment is entered for the tenant, or when a judgment against the tenant is overturned or vacated on appeal; since July 1, 2025 the court issues the order on its own motion, without an additional hearing, at the time the case ends that way. The clerk and court record systems then may not disclose any records in the case, including the landlord's petition for possession, and the clerk must redact or permanently seal the court's own records. For older cases, and for tenants who lost, a tenant may petition: the court must grant nondisclosure if a money judgment in the case has been satisfied, or if 7 years have passed since a final judgment that included no money judgment.",
+   "applying": null,
+   "link": "https://iga.in.gov/legislative/2025/bills/senate/142/details",
+   "link_label": "Indiana General Assembly - Senate Bill 142 (2025), enacted as Public Law 128-2025 (official bill page)"
+  },
+  "iowa": {
+   "slug": "iowa",
+   "state": "Iowa",
+   "sealing": "Iowa has no statewide law that seals eviction (forcible entry and detainer) court records. These cases are public court records: the Iowa Judicial Branch explains that people who are not parties can view general public case information through Iowa Courts Online, while the case documents themselves are viewed at the clerk of court's office. Bills introduced in the 2025-2026 General Assembly (HF 983 and its companion SF 421, and SF 567) would have created eviction-record sealing - HF 983 would have sealed records within 3 days of a not-guilty finding, dismissal, or plaintiff no-show, with a July 1, 2026 start - but none of them was enacted.",
+   "applying": null,
+   "link": "https://www.iowacourts.gov/faq/court-forms-and-records",
+   "link_label": "Iowa Judicial Branch - Court Forms and Records FAQ (public access to case information)"
+  },
+  "kansas": {
+   "slug": "kansas",
+   "state": "Kansas",
+   "sealing": "Kansas enacted an eviction-record expungement law in 2026 (Substitute for HB 2357), covering evictions where the rental agreement is governed by the Residential Landlord and Tenant Act. A tenant (defendant) files for expungement electronically with the district court clerk at no cost, under the original case number, and the landlord is served and has 30 days to object; if there is no objection, the court decides without a hearing and any money judgment is presumed satisfied. The court must grant expungement if at least 3 years have passed since judgment was entered, any money judgments are satisfied, and no other covered eviction judgment was entered against the tenant during that 3-year period (a newer judgment restarts the wait); a judgment that was never paid can be expunged only if the landlord agrees, and expungement does not cancel the underlying debt.",
+   "applying": null,
+   "link": "https://kslegislature.gov/li/b2025_26/measures/hb2357/",
+   "link_label": "Kansas Legislature - Substitute for HB 2357 (2025-2026 session, official bill page)"
+  },
+  "kentucky": {
+   "slug": "kentucky",
+   "state": "Kentucky",
+   "sealing": "Kentucky has no statewide law that seals or expunges eviction (forcible detainer) records. An eviction case record is a court case record: it is kept by the Office of Circuit Court Clerk in the county where the case was heard, and the Kentucky Court of Justice directs anyone seeking to review or copy a court case record to start with that clerk. A 2026 bill, HB 338, would have required automatic expungement of eviction cases that were dismissed or decided for the tenant, and it passed the House 95-0, but it was not enacted.",
+   "applying": null,
+   "link": "https://www.kycourts.gov/Pages/Request-Court-Records.aspx",
+   "link_label": "Kentucky Court of Justice - Request Court Records"
+  },
+  "louisiana": {
+   "slug": "louisiana",
+   "state": "Louisiana",
+   "sealing": "Louisiana has no law that seals or expunges eviction court records. Evictions are governed by Title XI of the Louisiana Code of Civil Procedure (Article 4701 and following), which sets out the notice to vacate and the court process for removing a tenant and contains no provision for sealing the record; Louisiana's expungement laws cover criminal and juvenile records, not civil eviction cases. The eviction case record is kept by the clerk of court where the case was filed.",
+   "applying": "Under R.S. 9:3258.1, a landlord may not require an applicant to pay an application fee unless, before accepting the payment, the landlord gives written notice of: the amount of the application fee; whether the landlord considers credit scores, employment history, criminal history, or eviction records in deciding whether to rent to the applicant; and that the applicant may share a statement of 200 words or less explaining financial hardship from a state or federally declared disaster or emergency and how it affected the applicant's credit, employment, or rental history (the notice must reference the COVID-19 pandemic and hurricanes). The rule applies to property used as a primary residence, except owner-occupied buildings of no more than four units.",
+   "link": "http://www.legis.la.gov/Legis/LawPrint.aspx?d=112073",
+   "link_label": "Louisiana Legislature - Code of Civil Procedure Article 4701, Eviction of Tenants and Occupants (official law text)"
+  },
+  "maine": {
+   "slug": "maine",
+   "state": "Maine",
+   "sealing": "Maine does not seal or expunge eviction records, but state law sharply limits who can see them online. Under 4 M.R.S. section 9-C and Rule 4(D)(1) of the Maine Rules of Electronic Court Systems, court records in an eviction (forcible entry and detainer) case are available to the public only at a courthouse before judgment is entered, at any time if the parties agree to courthouse-only access, and when the case was dismissed or decided in the tenant's favor; where a judgment was entered against the tenant, the online register of actions is remotely accessible only for 3 years after the judgment. The records are not destroyed - they remain public records that can be viewed at the courthouse.",
+   "applying": "Under 14 M.R.S. section 6030-H, a Maine landlord generally may not charge any fee to submit, review, or approve a rental application. The one exception: the landlord may charge the actual cost of only one of a background check, a credit check, or another screening process - and only if the landlord first tells the applicant that the law requires the landlord to give the applicant a complete copy of the information obtained, and actually provides that copy. A landlord may not charge an applicant more than one such fee in any 12-month period.",
+   "link": "https://mainelegislature.org/statutes/4/title4sec9-C.pdf",
+   "link_label": "Maine Legislature - 4 M.R.S. section 9-C, Public access to court records in forcible entry and detainer cases (official statute text)"
+  },
+  "maryland": {
+   "slug": "maryland",
+   "state": "Maryland",
+   "sealing": "Maryland law requires shielding of failure-to-pay-rent eviction records (Real Property section 8-401, enacted by Chapter 347 of 2024, effective October 1, 2024, for cases filed after that date). The District Court must shield all court records within 60 days after a failure-to-pay-rent case is finally resolved if it did not end in a judgment of possession for the landlord. If the case did end in a judgment of possession, the tenant may ask the court to shield the records by showing that the tenant exercised the right of redemption (paid what was owed to keep the home) and at least 12 months have passed since the case ended, or that there is good cause; the court must shield the records within 30 days after granting the request. Rent escrow case records are not covered.",
+   "applying": "Maryland has three screening rules. First, under Real Property section 8-213, if a landlord charges fees other than a security deposit (such as an application or credit-check fee) totaling more than $25, the landlord may keep only the amount actually spent on the credit check or application expenses and must return the rest within 15 days after the tenant moves in or either side gives written notice that no tenancy will occur. Second, under section 8-218, landlords must tell applicants whether they accept reusable tenant screening reports (a report prepared within the previous 30 days by a consumer reporting agency at the tenant's request and expense and made directly available to the landlord at no charge); a landlord that accepts them may not charge an access fee or an application fee when an applicant provides one. Third, under the Maryland Fair Chance Housing Act (Chapter 752 of 2026, effective October 1, 2026), a landlord with five or more rental units generally may not ask about or consider an applicant's criminal history until after making a conditional offer, and may then consider only certain convictions, with notice and a chance to respond before withdrawing the offer.",
+   "link": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0019?ys=2024RS&search=True",
+   "link_label": "Maryland General Assembly - SB 19 (2024), Chapter 347, Shielding of Failure-to-Pay-Rent Records (official bill page)"
+  },
+  "massachusetts": {
+   "slug": "massachusetts",
+   "state": "Massachusetts",
+   "sealing": "Massachusetts law lets you petition the court that heard the case to seal an eviction record, effective May 5, 2025. Dismissed cases and judgments for the tenant, and no-fault evictions, can be sealed at any time after the case ends and appeals are exhausted; a satisfied nonpayment judgment can be sealed after satisfaction, other nonpayment cases after 4 years with an economic-hardship certification, and other fault evictions after 7 years with no new fault or lessor action in that period. File a separate Petition to Seal Eviction Record in each court where the case was heard, using the Trial Court's guided interview or form.",
+   "applying": "A consumer reporting agency must not disclose a sealed eviction record or use it in a score or recommendation, and must remove it within 30 days of sealing. Any housing or credit application that asks about prior evictions must state that an applicant with a sealed record may answer 'no record' to that inquiry.",
+   "link": "https://www.mass.gov:443/info-details/sealing-eviction-court-records",
+   "link_label": "Sealing eviction court records | Massachusetts Trial Court, Mass.gov"
+  },
+  "michigan": {
+   "slug": "michigan",
+   "state": "Michigan",
+   "sealing": "Michigan has no statewide sealing or expungement statute for eviction court records, so an eviction case filed as summary proceedings in district court remains a public court record kept by that court. The expungement system described by the Attorney General is for criminal convictions under the Clean Slate laws, not for landlord-tenant cases. A tenant would have to ask the court in the individual case about any case-specific relief; there is no standard statewide petition to seal an eviction.",
+   "applying": "Michigan law prohibits a landlord who owns five or more rental units from discriminating against an otherwise eligible prospective or current tenant based on the tenant's source of income, under MCL 554.601c as summarized in the Michigan Courts landlord-tenant benchbook.",
+   "link": "https://www.courts.michigan.gov/4ab03e/siteassets/publications/benchbooks/lltbb/lltbbresponsivehtml5.zip/LLTBB/Ch_4_Summary_Eviction_Proceedings/Chapter_4__58__Summary_Proceedings_To_Evict.htm",
+   "link_label": "Chapter 4: Summary Proceedings to Evict | Michigan Courts Landlord-Tenant Benchbook"
+  },
+  "minnesota": {
+   "slug": "minnesota",
+   "state": "Minnesota",
+   "sealing": "Minnesota expunges eviction court files, meaning the evidence of the file is removed from publicly accessible records. Expungement is mandatory and, for most grounds, automatic without a motion: if the tenant prevailed, the complaint was dismissed, the parties agreed, in certain foreclosure or contract-for-deed cases, and three years after an eviction was ordered. A motion is needed if the case was settled and the tenant fulfilled the settlement, or was filed in violation of the notice law, and a judge can also order discretionary expungement when it is clearly in the interests of justice.",
+   "applying": "No landlord may deny a rental application based on a pending eviction action, a court file that is not public, expunged, or destroyed, or an eviction action that did not result in a writ of recovery and order to vacate. Before taking a screening fee a landlord must disclose in writing the screening service used and the criteria for the decision, must not charge a fee when no unit is available, must return the fee in the situations listed in the statute, and must tell a rejected applicant within 14 days which criteria were not met.",
+   "link": "https://www.revisor.mn.gov/statutes/2024/cite/484.014",
+   "link_label": "Minn. Stat. 484.014, Housing records; expungement of eviction information | Minnesota Revisor of Statutes"
+  },
+  "mississippi": {
+   "slug": "mississippi",
+   "state": "Mississippi",
+   "sealing": "Mississippi has no statewide sealing or expungement law for eviction court records, so an eviction case remains a court record held by the court where it was filed. The Mississippi Judiciary describes court files in individual cases as public files that the public can ask the clerk to view or copy, and its electronic courts system provides public access to case information in participating courts. There is no standard petition or automatic process in state law for sealing an eviction record.",
+   "applying": null,
+   "link": "https://courts.ms.gov/records/media.php",
+   "link_label": "Media FAQ - records of state trial courts and public court files | State of Mississippi Judiciary"
+  },
+  "missouri": {
+   "slug": "missouri",
+   "state": "Missouri",
+   "sealing": "Missouri has no statewide sealing or expungement law for eviction court records, so rent-and-possession and unlawful-detainer cases are public court records. Under Court Operating Rule 2, the Missouri Judiciary makes public case information available through Case.net by case number, filing date, party name, calendar date, and judgment, and public documents filed on or after July 1, 2023 are available remotely. The Missouri Courts expungement information is about criminal records, not civil eviction cases.",
+   "applying": null,
+   "link": "https://www.courts.mo.gov/page.jsp?id=98876",
+   "link_label": "Case.net General Help - Court Operating Rule 2 governs public access | Missouri Courts"
+  },
+  "montana": {
+   "slug": "montana",
+   "state": "Montana",
+   "sealing": "Montana has no statewide sealing or expungement law for eviction court records, so an action for possession filed in court remains a court record kept by that court. The Montana Judicial Branch landlord-tenant page lists the forms and handbooks for filing and answering an eviction under the Residential Landlord and Tenant Act of 1977, and it offers no sealing form or procedure. The court's expungement packet is for misdemeanor criminal convictions only and expressly does not cover non-conviction records.",
+   "applying": null,
+   "link": "https://courts.mt.gov/Forms/landlord",
+   "link_label": "Landlord Tenant Law - Evictions | Montana Judicial Branch, courts.mt.gov"
+  },
+  "nebraska": {
+   "slug": "nebraska",
+   "state": "Nebraska",
+   "sealing": "Nebraska has no statewide sealing law for eviction records in effect, so an eviction proceeding remains a court record in the trial court that heard it. Nebraska court rules presume court exhibits and records are public unless confidentiality is required by law or court rule. A bill to create a Residential Tenant Clean Slate Act for sealing eviction records, LB92 in the 2025 session, was indefinitely postponed and did not become law.",
+   "applying": null,
+   "link": "https://supremecourt.nebraska.gov/book/export/html/9091",
+   "link_label": "Neb. Ct. R. s.6-507, Public review of exhibits | Nebraska Judicial Branch"
+  },
+  "nevada": {
+   "slug": "nevada",
+   "state": "Nevada",
+   "sealing": "Nevada seals summary-eviction court files automatically in three situations: when the court dismisses the action, 10 judicial days after the court denies the action, and 31 days after the tenant files an affidavit contesting the eviction if the landlord does not file a complaint within 30 days; a summary eviction granted during the COVID-19 emergency was also sealed automatically. In other summary-eviction cases the court may seal the file on a written landlord-tenant stipulation to set aside the eviction, or on the tenant's motion if the eviction should be set aside or sealing is in the interests of justice. Once sealed, the proceedings are treated as though they never occurred, and a notice to surrender must not be made available for public inspection.",
+   "applying": "A landlord who collects any application, credit-report, or background-check fee must refund it if the landlord rents the unit to a different prospective tenant and does not conduct the activity the fee was collected for. A landlord also may not collect an application, credit-report, or background-check fee for a minor who is a member of the prospective tenant's household.",
+   "link": "https://www.leg.state.nv.us/nrs/nrs-040.html",
+   "link_label": "NRS Chapter 40, including NRS 40.2545, Sealing of eviction case court file | Nevada Legislature"
+  },
+  "new-hampshire": {
+   "slug": "new-hampshire",
+   "state": "New Hampshire",
+   "sealing": "New Hampshire has no statewide law for sealing or expunging an eviction court record, so a landlord-tenant case remains a court case in the Circuit Court, and the Judicial Branch's LUCIE portal lets the public search publicly accessible cases and view case status, hearings, and parties unless a case is confidential or restricted. There is no standard petition to seal an eviction in RSA 540. The protection New Hampshire does give is about how a no-fault termination is described and used, in the screening rule below.",
+   "applying": "A no-fault termination of tenancy under RSA 540:2, II(i) - for example, expiration of a lease term of 12 months or longer with the required 60 days' notice - shall not be considered an eviction for purposes of rental applications and tenant screening reports, and the court must note in the court documentation that the termination was at no fault of the tenant. This provision is stated in the statute as effective July 1, 2026, and it does not limit a landlord's ability to perform due diligence inquiries about a prospective tenant.",
+   "link": "https://gc.nh.gov/rsa/html/lv/540/540-2.htm",
+   "link_label": "RSA 540:2, Termination of Tenancy | New Hampshire General Court"
+  },
+  "new-jersey": {
+   "slug": "new-jersey",
+   "state": "New Jersey",
+   "sealing": "New Jersey does not have a general petition-to-seal law for eviction records, but one category is confidential by statute: a court record of a landlord-tenant action filed because of nonpayment or habitually late payment of rent during the COVID-19 emergency period - actions filed from March 9, 2020 through the end of that emergency period - is confidential and unavailable to the public, and public entities must keep those records that way. Other landlord-tenant cases are filed in the Special Civil Part of Superior Court, per the New Jersey Courts landlord-tenant page. If your case is in the confidential category, the record should already be restricted rather than something you petition to seal.",
+   "applying": "When evaluating a prospective tenant, a landlord must not consider an emergency-period nonpayment court record, and a tenant screening service or other person must not knowingly provide information from such a record to a landlord or anyone else involved in renting a dwelling unit. Knowingly violating these rules carries a penalty of at least $1,000 for a first offense and at least $5,000 for later offenses, plus attorney fees, enforceable by the Attorney General.",
+   "link": "https://pub.njleg.state.nj.us/Bills/2020/AL21/189_.PDF",
+   "link_label": "P.L.2021, c.189 (N.J.S.A. 2A:42-144 to 2A:42-148), confidentiality of certain eviction court records | New Jersey Legislature"
+  },
+  "new-mexico": {
+   "slug": "new-mexico",
+   "state": "New Mexico",
+   "sealing": "New Mexico has no statewide law that seals or expunges eviction court records. An eviction case — a Petition for Restitution under the Uniform Owner-Resident Relations Act or the Mobile Home Park Act — is a public court record kept by the magistrate, metropolitan, or district court where it was filed. Bills to change this were introduced in 2025 (HB 253 would have sealed records when a case was filed; HB 98 would have expunged records after five years), but HB 253 passed only the House and was postponed indefinitely in the Senate, so neither became law.",
+   "applying": null,
+   "link": "https://selfrepresentation.nmcourts.gov/landlord-tenant/",
+   "link_label": "NM Courts Self-Representation Center — Landlord-Tenant"
+  },
+  "new-york": {
+   "slug": "new-york",
+   "state": "New York",
+   "sealing": "New York does not have a general law to seal or expunge eviction records, and housing court records are otherwise public. One automatic exception exists: under RPAPL Section 757, if a tenant is removed from a property that was the subject of a foreclosure or tax foreclosure proceeding, the court records relating to that tenant must be sealed and treated as confidential, and disclosing or using them is prohibited. Outside that situation, a civil record can be sealed only by court order for good cause under 22 NYCRR Section 216.1.",
+   "applying": "Landlords may not refuse to rent to an applicant because the applicant was involved in a past or pending landlord-tenant action (Real Property Law Section 227-f); if a landlord obtained an applicant's court records or tenant screening information and then refused to rent, the law presumes the refusal was illegal, and the Attorney General can sue for penalties of $500 to $1,000 per violation. Landlords also may not charge application-processing fees, and may charge only for background and credit checks — no more than the actual cost or $20 total, whichever is less — must waive the fee if the applicant provides a check run within the past 30 days, and may collect only if they give the applicant a copy of the check and the receipt or invoice (Real Property Law Section 238-a).",
+   "link": "https://ag.ny.gov/press-release/2026/attorney-general-james-stops-brooklyn-real-estate-firm-illegally-blacklisting",
+   "link_label": "NY Attorney General — Attorney General James Stops Brooklyn Real Estate Firm from Illegally Blacklisting Tenants"
+  },
+  "north-carolina": {
+   "slug": "north-carolina",
+   "state": "North Carolina",
+   "sealing": "North Carolina has no law that seals or expunges eviction records. A summary ejectment case is a public record kept by the clerk of superior court in the county where it was filed, and the Judicial Branch states plainly that evictions are public record and may affect a tenant's ability to qualify for another lease. Bills filed in 2025 (House Bill 267 and Senate Bill 569) proposed a new G.S. 42-36.4 to expunge or seal certain cases, but both were referred to Rules committees in March 2025 and were not enacted.",
+   "applying": null,
+   "link": "https://www.nccourts.gov/help-topics/housing/landlordtenant-issues",
+   "link_label": "North Carolina Judicial Branch — Landlord/Tenant Issues"
+  },
+  "north-dakota": {
+   "slug": "north-dakota",
+   "state": "North Dakota",
+   "sealing": "North Dakota allows sealing only in two situations, and only by motion to the court — it is not automatic. A person evicted for nonpayment of rent or damage to the premises who has resolved all rent and damage claims may move to seal all court records of the eviction seven years after the eviction order was satisfied, provided the person was not evicted from another property during those seven years. A tenant who was subjected to domestic violence during the tenancy and was evicted because of a domestic violence incident may move to seal upon the assailant's conviction for domestic violence or the issuance of a disorderly conduct restraining order, sexual assault restraining order, or domestic violence protection order against the assailant.",
+   "applying": null,
+   "link": "https://ndlegis.gov/cencode/t47c32.pdf?20151201145519=&",
+   "link_label": "North Dakota Legislative Branch — N.D. Century Code ch. 47-32, Section 47-32-05"
+  },
+  "ohio": {
+   "slug": "ohio",
+   "state": "Ohio",
+   "sealing": "Ohio has no statewide statute that gives a tenant the right to have an eviction record sealed, and an eviction case is a public court record. A tenant may file a motion asking the court that heard the case to restrict public access under Rule 45(E) of the Ohio Rules of Superintendence, and some courts publish their own procedures — Toledo Municipal Court, for example, accepts a Motion to Seal Eviction Record where the landlord consents, where at least five years have passed since judgment was entered for the landlord, where judgment for the landlord was granted improperly, or where sealing is appropriate in the court's discretion under Rule 45. Nothing is sealed automatically.",
+   "applying": null,
+   "link": "https://toledomunicipalcourt.org/help-center/sealing-eviction",
+   "link_label": "Toledo Municipal Court — Sealing an Eviction"
+  },
+  "oklahoma": {
+   "slug": "oklahoma",
+   "state": "Oklahoma",
+   "sealing": "Oklahoma has no eviction-specific sealing or expungement law, and eviction cases — forcible entry and detainer actions filed in district court — are public court records. Under 51 O.S. Section 24A.30, all court records are public records under the Oklahoma Open Records Act unless a statute makes them confidential. A court may seal a record or part of a record only if it finds a compelling privacy interest that outweighs the public's interest in the record, and any sealing order must itself be public, state the facts and legal basis relied on, and be narrowly tailored using the least restrictive means.",
+   "applying": null,
+   "link": "https://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=478496",
+   "link_label": "Oklahoma State Courts Network (OSCN) — Open and Confidential Records, Title 51"
+  },
+  "oregon": {
+   "slug": "oregon",
+   "state": "Oregon",
+   "sealing": "Oregon clears eviction records two ways. Under ORS 105.164, courts must set aside the judgment and seal the record once a year, in December, for residential cases in which judgment was entered after January 1, 2014, when any money award has expired, been satisfied, or been discharged and either at least five years have passed since a judgment of restitution for the landlord or at least 12 months have passed since a judgment of dismissal or a judgment in the tenant's favor. Under ORS 105.163, a tenant who cannot wait may apply by motion — with no filing fee — to set aside and seal where the case was dismissed or decided in the tenant's favor, where a stipulated judgment's terms were complied with and any money award satisfied, or where at least five years have passed since a restitution judgment and its money award has been satisfied; once granted, the judgment is treated as never entered.",
+   "applying": "Under ORS 90.295, a landlord may charge an applicant screening charge only to cover the costs of screening, no more than the landlord's average actual cost or the customary amount charged by tenant screening companies or consumer credit reporting agencies for comparable screening, and only one charge per applicant in any 60-day period. Before taking the charge the landlord must have written screening or admission criteria and give the applicant written notice of the charge amount, the criteria, the screening process, the applicant's dispute rights, and the rent and deposits, plus a receipt; the statute also requires refunds within 30 days in specified circumstances, including when the landlord does not perform the screening.",
+   "link": "https://www.courts.oregon.gov/forms/pages/evictionsetasides.aspx",
+   "link_label": "Oregon Judicial Department — Eviction Set Asides (ORS 105.164)"
+  },
+  "pennsylvania": {
+   "slug": "pennsylvania",
+   "state": "Pennsylvania",
+   "sealing": "Pennsylvania has no statewide law in effect that seals eviction records or limits access to them. Eviction (landlord/tenant) filings remain public court records regardless of the outcome — including cases that are withdrawn, dismissed, settled, or decided for the tenant — and landlord/tenant case information can be searched free through the Unified Judicial System's web portal. House Bill 1095 (2025-2026) would create orders of limited access for eviction information in a new Subchapter C of Title 42, Chapter 43, but as of November 2, 2026, it had passed only the House and had not passed the Senate or been signed into law.",
+   "applying": null,
+   "link": "https://www.palegis.us/legislation/bills/2025/hb1095",
+   "link_label": "Pennsylvania General Assembly — House Bill 1095 (2025-2026), Bill Information and Actions"
+  },
+  "rhode-island": {
+   "slug": "rhode-island",
+   "state": "Rhode Island",
+   "sealing": "Rhode Island allows eviction court files to be sealed, but only by motion — sealing is not automatic. Under R.I. Gen. Laws Section 34-18-60, any party to an eviction action under Sections 34-18-35, 34-18-36, or 34-18-38 may move to seal at least 30 days after the appeal period following the end of the case expires, and the court must grant the motion if it finds the case was dismissed as a result of a motion to dismiss, was resolved by stipulation and the stipulation's terms were satisfied, any money judgment against the moving party was satisfied in full, or the case was dismissed for lack of prosecution after a five-year period. The moving party must have notified all parties to the case, and a party is limited to one sealing request every five years.",
+   "applying": "Landlords, lessors, brokers, and property management companies may not require or demand that a prospective tenant pay a rental application fee (R.I. Gen. Laws Section 34-18-59). They may require an official state criminal background check or a credit check, but if the applicant provides one issued within the past 90 days no fee may be charged for it, and otherwise the applicant may be charged no more than the actual cost of obtaining it; a landlord may obtain additional background checks or credit reports only at the landlord's own expense.",
+   "link": "https://webserver.rilegislature.gov/Statutes/TITLE34/34-18/34-18-60.htm",
+   "link_label": "Rhode Island General Laws Section 34-18-60 — Sealing and unsealing of court files"
+  },
+  "south-carolina": {
+   "slug": "south-carolina",
+   "state": "South Carolina",
+   "sealing": "South Carolina enacted its first eviction-record removal law in 2026, but it does not take effect until January 1, 2027, and it is based on age, not on how the case ended. Under new S.C. Code Section 30-2-60 (Act No. 214 of 2026), eviction filings and records made under Section 27-40-10 or 27-37-10 that include a defendant's personal information — including cases concluded by an Order of Eviction or Writ of Ejectment, resolved by settlement, or resolved by later payment satisfying the judgment — must be removed from the public index and any publicly accessible files seven years after the final disposition or filing, if no additional filing is recorded. Until the law takes effect, eviction records remain on the public index, and there is no petition process to seal or expunge a case sooner.",
+   "applying": null,
+   "link": "https://www.scstatehouse.gov/sess126_2025-2026/bills/4270.htm",
+   "link_label": "South Carolina Legislature — H. 4270, Act No. 214 of 2026 (S.C. Code Section 30-2-60)"
+  },
+  "south-dakota": {
+   "slug": "south-dakota",
+   "state": "South Dakota",
+   "sealing": "South Dakota has no statewide eviction-record sealing or expungement statute in the official sources checked. Eviction (forcible entry and detainer) cases are court records kept by the clerk of court, and the Unified Judicial System says access to court records is governed by SDCL chapter 15-15A, with public case information available through eCourts, public access terminals at courthouses, and court record searches.",
+   "applying": null,
+   "link": "https://ujs.sd.gov/cases-and-records/",
+   "link_label": "South Dakota Unified Judicial System — Court Records Access"
+  },
+  "tennessee": {
+   "slug": "tennessee",
+   "state": "Tennessee",
+   "sealing": "No statewide eviction-record sealing statute was found in the Tennessee sources checked, so a detainer case should be treated as a public General Sessions court record. Tennessee's expungement statute and state expungement form, Tenn. Code Ann. section 40-32-101, are for criminal offender records and do not cover civil eviction (detainer warrant) cases.",
+   "applying": null,
+   "link": "https://www.tn.gov/health/cedep/environmental/healthy-homes/hh/renters.html",
+   "link_label": "Tennessee Department of Health — Renters"
+  },
+  "texas": {
+   "slug": "texas",
+   "state": "Texas",
+   "sealing": "Texas does not have a process to remove or seal an eviction from your record, and that is mostly true even if the eviction case was dismissed or you won your case. Eviction court records are public under Rule 76a of the Texas Rules of Civil Procedure; the only exceptions the State Law Library lists are certain Rule 76a circumstances and cases dismissed under the Texas Eviction Diversion Program, which no longer exists and whose records the court must keep sealed.",
+   "applying": "When an applicant is given a rental application, the landlord must make available printed notice of the landlord's tenant selection criteria and the grounds for denial, including criminal history, previous rental history, current income, credit history, or failure to provide accurate or complete information. If the landlord rejects an applicant without making that notice available, the landlord must return the application fee and any application deposit. Tex. Prop. Code section 92.3515.",
+   "link": "https://www.sll.texas.gov/faqs/eviction-record-removal/",
+   "link_label": "Texas State Law Library — Can I remove an eviction from my record?"
+  },
+  "utah": {
+   "slug": "utah",
+   "state": "Utah",
+   "sealing": "Utah expunges eviction records two ways. Without any petition, the court must expunge all records if the entire case was dismissed, no appeal is pending, and at least three years have passed since the eviction was filed (for evictions filed on or after July 1, 2022), or if the parties stipulated to expungement. By petition, a party to a holdover or nonpayment-of-rent eviction may ask the court that issued the order of restitution to expunge the records if the judgment has been satisfied and a satisfaction of judgment has been filed; the court must order expungement if no written objection is filed within 60 days, and it may not expunge if the judgment has not been satisfied.",
+   "applying": "Before an owner accepts an application fee or any other payment from a prospective renter, the owner must disclose in writing a good faith estimate of the rent and each fixed non-rent expense, the types of use-based non-rent expenses, the date the unit is scheduled to be available, the criteria the owner will consider for eligibility including criminal history, credit, income, employment, or rental history, and the process to recover money paid. Utah Code section 57-22-4(3).",
+   "link": "http://www.utcourts.gov/en/self-help/case-categories/housing/landlord/expunge.html",
+   "link_label": "Utah Courts — Expunging Eviction Records"
+  },
+  "vermont": {
+   "slug": "vermont",
+   "state": "Vermont",
+   "sealing": "No statewide eviction-record sealing statute was found in Vermont's statutes. Eviction (ejectment) cases are civil court records, and Rule 6(a) of the Vermont Rules for Public Access to Court Records gives the public access to all judicial-branch case records except the categories listed in Rule 6(b), and ejectment/eviction cases are not one of those listed exceptions.",
+   "applying": "A Vermont landlord or agent may not charge any application fee to apply for a residential rental unit. To conduct a background or credit check the landlord must accept government-issued identification, an Individual Taxpayer Identification Number, or a Social Security number, and may not require a Social Security number or refuse an application for lack of one. 9 V.S.A. section 4456a.",
+   "link": "https://www.vtcourts.gov/PROMULGATED-VRPACR6b1819--STAMPED",
+   "link_label": "Vermont Judiciary — Rules for Public Access to Court Records, Rule 6"
+  },
+  "virginia": {
+   "slug": "virginia",
+   "state": "Virginia",
+   "sealing": "Virginia automatically expunges many eviction (unlawful detainer) court records, with no petition or hearing, if the action was dismissed and 30 days have passed, or a voluntary nonsuit was taken and six months have passed, and no order of possession was entered in the case. If judgment was entered in favor of the defendant (the tenant), the record is not automatic, but the defendant may file a petition and the court must expunge it without a hearing. For cases begun before July 1, 2024, the tenant uses the Supreme Court petition form in the general district court where the case was filed.",
+   "applying": "A Virginia application fee may not exceed $50, not counting actual out-of-pocket expenses the landlord pays a third party for background, credit, or other pre-occupancy checks; for a public housing or HUD-regulated unit the cap is $32 plus those out-of-pocket expenses. A landlord must also consider evidence that an applicant is a victim of family abuse to mitigate the effect of an otherwise qualified applicant's low credit score. Va. Code section 55.1-1203.",
+   "link": "https://law.lis.virginia.gov/vacode/title8.01/chapter3/section8.01-130.01/",
+   "link_label": "Virginia Code section 8.01-130.01 — Unlawful detainer; expungement"
+  },
+  "washington": {
+   "slug": "washington",
+   "state": "Washington",
+   "sealing": "Washington's tool is not erasure of the court file but an Order of Limited Dissemination. A court may order an unlawful detainer action to be of limited dissemination for one or more persons if the plaintiff's case was sufficiently without basis in fact or law, the tenancy was reinstated under RCW 59.18.410 or other law, or other good cause exists. The order must be in writing, and once it is entered a tenant screening service provider must not disclose that unlawful detainer action in a screening report about that person or use it as a factor in any score or recommendation in the report.",
+   "applying": "Before obtaining any information about a prospective tenant, a Washington landlord must notify the tenant in writing or by posting what types of information will be accessed, what criteria may result in denial, the screening company's name and address and the tenant's rights to a free copy and to dispute the report if a consumer report is used, and whether the landlord will accept a comprehensive reusable tenant screening report. The landlord may charge for screening only if that notice was given; a landlord doing its own screening may charge only actual costs, capped at the customary cost of a screening service in the area, and a landlord who takes an adverse action must give a written adverse action notice stating the reasons. RCW 59.18.257.",
+   "link": "http://apps.leg.wa.gov/rcw/default.aspx?cite=59.18.367",
+   "link_label": "Washington Legislature — RCW 59.18.367, Unlawful detainer action: Limited dissemination"
+  },
+  "west-virginia": {
+   "slug": "west-virginia",
+   "state": "West Virginia",
+   "sealing": "No statewide eviction-record sealing statute was found in the West Virginia sources checked. An eviction for wrongful occupation of residential rental property is filed by petition in the magistrate court or circuit court of the county where the property is located, and the West Virginia Judiciary's public page offers searches of magistrate and circuit court records for all fifty-five counties, with public circuit court documents downloadable for a nominal fee.",
+   "applying": null,
+   "link": "http://www.courtswv.gov/info-for/public",
+   "link_label": "West Virginia Judiciary — Information for the Public: Court Records"
+  },
+  "wisconsin": {
+   "slug": "wisconsin",
+   "state": "Wisconsin",
+   "sealing": "Wisconsin handles eviction records mainly by a public-access retention schedule, not by a tenant sealing statute. Under Supreme Court Rule 72.01, an eviction case in which no money judgment was entered against any party - including contested cases, stipulated dismissals, and default judgments for possession - is kept on public access for 2 years from the date of entry of the final order or judgment; an eviction case where a writ of restitution was granted against the defendant and no money judgment was entered is kept for 10 years; and a case with a money judgment, like other small claims cases, is kept for 20 years.",
+   "applying": "A landlord may require a prospective tenant to pay the landlord's actual cost, up to $25, to obtain a consumer credit report from a nationwide consumer credit reporting agency, must notify the tenant of the charge before requesting the report, and must provide the tenant a copy of the report; the landlord may not charge if the tenant first provides a report less than 30 days old from such an agency. A prospective tenant who is not a Wisconsin resident may likewise be charged actual cost, up to $25, for a background check, with notice before the check and a copy of the report. Wis. Stat. section 704.085.",
+   "link": "https://www.wicourts.gov/sc/scrule/DisplayDocument.pdf?content=pdf&seqNo=978748",
+   "link_label": "Wisconsin Court System — Supreme Court Rules ch. 72, Retention and Maintenance of Court Records"
+  },
+  "wyoming": {
+   "slug": "wyoming",
+   "state": "Wyoming",
+   "sealing": "No statewide eviction-record sealing statute was found in the Wyoming sources checked; court records are presumed open to public access. Rule 3 of the Wyoming Rules Governing Access to Court Records presumes public access, Rule 6 lists the records that are not available to the public and eviction/forcible entry cases are not on that list, and the Wyoming courts' expungement handout covers criminal records only. Any party may file a general Rule 8 motion, supported by an affidavit showing good cause, asking the court to limit public access to information in a case record, but that is a general access motion, not an eviction sealing right.",
+   "applying": null,
+   "link": "https://www.wyocourts.gov/app/uploads/2025/01/acccr_2011042600-1.pdf",
+   "link_label": "Wyoming Judicial Branch — Rules Governing Access to Court Records"
+  }
+ }
+}
