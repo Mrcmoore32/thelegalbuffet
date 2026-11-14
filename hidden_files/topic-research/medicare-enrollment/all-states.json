@@ -1,0 +1,454 @@
+{
+ "states": {
+  "alabama": {
+   "state": "Alabama",
+   "slug": "alabama",
+   "ship_name": "State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "1-800-243-5463",
+   "ship_note": "That number is Alabama's statewide AGE-LINE \u2014 ask for SHIP Medicare counseling when you call.",
+   "ship_url": "https://alabamaageline.gov/ship/",
+   "medigap_note": null
+  },
+  "alaska": {
+   "state": "Alaska",
+   "slug": "alaska",
+   "ship_name": "Medicare Information Office",
+   "ship_phone": "1-800-478-6065",
+   "ship_note": null,
+   "ship_url": "https://health.alaska.gov/en/senior-and-disabilities-services/medicare-office/",
+   "medigap_note": null
+  },
+  "arizona": {
+   "state": "Arizona",
+   "slug": "arizona",
+   "ship_name": "State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "1-800-432-4040",
+   "ship_note": null,
+   "ship_url": "https://des.az.gov/medicare-assistance",
+   "medigap_note": null
+  },
+  "arkansas": {
+   "state": "Arkansas",
+   "slug": "arkansas",
+   "ship_name": "Arkansas Senior Health Insurance Information Program (SHIIP)",
+   "ship_phone": "1-800-224-6330",
+   "ship_note": null,
+   "ship_url": "https://insurance.arkansas.gov/consumer-services/senior-health/",
+   "medigap_note": null
+  },
+  "california": {
+   "state": "California",
+   "slug": "california",
+   "ship_name": "Health Insurance Counseling and Advocacy Program (HICAP)",
+   "ship_phone": "1-800-434-0222",
+   "ship_note": null,
+   "ship_url": "https://aging.ca.gov/Programs_and_Services/Medicare_Counseling/",
+   "medigap_note": null
+  },
+  "colorado": {
+   "state": "Colorado",
+   "slug": "colorado",
+   "ship_name": "Senior Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "1-888-696-7213",
+   "ship_note": null,
+   "ship_url": "https://doi.colorado.gov/insurance-products/health-insurance/senior-health-care-medicare",
+   "medigap_note": null
+  },
+  "connecticut": {
+   "state": "Connecticut",
+   "slug": "connecticut",
+   "ship_name": "CHOICES (Connecticut Health Insurance Assistance, Outreach, Information and Referral, Counseling, and Eligibility Screening)",
+   "ship_phone": "1-800-994-9422",
+   "ship_note": null,
+   "ship_url": "https://portal.ct.gov/ads/programs-and-services/choices",
+   "medigap_note": "Connecticut goes further than federal law: Medigap insurers here must sell you a policy year-round, regardless of your health. You are not limited to the 6-month window at 65 \u2014 if you missed it, you can still buy a policy here without medical underwriting."
+  },
+  "delaware": {
+   "state": "Delaware",
+   "slug": "delaware",
+   "ship_name": "Delaware Medicare Assistance Bureau (DMAB)",
+   "ship_phone": "1-800-336-9500",
+   "ship_note": null,
+   "ship_url": "https://insurance.delaware.gov/divisions/dmab/",
+   "medigap_note": null
+  },
+  "florida": {
+   "state": "Florida",
+   "slug": "florida",
+   "ship_name": "SHINE (Serving Health Insurance Needs of Elders)",
+   "ship_phone": "1-800-963-5337",
+   "ship_note": "That number is Florida's statewide Elder Helpline \u2014 ask for SHINE Medicare counseling when you call.",
+   "ship_url": "https://www.floridashine.org/Home.aspx",
+   "medigap_note": null
+  },
+  "georgia": {
+   "state": "Georgia",
+   "slug": "georgia",
+   "ship_name": "Georgia SHIP",
+   "ship_phone": "1-866-552-4464",
+   "ship_note": "When you call, choose option 4 to reach a certified Georgia SHIP counselor.",
+   "ship_url": "https://aging.georgia.gov/georgia-ship",
+   "medigap_note": null
+  },
+  "hawaii": {
+   "state": "Hawaii",
+   "slug": "hawaii",
+   "ship_name": "Hawaii State Health Insurance Assistance Program (Hawaii SHIP)",
+   "ship_phone": "1-888-875-9229",
+   "ship_note": null,
+   "ship_url": "https://health.hawaii.gov/eoa/home/hawaiiship/",
+   "medigap_note": null
+  },
+  "idaho": {
+   "state": "Idaho",
+   "slug": "idaho",
+   "ship_name": "Senior Health Insurance Benefits Advisors (SHIBA)",
+   "ship_phone": "1-800-247-4422",
+   "ship_note": null,
+   "ship_url": "https://doi.idaho.gov/shiba/",
+   "medigap_note": null
+  },
+  "illinois": {
+   "state": "Illinois",
+   "slug": "illinois",
+   "ship_name": "Senior Health Insurance Program (SHIP)",
+   "ship_phone": "1-800-252-8966",
+   "ship_note": null,
+   "ship_url": "https://ilaging.illinois.gov/ship.html",
+   "medigap_note": null
+  },
+  "indiana": {
+   "state": "Indiana",
+   "slug": "indiana",
+   "ship_name": "State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "1-800-452-4800",
+   "ship_note": null,
+   "ship_url": "http://www.in.gov/ship/",
+   "medigap_note": null
+  },
+  "iowa": {
+   "state": "Iowa",
+   "slug": "iowa",
+   "ship_name": "Senior Health Insurance Information Program (SHIIP)",
+   "ship_phone": "1-800-351-4664",
+   "ship_note": null,
+   "ship_url": "https://shiip.iowa.gov/",
+   "medigap_note": null
+  },
+  "kansas": {
+   "state": "Kansas",
+   "slug": "kansas",
+   "ship_name": "Senior Health Insurance Counseling for Kansas (SHICK)",
+   "ship_phone": "1-800-860-5260",
+   "ship_note": null,
+   "ship_url": "https://www.kdads.ks.gov/services-programs/aging/senior-health-insurance-counseling-for-kansas-shick",
+   "medigap_note": null
+  },
+  "kentucky": {
+   "state": "Kentucky",
+   "slug": "kentucky",
+   "ship_name": "Kentucky State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "1-877-293-7447",
+   "ship_note": null,
+   "ship_url": "https://www.chfs.ky.gov/agencies/dail/Pages/ship.aspx",
+   "medigap_note": null
+  },
+  "louisiana": {
+   "state": "Louisiana",
+   "slug": "louisiana",
+   "ship_name": "Louisiana Senior Health Information Program (LaSHIP)",
+   "ship_phone": "1-800-259-5300",
+   "ship_note": null,
+   "ship_url": "https://www.ldi.la.gov/consumers/senior-health-shiip",
+   "medigap_note": null
+  },
+  "maine": {
+   "state": "Maine",
+   "slug": "maine",
+   "ship_name": "Maine State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": null,
+   "ship_note": "It routes callers to local Area Agency on Aging counselors, so use the program page below to find your local counselor.",
+   "ship_url": "https://www.maine.gov/dhhs/oads/get-support/older-adults-disabilities/older-adult-services/ship-medicare-assistance",
+   "medigap_note": "Maine gives extra protection beyond the federal 6-month window: you can generally switch to a Medigap plan with equal or lesser benefits at any time if you have not had a gap in coverage longer than 90 days, and insurers must offer Plan A without underwriting during a one-month window each year. Ask your SHIP counselor for the current window dates."
+  },
+  "maryland": {
+   "state": "Maryland",
+   "slug": "maryland",
+   "ship_name": "State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "1-800-243-3425",
+   "ship_note": null,
+   "ship_url": "https://aging.maryland.gov/Pages/state-health-insurance-program.aspx",
+   "medigap_note": null
+  },
+  "massachusetts": {
+   "state": "Massachusetts",
+   "slug": "massachusetts",
+   "ship_name": "SHINE Program (Serving the Health Insurance Needs of Everyone)",
+   "ship_phone": "1-800-243-4636",
+   "ship_note": null,
+   "ship_url": "https://www.mass.gov/shine-program",
+   "medigap_note": "Massachusetts does not use the lettered Medigap plans (A through N). It uses its own standardized plans: Core, Supplement 1, and Supplement 1A (for people who became eligible for Medicare on or after January 1, 2020). Massachusetts also gives an annual guaranteed-issue window from February 1 to March 31 each year, when insurers must sell you a policy regardless of your health."
+  },
+  "michigan": {
+   "state": "Michigan",
+   "slug": "michigan",
+   "ship_name": "Michigan State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "1-800-803-7174",
+   "ship_note": null,
+   "ship_url": "https://www.michigan.gov/mdhhs/adult-child-serv/adults-and-seniors/acls/state-health-insurance-assistance-program",
+   "medigap_note": null
+  },
+  "minnesota": {
+   "state": "Minnesota",
+   "slug": "minnesota",
+   "ship_name": "Minnesota Aging Pathways",
+   "ship_phone": "800-333-2433",
+   "ship_note": "It is the new name for the Senior LinkAge Line, and it is Minnesota's federally designated SHIP.",
+   "ship_url": "https://mn.gov/board-on-aging/direct-services/aging-pathways/",
+   "medigap_note": "Minnesota does not use the lettered Medigap plans (A through N). It uses its own standardized plans: Basic and Extended Basic, plus state versions of Plans K, L, M, and N. Ask your SHIP counselor to walk through the Minnesota plans before you compare prices \u2014 a letter from another state will not match."
+  },
+  "mississippi": {
+   "state": "Mississippi",
+   "slug": "mississippi",
+   "ship_name": "State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "1-844-822-4622",
+   "ship_note": null,
+   "ship_url": "https://www.mdhs.ms.gov/aging/finding-services-for-older-adults/",
+   "medigap_note": null
+  },
+  "missouri": {
+   "state": "Missouri",
+   "slug": "missouri",
+   "ship_name": "Missouri SHIP",
+   "ship_phone": "800-390-3330",
+   "ship_note": null,
+   "ship_url": "https://www.missouriship.org/",
+   "medigap_note": null
+  },
+  "montana": {
+   "state": "Montana",
+   "slug": "montana",
+   "ship_name": "Montana State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "1-800-551-3191",
+   "ship_note": null,
+   "ship_url": "https://dphhs.mt.gov/sltc/aging/ship",
+   "medigap_note": null
+  },
+  "nebraska": {
+   "state": "Nebraska",
+   "slug": "nebraska",
+   "ship_name": "Nebraska SHIP & SMP",
+   "ship_phone": "1-800-234-7119",
+   "ship_note": null,
+   "ship_url": "https://doi.nebraska.gov/ship-smp",
+   "medigap_note": null
+  },
+  "nevada": {
+   "state": "Nevada",
+   "slug": "nevada",
+   "ship_name": "Nevada Medicare Assistance Program (MAP)",
+   "ship_phone": "800-307-4444",
+   "ship_note": null,
+   "ship_url": "https://www.adsd.nv.gov/programs/aging-services-medicare-assistance-program/",
+   "medigap_note": null
+  },
+  "new-hampshire": {
+   "state": "New Hampshire",
+   "slug": "new-hampshire",
+   "ship_name": "New Hampshire SHIP through ServiceLink / Aging & Disability Resource Centers (ADRC)",
+   "ship_phone": "1-866-634-9412",
+   "ship_note": null,
+   "ship_url": "https://www.dhhs.nh.gov/programs-services/adult-aging-care/aging-and-disability-resource-centers/aging-disability-6",
+   "medigap_note": null
+  },
+  "new-jersey": {
+   "state": "New Jersey",
+   "slug": "new-jersey",
+   "ship_name": "State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "1-800-792-8820",
+   "ship_note": null,
+   "ship_url": "https://www.nj.gov/humanservices/doas/services/q-z/ship/index.shtml",
+   "medigap_note": null
+  },
+  "new-mexico": {
+   "state": "New Mexico",
+   "slug": "new-mexico",
+   "ship_name": "State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "800-432-2080",
+   "ship_note": null,
+   "ship_url": "https://aging.nm.gov/consumer-elder-rights/aging-disability-resource-center-adrc/medicare",
+   "medigap_note": null
+  },
+  "new-york": {
+   "state": "New York",
+   "slug": "new-york",
+   "ship_name": "Health Insurance Information Counseling and Assistance Program (HIICAP)",
+   "ship_phone": "1-800-701-0501",
+   "ship_note": null,
+   "ship_url": "https://aging.ny.gov/health-insurance-information-counseling-and-assistance-program-hiicap",
+   "medigap_note": "New York goes further than federal law: Medigap insurers here must sell you a policy year-round, regardless of your health. You are not limited to the 6-month window at 65 \u2014 if you missed it, you can still buy a policy here without medical underwriting."
+  },
+  "north-carolina": {
+   "state": "North Carolina",
+   "slug": "north-carolina",
+   "ship_name": "Seniors' Health Insurance Information Program (SHIIP)",
+   "ship_phone": "1-855-408-1212",
+   "ship_note": null,
+   "ship_url": "https://www.ncdoi.gov/consumers/medicare-and-seniors-health-insurance-information-program-shiip/contact-seniors-health-insurance-information-program-shiip",
+   "medigap_note": null
+  },
+  "north-dakota": {
+   "state": "North Dakota",
+   "slug": "north-dakota",
+   "ship_name": "State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "1-888-575-6611",
+   "ship_note": null,
+   "ship_url": "https://www.insurance.nd.gov/consumers/medicare-assistance",
+   "medigap_note": null
+  },
+  "ohio": {
+   "state": "Ohio",
+   "slug": "ohio",
+   "ship_name": "Ohio Senior Health Insurance Information Program (OSHIIP)",
+   "ship_phone": "800-686-1578",
+   "ship_note": null,
+   "ship_url": "https://insurance.ohio.gov/consumers/medicare/01-oshiip",
+   "medigap_note": null
+  },
+  "oklahoma": {
+   "state": "Oklahoma",
+   "slug": "oklahoma",
+   "ship_name": "Medicare Assistance Program (MAP)",
+   "ship_phone": "800-763-2828",
+   "ship_note": null,
+   "ship_url": "https://www.oid.ok.gov/edna/",
+   "medigap_note": null
+  },
+  "oregon": {
+   "state": "Oregon",
+   "slug": "oregon",
+   "ship_name": "Senior Health Insurance Benefits Assistance (SHIBA)",
+   "ship_phone": "800-722-4134",
+   "ship_note": null,
+   "ship_url": "https://shiba.oregon.gov",
+   "medigap_note": null
+  },
+  "pennsylvania": {
+   "state": "Pennsylvania",
+   "slug": "pennsylvania",
+   "ship_name": "Pennsylvania Medicare Education and Decision Insight (PA MEDI)",
+   "ship_phone": "1-800-783-7067",
+   "ship_note": null,
+   "ship_url": "https://www.pa.gov/agencies/aging/aging-programs-and-services/pa-medi-medicare-counseling",
+   "medigap_note": null
+  },
+  "rhode-island": {
+   "state": "Rhode Island",
+   "slug": "rhode-island",
+   "ship_name": "Rhode Island State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "1-888-884-8721",
+   "ship_note": null,
+   "ship_url": "https://oha.ri.gov/resources/health-insurance-health-care-cost-assistance/medicare-counseling",
+   "medigap_note": null
+  },
+  "south-carolina": {
+   "state": "South Carolina",
+   "slug": "south-carolina",
+   "ship_name": "Insurance Counseling Assistance and Referrals for Elders (I-CARE) \u2014 State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "1-800-868-9095",
+   "ship_note": null,
+   "ship_url": "https://aging.sc.gov/programs-and-initiatives",
+   "medigap_note": null
+  },
+  "south-dakota": {
+   "state": "South Dakota",
+   "slug": "south-dakota",
+   "ship_name": "Senior Health Information and Insurance Education (SHIINE)",
+   "ship_phone": "888-854-5321",
+   "ship_note": null,
+   "ship_url": "https://dhs.sd.gov/en/ltss/shiine",
+   "medigap_note": null
+  },
+  "tennessee": {
+   "state": "Tennessee",
+   "slug": "tennessee",
+   "ship_name": "Tennessee State Health Insurance Assistance Program (TN SHIP)",
+   "ship_phone": "1-877-801-0044",
+   "ship_note": null,
+   "ship_url": "https://www.tn.gov/disability-and-aging/disability-aging-programs/tn-ship.html",
+   "medigap_note": null
+  },
+  "texas": {
+   "state": "Texas",
+   "slug": "texas",
+   "ship_name": "Texas Health Information, Counseling and Advocacy Program (HICAP)",
+   "ship_phone": "800-252-9240",
+   "ship_note": "HICAP counseling is reached through the statewide Area Agency on Aging line \u2014 ask for HICAP when you call.",
+   "ship_url": "https://www.hhs.texas.gov/services/health",
+   "medigap_note": null
+  },
+  "utah": {
+   "state": "Utah",
+   "slug": "utah",
+   "ship_name": "Senior Health Insurance Program (SHIP)",
+   "ship_phone": "801-538-3910",
+   "ship_note": "That number reaches the Utah Division of Aging and Adult Services, which provides the state's SHIP Medicare assistance.",
+   "ship_url": "https://insurance.utah.gov/consumers/seniors/",
+   "medigap_note": null
+  },
+  "vermont": {
+   "state": "Vermont",
+   "slug": "vermont",
+   "ship_name": "State Health Insurance Program (SHIP)",
+   "ship_phone": "800-642-5119",
+   "ship_note": null,
+   "ship_url": "https://asd.vermont.gov/services/ship",
+   "medigap_note": null
+  },
+  "virginia": {
+   "state": "Virginia",
+   "slug": "virginia",
+   "ship_name": "Virginia Insurance Counseling and Assistance Program (VICAP)",
+   "ship_phone": "1-800-552-3402",
+   "ship_note": null,
+   "ship_url": "https://dars.virginia.gov/benefits/",
+   "medigap_note": null
+  },
+  "washington": {
+   "state": "Washington",
+   "slug": "washington",
+   "ship_name": "Statewide Health Insurance Benefits Advisors (SHIBA)",
+   "ship_phone": "800-562-6900",
+   "ship_note": null,
+   "ship_url": "https://www.insurance.wa.gov/insurance-resources/medicare/get-free-medicare-help-shiba",
+   "medigap_note": null
+  },
+  "west-virginia": {
+   "state": "West Virginia",
+   "slug": "west-virginia",
+   "ship_name": "West Virginia State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "1-877-987-4463",
+   "ship_note": null,
+   "ship_url": "http://www.wvseniorservices.gov/ship/",
+   "medigap_note": null
+  },
+  "wisconsin": {
+   "state": "Wisconsin",
+   "slug": "wisconsin",
+   "ship_name": "State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "800-242-1060",
+   "ship_note": null,
+   "ship_url": "https://www.dhs.wisconsin.gov/benefit-specialists/medicare-counseling.htm",
+   "medigap_note": "Wisconsin does not use the lettered Medigap plans (A through N). It uses its own standardized basic plan, and you add optional riders \u2014 for example, for the Part A deductible or Part B copayments \u2014 to build the coverage you want. Ask your SHIP counselor which riders are worth it for you."
+  },
+  "wyoming": {
+   "state": "Wyoming",
+   "slug": "wyoming",
+   "ship_name": "Wyoming State Health Insurance Information Program (WSHIIP)",
+   "ship_phone": "1-800-856-4398",
+   "ship_note": null,
+   "ship_url": "https://www.wyomingseniors.com/services/wyoming-state-health-insurance-information-program",
+   "medigap_note": null
+  }
+ }
+}
