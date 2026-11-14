@@ -1,0 +1,1958 @@
+[
+  {
+    "state": "Alabama",
+    "slug": "alabama",
+    "agency": "Alabama Department of Human Resources (DHR), Child Care Services Division, Office of Child Care Licensing",
+    "agency_url": "https://dhr.alabama.gov/group/child_care_services_faq/",
+    "license_types": "Child care centers (13 or more children), family day care homes, group day care homes, and nighttime centers/homes; licenses renewed every two years.",
+    "how_to_get_licensed": "Apply to DHR Child Care Services, complete orientation and training, pass background checks and inspections, and meet the Minimum Standards for Child Care Facilities before a license is issued.",
+    "ratios": null,
+    "ratios_source_url": null,
+    "background_checks": "All applicants, staff, employees and volunteers with unsupervised access must pass fingerprint-based FBI and state criminal history checks, NCIC National Sex Offender Registry and state sex offender checks, and clearance from the Alabama Central Registry on Child Abuse and Neglect.",
+    "insurance": null,
+    "complaint_process": "Serious complaints that cannot be resolved with the caregiver should be reported to the local county DHR office; DHR investigates concerns about licensed providers.",
+    "complaint_url": "https://dhr.alabama.gov/group/cc_parents_guide_faq/",
+    "complaint_phone": "(334) 242-1425",
+    "parent_lookup_url": null,
+    "inspection_history_url": null,
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Alaska",
+    "slug": "alaska",
+    "agency": "Alaska Department of Health, Child Care Program Office (CCPO), Division of Public Assistance",
+    "agency_url": "https://health.alaska.gov/en/division-of-public-assistance/child-care-program-office/",
+    "license_types": "Licensed child care homes (up to 8 children), group homes (9-12 children), and centers (13 or more children); care for 4 or fewer unrelated children does not require a license.",
+    "how_to_get_licensed": "Apply for a provisional license through the Alaska Child Care Information System (AKCCIS), complete background checks and training, and pass a pre-service health and safety inspection within 90 days of a complete application.",
+    "ratios": [
+      {
+        "group": "Infants (birth through 18 months)",
+        "ratio": "1:5"
+      },
+      {
+        "group": "Toddlers (19 months up to 36 months)",
+        "ratio": "1:6"
+      },
+      {
+        "group": "Preschool (3 and 4 years)",
+        "ratio": "1:10"
+      },
+      {
+        "group": "Kindergarten (5 and 6 years)",
+        "ratio": "1:14"
+      },
+      {
+        "group": "School age (7 through 12 years)",
+        "ratio": "1:18"
+      }
+    ],
+    "ratios_source_url": "https://health.alaska.gov/media/qxto12xo/cc61-parents-guide-to-licensed-care-teddy-bear-letter.pdf",
+    "background_checks": "All staff and household members age 16 and older must have a valid criminal history check through the Alaska Background Check Program, including fingerprints, before having contact with children.",
+    "insurance": null,
+    "complaint_process": "Complaints about a licensed program can be submitted online through AKCCIS, and CCPO licensing staff investigate reports of concern and complaints about licensed facilities.",
+    "complaint_url": "https://health.alaska.gov/en/division-of-public-assistance/child-care-program-office/",
+    "complaint_phone": "1-888-268-4632",
+    "parent_lookup_url": null,
+    "inspection_history_url": null,
+    "parent_disclosure": "Providers must keep on file each child's immunization records or approved exemption, emergency information, and a behavior guidance plan where needed.",
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Arizona",
+    "slug": "arizona",
+    "agency": "Arizona Department of Health Services (ADHS), Bureau of Child Care Licensing",
+    "agency_url": "https://www.azdhs.gov/licensing/index.php",
+    "license_types": "Licensed child care centers (5 or more children) and ADHS-certified child care group homes (5-10 children); DES certifies family child care providers for child care assistance.",
+    "how_to_get_licensed": "Apply online through the ADHS Child Care Licensing Management System, complete fingerprint background checks, obtain local approvals, and pass a pre-licensing inspection; ADHS has up to 120 days to decide.",
+    "ratios": null,
+    "ratios_source_url": null,
+    "background_checks": null,
+    "insurance": null,
+    "complaint_process": "Complaints must be filed in writing by mail, delivery, fax, email or the online complaint form; ADHS assigns a surveyor to investigate, which may include observation, record review and interviews.",
+    "complaint_url": "https://app3.azdhs.gov/PROD-AZHSComplaint-UI/Complaint/GetFAQ?bureau=ChildCareLicensing&subbureau=CcChildCareCenters",
+    "complaint_phone": "602-364-2539",
+    "parent_lookup_url": "https://www.azcarecheck.com",
+    "inspection_history_url": "https://www.azcarecheck.com",
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Arkansas",
+    "slug": "arkansas",
+    "agency": "Arkansas Department of Education, Office of Early Childhood (OEC), Child Care Licensing Unit",
+    "agency_url": "https://dese.ade.arkansas.gov/Offices/office-of-early-childhood/contact-oec",
+    "license_types": "Child care centers (6 or more children from more than one family), licensed family child care homes (6-16 children), registered family homes (5 or fewer children), and out-of-school-time facilities.",
+    "how_to_get_licensed": "Contact a licensing specialist, complete pre-licensing training and background checks, obtain fire, health and zoning approvals, apply through eLicensing, and pass inspection before accepting children.",
+    "ratios": [
+      {
+        "group": "Birth to 18 months",
+        "ratio": "1:5"
+      },
+      {
+        "group": "18 to 36 months",
+        "ratio": "1:8"
+      },
+      {
+        "group": "2.5 to 3 years",
+        "ratio": "1:12"
+      },
+      {
+        "group": "4 years",
+        "ratio": "1:15"
+      },
+      {
+        "group": "5 years to kindergarten",
+        "ratio": "1:18"
+      },
+      {
+        "group": "Kindergarten and above",
+        "ratio": "1:18"
+      }
+    ],
+    "ratios_source_url": "https://webftp.blr.arkansas.gov/Home/FTPDocument?path=Assembly%2F%2FMeeting+Attachments%2F040%2F3557%2FD.17.a+DHS+DCCECE+Min+Lic+Reqts+%28Child+Care+Ctrs%2C+Lic+Child+Care+Fam+Homes%2C+Out-of-School+Time+Fclties%2C+and+Regis+Child+Care+Fam+Homes%29.pdf",
+    "background_checks": null,
+    "insurance": "Registered family homes must maintain childcare liability insurance, with a minimum of $100,000 per occurrence for a registered capacity of 1-5 children.",
+    "complaint_process": "Complaints related to child care facilities can be submitted to the Office of Early Childhood, which inspects and evaluates licensed and registered facilities.",
+    "complaint_url": "https://dese.ade.arkansas.gov/Offices/office-of-early-childhood/contact-oec",
+    "complaint_phone": "501-682-8590",
+    "parent_lookup_url": null,
+    "inspection_history_url": null,
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "California",
+    "slug": "california",
+    "agency": "California Department of Social Services (CDSS), Community Care Licensing Division (CCLD)",
+    "agency_url": "https://cdss.ca.gov/inforesources/child-care-licensing/resources-for-parents",
+    "license_types": "Child care centers and family child care homes, split into small family child care homes (up to 8 children) and large family child care homes (up to 14 children, with an assistant).",
+    "how_to_get_licensed": "Apply to CDSS Community Care Licensing under Title 22, meet facility, staffing and health and safety standards, complete background checks, and pass a licensing inspection before opening.",
+    "ratios": [
+      {
+        "group": "Infants (birth to 2 years)",
+        "ratio": "1:4"
+      },
+      {
+        "group": "Preschool (2 to 6 years)",
+        "ratio": "1:12"
+      }
+    ],
+    "ratios_source_url": null,
+    "background_checks": null,
+    "insurance": null,
+    "complaint_process": "Try to resolve minor concerns with the provider first; if the provider is breaking licensing laws, file a complaint by phone or online, and the local licensing office will make an unannounced visit to investigate within 10 days.",
+    "complaint_url": "https://cdss.ca.gov/inforesources/child-care-licensing/resources-for-parents",
+    "complaint_phone": "1-844-538-8766",
+    "parent_lookup_url": null,
+    "inspection_history_url": null,
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Colorado",
+    "slug": "colorado",
+    "agency": "Colorado Department of Early Childhood (CDEC), Division of Early Learning Licensing and Administration (DELLA)",
+    "agency_url": "https://cdec.colorado.gov/for-providers/child-care-licensing-and-administration",
+    "license_types": "Family child care homes (up to 6 children, and large family homes up to 12) and non-home child care facilities, including child care centers and school-age programs.",
+    "how_to_get_licensed": "Create an account in the CDEC Provider Hub, complete orientation and training, complete background checks, and submit the application and fee at least 60 days before opening; the process can take up to 90 days including inspection.",
+    "ratios": [
+      {
+        "group": "6 weeks to 18 months (infants)",
+        "ratio": "1:5"
+      },
+      {
+        "group": "12 months to 36 months (toddlers)",
+        "ratio": "1:5"
+      },
+      {
+        "group": "24 months to 36 months (toddlers)",
+        "ratio": "1:7"
+      },
+      {
+        "group": "2.5 years to 3 years",
+        "ratio": "1:8"
+      },
+      {
+        "group": "3 years to 4 years",
+        "ratio": "1:10"
+      },
+      {
+        "group": "4 years to 5 years",
+        "ratio": "1:12"
+      },
+      {
+        "group": "5 years and older",
+        "ratio": "1:15"
+      }
+    ],
+    "ratios_source_url": "https://sos.state.co.us/CCR/GenerateRulePdf.do?fileName=8%20CCR%201402-1&ruleVersionId=11208",
+    "background_checks": "Two background check processes are required to become licensed or to work or volunteer in a child care facility: a criminal background check and a child abuse and neglect background check.",
+    "insurance": null,
+    "complaint_process": null,
+    "complaint_url": null,
+    "complaint_phone": null,
+    "parent_lookup_url": null,
+    "inspection_history_url": null,
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Connecticut",
+    "slug": "connecticut",
+    "agency": "Connecticut Office of Early Childhood (OEC), Division of Licensing",
+    "agency_url": "https://www.ctoec.org/licensing/child-care-centers-group-child-care-homes/apply/",
+    "license_types": "Child care centers (more than 12 children outside their homes), group child care homes, and family child care homes; youth camps are also licensed by OEC.",
+    "how_to_get_licensed": "Submit a complete application packet and fee to the OEC Division of Licensing at least 60 days before opening, with floor plans, proof of liability insurance, staff qualifications and background checks, then pass inspection.",
+    "ratios": [
+      {
+        "group": "Under 3 (6 weeks to 24 months)",
+        "ratio": "1:4"
+      },
+      {
+        "group": "24 to 36 months",
+        "ratio": "1:5"
+      },
+      {
+        "group": "Preschool and school-age",
+        "ratio": "1:10"
+      }
+    ],
+    "ratios_source_url": "https://elicense.ct.gov/Lookup/ViewPublicLookupDocument.aspx?DocumentIdnt=4613898&GUID=44E0ED4F-C5CE-4B9D-B31E-F0F13A28E139",
+    "background_checks": null,
+    "insurance": null,
+    "complaint_process": "OEC conducts unannounced inspections at least once a year and investigates complaints; concerns can be reported online or to the Licensing Division Complaint Desk.",
+    "complaint_url": null,
+    "complaint_phone": "800-282-6063",
+    "parent_lookup_url": null,
+    "inspection_history_url": null,
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Delaware",
+    "slug": "delaware",
+    "agency": "Delaware Department of Education, Office of Child Care Licensing (OCCL)",
+    "agency_url": "https://education.delaware.gov/families/birth-age-5/occl/start_a_child_care_business/",
+    "license_types": "Early care and education and school-age centers (13 or more children), family child care homes (up to 9 children), and large family child care homes.",
+    "how_to_get_licensed": "Attend OCCL initial training on the licensing process and DELACARE regulations, then apply to OCCL; OCCL provides applications, fingerprinting, criminal history reviews and licenses free of charge.",
+    "ratios": [
+      {
+        "group": "Infant (under 12 months)",
+        "ratio": "1:4"
+      },
+      {
+        "group": "Young toddler (12 through 23 months)",
+        "ratio": "1:6"
+      },
+      {
+        "group": "Older toddler (24 through 35 months)",
+        "ratio": "1:8"
+      },
+      {
+        "group": "Young preschool (36 through 47 months)",
+        "ratio": "1:10"
+      },
+      {
+        "group": "Older preschool (48 months or older, not yet in kindergarten)",
+        "ratio": "1:12"
+      },
+      {
+        "group": "School-age (attending kindergarten or higher)",
+        "ratio": "1:15"
+      }
+    ],
+    "ratios_source_url": "https://education.delaware.gov/wp-content/uploads/2021/05/occl_DPH-Guidance_210513.pdf",
+    "background_checks": "All staff, substitutes and volunteers must complete a comprehensive background check, including fingerprinting and a State Bureau of Identification criminal history check, on hire and every 5 years.",
+    "insurance": null,
+    "complaint_process": "OCCL investigates complaints about possible violations of DELACARE licensing rules; complaints may be written or oral and may be anonymous, and facilities are reviewed annually and when a complaint is reported.",
+    "complaint_url": "https://education.delaware.gov/families/birth-age-5/occl/make_a_complaint/",
+    "complaint_phone": "302-892-5800 (New Castle County); 302-739-5487 (Kent and Sussex counties)",
+    "parent_lookup_url": "https://education.delaware.gov/families/birth-age-5/occl/search_for_licensed_child_care/",
+    "inspection_history_url": "https://education.delaware.gov/families/birth-age-5/occl/search_for_licensed_child_care/",
+    "parent_disclosure": "Parents are entitled to inspect the active record and complaint files of any licensed child care facility, and providers must give parents a Parents Right to Know notice stating this.",
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Florida",
+    "slug": "florida",
+    "agency": "Florida Department of Children and Families (DCF), Office of Child Care Regulation",
+    "agency_url": "https://prod.myflfamilies.com/services/child-family/child-care",
+    "license_types": "Licensed child care facilities (centers), licensed family day care homes, licensed large family child care homes, and registered family day care homes.",
+    "how_to_get_licensed": "Meet the licensing standards in Florida Statutes 402.301-402.319 and Florida Administrative Code 65C-22 and the Child Care Facility Handbook, complete required training and background screening, and pass inspection by DCF or the local licensing agency.",
+    "ratios": [
+      {
+        "group": "Infants (under 1 year)",
+        "ratio": "1:4"
+      },
+      {
+        "group": "1 year olds",
+        "ratio": "1:6"
+      },
+      {
+        "group": "2 year olds",
+        "ratio": "1:11"
+      },
+      {
+        "group": "3 year olds",
+        "ratio": "1:15"
+      },
+      {
+        "group": "4 year olds",
+        "ratio": "1:20"
+      },
+      {
+        "group": "5 years and older",
+        "ratio": "1:25"
+      }
+    ],
+    "ratios_source_url": "https://development.myflfamilies.com/external/services/child-family/child-care/child-care-resources-families/choosing-child-care-provider/",
+    "background_checks": "Child care personnel must pass Level 2 background screening, which requires fingerprinting for statewide criminal history checks through FDLE and national checks through the FBI, processed through the Care Provider Background Screening Clearinghouse.",
+    "insurance": null,
+    "complaint_process": "For abuse or neglect, call the Florida Abuse Hotline; for other concerns about a child care provider, file a complaint online or contact the local child care licensing agency.",
+    "complaint_url": "https://www.myflfamilies.com/services/child-family/child-care-resources/file-child-care-provider-complaint",
+    "complaint_phone": null,
+    "parent_lookup_url": "https://development.myflfamilies.com/external/services/child-family/child-care/child-care-resources-families/",
+    "inspection_history_url": "https://development.myflfamilies.com/external/services/child-family/child-care/child-care-resources-families/",
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Georgia",
+    "slug": "georgia",
+    "agency": "Bright from the Start: Georgia Department of Early Care and Learning (DECAL), Child Care Services",
+    "agency_url": "https://www.decal.ga.gov/",
+    "license_types": "Child Care Learning Centers (7 or more children under 18) and Family Child Care Learning Homes (up to 6 children, with additional capacity rules).",
+    "how_to_get_licensed": "Complete the online licensing application through DECAL KOALA, complete pre-service training, pass background checks and fire and health inspections, and pay the license fee at the initial licensing visit.",
+    "ratios": [
+      {
+        "group": "Infants (under 1 year)",
+        "ratio": "1:6"
+      },
+      {
+        "group": "One-year-olds (walking)",
+        "ratio": "1:8"
+      },
+      {
+        "group": "Two-year-olds",
+        "ratio": "1:10"
+      },
+      {
+        "group": "Three-year-olds",
+        "ratio": "1:15"
+      },
+      {
+        "group": "Four-year-olds",
+        "ratio": "1:18"
+      },
+      {
+        "group": "Five-year-olds",
+        "ratio": "1:20"
+      },
+      {
+        "group": "School-age (6 years and older)",
+        "ratio": "1:25"
+      }
+    ],
+    "ratios_source_url": "https://www.decal.ga.gov/documents/attachments/ChangeOwnershipApplicantsGuide.pdf",
+    "background_checks": "All directors, employees and residents age 17 or older of licensed centers and family homes must have a comprehensive background check, including fingerprint-based FBI and Georgia checks and sex offender registry searches.",
+    "insurance": null,
+    "complaint_process": "Parents may call the published Child Care Services number or email DECAL; an intake consultant determines whether there are potential rule violations, and if so the complaint is assigned for investigation. DECAL monitors every licensed program annually.",
+    "complaint_url": null,
+    "complaint_phone": "1-888-442-7735",
+    "parent_lookup_url": "https://families.decal.ga.gov/",
+    "inspection_history_url": null,
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Hawaii",
+    "slug": "hawaii",
+    "agency": "Hawaii Department of Human Services, Benefit, Employment & Support Services Division, Child Care Licensing Program",
+    "agency_url": "https://humanservices.hawaii.gov/bessd/child-care-program/child-care-licensing/",
+    "license_types": "Registered Family Child Care Homes and licensed Group Child Care Centers and Group Child Care Homes, Infant & Toddler Child Care Centers, and Before & After School Child Care Facilities.",
+    "how_to_get_licensed": "Submit the DHS application with background and child abuse/neglect checks, references and physical/TB clearance, then a licensing worker inspects the home or facility before a license is issued.",
+    "ratios": [
+      {
+        "group": "Infants 6 weeks-12 months (infant/toddler center)",
+        "ratio": "1:4"
+      },
+      {
+        "group": "12-24 months",
+        "ratio": "1:5"
+      },
+      {
+        "group": "18-36 months",
+        "ratio": "1:6"
+      },
+      {
+        "group": "2 years",
+        "ratio": "1:8"
+      },
+      {
+        "group": "3 years",
+        "ratio": "1:12"
+      },
+      {
+        "group": "4 years",
+        "ratio": "1:16"
+      },
+      {
+        "group": "5 years and older",
+        "ratio": "1:20"
+      }
+    ],
+    "ratios_source_url": "https://humanservices.hawaii.gov/bessd/child-care-program/child-care-licensing/child-care-regulations/",
+    "background_checks": "Applicants and all staff must pass child abuse/neglect history and criminal history checks (DHS 948) and employment history clearance, and must consent to DHS background checks before working on site.",
+    "insurance": null,
+    "complaint_process": "Report a concern to the appropriate DHS child care licensing unit, which decides whether an investigation is warranted and, if so, conducts an unannounced visit; suspected abuse or neglect goes to the Child Abuse/Neglect Hotline.",
+    "complaint_url": "https://humanservices.hawaii.gov/bessd/child-care-program/child-care-licensing/reporting-child-care-complaints-and-investigations/",
+    "complaint_phone": null,
+    "parent_lookup_url": "https://www.childcareprovidersearch.dhs.hawaii.gov",
+    "inspection_history_url": null,
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Idaho",
+    "slug": "idaho",
+    "agency": "Idaho Department of Health and Welfare, Daycare Licensing Program (applications processed by IdahoSTARS)",
+    "agency_url": "https://idahostars.org/Child-Care-Providers/Child-Care-Licensing",
+    "license_types": "Family daycare home (6 or fewer children, voluntary license), group daycare facility (7-12 children), and daycare center (13 or more); a license is required at 7 or more children for pay.",
+    "how_to_get_licensed": "Apply through IdahoSTARS, pass cleared enhanced background checks and pediatric CPR/first aid certification, and pass an annual health and safety inspection before opening.",
+    "ratios": [
+      {
+        "group": "Under 24 months (2 points per child, max 12 points per staff)",
+        "ratio": "1:6"
+      },
+      {
+        "group": "24-36 months (1.33 points per child)",
+        "ratio": "1:9"
+      },
+      {
+        "group": "36 months to under 5 years (0.923 points per child)",
+        "ratio": "1:13"
+      },
+      {
+        "group": "5 years to under 13 years (0.48 points per child)",
+        "ratio": "1:25"
+      }
+    ],
+    "ratios_source_url": "https://legislature.idaho.gov/wp-content/uploads/statutesrules/idstat/Title39/T39CH11.pdf",
+    "background_checks": "You, your staff, and any household members over age 13 must have a cleared enhanced background check through the DHW Background Check Unit, renewed at least every five years.",
+    "insurance": null,
+    "complaint_process": "File a complaint with DHW using the online child care complaint form, by phone, or by email; DHW investigates complaints quickly and fairly with local health districts.",
+    "complaint_url": "https://healthandwelfare.idaho.gov/services-programs/children-families-older-adults/file-child-care-complaint",
+    "complaint_phone": "1-800-926-2588",
+    "parent_lookup_url": "https://healthandwelfare.idaho.gov/services-programs/children-families/find-quality-child-care",
+    "inspection_history_url": "https://healthandwelfare.idaho.gov/services-programs/children-families/find-quality-child-care",
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Illinois",
+    "slug": "illinois",
+    "agency": "Illinois Department of Early Childhood (IDEC) — child care licensure transferred from the Illinois Department of Children and Family Services (DCFS) on July 1, 2026",
+    "agency_url": "https://dcfs.illinois.gov/for-families.html",
+    "license_types": "Day Care Home (up to 8 children), Group Day Care Home (9-16 children), and Day Care Center (3 or more children in a non-residential facility).",
+    "how_to_get_licensed": "Attend a licensing orientation, complete required training, background checks and medical reports, submit an application, and pass an inspection; a license is valid for three years.",
+    "ratios": [
+      {
+        "group": "Infants 6 weeks-14 months",
+        "ratio": "1:4"
+      },
+      {
+        "group": "Toddlers 15-23 months",
+        "ratio": "1:5"
+      },
+      {
+        "group": "2 years",
+        "ratio": "1:8"
+      },
+      {
+        "group": "3 years",
+        "ratio": "1:10"
+      },
+      {
+        "group": "4 years",
+        "ratio": "1:10"
+      },
+      {
+        "group": "5 years (preschool)",
+        "ratio": "1:20"
+      },
+      {
+        "group": "School-age (kindergartners present)",
+        "ratio": "1:20"
+      }
+    ],
+    "ratios_source_url": "https://dcfs.illinois.gov/content/dam/soi/en/web/dcfs/documents/about-us/policy-rules-and-forms/documents/cfs-1000/cfs-1050-52-summary-for-dcc.pdf",
+    "background_checks": "All adults living or working in the facility must pass fingerprint-based Illinois State Police and FBI criminal history checks, plus Child Abuse and Neglect Tracking System and Sex Offender Registry checks.",
+    "insurance": null,
+    "complaint_process": "Complain to the local DCFS licensing office or the Child Abuse Hotline stating it is a licensing complaint; a licensing representative investigates and reports the results, and substantiated violations are available through the Day Care Information Line.",
+    "complaint_url": "https://sunshine.dcfs.illinois.gov/content/Licensing/Daycare/FileComplaint.aspx",
+    "complaint_phone": "1-877-746-0829",
+    "parent_lookup_url": "https://sunshine.dcfs.illinois.gov/content/Licensing/Daycare/ProviderLookup.aspx",
+    "inspection_history_url": "https://sunshine.dcfs.illinois.gov/content/Licensing/Daycare/ProviderLookup.aspx",
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Indiana",
+    "slug": "indiana",
+    "agency": "Indiana Family and Social Services Administration (FSSA), Office of Early Childhood and Out-of-School Learning (OECOSL)",
+    "agency_url": "https://www.in.gov/fssa/carefinder/",
+    "license_types": "Licensed Child Care Centers, Licensed Child Care Homes Class I (up to 12 children) and Class II (up to 16 children), plus Unlicensed Registered Child Care Ministries and Legally Licensed Exempt programs.",
+    "how_to_get_licensed": "Complete orientation and apply online in I-LEAD, submit background-check consents, fingerprints, drug screening and training records, and pass an inspection.",
+    "ratios": [
+      {
+        "group": "Infants 6 weeks-12 months",
+        "ratio": "1:5"
+      },
+      {
+        "group": "Young toddlers 12-17 months",
+        "ratio": "1:5"
+      },
+      {
+        "group": "Older toddlers 18-23 months",
+        "ratio": "1:6"
+      },
+      {
+        "group": "2 years (24-29 months)",
+        "ratio": "1:8"
+      },
+      {
+        "group": "2.5 years (30-35 months)",
+        "ratio": "1:9"
+      },
+      {
+        "group": "3 years (36-47 months)",
+        "ratio": "1:11"
+      },
+      {
+        "group": "4 years (48-59 months)",
+        "ratio": "1:13"
+      },
+      {
+        "group": "5 years (60-71 months)",
+        "ratio": "1:17"
+      },
+      {
+        "group": "6 years and over",
+        "ratio": "1:20"
+      }
+    ],
+    "ratios_source_url": "https://www.in.gov/fssa/carefinder/files/Child-Staff-Ratios-Centers.pdf",
+    "background_checks": "All staff and volunteers must pass FBI and Indiana fingerprint checks, an Indiana Sex Offender Registry check, and a Child Protection Index check, plus drug testing before starting; fingerprints renew every 3 years and registry checks annually.",
+    "insurance": null,
+    "complaint_process": "A complaint inspection is an on-site investigation to determine whether an alleged violation of child care law or rules can be verified; substantiated complaints are posted on Child Care Finder.",
+    "complaint_url": "https://www.in.gov/fssa/carefinder/",
+    "complaint_phone": "1-877-511-1144",
+    "parent_lookup_url": "https://www.in.gov/fssa/carefinder/",
+    "inspection_history_url": "https://www.in.gov/fssa/carefinder/",
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Iowa",
+    "slug": "iowa",
+    "agency": "Iowa Department of Health and Human Services (HHS), Child Care Bureau",
+    "agency_url": "https://hhs.iowa.gov/programs/programs-and-services/child-care/child-care-providers",
+    "license_types": "Licensed Child Care Centers and Preschools, and Registered Child Development Homes Category A (up to 8 children), B (up to 12), and C (up to 16 with a co-provider); non-registered homes caring for 5 or fewer children need no license.",
+    "how_to_get_licensed": "Submit Form 470-4834 to the regional HHS child care licensing consultant with the fee and required documents, secure building and fire approval, and pass an on-site visit; HHS must decide within 120 days.",
+    "ratios": [
+      {
+        "group": "2 weeks to 2 years",
+        "ratio": "1:4"
+      },
+      {
+        "group": "2 years",
+        "ratio": "1:7"
+      },
+      {
+        "group": "3 years",
+        "ratio": "1:10"
+      },
+      {
+        "group": "4 years",
+        "ratio": "1:12"
+      },
+      {
+        "group": "5 years to 10 years",
+        "ratio": "1:15"
+      },
+      {
+        "group": "10 years and over",
+        "ratio": "1:20"
+      }
+    ],
+    "ratios_source_url": "https://www.legis.iowa.gov:443/docs/iac/rule/03-19-2025.441.109.8.pdf",
+    "background_checks": "All providers and staff must pass mandatory record checks, including criminal history, child abuse registry, and sex offender registry checks, and complete mandatory reporter training.",
+    "insurance": null,
+    "complaint_process": "Contact the Iowa Child Care Complaint Hotline with concerns about a provider; HHS investigates complaints and publishes annual compliance evaluations and complaint reports in its provider search.",
+    "complaint_url": null,
+    "complaint_phone": "844-786-1296",
+    "parent_lookup_url": "https://childcaresearch.iowa.gov",
+    "inspection_history_url": "https://secureapp.dhs.state.ia.us/dhs_titan_public/ChildCare/ComplianceReport",
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Kansas",
+    "slug": "kansas",
+    "agency": "Kansas Office of Early Childhood (KOEC), which took over child care licensing from the Kansas Department of Health and Environment (KDHE) on July 1, 2026",
+    "agency_url": "https://www.kdhe.ks.gov/m/faq?cat=24",
+    "license_types": "Family Child Care Home (up to 10-12 children), Group Day Care Home, and Child Care Center/Preschool; a license or temporary permit is required to care for unrelated children under 16.",
+    "how_to_get_licensed": "Attend a KOEC orientation, apply through the CLARIS portal, complete background checks, and pass an on-site survey and fire safety approval before opening.",
+    "ratios": [
+      {
+        "group": "Infants",
+        "ratio": "1:3"
+      },
+      {
+        "group": "Toddlers",
+        "ratio": "1:6"
+      },
+      {
+        "group": "2 years to under 3 years",
+        "ratio": "1:7"
+      },
+      {
+        "group": "2.5 years to school-age",
+        "ratio": "1:12"
+      },
+      {
+        "group": "School-age",
+        "ratio": "1:16"
+      }
+    ],
+    "ratios_source_url": "https://rules.ks.gov/api/policy-library-public/collections/0ae1e448-f5a1-4e09-9d6d-a488ac7c284a/policies/fb878fba-0817-40f6-9c33-29d40816d5df/document/3a0893b9-fa6e-4d4b-8ad4-4cf65c4d8d5a",
+    "background_checks": "Comprehensive fingerprint-based background checks are required for anyone living, working, or regularly volunteering in the facility, and no one may work until the checks verify they are not prohibited from working in child care.",
+    "insurance": null,
+    "complaint_process": "A surveyor begins the complaint investigation within 5 days and conducts an unannounced on-site visit without revealing the complainant's identity; findings are documented on a Notice of Survey Findings and posted on the online dissemination portal.",
+    "complaint_url": "https://www.kdhe.ks.gov/m/faq?cat=24",
+    "complaint_phone": "785-296-1270",
+    "parent_lookup_url": null,
+    "inspection_history_url": null,
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Kentucky",
+    "slug": "kentucky",
+    "agency": "Kentucky Cabinet for Health and Family Services, Office of Inspector General, Division of Regulated Child Care (DRCC)",
+    "agency_url": "https://www.chfs.ky.gov/agencies/os/oig/drcc/Pages/Home.aspx",
+    "license_types": "Licensed Type I Child Care Center (4 or more children in a non-residential setting, or 13 or more in a residence), Licensed Type II Center in the provider's home (7-12 children), and Certified Family Child Care Home (4-6 unrelated children, up to 10 total).",
+    "how_to_get_licensed": "Attend a free Getting Started meeting (recommended), mail the initial application to DRCC in Frankfort with the $50 license fee ($10 for family home certification), pass background checks and an on-site inspection, and receive a preliminary license for up to 6 months before a regular license.",
+    "ratios": [
+      {
+        "group": "Infant (under 12 months)",
+        "ratio": "1:5"
+      },
+      {
+        "group": "Toddler 12-24 months",
+        "ratio": "1:6"
+      },
+      {
+        "group": "Toddler 24-36 months",
+        "ratio": "1:10"
+      },
+      {
+        "group": "Preschool-age 3-4 years",
+        "ratio": "1:12"
+      },
+      {
+        "group": "Preschool-age 4-5 years",
+        "ratio": "1:14"
+      },
+      {
+        "group": "School-age 5-7 years",
+        "ratio": "1:15"
+      },
+      {
+        "group": "School-age 7 years and older (before/after school)",
+        "ratio": "1:25"
+      },
+      {
+        "group": "School-age 7 years and older (full day)",
+        "ratio": "1:20"
+      }
+    ],
+    "ratios_source_url": "https://apps.legislature.ky.gov/law/kar/titles/922/002/120/",
+    "background_checks": "Providers must participate in the National Background Check Program through KARES, including fingerprint-based FBI and state criminal checks, child abuse/neglect checks, and sex offender registry checks.",
+    "insurance": null,
+    "complaint_process": "DRCC branch offices conduct on-site visits of licensed centers and certified homes to check compliance, and branch staff investigate complaints against those providers.",
+    "complaint_url": "https://www.chfs.ky.gov/agencies/os/oig/drcc/Pages/Home.aspx",
+    "complaint_phone": "(502) 564-7962",
+    "parent_lookup_url": "https://kynect.ky.gov/benefits/s/child-care-provider",
+    "inspection_history_url": "https://kynect.ky.gov/benefits/s/child-care-provider",
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Louisiana",
+    "slug": "louisiana",
+    "agency": "Louisiana Department of Education (LDOE), Division of Licensing, Early Childhood",
+    "agency_url": "https://doe.louisiana.gov/early-childhood/licensing",
+    "license_types": "Early Learning Centers Type I (religious, no public funds), Type II (private, federal food program only), and Type III (state/federal funded, higher standards); Family Child Care Providers register for CCAP for up to 6 children and are not licensed as centers.",
+    "how_to_get_licensed": "Apply online through the LDOE EdLink portal, complete background checks and training, and pass a licensing inspection; a center license is required at 7 or more unrelated children.",
+    "ratios": [
+      {
+        "group": "Infants under 1 year",
+        "ratio": "1:5"
+      },
+      {
+        "group": "1 year",
+        "ratio": "1:7"
+      },
+      {
+        "group": "2 years",
+        "ratio": "1:10"
+      },
+      {
+        "group": "3 years",
+        "ratio": "1:13"
+      },
+      {
+        "group": "4 years",
+        "ratio": "1:15"
+      },
+      {
+        "group": "5 years",
+        "ratio": "1:19"
+      },
+      {
+        "group": "6 years and up",
+        "ratio": "1:23"
+      }
+    ],
+    "ratios_source_url": "https://doe.louisiana.gov/docs/default-source/early-childhood/safety-welfare-standards---licensing-sites.pdf?sfvrsn=f17dafe8_4",
+    "background_checks": null,
+    "insurance": null,
+    "complaint_process": "Contact LDOE Licensing by phone or email about an alleged licensing violation; LDOE investigates and follows up to verify corrections.",
+    "complaint_url": "https://doe.louisiana.gov/early-childhood/licensing",
+    "complaint_phone": "225-342-9905",
+    "parent_lookup_url": "https://louisianaschools.com",
+    "inspection_history_url": "https://louisianaschools.com",
+    "parent_disclosure": "Centers must post child-to-staff ratios and complaint phone numbers, and give parents a summary of the Bulletin 137 licensing regulations on request.",
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Maine",
+    "slug": "maine",
+    "agency": "Maine Department of Health and Human Services (DHHS), Office of Child and Family Services (OCFS), Children's Licensing and Investigation Services",
+    "agency_url": "https://www.maine.gov/dhhs/ocfs/provider-resources/child-care-licensing",
+    "license_types": "Family Child Care Provider (3-12 children in the provider's home), Small Child Care Facility (3-12 children, non-residential), Child Care Facility/Center (13 or more children), and Nursery School.",
+    "how_to_get_licensed": "Complete the 6-hour Getting Started pre-licensing course and background checks to receive a Letter of Eligibility, apply through the DHHS Provider Portal (Baxter), and pass a pre-licensure inspection, including State Fire Marshal approval for 13 or more children.",
+    "ratios": [
+      {
+        "group": "6 weeks to 1 year",
+        "ratio": "1:4"
+      },
+      {
+        "group": "1 year to 2.5 years",
+        "ratio": "1:5"
+      },
+      {
+        "group": "2.5 years to 3.5 years",
+        "ratio": "1:7"
+      },
+      {
+        "group": "3 years to under 5 years",
+        "ratio": "1:10"
+      }
+    ],
+    "ratios_source_url": "https://www.maine.gov/dhhs/mecdc/sites/maine.gov.dhhs.mecdc/files/immunization/10-148%20Ch.%2032%20Child%20Care%20Facility%20Licensing%20Rule%20Effective%209-27-21.pdf",
+    "background_checks": "Comprehensive background checks, including state and federal fingerprinting, are required for providers, staff, and household members over age 15, renewed at least every five years under Chapter 34.",
+    "insurance": "Providers must obtain insurance coverage as required by the Child Care Facility Licensing Rule (Section 2.F.2).",
+    "complaint_process": "Report licensing violations to Children's Licensing central office or the local licensing specialist; the unit investigates, including through unannounced visits.",
+    "complaint_url": "https://www.maine.gov/dhhs/ocfs/provider-resources/child-care-licensing",
+    "complaint_phone": "(207) 287-5020",
+    "parent_lookup_url": "https://www.childcarechoices.me/",
+    "inspection_history_url": "https://search.childcarechoices.me/",
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Maryland",
+    "slug": "maryland",
+    "agency": "Maryland State Department of Education (MSDE), Division of Early Childhood, Office of Child Care (OCC), Child Care Licensing Branch",
+    "agency_url": "https://onestop.md.gov/licenses/child-care-licensing-and-registration-5d1540b054f24d03e999826f",
+    "license_types": "Family Child Care Home (registered, up to 8 children), Large Family Child Care Home (registered, 9-12 children), and Child Care Center (licensed, capacity set by space and staffing).",
+    "how_to_get_licensed": "Complete the mandatory orientation, submit the application (OCC 1230, 1240, or 1200) at least 60 days before opening through the regional licensing office, pass background checks and an inspection; a license or registration is valid for two years.",
+    "ratios": [
+      {
+        "group": "Infants 6 weeks to under 18 months",
+        "ratio": "1:3"
+      },
+      {
+        "group": "Toddlers 18 months to under 2 years",
+        "ratio": "1:3"
+      },
+      {
+        "group": "2 years",
+        "ratio": "1:6"
+      },
+      {
+        "group": "3-4 years",
+        "ratio": "1:10"
+      },
+      {
+        "group": "5 years and older (including school-age)",
+        "ratio": "1:15"
+      }
+    ],
+    "ratios_source_url": "https://dev-earlychildhood.marylandpublicschools.org/system/files/filedepot/3/staff-child_ratio_chart_-_child_care_centers.pdf",
+    "background_checks": "Staff must pass fingerprint-based state (CJIS) and FBI criminal history checks, a Child Protective Services clearance, and state and national sex offender registry checks; checks repeat every 5 years and the CPS clearance every 2 years.",
+    "insurance": null,
+    "complaint_process": "Regional OCC offices investigate complaints to determine whether child care licensing regulations were violated; confirmed complaints may be viewed on Check Child Care Maryland.",
+    "complaint_url": "https://onestop.md.gov/licenses/child-care-licensing-and-registration-5d1540b054f24d03e999826f",
+    "complaint_phone": "(410) 767-0100",
+    "parent_lookup_url": "https://www.checkccmd.org/",
+    "inspection_history_url": "https://www.checkccmd.org/",
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Massachusetts",
+    "slug": "massachusetts",
+    "agency": "Massachusetts Department of Early Education and Care (EEC)",
+    "agency_url": "https://www.mass.gov/child-care-program-licensing",
+    "license_types": "Family Child Care (in a private home, up to 6, 8, or 10 children) and Group and School Age Child Care, small (up to 10 children) and large (more than 10 children).",
+    "how_to_get_licensed": "Apply through EEC's LEAD portal, complete required training and background record checks, and pass a licensing visit and home or facility inspection.",
+    "ratios": [
+      {
+        "group": "Infants (under 15 months)",
+        "ratio": "1:3"
+      },
+      {
+        "group": "Toddlers (15 to 33 months)",
+        "ratio": "1:4"
+      },
+      {
+        "group": "Preschoolers (2 years 9 months to kindergarten)",
+        "ratio": "1:10"
+      },
+      {
+        "group": "Kindergarten",
+        "ratio": "1:15"
+      },
+      {
+        "group": "School age",
+        "ratio": "1:13"
+      }
+    ],
+    "ratios_source_url": null,
+    "background_checks": "EEC Background Record Checks are required for applicants, staff, and household members regularly on the premises, including fingerprinting and a Department of Children and Families history check, renewed every three years.",
+    "insurance": null,
+    "complaint_process": "Complaints are investigated by EEC licensors, who may make unannounced visits; substantiated complaints are kept in EEC's LEAD database and inspection results are posted online.",
+    "complaint_url": null,
+    "complaint_phone": "617-988-6600",
+    "parent_lookup_url": null,
+    "inspection_history_url": null,
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Michigan",
+    "slug": "michigan",
+    "agency": "Michigan Department of Lifelong Education, Advancement, and Potential (MiLEAP), Child Care Licensing Bureau",
+    "agency_url": "https://www.michigan.gov/mileap/early-childhood-education/cclb/providers/application/panel-main/apps/get-licensed-as-a-family-or-group-child-care-home",
+    "license_types": "Child Care Center, Family Child Care Home (up to 6 unrelated children), and Group Child Care Home (7 to 12 unrelated children).",
+    "how_to_get_licensed": "Read the licensing rules and Child Care Organizations Act, submit an online application and fee, complete background checks and training, and pass a licensing inspection.",
+    "ratios": [
+      {
+        "group": "Infants and toddlers (birth to 30 months)",
+        "ratio": "1:4"
+      },
+      {
+        "group": "Preschoolers (30 months to 3 years)",
+        "ratio": "1:8"
+      },
+      {
+        "group": "Preschoolers (3 to 4 years)",
+        "ratio": "1:10"
+      },
+      {
+        "group": "Preschoolers (4 years to school age)",
+        "ratio": "1:12"
+      },
+      {
+        "group": "School-age children",
+        "ratio": "1:18"
+      }
+    ],
+    "ratios_source_url": null,
+    "background_checks": "Applicants and adult household members must complete fingerprint-based background checks through the Child Care Background Check system after applying, before a license is issued.",
+    "insurance": null,
+    "complaint_process": "If a complaint is received by licensing, an investigation may be conducted and may include an inspection of the home or center.",
+    "complaint_url": null,
+    "complaint_phone": "866-685-0006",
+    "parent_lookup_url": "https://cclb.michigan.gov/s/statewide-facility-search",
+    "inspection_history_url": "https://cclb.michigan.gov/s/statewide-facility-search",
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Minnesota",
+    "slug": "minnesota",
+    "agency": "Minnesota Department of Children, Youth, and Families (DCYF), Licensing Division (family child care licensing administered through county agencies)",
+    "agency_url": "https://dcyf.mn.gov/contact-child-care-center-licensing",
+    "license_types": "Family Child Care (up to 10 children) and Group Family Child Care (up to 14 children), and Child Care Centers.",
+    "how_to_get_licensed": "Apply through the county agency for family child care or DCYF for centers, complete orientation, training, and background studies, and pass a licensing study and inspection.",
+    "ratios": [
+      {
+        "group": "Infant",
+        "ratio": "1:4"
+      },
+      {
+        "group": "Toddler",
+        "ratio": "1:7"
+      },
+      {
+        "group": "Preschooler",
+        "ratio": "1:10"
+      },
+      {
+        "group": "School-age child",
+        "ratio": "1:15"
+      }
+    ],
+    "ratios_source_url": "https://www.dhs.state.mn.us/main/idcplg?IdcService=GET_DYNAMIC_CONVERSION&dDocName=ID_017386&RevisionSelectionMethod=LatestReleased",
+    "background_checks": "Fingerprint-based background studies under Minnesota Statutes chapter 245C are required for applicants, staff, substitutes, and household members before caring for children, and repeated every five years.",
+    "insurance": null,
+    "complaint_process": "DCYF investigates licensing violations and alleged maltreatment in child care centers, and counties investigate family child care; compliance reviews and licensing actions are posted on Licensing Information Lookup.",
+    "complaint_url": "https://dcyf.mn.gov/report-concern-child-care-program",
+    "complaint_phone": "651-539-8222",
+    "parent_lookup_url": null,
+    "inspection_history_url": null,
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Mississippi",
+    "slug": "mississippi",
+    "agency": "Mississippi State Department of Health (MSDH), Bureau of Child Care Licensure",
+    "agency_url": "https://MSDH.ms.gov/page/30,0,183,438.html",
+    "license_types": "Child Care Family Home (5 or fewer children, registered) and Child Care Facility (6 or more children under 13), including facilities in the operator's home for 12 or fewer children.",
+    "how_to_get_licensed": "Apply to MSDH Child Care Licensure, meet the regulations for facilities or family homes, and pass inspection; a license is required when caring for six or more unrelated children under 13.",
+    "ratios": [
+      {
+        "group": "Under 1 year",
+        "ratio": "1:5"
+      },
+      {
+        "group": "1 year",
+        "ratio": "1:9"
+      },
+      {
+        "group": "2 years",
+        "ratio": "1:12"
+      },
+      {
+        "group": "3 years",
+        "ratio": "1:14"
+      },
+      {
+        "group": "4 years",
+        "ratio": "1:16"
+      },
+      {
+        "group": "5 through 9 years",
+        "ratio": "1:20"
+      },
+      {
+        "group": "10 through 12 years",
+        "ratio": "1:25"
+      }
+    ],
+    "ratios_source_url": null,
+    "background_checks": null,
+    "insurance": null,
+    "complaint_process": "Complaints may be filed online with MSDH and are anonymous; MSDH investigates complaints against licensed child care facilities.",
+    "complaint_url": "https://msdh.ms.gov/msdhsite/handlers/printcontent.cfm?ContentID=23170&ThisPageURL=https%3A%2F%2Fmsdh%2Ems%2Egov%2Fpage%2F30%2C23170%2C183%2C787%2Ehtml&EntryCode=23170&GroupID=30",
+    "complaint_phone": "1-866-489-8734",
+    "parent_lookup_url": "https://www.msdh.provider.webapps.ms.gov/ccsearch.aspx",
+    "inspection_history_url": "https://www.msdh.provider.webapps.ms.gov/ccsearch.aspx",
+    "parent_disclosure": "The current license must be posted in a conspicuous place in view of all who enter, with an MSDH notice next to it telling the public where and how to report a complaint.",
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Missouri",
+    "slug": "missouri",
+    "agency": "Missouri Department of Elementary and Secondary Education (DESE), Office of Childhood, Child Care Compliance",
+    "agency_url": "https://dese.mo.gov/childhood/child-care-licensing",
+    "license_types": "Family Child Care Home (up to 10 children), Group Child Care Home, and Child Care Center.",
+    "how_to_get_licensed": "Complete DESE's child care licensing orientation, submit an application, complete background checks and required inspections, and pass licensing inspections.",
+    "ratios": [
+      {
+        "group": "Infants, toddlers, and 2-year-olds (birth to 36 months)",
+        "ratio": "1:4"
+      },
+      {
+        "group": "2-year-olds only (24 to 36 months)",
+        "ratio": "1:8"
+      },
+      {
+        "group": "3- and 4-year-olds",
+        "ratio": "1:10"
+      },
+      {
+        "group": "5-year-olds and older",
+        "ratio": "1:16"
+      }
+    ],
+    "ratios_source_url": null,
+    "background_checks": "All child care staff must have a valid criminal background check eligibility letter under Section 210.1080, RSMo, completed before employment and repeated every five years.",
+    "insurance": null,
+    "complaint_process": "Anyone may submit a complaint to DESE Child Care Compliance by form or phone; DESE investigates complaints and inspects licensed homes and centers for compliance.",
+    "complaint_url": null,
+    "complaint_phone": "573-751-2450",
+    "parent_lookup_url": "https://healthapps.dhss.mo.gov/childcaresearch/",
+    "inspection_history_url": "https://healthapps.dhss.mo.gov/childcaresearch/",
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Montana",
+    "slug": "montana",
+    "agency": "Montana Department of Public Health and Human Services (DPHHS), Child Care Licensing Program",
+    "agency_url": "http://dphhs.mt.gov/ecfsd/childcare/childcarelicensing/",
+    "license_types": "Registered Family Child Care Facility (3 to 8 children), Registered Group Child Care Facility (9 to 15 children), and Licensed Child Care Center (16 or more children).",
+    "how_to_get_licensed": "Apply to the DPHHS Child Care Licensing Program, complete required training and background checks, and pass a licensing visit and annual inspection.",
+    "ratios": null,
+    "ratios_source_url": null,
+    "background_checks": null,
+    "insurance": null,
+    "complaint_process": "DPHHS may investigate and inspect any licensed or registered child care facility, must inspect 100% of facilities before issuing a new license and annually thereafter, and must inspect at least 20% of registered family and group homes in each region annually.",
+    "complaint_url": null,
+    "complaint_phone": null,
+    "parent_lookup_url": null,
+    "inspection_history_url": null,
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Nebraska",
+    "slug": "nebraska",
+    "agency": "Nebraska Department of Health and Human Services (DHHS), Children's Services Licensing",
+    "agency_url": "https://dhhs.ne.gov/Pages/Search-for-Child-Care-Providers.aspx",
+    "license_types": "Family Child Care Home I (4 to 8 children), Family Child Care Home II (4 to 12 children), Child Care Center (13 or more), Preschool, and School-Age-Only Center.",
+    "how_to_get_licensed": "Apply to DHHS Children's Services Licensing, complete required training and background checks, and pass an inspection before a provisional and then regular license is issued.",
+    "ratios": [
+      {
+        "group": "6 weeks to 18 months",
+        "ratio": "1:4"
+      },
+      {
+        "group": "18 months to 3 years",
+        "ratio": "1:6"
+      },
+      {
+        "group": "3 years",
+        "ratio": "1:10"
+      },
+      {
+        "group": "4 and 5 years",
+        "ratio": "1:12"
+      },
+      {
+        "group": "School-age",
+        "ratio": "1:15"
+      }
+    ],
+    "ratios_source_url": null,
+    "background_checks": null,
+    "insurance": null,
+    "complaint_process": "DHHS licenses and inspects child care programs and investigates complaints; inspection and monitoring results completed after October 2018 are listed in the state's License Information System Search.",
+    "complaint_url": null,
+    "complaint_phone": null,
+    "parent_lookup_url": "https://www.nebraska.gov/LISSearch/search.cgi",
+    "inspection_history_url": "https://www.nebraska.gov/LISSearch/search.cgi",
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Nevada",
+    "slug": "nevada",
+    "agency": "Nevada Department of Health and Human Services, Division of Welfare and Supportive Services, Child Care Licensing (formerly Division of Public and Behavioral Health)",
+    "agency_url": "https://dwss.nv.gov/Care/CCL/ccl-licensing-home/",
+    "license_types": "Family Care Home (2 to 6 children in a private residence), Group Care Home (7 to 12 children), and Child Care Center.",
+    "how_to_get_licensed": "Contact the child care licensing office for your area, complete the application, training, and background checks, and pass a licensing survey before opening.",
+    "ratios": [
+      {
+        "group": "Birth to 9 months",
+        "ratio": "1:4"
+      },
+      {
+        "group": "9 months to 24 months",
+        "ratio": "1:6"
+      },
+      {
+        "group": "2 years",
+        "ratio": "1:9"
+      },
+      {
+        "group": "3 years",
+        "ratio": "1:12"
+      },
+      {
+        "group": "4 years",
+        "ratio": "1:13"
+      },
+      {
+        "group": "5 years and older",
+        "ratio": "1:18"
+      }
+    ],
+    "ratios_source_url": "https://dss.nv.gov/siteassets/dwss.nv.gov/content/care/ccl/licensing-info/State_of_Nevada_Child_Care_Reference_Guide.pdf",
+    "background_checks": "Background checks are required for child care staff, and only staff or volunteers with a completed background check and first aid training may count toward ratios.",
+    "insurance": null,
+    "complaint_process": "Child Care Licensing surveys licensed facilities and investigates complaints; inspection reports can be viewed through the state's licensee search tool.",
+    "complaint_url": null,
+    "complaint_phone": "702-486-3822",
+    "parent_lookup_url": "https://www.dss.nv.gov/programs/child-care-licensing-ccl/find-a-health-facility/",
+    "inspection_history_url": "https://www.dss.nv.gov/programs/child-care-licensing-ccl/find-a-health-facility/",
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "New Hampshire",
+    "slug": "new-hampshire",
+    "agency": "New Hampshire Department of Health and Human Services (DHHS), Child Care Licensing Unit (CCLU)",
+    "agency_url": "https://www.dhhs.nh.gov/programs-services/childcare-parenting-childbirth/child-care-licensing",
+    "license_types": "Family Child Care Home (up to 6 children plus 3 school-age children), Family Group Child Care Home (up to 12 children plus 5 school-age children), Group Child Care Center, Preschool, and School-Age Program.",
+    "how_to_get_licensed": "Apply to the DHHS Child Care Licensing Unit, complete required training and background checks, and pass inspection; a new program first receives a 6-month permit, then a 3-year license.",
+    "ratios": [
+      {
+        "group": "6 weeks to under 12 months",
+        "ratio": "1:4"
+      },
+      {
+        "group": "12 to under 24 months",
+        "ratio": "1:5"
+      },
+      {
+        "group": "24 to under 36 months",
+        "ratio": "1:6"
+      },
+      {
+        "group": "36 to under 48 months",
+        "ratio": "1:8"
+      },
+      {
+        "group": "48 to under 60 months",
+        "ratio": "1:12"
+      },
+      {
+        "group": "60 months and older",
+        "ratio": "1:15"
+      },
+      {
+        "group": "School-age program",
+        "ratio": "1:15"
+      }
+    ],
+    "ratios_source_url": null,
+    "background_checks": null,
+    "insurance": null,
+    "complaint_process": "The Child Care Licensing Unit licenses, inspects, and investigates licensed child care programs under RSA 170-E and He-C 4002.",
+    "complaint_url": null,
+    "complaint_phone": null,
+    "parent_lookup_url": null,
+    "inspection_history_url": null,
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "New Jersey",
+    "slug": "new-jersey",
+    "agency": "New Jersey Department of Children and Families (DCF), Office of Licensing",
+    "agency_url": "https://www.nj.gov/dcf/divisions-offices/ool/index.shtml",
+    "license_types": "Registered Family Child Care Home (up to 5 enrolled children, voluntary registration) and Licensed Child Care Center (6 or more children under 13).",
+    "how_to_get_licensed": "Apply to the DCF Office of Licensing through NJCCIS no later than 45 days before the intended opening date, complete background checks and training, and pass a licensing inspection.",
+    "ratios": [
+      {
+        "group": "Under 18 months",
+        "ratio": "1:4"
+      },
+      {
+        "group": "18 months to 2 1/2 years",
+        "ratio": "1:6"
+      },
+      {
+        "group": "2 1/2 years to 4 years",
+        "ratio": "1:10"
+      },
+      {
+        "group": "4 years",
+        "ratio": "1:12"
+      },
+      {
+        "group": "5 years and older",
+        "ratio": "1:15"
+      }
+    ],
+    "ratios_source_url": "https://nj.gov/dcf/documents/providers/licensing/CCL.Staff-Child%20Ratios%20and%20Grouping.pdf",
+    "background_checks": null,
+    "insurance": null,
+    "complaint_process": "The DCF Office of Licensing inspects licensed child care centers and investigates complaints; inspection reports are publicly available on the DCF website.",
+    "complaint_url": "https://www.childcarenj.gov/Parents/Licensing",
+    "complaint_phone": null,
+    "parent_lookup_url": null,
+    "inspection_history_url": null,
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "New Mexico",
+    "slug": "new-mexico",
+    "agency": "New Mexico Early Childhood Education and Care Department (ECECD), Child Care Services Bureau",
+    "agency_url": "https://www.nmececd.org/comprehensive-background-check-process/",
+    "license_types": "Licensed child care centers, out-of-school-time programs, licensed family child care homes (up to 6 children) and licensed group child care homes (7 to 12 children).",
+    "how_to_get_licensed": "Apply through ECECD's online Child Care Licensing and Registration Portal; ECECD reviews the application and inspects the program before issuing a license.",
+    "ratios": [
+      {
+        "group": "Infants",
+        "ratio": "1:6"
+      },
+      {
+        "group": "Toddlers",
+        "ratio": "1:6"
+      },
+      {
+        "group": "Two-year-olds",
+        "ratio": "1:10"
+      },
+      {
+        "group": "Three- and four-year-olds",
+        "ratio": "1:12"
+      },
+      {
+        "group": "Five-year-olds",
+        "ratio": "1:15"
+      },
+      {
+        "group": "School-age (6 years and older)",
+        "ratio": "1:15"
+      }
+    ],
+    "ratios_source_url": "https://www.srca.nm.gov/parts/title08/08.009.0004.html",
+    "background_checks": "All providers and staff in licensed and registered care must have a comprehensive background check every five years, including fingerprint-based state and federal criminal history, state and national sex offender registries, and abuse and neglect checks, plus checks in any state lived in during the past five years.",
+    "insurance": null,
+    "complaint_process": null,
+    "complaint_url": null,
+    "complaint_phone": null,
+    "parent_lookup_url": null,
+    "inspection_history_url": null,
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "New York",
+    "slug": "new-york",
+    "agency": "New York State Office of Children and Family Services (OCFS), Division of Child Care Services",
+    "agency_url": "https://ocfs.ny.gov/main/",
+    "license_types": "Licensed child day care centers, licensed group family day care homes (7 to 12 children), registered family day care homes (3 to 6 children), and school-age child care programs; New York City programs are handled by the NYC Department of Health and Mental Hygiene.",
+    "how_to_get_licensed": "Complete the OCFS Child Day Care Orientation, then apply through the OCFS Division of Child Care Services; OCFS inspects the program before licensing or registering it.",
+    "ratios": [
+      {
+        "group": "Under 6 weeks",
+        "ratio": "1:3"
+      },
+      {
+        "group": "6 weeks to 18 months",
+        "ratio": "1:4"
+      },
+      {
+        "group": "18 months to 36 months",
+        "ratio": "1:5"
+      },
+      {
+        "group": "3-year-olds",
+        "ratio": "1:7"
+      },
+      {
+        "group": "4-year-olds",
+        "ratio": "1:8"
+      },
+      {
+        "group": "5-year-olds",
+        "ratio": "1:9"
+      },
+      {
+        "group": "School-age through 9 years",
+        "ratio": "1:10"
+      },
+      {
+        "group": "10 to 12 years",
+        "ratio": "1:15"
+      }
+    ],
+    "ratios_source_url": null,
+    "background_checks": null,
+    "insurance": null,
+    "complaint_process": "Complaints about a regulated child care program can be reported to OCFS; the OCFS services page lists a Child Care Complaints line.",
+    "complaint_url": null,
+    "complaint_phone": "800-732-5207",
+    "parent_lookup_url": null,
+    "inspection_history_url": null,
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "North Carolina",
+    "slug": "north-carolina",
+    "agency": "North Carolina Department of Health and Human Services, Division of Child Development and Early Education (DCDEE)",
+    "agency_url": "https://ncchildcare.ncdhhs.gov/Home/About",
+    "license_types": "Licensed child care centers and licensed family child care homes (up to 8, 9 or 10 children depending on the ages of the children).",
+    "how_to_get_licensed": "Apply to DCDEE for a license; DCDEE inspects programs, monitors them with annual unannounced visits, and issues a star-rated license.",
+    "ratios": [
+      {
+        "group": "0 to 12 months",
+        "ratio": "1:5"
+      },
+      {
+        "group": "12 to 24 months",
+        "ratio": "1:6"
+      },
+      {
+        "group": "2 to 3 years",
+        "ratio": "1:10"
+      },
+      {
+        "group": "3 to 4 years",
+        "ratio": "1:15"
+      },
+      {
+        "group": "4 to 5 years",
+        "ratio": "1:20"
+      },
+      {
+        "group": "5 years and older",
+        "ratio": "1:25"
+      }
+    ],
+    "ratios_source_url": "https://ncchildcare.ncdhhs.gov/Portals/0/documents/pdf/R/Rule_Changes_Effective_July_1_2023.pdf?ver=u5Y3xlbo7acXV5DkD0Z1lg%3D%3D",
+    "background_checks": "DCDEE conducts comprehensive criminal background checks on all individuals who work in licensed or regulated child care programs.",
+    "insurance": null,
+    "complaint_process": "DCDEE investigates complaints alleging violations of child care requirements; a consultant makes an unannounced visit, interviews staff, parents and others, and if a violation is found the provider must submit a compliance letter explaining the correction.",
+    "complaint_url": "https://ncchildcare.ncdhhs.gov/Read/complaints",
+    "complaint_phone": "(800) 859-0829",
+    "parent_lookup_url": null,
+    "inspection_history_url": null,
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "North Dakota",
+    "slug": "north-dakota",
+    "agency": "North Dakota Department of Health and Human Services, Early Childhood Licensing",
+    "agency_url": "https://www.hhs.nd.gov/cfs/early-childhood-services/child-care-licensing",
+    "license_types": "Licensed family child care (up to 7 children), licensed group child care (8 to 30 children), licensed child care centers (19 or more children), and self-declared providers caring for 5 or fewer children.",
+    "how_to_get_licensed": "Contact a local Early Childhood licensing specialist to apply; licensing specialists are the first contact when applying for a child care license and programs must follow North Dakota Century Code and Administrative Code.",
+    "ratios": [
+      {
+        "group": "Under 18 months",
+        "ratio": "1:4"
+      },
+      {
+        "group": "18 to 36 months",
+        "ratio": "1:5"
+      },
+      {
+        "group": "3 to 4 years",
+        "ratio": "1:7"
+      },
+      {
+        "group": "4 to 5 years",
+        "ratio": "1:10"
+      },
+      {
+        "group": "5 to 6 years",
+        "ratio": "1:12"
+      },
+      {
+        "group": "6 to 12 years",
+        "ratio": "1:20"
+      }
+    ],
+    "ratios_source_url": null,
+    "background_checks": "Background checks are required for providers and staff and must be completed and approved before unsupervised access to children; they include a fingerprint-based FBI criminal history check, national and state sex offender registry searches, state criminal history and child abuse and neglect checks, plus out-of-state checks if the person lived outside North Dakota in the past 5 years.",
+    "insurance": null,
+    "complaint_process": "Concerns about a child care program can be reported to a county licensing specialist by phone or email; licensing specialists visit each licensed and self-declared program at least twice a year, and a correction order is issued if a program is out of compliance.",
+    "complaint_url": "https://www.hhs.nd.gov/cfs/early-childhood-services/contact",
+    "complaint_phone": "1-800-997-8516",
+    "parent_lookup_url": null,
+    "inspection_history_url": null,
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Ohio",
+    "slug": "ohio",
+    "agency": "Ohio Department of Children and Youth (DCY) (licensing transferred from the Ohio Department of Job and Family Services in January 2025)",
+    "agency_url": "http://childrenandyouth.ohio.gov",
+    "license_types": "Licensed child care centers (7 or more children) under Ohio Administrative Code Chapter 5101:2-12 and licensed family child care homes (6 or fewer children) under Chapter 5101:2-13, including Type A (7-12 children) and Type B (up to 6 children) homes.",
+    "how_to_get_licensed": "Apply to the Ohio Department of Children and Youth for a child care license, complete pre-licensing training and background checks, and pass facility and licensing inspections before opening.",
+    "ratios": [
+      {
+        "group": "Birth to under 12 months",
+        "ratio": "1:5"
+      },
+      {
+        "group": "12 months to under 18 months",
+        "ratio": "1:6"
+      },
+      {
+        "group": "18 months to under 30 months",
+        "ratio": "1:7"
+      },
+      {
+        "group": "30 months to under 3 years",
+        "ratio": "1:8"
+      },
+      {
+        "group": "3-year-olds",
+        "ratio": "1:12"
+      },
+      {
+        "group": "4- and 5-year-olds not in school",
+        "ratio": "1:14"
+      },
+      {
+        "group": "School-age, kindergarten to 11 years",
+        "ratio": "1:18"
+      },
+      {
+        "group": "School-age, 11 to 14 years",
+        "ratio": "1:20"
+      }
+    ],
+    "ratios_source_url": "https://codes.ohio.gov/ohio-revised-code/section-3301.56",
+    "background_checks": null,
+    "insurance": null,
+    "complaint_process": "Suspected violations of licensing rules can be reported to the DCY Child Care Policy Help Desk; the state Child Care Directory also shows licensing inspections and substantiated complaints for each program.",
+    "complaint_url": null,
+    "complaint_phone": "1-877-302-2347",
+    "parent_lookup_url": "https://childcaresearch.ohio.gov",
+    "inspection_history_url": "https://childcaresearch.ohio.gov",
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Oklahoma",
+    "slug": "oklahoma",
+    "agency": "Oklahoma Human Services (OKDHS), Child Care Licensing",
+    "agency_url": "https://oklahoma.gov/okdhs/services/child-care-services/child-care-licensing.html",
+    "license_types": "Licensed child care centers, drop-in programs, part-day programs and out-of-school-time programs, and licensed family child care homes.",
+    "how_to_get_licensed": "Apply to Oklahoma Human Services Child Care Licensing; the program must meet the licensing requirements in OAC 340:110-3 and pass inspection before a permit or license is issued.",
+    "ratios": [
+      {
+        "group": "Infants",
+        "ratio": "1:4"
+      },
+      {
+        "group": "1-year-olds",
+        "ratio": "1:6"
+      },
+      {
+        "group": "2-year-olds",
+        "ratio": "1:8"
+      },
+      {
+        "group": "3-year-olds",
+        "ratio": "1:12"
+      },
+      {
+        "group": "4-year-olds",
+        "ratio": "1:15"
+      },
+      {
+        "group": "5-year-olds and older (single-age groups)",
+        "ratio": "1:20"
+      }
+    ],
+    "ratios_source_url": "https://digitalprairie.ok.gov/digital/api/collection/stgovpub/id/712468/download",
+    "background_checks": null,
+    "insurance": null,
+    "complaint_process": null,
+    "complaint_url": null,
+    "complaint_phone": null,
+    "parent_lookup_url": null,
+    "inspection_history_url": null,
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Oregon",
+    "slug": "oregon",
+    "agency": "Oregon Department of Early Learning and Care (DELC), Child Care Licensing Division (CCLD)",
+    "agency_url": "https://www.oregon.gov/delc/providers/pages/monitoring.aspx",
+    "license_types": "Registered family child care homes (up to 10 children), certified family child care homes (up to 16 children), and certified child care centers.",
+    "how_to_get_licensed": "Apply to the Child Care Licensing Division; for a certified center the application is required at least 45 days before the planned opening, and CCLD inspects the program before issuing a certificate.",
+    "ratios": [
+      {
+        "group": "6 weeks to 24 months",
+        "ratio": "1:4"
+      },
+      {
+        "group": "24 to 36 months",
+        "ratio": "1:5"
+      },
+      {
+        "group": "36 months to school-age",
+        "ratio": "1:10"
+      },
+      {
+        "group": "School-age",
+        "ratio": "1:15"
+      }
+    ],
+    "ratios_source_url": null,
+    "background_checks": null,
+    "insurance": null,
+    "complaint_process": "Complaints about a licensed provider can be submitted on DELC's online complaint form or by calling the Child Care Licensing Division Central Office; CCLD investigates regulatory complaints, and serious valid complaint letters must be posted for parents for 12 months.",
+    "complaint_url": "https://www.oregon.gov/delc/pages/report-concern.aspx",
+    "complaint_phone": "1-800-556-6616",
+    "parent_lookup_url": "https://www.oregon.gov/delc/families/pages/child-care-safety.aspx?wp7244=so%3A%5B%5B83087%2C0%5D%5D",
+    "inspection_history_url": "https://www.oregon.gov/delc/families/pages/child-care-safety.aspx?wp7244=so%3A%5B%5B83087%2C0%5D%5D",
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Pennsylvania",
+    "slug": "pennsylvania",
+    "agency": "Pennsylvania Department of Human Services, Office of Child Development and Early Learning (OCDEL), Bureau of Certification Services",
+    "agency_url": "https://www.pa.gov/agencies/dhs/departments-offices/ocdel-info/ocdel-bureau-certification-services",
+    "license_types": "Child care centers (7 or more children), group child care homes (7 to 12 children, or 7 to 15 if all are 4th grade through age 15), and family child care homes (4 to 6 children), each issued a certificate of compliance.",
+    "how_to_get_licensed": "Apply to DHS/OCDEL for a certificate of compliance through a regional Child Development Office; DHS schedules the initial inspection only after the application is complete, and a certificate lasts no more than 12 months.",
+    "ratios": [
+      {
+        "group": "Infant (birth to 1 year)",
+        "ratio": "1:4"
+      },
+      {
+        "group": "Young toddler (1 to 2 years)",
+        "ratio": "1:5"
+      },
+      {
+        "group": "Older toddler (2 to 3 years)",
+        "ratio": "1:6"
+      },
+      {
+        "group": "Preschool (3 years to kindergarten entry)",
+        "ratio": "1:10"
+      },
+      {
+        "group": "Young school-age (kindergarten to 4th grade entry)",
+        "ratio": "1:12"
+      },
+      {
+        "group": "Older school-age (4th grade through 15 years)",
+        "ratio": "1:15"
+      }
+    ],
+    "ratios_source_url": null,
+    "background_checks": null,
+    "insurance": null,
+    "complaint_process": "Complaints of regulatory non-compliance are reviewed by supervisors at the OCDEL Bureau of Certification Services, then assigned to a Certification Representative for inspection, and the findings are shared with the complainant.",
+    "complaint_url": "https://www.compass.state.pa.us/Compass.Web/ProviderSearch/Home#/BasicSearch",
+    "complaint_phone": null,
+    "parent_lookup_url": "https://www.compass.state.pa.us/Compass.Web/ProviderSearch/Home#/BasicSearch",
+    "inspection_history_url": "https://www.compass.state.pa.us/Compass.Web/ProviderSearch/Home#/BasicSearch",
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Rhode Island",
+    "slug": "rhode-island",
+    "agency": "Rhode Island Department of Human Services (DHS), Office of Child Care Licensing",
+    "agency_url": "https://dhs.ri.gov/programs-and-services/child-care/child-care-providers-staff-resources/apply-be-child-care-provider",
+    "license_types": "Licensed child care centers and school-age programs, licensed family child care homes (up to 6 children alone, or up to 8 with an approved assistant), and group family child care homes (up to 12 children).",
+    "how_to_get_licensed": "Apply online through RISES (Rhode Island Start Early System), with one application per location; DHS Child Care Licensing reviews the application and inspects the program before issuing a license.",
+    "ratios": [
+      {
+        "group": "Younger infants (6 weeks to 12 months)",
+        "ratio": "1:4"
+      },
+      {
+        "group": "Older infants (12 to 18 months)",
+        "ratio": "1:4"
+      },
+      {
+        "group": "Toddlers (18 to 36 months)",
+        "ratio": "1:6"
+      },
+      {
+        "group": "Preschool, age 3",
+        "ratio": "1:9"
+      },
+      {
+        "group": "Preschool, age 4",
+        "ratio": "1:10"
+      },
+      {
+        "group": "Preschool, ages 5 to 6 and not in kindergarten",
+        "ratio": "1:12"
+      },
+      {
+        "group": "School age, kindergarten and older",
+        "ratio": "1:13"
+      }
+    ],
+    "ratios_source_url": null,
+    "background_checks": null,
+    "insurance": null,
+    "complaint_process": "Regulatory complaints about a licensed provider are handled by the DHS Child Care Licensing team, which keeps information on all complaints received, investigative action taken and resolutions; suspected child abuse or neglect is reported to DCYF Child Protective Services.",
+    "complaint_url": null,
+    "complaint_phone": "401-462-3009",
+    "parent_lookup_url": "http://kids.ri.gov/",
+    "inspection_history_url": "http://kids.ri.gov/",
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "South Carolina",
+    "slug": "south-carolina",
+    "agency": "South Carolina Department of Social Services (DSS), Division of Early Care and Education, Child Care Licensing",
+    "agency_url": "https://dss.sc.gov/media/dtypqqif/dss-brochure-501.pdf",
+    "license_types": "Licensed child care centers (13 or more children), licensed group child care homes (7 to 12 children), and family child care homes (up to 6 children) which must register and may choose to be licensed.",
+    "how_to_get_licensed": "Attend a DSS orientation, submit architectural plans to the Chief Fire Marshal and zoning approval with the application to the regional Child Care Licensing office, pass fire, health and licensing inspections, then receive a provisional license and, after operating with 13 or more children for at least 45 days, a regular license.",
+    "ratios": [
+      {
+        "group": "Birth to one year",
+        "ratio": "1:5"
+      },
+      {
+        "group": "One to two years",
+        "ratio": "1:6"
+      },
+      {
+        "group": "Two to three years",
+        "ratio": "1:8"
+      },
+      {
+        "group": "Three to four years",
+        "ratio": "1:12"
+      },
+      {
+        "group": "Four to five years",
+        "ratio": "1:17"
+      },
+      {
+        "group": "Five to six years",
+        "ratio": "1:20"
+      },
+      {
+        "group": "Six to twelve years",
+        "ratio": "1:23"
+      }
+    ],
+    "ratios_source_url": "https://dss.sc.gov/media/dtypqqif/dss-brochure-501.pdf",
+    "background_checks": "State and federal comprehensive background checks are required for all child care staff, including SC Child Abuse and Neglect Central Registry and out-of-state abuse and neglect checks if staff lived outside SC in the past 5 years, in-state and national sex offender database checks, and state and federal fingerprinting.",
+    "insurance": null,
+    "complaint_process": null,
+    "complaint_url": "http://www.scchildcare.org/families/filing-a-complaint/",
+    "complaint_phone": null,
+    "parent_lookup_url": null,
+    "inspection_history_url": null,
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "South Dakota",
+    "slug": "south-dakota",
+    "agency": "South Dakota Department of Social Services, Child Care Services, Office of Licensing and Accreditation",
+    "agency_url": "https://dss.sd.gov/childcare/default.aspx",
+    "license_types": "Registered Family Day Care (up to 12 children), Licensed Day Care Center (13 or more), Licensed Before and After School Center, and Group Family Day Care (up to 20).",
+    "how_to_get_licensed": "Apply through the Office of Licensing and Accreditation; centers must be licensed and family providers may register voluntarily, with building-plan approval and inspections before operating.",
+    "ratios": [
+      {
+        "group": "Up to 3 years",
+        "ratio": "1:5"
+      },
+      {
+        "group": "3 through 4 years",
+        "ratio": "1:10"
+      },
+      {
+        "group": "5 years and over",
+        "ratio": "1:15"
+      }
+    ],
+    "ratios_source_url": "https://olapublic.sd.gov/api/mcase/attachments/162043",
+    "background_checks": null,
+    "insurance": null,
+    "complaint_process": "Office of Licensing and Accreditation specialists address each licensing complaint, work with the provider on a plan of correction with a timeframe, and post the complaint date, issue and correction online; abuse or neglect is referred to Child Protection Services.",
+    "complaint_url": "https://dss.sd.gov/childcare/default.aspx",
+    "complaint_phone": "605-566-4382",
+    "parent_lookup_url": "https://dss.sd.gov/childcare/default.aspx",
+    "inspection_history_url": "https://dss.sd.gov/childcare/licensing/dccmonitoring.aspx",
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Tennessee",
+    "slug": "tennessee",
+    "agency": "Tennessee Department of Human Services, Child Care Services",
+    "agency_url": "https://www.tn.gov/humanservices/for-families/child-care-services",
+    "license_types": "Family Child Care Home (5-7 unrelated children), Group Child Care Home (8-12), Child Care Center (13 or more), and Drop-in Child Care Center.",
+    "how_to_get_licensed": "Apply to the Tennessee Department of Human Services Child Care Services through its Pre-Licensure process and meet the licensure rules for child care agencies.",
+    "ratios": null,
+    "ratios_source_url": null,
+    "background_checks": null,
+    "insurance": null,
+    "complaint_process": "Report child care violations by calling the Child Care Complaint Hotline; the department licenses and monitors agencies and investigates complaints.",
+    "complaint_url": "https://www.tn.gov/humanservices/for-families/child-care-services",
+    "complaint_phone": "1-800-462-8261",
+    "parent_lookup_url": "https://www.tn.gov/humanservices/for-families/child-care-services/find-child-care.html",
+    "inspection_history_url": "https://www.tn.gov/humanservices/for-families/child-care-services/find-child-care.html",
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Texas",
+    "slug": "texas",
+    "agency": "Texas Health and Human Services Commission, Child Care Regulation",
+    "agency_url": "https://www.hhs.texas.gov/services/family-safety-resources/child-care",
+    "license_types": "Licensed Child Care Center, Registered Child Care Home, and Listed Family Home.",
+    "how_to_get_licensed": "Apply for a permit from HHSC Child Care Regulation, pass inspections, and meet the Minimum Standards for the permit type.",
+    "ratios": [
+      {
+        "group": "0–11 months",
+        "ratio": "1:4"
+      },
+      {
+        "group": "12–17 months",
+        "ratio": "1:5"
+      },
+      {
+        "group": "18–23 months",
+        "ratio": "1:9"
+      },
+      {
+        "group": "2 years",
+        "ratio": "1:11"
+      },
+      {
+        "group": "3 years",
+        "ratio": "1:15"
+      },
+      {
+        "group": "4 years",
+        "ratio": "1:18"
+      },
+      {
+        "group": "5 years",
+        "ratio": "1:22"
+      },
+      {
+        "group": "6 years and older",
+        "ratio": "1:26"
+      }
+    ],
+    "ratios_source_url": "https://www.hhs.texas.gov/providers/child-care-regulation/minimum-standards",
+    "background_checks": null,
+    "insurance": null,
+    "complaint_process": "Child Care Regulation inspects licensed and registered operations and investigates reports and complaints of possible violations, including unpermitted operation; suspected abuse or neglect should be reported to the Texas Abuse Hotline.",
+    "complaint_url": "https://www.hhs.texas.gov/services/family-safety-resources/child-care/exploring-day-care",
+    "complaint_phone": "1-800-252-5400",
+    "parent_lookup_url": "https://www.hhs.texas.gov/services/family-safety-resources/child-care/exploring-day-care",
+    "inspection_history_url": "https://www.hhs.texas.gov/services/family-safety-resources/child-care/exploring-day-care",
+    "parent_disclosure": "Parents have the right to file a complaint, review the home's publicly accessible records, receive HHSC inspection reports, and be given contact information for Child Care Regulation and instructions on accessing the compliance history online.",
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Utah",
+    "slug": "utah",
+    "agency": "Utah Department of Health and Human Services, Division of Licensing and Background Checks, Office of Licensing - Child Care Licensing",
+    "agency_url": "https://dlbc.utah.gov/home/office-of-licensing/child-care/",
+    "license_types": "Child Care Center, Licensed Family Child Care (9-16 children), and Residential Child Care Certificate (voluntary, up to 8 children).",
+    "how_to_get_licensed": "Apply for a license through the Division of Licensing and Background Checks and meet the applicable child care rules (R381-100 for centers, R430-90 for licensed family care).",
+    "ratios": null,
+    "ratios_source_url": null,
+    "background_checks": "New covered individuals must be cleared by an Office of Background Processing background check, including fingerprints, before becoming involved with child care, and the provider must verify eligibility in the licensing portal.",
+    "insurance": null,
+    "complaint_process": "The Office of Licensing investigates complaints about unlicensed programs and rule, statute or law violations in licensed programs; concerns can be submitted on the online form or by phone.",
+    "complaint_url": "https://dlbc.utah.gov/submit-a-concern",
+    "complaint_phone": "(801) 890-2007",
+    "parent_lookup_url": "https://dlbc.utah.gov/information-for-the-public/",
+    "inspection_history_url": "https://dlbc.utah.gov/information-for-the-public/",
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Vermont",
+    "slug": "vermont",
+    "agency": "Vermont Department for Children and Families, Child Development Division, Child Care Licensing",
+    "agency_url": "https://dcf.vermont.gov/cdd/contact",
+    "license_types": "Center Based Child Care and Preschool Programs, Registered Family Child Care Home (up to 10), Licensed Family Child Care Home (up to 12), and Afterschool Child Care Programs.",
+    "how_to_get_licensed": "Apply to the Department for Children and Families, Child Development Division, to be licensed or registered; state law bars operating a child care facility without a license or a family home without registration unless exempt.",
+    "ratios": null,
+    "ratios_source_url": null,
+    "background_checks": "Providers and staff must complete fingerprint-based record checks, with fingerprint required letters and final fingerprint clearance letters processed through the Bright Futures Information System.",
+    "insurance": null,
+    "complaint_process": "Contact the Child Care Consumer Line with questions, concerns or complaints; licensors conduct complaint visits and co-investigate concerns with the Family Services Division.",
+    "complaint_url": "https://dcf.vermont.gov/cdd/contact",
+    "complaint_phone": "1-800-649-2642",
+    "parent_lookup_url": "https://dcf.vermont.gov/node/2061",
+    "inspection_history_url": "https://dcf.vermont.gov/node/2061",
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Virginia",
+    "slug": "virginia",
+    "agency": "Virginia Department of Education, Office of Child Care Health and Safety",
+    "agency_url": "https://www.childcare.virginia.gov/providers",
+    "license_types": "Licensed Child Day Center, Licensed Home-Based Child Care, Licensed Home-Based Child Care System, and Voluntarily Registered Home-Based Child Care.",
+    "how_to_get_licensed": "Apply to the Virginia Department of Education, Office of Child Care Health and Safety, for a license; licensed programs are inspected before operation and at least twice a year.",
+    "ratios": [
+      {
+        "group": "Birth up to 16 months",
+        "ratio": "1:4"
+      },
+      {
+        "group": "16 months up to 24 months",
+        "ratio": "1:5"
+      },
+      {
+        "group": "2 year olds",
+        "ratio": "1:8"
+      },
+      {
+        "group": "3 years to school-age eligible",
+        "ratio": "1:10"
+      }
+    ],
+    "ratios_source_url": "https://law.lis.virginia.gov/admincode/title8/agency20/chapter780/section350/",
+    "background_checks": "Virginia requires background checks for child care staff under 8VAC20-770, which licensing inspectors review during inspections.",
+    "insurance": null,
+    "complaint_process": "The Department of Education investigates complaints about violations of child care regulations, illegal operation, and suspected abuse or neglect; complaints can be filed online or by calling the Office of Child Care Health and Safety.",
+    "complaint_url": "https://www.childcare.virginia.gov/families/file-a-complaint",
+    "complaint_phone": "833-778-0204",
+    "parent_lookup_url": "https://www.childcare.virginia.gov/families/child-care-and-early-learning-options",
+    "inspection_history_url": "https://www.childcare.virginia.gov/families/child-care-and-early-learning-options",
+    "parent_disclosure": "Voluntarily registered home-based providers must give parents an Information to Parents Statement, including the inspector's name and phone number and how to report a violation or suspected abuse or neglect.",
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Washington",
+    "slug": "washington",
+    "agency": "Washington State Department of Children, Youth, and Families",
+    "agency_url": "https://dcyf.wa.gov/services/early-learning-providers/cre/resources",
+    "license_types": "Child Care Center, Licensed Family Home Child Care (up to 12 children, with a waiver up to 16 for experienced providers), and Outdoor Nature-Based Child Care.",
+    "how_to_get_licensed": "Apply to DCYF for a license under WAC 110-300; every licensed program is enrolled in Early Achievers, Washington's quality rating system.",
+    "ratios": [
+      {
+        "group": "Infants (0-11 months)",
+        "ratio": "1:4"
+      },
+      {
+        "group": "Toddlers (12-29 months)",
+        "ratio": "1:7"
+      },
+      {
+        "group": "Preschoolers (30 months through 6 years, not in school)",
+        "ratio": "1:10"
+      },
+      {
+        "group": "School-age (5-12 years, in kindergarten or elementary school)",
+        "ratio": "1:15"
+      }
+    ],
+    "ratios_source_url": "https://lawfilesext.leg.wa.gov/law/wacpdf/WAC%20110%20%20TITLE/WAC%20110%20-300%20%20CHAPTER/WAC%20110%20-300%20-0356.pdf",
+    "background_checks": null,
+    "insurance": null,
+    "complaint_process": "A DCYF licensor begins action on a complaint within five working days, and complaints are usually inspected and resolved within 45 days; valid complaints are posted on Child Care Check.",
+    "complaint_url": "https://www.dcyf.wa.gov/safety/child-care-complaints",
+    "complaint_phone": "1-866-482-4325",
+    "parent_lookup_url": "https://www.findchildcarewa.org/",
+    "inspection_history_url": "https://www.findchildcarewa.org/",
+    "parent_disclosure": "Providers must prominently post their license, DCYF's toll-free telephone number, notice of any pending enforcement action, and a notice that inspection reports and enforcement notices for the previous three years are available.",
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "West Virginia",
+    "slug": "west-virginia",
+    "agency": "West Virginia Department of Human Services, Bureau for Family Assistance, Division of Early Care and Education",
+    "agency_url": "https://bfa.wv.gov/frequently-asked-questions-faq",
+    "license_types": "Family Child Care Home (certificate of registration, up to 6 children), Family Child Care Facility (7-12 children), and Child Care Center (13 or more children).",
+    "how_to_get_licensed": "Submit a Needs Assessment and Letter of Intent, then a completed application to the Bureau for Family Assistance, Division of Early Care and Education, Child Care Regulation Unit, with fire, health and other inspections.",
+    "ratios": null,
+    "ratios_source_url": null,
+    "background_checks": "Background checks are completed by the Department of Human Services to determine if staff, providers, or other adults in a caregiver's home have a history of child or adult abuse or neglect or a criminal record.",
+    "insurance": null,
+    "complaint_process": "Report a child care center violation by email to ECEComplaints@wv.gov; complaints about Bureau for Family Assistance programs can also be made through DoHS Client Services.",
+    "complaint_url": "https://bfa.wv.gov/frequently-asked-questions-faq",
+    "complaint_phone": "1-800-642-8589",
+    "parent_lookup_url": null,
+    "inspection_history_url": null,
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Wisconsin",
+    "slug": "wisconsin",
+    "agency": "Wisconsin Department of Children and Families, Bureau of Early Care Regulation",
+    "agency_url": "https://dcf.wisconsin.gov/cclicensing/contacts",
+    "license_types": "Licensed Family Child Care Center (4-8 children under 7), Licensed Group Child Care Center (9 or more children), Licensed Day Camp, and Certified Family Child Care (no more than 3 children under 7).",
+    "how_to_get_licensed": "Apply to the Department of Children and Families, Bureau of Early Care Regulation; anyone caring for 4 or more children under age 7 for less than 24 hours a day must be licensed.",
+    "ratios": [
+      {
+        "group": "Birth - 2 years",
+        "ratio": "1:4"
+      },
+      {
+        "group": "2 - 2.5 years",
+        "ratio": "1:6"
+      },
+      {
+        "group": "2.5 - 3 years",
+        "ratio": "1:8"
+      },
+      {
+        "group": "3 - 4 years",
+        "ratio": "1:10"
+      },
+      {
+        "group": "4 - 5 years",
+        "ratio": "1:13"
+      },
+      {
+        "group": "5 years and older",
+        "ratio": "1:18"
+      }
+    ],
+    "ratios_source_url": "https://dcf.wisconsin.gov/files/youngstar/pdf/policies/ys-ratio-policy.pdf",
+    "background_checks": "Wisconsin requires a background check request for child care staff, using Department form DCF-F-5296, Background Check Request.",
+    "insurance": null,
+    "complaint_process": "Anyone may submit a complaint about a licensed or illegally operating program to the department by telephone, letter, email, fax or personal interview; a licensing representative investigates every complaint and sends a written report of findings on request.",
+    "complaint_url": "https://dcf.wisconsin.gov/cclicensing/contacts",
+    "complaint_phone": null,
+    "parent_lookup_url": null,
+    "inspection_history_url": null,
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  },
+  {
+    "state": "Wyoming",
+    "slug": "wyoming",
+    "agency": "Wyoming Department of Family Services, Child Care Licensing",
+    "agency_url": "http://dfs.wyo.gov/services/family-services/child-care/resource-and-referral-parents/",
+    "license_types": "Family Child Care Home (up to 10 children), Family Child Care Center (up to 15 children), and Child Care Center (16 or more children).",
+    "how_to_get_licensed": "Apply to the Wyoming Department of Family Services, Child Care Licensing; staff review applications, inspect facilities, and issue one-year licenses, and a license is required to care for more than two unrelated children unless exempt.",
+    "ratios": null,
+    "ratios_source_url": null,
+    "background_checks": null,
+    "insurance": null,
+    "complaint_process": "Anyone can file a complaint with DFS, including anonymously; DFS conducts at least one announced and one unannounced inspection each year and can visit more often for complaints or compliance monitoring.",
+    "complaint_url": "http://dfs.wyo.gov/services/family-services/child-care/resource-and-referral-parents/",
+    "complaint_phone": "307-777-3540",
+    "parent_lookup_url": "http://dfs.wyo.gov/services/family-services/child-care/resource-and-referral-parents/",
+    "inspection_history_url": null,
+    "parent_disclosure": null,
+    "contracts_withdrawal": null
+  }
+]

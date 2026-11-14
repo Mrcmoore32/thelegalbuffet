@@ -85,14 +85,16 @@
       results.innerHTML = '<div class="ss-empty">No results for &ldquo;' +
         q.replace(/</g, '&lt;') + '&rdquo;. Try a state name or topic.</div>';
     } else {
-      results.innerHTML = matches.slice(0, 12).map(function (m) {
+      results.innerHTML = matches.map(function (m) {
         var e = m.e;
         var url = urlFor(e);
         var page = e.p.replace(/ \| The Legal Buffet| — The Legal Buffet| - The Legal Buffet/, '');
         return '<a class="ss-hit" href="' + url + '">' +
           '<span class="ss-h">' + e.h.replace(/</g, '&lt;') + '</span>' +
           '<span class="ss-p">' + page.replace(/</g, '&lt;') + '</span></a>';
-      }).join('');
+      }).join('') + (matches.length > 12
+        ? '<div class="ss-count">' + matches.length + ' results &mdash; add your state name to narrow it down.</div>'
+        : '');
     }
     results.hidden = false;
   }

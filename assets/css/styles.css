@@ -466,6 +466,7 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
 .ss-h { display: block; font-weight: 700; font-size: .92rem; color: var(--ink); }
 .ss-p { display: block; font-size: .78rem; color: var(--muted); margin-top: .15rem; }
 .ss-empty { padding: .9rem 1rem; font-size: .88rem; color: var(--muted); }
+.ss-count { position: sticky; bottom: 0; padding: .6rem .9rem; font-size: .8rem; color: var(--muted); background: var(--paper-deep); border-top: 1px solid var(--line); }
 @media (max-width: 900px) {
   .header-inner { flex-wrap: wrap; }
   .site-search { order: 5; flex: 1 1 100%; }
