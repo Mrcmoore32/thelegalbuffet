@@ -1,0 +1,713 @@
+[
+  {
+    "contest": "The owner or lienholder may contest the sale of an unclaimed/abandoned vehicle by filing a notice of appeal with the circuit court in the county where the sale is scheduled to occur, after ALDOR sends the Notice of Termination (within five calendar days of receiving the Notice of Public Auction). No statewide hearing deadline for contesting the tow itself was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "There is no statewide towed-vehicle locator in the sources consulted. Contact the law enforcement agency that ordered the tow. If the vehicle is in the unclaimed/abandoned process, the Alabama Department of Revenue (ALDOR) publishes a public list of reported unclaimed/abandoned vehicles through its Unclaimed/Abandoned Vehicle Portal. City police pages describe the usual release steps: get a tow-in release form from the police department, with the registered owner present with proof of ownership (title, registration or tag receipt) and a valid driver's license (or bring a licensed driver), then take the release to the wrecker service holding the vehicle.",
+    "phone": null,
+    "police_vs_private": "The same unclaimed/abandoned framework covers both: a peace officer may have a vehicle removed when it is left unattended, the driver was arrested or impaired by an accident, or removal is otherwise necessary, and a private property owner or lessee may have a vehicle removed when it has remained on private or other public property for more than 48 hours without consent. In both cases the holder must report the vehicle to ALDOR and follow the same notice and public-auction sale process before it can be sold as abandoned.",
+    "slug": "alabama",
+    "sources": [
+      "https://www.revenue.alabama.gov/motor-vehicle/unclaimed-abandoned-motor-vehicle-law-and-procedures/",
+      "https://www.revenue.alabama.gov/faqs/what-qualifies-as-an-unclaimed-abandoned-motor-vehicle/",
+      "http://www.cityofsylacauga.net/police-department-questions.html",
+      "https://www.homewoodpd.org/faqs"
+    ],
+    "state": "Alabama",
+    "unclaimed": "A vehicle is unclaimed/abandoned if left unattended on a public road or highway for more than 48 hours, left on private or other public property for more than 48 hours without the owner's or lessee's consent, left at a repair shop and not reclaimed within 48 hours after repairs are completed or the agreed redemption date, or left unattended because the driver was arrested or impaired by an accident and law enforcement found removal necessary. The holder must report it to ALDOR within five calendar days; a 60-day hold is placed on the title record. The owner and lienholder must be sent a Notice of Possession by certified mail. The Notice of Public Auction must be published once a week for two consecutive weeks, and the auction date must be at least 35 days after the first publication; the vehicle may be sold as abandoned after 35 calendar days from the Notice of Public Auction. The sources consulted do not state whether the owner still owes money if the sale does not cover the charges."
+  },
+  {
+    "contest": "AS 28.11 itself does not set out a statewide hearing deadline for contesting a tow. A municipality that adopts an abatement ordinance under AS 28.11.100 must include a right to a hearing conducted by the municipality in the manner provided for the department under AS 28.05.131-28.05.141. An owner may redeem the vehicle at any time before auction by presenting satisfactory proof of ownership or right to possession and paying towing, storage, notice, other impoundment costs, and any applicable penalty (AS 28.11.060).",
+    "fees": null,
+    "find_car": "There is no statewide public impound locator in the sources consulted; contact the local police department that ordered the tow. In Anchorage, the Vehicle Impounds desk in the Municipal Attorney's Office, Civil Division, handles releases for Anchorage Police Department impounds (operating under the influence, driving while license suspended/revoked/cancelled, driving without insurance, and scofflaw). The police send impound information to that office by 1:00 p.m. the next business day. Only the registered owner may retrieve the vehicle, with DMV-issued proof of ownership (title or registration), current proof of insurance, a government-issued photo ID, and a valid driver's license for the person driving it away. Statewide, the person or company storing a vehicle at a peace officer's direction must give the owner and lienholders notice within 30 days stating the grounds for removal and the place of impoundment (AS 28.11.040).",
+    "phone": null,
+    "police_vs_private": "A peace officer or an employee authorized by the state or a municipality may remove, or have removed for storage, a vehicle abandoned on a highway, a vehicular way or area, or on private property (AS 28.11.030(a)). Removal from private property must be on the written request of the owner or person in lawful possession or control of the property, on a form prescribed by the department (AS 28.11.030(b)). The same notice, redemption, vesting-of-title, and auction rules then apply to a vehicle stored at a peace officer's direction.",
+    "slug": "alaska",
+    "sources": [
+      "https://www.akleg.gov/basis/folioproxy.asp?url=http://wwwjnu03.akleg.org/cgi-bin/folioisa.dll/STATTX93/query=[jump!3A!27as2721130!27]/doc/{t9867}/pageitems={body}?",
+      "https://www.muni.org/departments/legal_department/vehicle_impounds/index.php",
+      "https://www.muni.org/Departments/legal/civil/Pages/Checklist-for-Retrieving-Vehicle.aspx"
+    ],
+    "state": "Alaska",
+    "unclaimed": "Title to an impounded vehicle not reclaimed by the registered owner, a lienholder, or another person entitled to possession within 30 days from the notice given under AS 28.11.040 vests with the state or, if a municipal ordinance was adopted under AS 28.11.100, with the municipality (AS 28.11.050). The vehicle may then be disposed of by public auction 20 days after notice of the auction is published in a newspaper of general circulation in the area or municipality where it was found. The person who abandons a vehicle is liable for the cost of its removal and disposition (AS 28.11.010), and a person disposing of an abandoned vehicle may bring a civil action against a liable person for costs exceeding the disposal receipts (AS 28.11.070(c))."
+  },
+  {
+    "contest": "The owner, the owner's spouse, and each person with an interest in the vehicle shown on department records must be given an opportunity for an immobilization or poststorage hearing under ARS 28-3514; the impounding agency must mail or personally deliver notice of immobilization or storage within three business days, excluding weekends and holidays. In Scottsdale and Pinal County, a hearing to contest the officer's reason to tow under ARS 28-3511 must be requested within 10 days of impound (in person at the Scottsdale Police McKellips Station, or by calling the Pinal County Impound Hotline and leaving the required information); after 10 days a hearing will not be granted. The hearing decides the validity of the impoundment or whether the vehicle may be released before the end of the 20-day period.",
+    "fees": "State law (ARS 28-3512(H)): storage is $25 for each day of storage for a vehicle impounded under ARS 28-3512, including time in storage after the impoundment period ends. Scottsdale (city-published): towing $65.00; storage $53.50 per day for ARS 28-872 / ARS 28-4834 tows and $25.00 per day for ARS 28-3511 tows; after-hours fee $150.00; plus a $150.00 administrative fee under ARS 28-3513 (money order or cashier's check payable to the city for a hearing). Pinal County: $150 administrative towing fee plus a $3.44 processing fee, with towing and storage payable separately to the towing company. Other towing and storage amounts are set by contract between the impounding agency and the towing company and vary by locality.",
+    "find_car": "For a tow under ARS 28-872 (for example, an illegally parked, obstructing, or stolen-reported vehicle), the owner or authorized representative may claim the vehicle at any time from the towing company named on the Vehicle Removal Report, showing photo identification and proof of ownership; no sheriff's office visit or hearing is needed unless the owner wants to contest the tow. For a tow under ARS 28-3511, the vehicle is generally held for 20 days (7 days for the obstructing-a-thoroughfare ground in ARS 28-3511(A)(4)); early release is available only in the circumstances listed in ARS 28-3512, through a hearing or by presenting a valid driver's license, proof of current registration or a valid salvage/dismantle title, proof of financial-responsibility (insurance) compliance, and, if required, proof of a functioning ignition interlock device, and paying the charges. In Scottsdale, call the tow company (All City Towing) to verify where the vehicle is stored and bring government-issued photo identification and current registration or title.",
+    "phone": null,
+    "police_vs_private": "Police-ordered tows and private-property/abandoned-vehicle tows follow different statutes. Police-ordered impoundment under ARS 28-3511 (suspended/revoked/never-licensed driver, ignition-interlock violation, DUI, reckless driving, street racing, and similar grounds) carries a 20-day hold, a $150 administrative fee, and a poststorage hearing under ARS 28-3514; a tow under ARS 28-872 can be claimed at any time on proof of ownership. Private-property and abandoned-vehicle tows are governed by ARS 28-4834 and 28-4838: the property owner authorizes the tow, the person towing without the owner's consent must notify the law enforcement agency of the jurisdiction where the vehicle was located, and the abandoned-vehicle report and 30-day reclaim notice process applies.",
+    "slug": "arizona",
+    "sources": [
+      "https://www.azleg.gov/ars/28/03511.htm",
+      "https://www.azleg.gov/ars/28/03512.htm",
+      "https://www.azleg.gov/viewdocument/?docName=https://www.azleg.gov/ars/28/04838.htm",
+      "https://www.scottsdaleaz.gov/police/police-units/vehicle-impound-unit/",
+      "https://www.pinal.gov/1123/Impounded-Vehicles"
+    ],
+    "state": "Arizona",
+    "unclaimed": "If no claim for return or possession is made within 30 days after the impoundment period under ARS 28-3511, the person in possession must submit an abandoned vehicle report as provided in ARS 28-4838 (ARS 28-3515). Under ARS 28-4838, a person with custody of a lost, stolen, abandoned, or otherwise unclaimed vehicle, or a vehicle seized or removed from a public right-of-way by a law enforcement officer and held for 10 days without a claim, must submit an electronic abandoned vehicle report to the Motor Vehicle Division director within five days after the 10-day retention period expires. The Motor Vehicle Division then notifies the owner, lienholder, and other interested parties, who have 30 days to reclaim the vehicle; if it is not claimed, ownership may be transferred to the towing company. A tow company that misses the reporting deadline forfeits all claims for towing and storing the vehicle."
+  },
+  {
+    "contest": "An owner who believes the original taking was not legally justified has 30 days to contest it under Ark. Code 27-50-1207. The clock runs from the date of removal or from the date the towing firm notifies the owner of a law enforcement hold, whichever is later. Where to file depends on who ordered the tow: a petition to the Arkansas State Claims Commission if a state agency ordered the removal; the local administrative review process if the city or county has one; otherwise a petition in the circuit court of the county where the vehicle is stored, naming the county, city, or town as respondent and also naming the towing company if it still has possession. The Arkansas Towing and Recovery Board also investigates and resolves consumer complaints about nonconsensual towing under 27 CAR 170-105.",
+    "fees": null,
+    "find_car": "There is no statewide towed-vehicle locator in the sources consulted. A towing or storage firm that removes a vehicle without the owner's authorization must notify the local police department or sheriff's office in whose jurisdiction the vehicle was removed within two hours of taking possession, so that office is the place to ask where the vehicle was taken. To reclaim a vehicle, the owner or lienholder may retake possession at any time during business hours by appearing, proving ownership, releasing any law enforcement or other official hold, and paying all charges or making another written arrangement with the towing and storage firm (Ark. Code 27-50-1208).",
+    "phone": null,
+    "police_vs_private": "Both kinds of tow are nonconsensual tows under the same statutes, but the authority differs. A law enforcement officer may direct a licensed towing and storage firm to remove an unattended or abandoned vehicle, a disabled or inoperative vehicle for which the owner waived owner preference, a vehicle whose operator was apprehended, or an impounded or seized vehicle. A private property owner or agent may have a vehicle found abandoned or parked without authorization on private or public property removed by a towing and storage firm licensed by the Arkansas Towing and Recovery Board, but only with the property owner's written authorization; a firm must not remove a vehicle without that authorization except as directed by law enforcement or as otherwise authorized by Ark. Code 27-50-1201 et seq. A county or city may also regulate private-property removal by ordinance, including signage requirements, as long as the ordinance does not conflict with Ark. Code 27-50-1101. The same notice, lien, contest, and sale rules in Ark. Code 27-50-1208 through 27-50-1210 apply after either kind of removal.",
+    "slug": "arkansas",
+    "sources": [
+      "https://webftp.blr.arkansas.gov/Home/FTPDocument?path=CAR%2FParts%2F27CARpt170.pdf",
+      "https://webftp.blr.arkansas.gov/Home/FTPDocument?path=ACTS%2F2005%2FPublic%2FACT2211.pdf",
+      "https://webftp.blr.arkansas.gov/Home/FTPDocument?path=Bills%2F2009%2FPublic%2FSB409%2FSB409-030420091400.pdf",
+      "https://opinions.arcourts.gov/ark/courtofappeals/en/item/523313/index.do?iframe=true"
+    ],
+    "state": "Arkansas",
+    "unclaimed": "A vehicle is treated as abandoned if the owner has shown an intention not to retake possession, or if it remains unattended for 30 days with no evidence the owner intends to retake it. The towing and storage firm must mail notice by certified mail, return receipt requested, to the last known registered owner and lienholders; the notice must be posted not sooner than two business days and within eight business days after the firm receives the vehicle, and must state that the vehicle will be dismantled, destroyed, or sold at public sale to the highest bidder unless claimed within 45 days. If it is not claimed within 45 days, that failure waives the owner and lienholder's right, title, and interest in the vehicle and its contents and is consent to sale, dismantling, or destruction. The towing and storage firm has a first-priority possessory lien on the vehicle and its contents for all reasonable towing, recovery, and storage charges, and the notice states those costs are accruing as a legal liability of the owner."
+  },
+  {
+    "contest": "The owner, legal owner, or an interested person (or agent) may request a poststorage hearing to determine whether the storage was valid. The request must be made in person, in writing, or by telephone within 10 days from the date of the notice, and a requested hearing must be held within 48 hours of the request, excluding weekends and holidays (Veh. Code 22852; the same 10-day / 48-hour pattern is set out in Veh. Code 22851.3 for low-value vehicles). If the hearing officer finds there were no reasonable grounds for the storage, the agency that ordered the tow is responsible for the towing and storage costs. A decision may be reviewed under Government Code 11523, and the vehicle may not be disposed of while the hearing or that review is pending.",
+    "fees": null,
+    "find_car": "When a public agency directs storage of a vehicle, it must give the registered and legal owners notice, generally within 48 hours excluding weekends and holidays, stating the storage location, a description of the vehicle, the authority for the removal, and how to request a hearing (Veh. Code 22852; see also 22851.3). Contact the impounding agency named in that notice to learn which lot holds the vehicle. To get the vehicle released from storage under Veh. Code 22850, the owner must furnish satisfactory proof of current vehicle registration to the law enforcement agency or employee that placed it in storage. Personal property in or on the vehicle must be given to the current registered owner or the owner's authorized agent on demand and without charge during normal business hours (Monday-Friday, 8 a.m. to 5 p.m., except state holidays).",
+    "phone": null,
+    "police_vs_private": "Police-ordered storage and private-property removal are governed by different sections. A peace officer may have a vehicle removed under Veh. Code 22651 on many grounds, including parking for 72 or more consecutive hours in violation of a local ordinance, a driver arrested for DUI or driving without a valid license (a 30-day hold under Veh. Code 14602.6), and similar grounds; the 22852 notice and poststorage hearing apply. Removal from private property is governed by Veh. Code 22658: the property owner or person in lawful possession may cause removal only in the circumstances listed there, including a posted sign at each entrance (at least 17 by 22 inches) prohibiting public parking, stating vehicles will be removed at the owner's expense, and giving the telephone number of the local traffic law enforcement agency and each towing company under a written towing agreement; the tow operator must immediately give written notice of the removal, the grounds, and the place to which the vehicle was removed to the registered and legal owner if their name and address can be ascertained. Towing and storage rates for police-ordered tows are set locally under agreements with the California Highway Patrol, which publishes a Tow Service Agreement with per-district reasonable/maximum rates rather than a single statewide dollar figure; a city, county, or state agency may also charge administrative costs for release under Veh. Code 22850.5.",
+    "slug": "california",
+    "sources": [
+      "https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?article=2.&chapter=10.&division=11.&lawCode=VEH&part=&title=",
+      "https://www.chp.ca.gov/siteassets/exams/examination-study-guides/061-2025-02008---2025-2026-tsa--final.pdf"
+    ],
+    "state": "California",
+    "unclaimed": "A garage keeper who has received the required notices has a lien dependent on possession for towage and for caring for and keeping the vehicle safe, for up to 60 days, or 120 days if an application for authorization to conduct a lien sale was filed under Civil Code 3068.1 within 30 days after the vehicle was removed to the garage; if the vehicle is not recovered within that period, the keeper may satisfy the lien by a lien sale under Civil Code 3067-3074 (Veh. Code 22851). For a vehicle valued at $500 or less, the public agency may authorize disposal 15 days after the notice date if it remains unclaimed and the fees have not been paid (Veh. Code 22851.3). The official sources consulted do not state whether the owner still owes money if a lien sale does not cover the charges."
+  },
+  {
+    "contest": "For a vehicle abandoned on public property, the owner has an opportunity to request a hearing under CRS 42-4-1804 after the Department of Revenue reports the owner and lienholder information to the responsible law enforcement agency or tow operator; the tow notice states the hearing opportunity. For a nonconsensual tow from private property, the owner may file a complaint with the PUC, which investigates towing complaints, and state law (CRS 40-10.1-405, HB 22-1314) allows the owner to get the vehicle back by paying 15 percent of the total fees or $60, whichever is less, and signing a form acknowledging the remaining balance. No hearing deadline was stated in the official sources consulted, so check the deadline stated on the tow notice itself.",
+    "fees": "Colorado PUC maximum rates, effective March 15, 2025, for a vehicle of 10,000 lbs. GVWR or less: private property impound base rate $245.32; law enforcement-ordered tow and recovery $279.78 per hour; storage $47.12 per day (or any portion of a day); notification fee $150 for a public-property tow and $75 for a private-property tow; after-hours release fee $103.70. Heavier vehicles have higher maximums. These are PUC maximums for nonconsensual tows; a carrier may charge less.",
+    "find_car": "Contact the law enforcement agency that ordered the tow first; the Colorado Public Utilities Commission (PUC) advises starting with that agency, asking which towing company it authorized and what is needed to release the vehicle. The responsible law enforcement agency must report an abandoned-vehicle tow to the Department of Revenue within 10 working days. The tow notice (form DR 2008) states the vehicle may be reclaimed by the owner or lienholder with proof of ownership and payment of towing and storage fees, and that information about the tow must be obtained from the tow operator listed on the notice. For a nonconsensual tow from private property, the carrier must notify law enforcement within 30 minutes of the tow and must notify the Department of Revenue, the owner, and any lienholder within 10 days of the tow.",
+    "phone": null,
+    "police_vs_private": "Public-property and private-property tows are in separate parts of the statute and follow different rules. Public-property abandonment is under CRS 42-4-1801 et seq.: 48 hours unattended on public property, or 72 hours after law enforcement notifies the owner the vehicle is available for release. Private-property abandonment is under CRS 42-4-2101 et seq.: 24 hours unattended on private property without the owner's or lessee's consent, or 48 hours in the impound lot after a tow at the property owner's request. Private-property nonconsensual tows are regulated by the PUC under CRS 40-10.1-405 (HB 22-1314): the carrier must give the required signage, notify law enforcement within 30 minutes and the owner, lienholder, and Department of Revenue within 10 days, charge no more than the PUC maximum rates, and release the vehicle on the 15-percent-or-$60 partial payment described above. Law enforcement tows have no partial-payment right and are charged at the PUC's hourly law enforcement rate.",
+    "slug": "colorado",
+    "sources": [
+      "https://dmv.colorado.gov/abandoned-vehicles",
+      "https://puc.colorado.gov/puc-home/transportation/towing/towing-consumers/towing-rates",
+      "https://puc.colorado.gov/puc-home/transportation/towing/towing-consumers/law-enforcement-tow",
+      "https://leg.colorado.gov/bills/hb22-1314"
+    ],
+    "state": "Colorado",
+    "unclaimed": "A vehicle left unattended on public property for 48 hours or longer is considered abandoned, and a vehicle stored in an impound lot at law enforcement's request and not removed within 72 hours after law enforcement notifies the owner or agent that it is available for release on payment of the applicable charges is also abandoned (CRS 42-4-1801). Under the DR 2008 notice, the vehicle is subject to sale if it is not claimed and the towing/storage lien is not satisfied within 30 days from the postmark date of the notice. For a vehicle abandoned on private property, the operator must sell it in a commercially reasonable manner at a public or private sale held not less than 30 days and not more than 60 days after the postmarked date the notice was mailed under CRS 42-4-2103(4). Storage charges for an abandoned vehicle generally may not accumulate beyond 60 days after the required report was mailed, unless a court, district attorney, or law enforcement hold applies or extenuating circumstances prevented compliance with the notice requirements. The sources consulted do not state whether the owner remains liable for any shortfall if the sale does not cover the charges."
+  },
+  {
+    "contest": "The owner has the right to contest the taking before a hearing officer named in the 48-hour certified-mail notice, within 10 days from the date of the notice (Conn. Gen. Stat. 14-150(f)). The chief executive officer of each municipality appoints a hearing officer who is not a member of any state or local police department. If the hearing officer finds the vehicle was not a menace to traffic, abandoned, or unregistered, the owner is not liable for any expenses from the taking and storage, the lien does not apply, and the department that took and stored the vehicle is liable for those expenses; if the owner already paid, that department must reimburse the owner. The hearing officer's decision may be appealed to the Superior Court within whose jurisdiction the hearing was held, within 15 days of notice of the decision. For a tow ordered by a municipality for violation of a municipal ordinance, the owner requests the hearing by filing DMV form A-25 (Request for Hearing, Contested Tow) with the municipality, and no sale or other action may be taken against the vehicle while the hearing or its decision is pending.",
+    "fees": null,
+    "find_car": "A vehicle that is a menace to traffic or to public health or safety may be taken into custody immediately by a Department of Motor Vehicles (DMV) inspector, a police officer, or a parking-authority enforcement officer and stored in a suitable place. A vehicle that is apparently abandoned or without proper registration gets a notification sticker first, stating the date and time it was affixed, that it will be taken into custody and stored at the owner's expense if not removed within 24 hours, and the location and telephone number where more information can be obtained. Within 48 hours of taking a vehicle into custody, the agency must give written notice by certified mail to the owner and any lienholders shown on DMV records, stating that the vehicle was taken into custody and stored, where it is stored, and the owner's hearing rights. For a police-ordered tow, the police complete DMV form H-114 (Notice of Motor Vehicle Tow) and mail a copy to the owner and lienholders if the vehicle remains unclaimed after 48 hours. Bring proof of ownership and identification as named in the notice, and contact the agency or tower named there.",
+    "phone": null,
+    "police_vs_private": "Police-ordered and private-property tows follow different statutes. Under Conn. Gen. Stat. 14-150, a DMV inspector, police officer, or parking-authority enforcement officer may take custody of a vehicle that is a menace to traffic or public health or safety, or an apparently abandoned or unregistered vehicle after the 24-hour sticker, with the 48-hour certified-mail notice and the hearing before a municipal hearing officer described above. Under Conn. Gen. Stat. 14-145, a vehicle left without authorization on private property may be towed or removed at the request of the property owner or lessee, but the tow must be authorized in writing in advance (except for a vehicle blocking a fire lane or driveway), only a licensed towing company may carry it out, the tower must notify the local police department in writing, by fax, or by email within two hours of the tow and keep a record for two years, and no storage may be charged before the police are notified of possession; if the vehicle is not claimed within 48 hours, the tower must complete DMV form H-114 and mail copies by certified mail to the owner and lienholders. The DMV sets maximum allowable rates for nonconsensual towing and storage, which apply to both police-ordered and private-property nonconsensual tows and must not be exceeded.",
+    "slug": "connecticut",
+    "sources": [
+      "https://www.cga.ct.gov/2004/rpt/2004-R-0879.htm",
+      "https://portal.ct.gov/dmv/commercial-and-industry-services/towing?language=en_US"
+    ],
+    "state": "Connecticut",
+    "unclaimed": "The 48-hour notice must state that the vehicle may be sold after 15 days if its market value is not more than $1,500, or after 45 days if its value is more than $1,500. A vehicle with no registration plates or invalid plates that is apparently abandoned, worth $500 or less, and so vandalized, damaged, or in disrepair as to be unusable passes immediately to the municipality on taking custody. After a sale or other disposition, the agency must notify the owner if known and return any proceeds exceeding the costs of towing, storage, and sale and any fines due, if the owner claims them within one year; after one year the proceeds go to the municipality. If the costs and fines exceed the sale or disposition proceeds, the owner is liable to the municipality for the excess. Under Conn. Gen. Stat. 14-150, any proceeds from the sale of a towed vehicle, after deducting the amount owed for towing and storage, must be held by the tower for one year for the owner or authorized representative to claim, after which unclaimed funds escheat to the state."
+  },
+  {
+    "contest": "Delaware law does not publish a statewide contested-tow hearing procedure for impoundment. Contact the police department or state agency that ordered the tow and ask about its process for contesting the tow.",
+    "fees": null,
+    "find_car": "Contact the Delaware State Police or the local police department that ordered the tow to find where the vehicle was taken, and bring proof of ownership. Only the owner, lienholder, or authorized representative may reclaim a vehicle (Delaware Code title 21, chapter 69); a court order is required if someone else claims it. A written authorization from a state agency or court is required to release an impounded vehicle. If the vehicle was abandoned, the Department of Transportation may auction it after public notice, with proceeds deposited into the general fund after deducting auction and disposal costs. For a tow from private property, the tow truck operator must give the vehicle owner and law enforcement written notice of the removal, the grounds for it, and the place to which the vehicle was removed (Delaware Code title 21, chapter 69, section 6912).",
+    "phone": null,
+    "police_vs_private": "Under Delaware Code title 21, chapter 69, a police officer or state agency may have a vehicle removed for reasons including abandonment, an expired registration or inspection, or a driver's arrest. A private property owner may have a vehicle removed from private property if it has been there for 24 hours without permission, or immediately if it blocks a fire lane or driveway. For a private-property tow, the operator must give written notice of the removal, the grounds, and the place to which the vehicle was removed to the vehicle owner and law enforcement (title 21, chapter 69, section 6912).",
+    "slug": "delaware",
+    "sources": [
+      "http://delcode.delaware.gov/title21/c069/index.html"
+    ],
+    "state": "Delaware",
+    "unclaimed": "A vehicle left unattended on a public highway for 72 hours, left on private property for 24 hours without permission, or left after the driver was arrested is considered abandoned. The Department of Transportation may auction an abandoned vehicle after public notice, and the proceeds are deposited into the general fund after auction and disposal costs are deducted. A vehicle that is not claimed within 30 days of a notice of abandonment may be sold at public auction. The official sources consulted do not state whether the owner still owes money if the sale does not cover the charges."
+  },
+  {
+    "contest": "The owner may file a complaint with the local sheriff's office or police department, the local circuit court, or the Florida Department of Agriculture and Consumer Services to contest a tow or recover excess fees. For a vehicle impounded by law enforcement, the owner or agent must make a $500 bond, or file a complaint for possession with the court, to secure immediate release (Florida Statute 713.78(8)). A court may award the owner actual damages or $500, whichever is greater, plus court costs and attorney's fees if it finds the removal, storage, or lien was unlawful, and may award the towing company or storage facility damages if it finds the owner acted in bad faith. The official sources consulted do not state a specific hearing deadline for contesting a tow.",
+    "fees": null,
+    "find_car": "If a vehicle was towed by a law enforcement officer, the agency must notify the registered owner and lienholder by certified mail within 7 business days if the vehicle was towed from private property and within 24 hours if the vehicle was an immediate danger to public safety or the vehicle's owner was arrested. For a tow from private property, the property owner must have written authorization from the property owner and a contract with the towing company. The vehicle owner must present proof of ownership (title or registration) and a valid driver's license to the towing or storage company to reclaim the vehicle, pay the applicable fees, and may be required to present proof of insurance. The operator must release the vehicle within 1 hour of a request made during business hours.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow under Florida Statute 713.78(8) requires a $500 bond or a court complaint for immediate release, and the owner has the right to contest the tow in court. A private-property tow is governed by Florida Statute 715.07: the property owner must have written authorization and a contract with the towing company, the property must have signs posted at each entrance, and the tow company must notify the owner and lienholder of the tow within 7 business days by certified mail. Both kinds of tow are subject to the same 35-day or 50-day claim window before sale.",
+    "slug": "florida",
+    "sources": [
+      "https://www.flsenate.gov/Laws/Statutes/2003/713.78",
+      "https://www.flsenate.gov/Laws/Statutes/2003/715.07"
+    ],
+    "state": "Florida",
+    "unclaimed": "A vehicle that is not claimed within 35 days after the notice of lien is mailed, or within 50 days if the vehicle is three years old or less, may be sold at public auction to satisfy the lien for towing and storage charges (Florida Statute 713.78(10)). The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks, and the sale must be at least 10 days after the first publication. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "There is no statewide statutory hearing procedure for contesting a tow in the sources consulted. The owner may contest the tow by filing a complaint with the local law enforcement agency that ordered the tow, or by filing a civil action in the appropriate court. The Georgia Department of Public Safety does not handle tow disputes.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. The towing company must notify the owner and any lienholder of the tow within 72 hours by certified mail, return receipt requested. To reclaim the vehicle, the owner must present proof of ownership (title or registration) and a valid driver's license to the towing or storage company, pay the applicable towing and storage fees, and provide proof of insurance if required. The towing company must release the vehicle within 1 hour of a request made during normal business hours.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized under O.C.G.A. 40-6-206 when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized under O.C.G.A. 44-1-13 when a vehicle is parked on private property without authorization; the property owner must have a written agreement with the towing company and signs posted at each entrance stating that unauthorized vehicles will be towed at the owner's expense. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "georgia",
+    "sources": [
+      "https://www.ga.gov/",
+      "https://law.justia.com/codes/georgia/title-40/chapter-6/article-1/section-40-6-206/",
+      "https://law.justia.com/codes/georgia/title-44/chapter-1/section-44-1-13/"
+    ],
+    "state": "Georgia",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of tow is mailed may be sold at public auction to satisfy the lien for towing and storage charges (O.C.G.A. 40-11-2). The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks, and the sale must be at least 10 days after the first publication. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "The owner may request a hearing to contest the impoundment by contacting the Honolulu Police Department or the Department of Transportation Services. No specific hearing deadline or procedure was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "Contact the Honolulu Police Department or the Department of Transportation Services to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees. The vehicle owner or authorized representative may retrieve personal property from the vehicle during normal business hours without paying the towing or storage fees.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "hawaii",
+    "sources": [
+      "https://www.honolulu.gov/dts/faqs.html",
+      "https://www.honolulu.gov/rep/site/dts/dts_docs/MVC_FAQs.pdf"
+    ],
+    "state": "Hawaii",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "An owner may request a hearing to contest the impoundment by contacting the law enforcement agency that ordered the tow. No specific hearing deadline was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "Contact the law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "idaho",
+    "sources": [
+      "https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch18/sect49-1801/",
+      "https://legislature.idaho.gov/statutesrules/idstat/title49/t49ch18/sect49-1802/"
+    ],
+    "state": "Idaho",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "The owner may contest a tow by requesting a hearing with the local law enforcement agency that ordered the tow, or by filing a complaint with the Illinois Commerce Commission for a private-property tow. The owner must request the hearing within 10 days of the tow. If the hearing officer finds the tow was not justified, the owner is entitled to a refund of the towing and storage fees.",
+    "fees": "Illinois Commerce Commission maximum rates for a tow from private property: $225 for the tow, $30 per day for storage, and $75 for an after-hours release fee. Rates for police-ordered tows are set by local ordinance or contract and vary by municipality.",
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees. For a tow from private property, the towing company must notify the owner and any lienholder within 24 hours by certified mail.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized under 625 ILCS 5/18d-120 when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company, and the towing company must notify the owner within 24 hours. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "illinois",
+    "sources": [
+      "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=1815&ChapterID=49",
+      "https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=1815&ChapterID=49"
+    ],
+    "state": "Illinois",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of tow is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "The vehicle owner or another person with an interest in the vehicle may bring an action in the county where the vehicle is stored to determine the validity of a lien for a tow or storage charge, and may post a bond to release the vehicle pending that action (IC 9-22-1-8). For a vehicle abandoned on private property, the owner of the property must send notice by certified mail to the vehicle's owner and any lienholder; the notice must state the vehicle will be removed if not claimed within 20 days (IC 9-13-2-1, as incorporated in the Cass County ordinance). For a vehicle impounded by a city or town, the owner may request a hearing with the local law enforcement agency that ordered the tow. No statewide hearing deadline was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "There is no statewide towed-vehicle locator in the sources consulted. Contact the local law enforcement agency that ordered the tow, or the towing company named in the notice, to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration) and a valid driver's license to the towing or storage company, pay the applicable towing and storage fees, and provide proof of insurance if required. A vehicle impounded by a city or town may be released to the owner on payment of the towing and storage charges and any outstanding fines or fees.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized under IC 9-22-1 when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized under IC 9-13-2-1 when a vehicle is parked on private property without authorization; the property owner must give notice by certified mail and wait 20 days before having the vehicle removed. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "indiana",
+    "sources": [
+      "https://iga.in.gov/laws/2024/ic/titles/9#9-22-1",
+      "https://iga.in.gov/laws/2024/ic/titles/9#9-13-2",
+      "https://www.casscountyin.gov/wp-content/uploads/2023/06/Ordinance-2023-06-Abandoned-Vehicles.pdf",
+      "https://powerdms.com/public/INDIANAPOLIS/document/1144242"
+    ],
+    "state": "Indiana",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of tow is mailed may be sold at public auction to satisfy the lien for towing and storage charges (IC 9-22-1-6). If the vehicle is worth less than $1,000 and is inoperable or a junk vehicle, it may be disposed of after 30 days without a public sale. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "If the vehicle was taken into custody by a police authority or by a private entity hired by one, the notice must state that anyone disputing the planned disposition of the vehicle or personal property, or the assessment of fees, may ask for an evidentiary hearing before the police authority. Ask for the hearing within the 20-day reclaiming period after the notice takes effect; if you do not ask for a hearing or reclaim the vehicle or property in that period, you lose all right, title, claim and interest in it.",
+    "fees": null,
+    "find_car": "Contact the police authority that ordered the tow (Iowa State Patrol or local city/county law enforcement) or the private entity/garagekeeper named in the certified-mail notice, which must state the facility where the vehicle is held. Notice must be sent by certified mail within 10 days of the vehicle being taken into custody. To reclaim it, pay all towing, preservation, storage and notice charges and show a valid driver's license and proof of financial liability coverage (insurance); the private entity must give you an itemized account of all fees assessed.",
+    "phone": null,
+    "police_vs_private": "A police authority must take custody of an abandoned vehicle on public property and may take one on private property, and may hire a private entity to remove, preserve, store or dispose of it. A private property owner may also hire a garagekeeper directly, without any police involvement; in that case the notice states the garagekeeper may claim a garagekeeper's lien under Iowa Code 321.90, and there is no right to an evidentiary hearing before a police authority. Court-ordered OWI impoundments under Iowa Code 321J.4B follow a separate process.",
+    "slug": "iowa",
+    "sources": [
+      "https://www.legis.iowa.gov/docs/ico/chapter/321.89.pdf",
+      "https://iowadot.gov/registration-plates/other-vehicle-services/abandoned-vehicles",
+      "https://iowadot.gov/registration-plates/other-vehicle-services/abandoned-vehicles/private-entities/initiated-law-enforcement",
+      "https://iowadot.gov/media/7304/download",
+      "https://iowadot.gov/media/7305/download?inline"
+    ],
+    "state": "Iowa",
+    "unclaimed": "If the vehicle is not reclaimed within 20 days after the effective date of the notice, the police authority or private entity may sell it at public auction for highway use, sell it for junk, or transfer it to a demolisher. Sale proceeds first pay the auction, towing, preservation, storage, notice and inspection costs; any remainder is held 90 days for the owner or lienholder, then deposited in the road use tax fund. If the proceeds do not cover those costs, the shortfall is the obligation of the last owner or owners, jointly and severally (Iowa Code 321.89(5))."
+  },
+  {
+    "contest": "Request a hearing within 5 days after receiving the impoundment notice \u2014 the notice must warn that missing the 5 days can waive the hearing right. The hearing, before a hearing examiner (or the municipal court in some cities, e.g. Towanda, at the next regularly scheduled court date), decides whether the impoundment was proper and how much you owe; in Towanda you can get the vehicle back before the hearing by posting a $250 bond, refunded if the tow is found unlawful.",
+    "fees": "No statewide dollar cap in K.S.A. 8-1102 or 8-1103 \u2014 the statutes allow 'reasonable or agreed' charges, with a lien for the full value of the service rendered. As a local example, the City of Newton ordinance caps a private-property tow at $250 all-inclusive, including the first 24 hours of storage, and $30 per day for storage after the first 24 hours.",
+    "find_car": "Show proof of valid registration and ownership to the public agency that impounded the vehicle (K.S.A. 8-1102(e)); the agency may require payment of all reasonable impoundment costs, including transportation and storage, before release. If you were present when police impounded it, the police must give you a written notice before removal stating where the vehicle is going, that towing and storage charges will apply, that you may reclaim it, and that you may request a hearing. Under city ordinances such as Newton's, an owner whose ownership is evidenced by a Kansas title certificate can secure release without paying towing or storage charges or depositing security up front.",
+    "phone": null,
+    "police_vs_private": "On a public highway or property open to the public, a public agency may remove and impound a vehicle left more than 48 hours (or interfering with highway operations). Leaving a vehicle on private property that is not yours is criminal trespass, and the public agency removes it at the property owner or occupant's request, with no 48-hour wait. A private property owner or occupant may also have a wrecker remove a vehicle parked on their property, and city ordinances cap those private-property wrecker fees; the property owner is not charged when the impoundment is under K.S.A. 8-1102(b).",
+    "slug": "kansas",
+    "sources": [
+      "https://kslegislature.gov/b2025_26/laws/008_000_0000_chapter/008_011_0000_article/008_011_0002_section/008_011_0002_k/",
+      "https://newtonkansas.citycode.net/chapter-xxi-traffic/article-05-impoundment-of-motor-vehicles/",
+      "https://palcoks.citycode.net/chapter-xiv-traffic/article-03-impoundment-of-motor-vehicles/",
+      "https://towandaks.citycode.net/artiImpoOfMotoVehi.htm"
+    ],
+    "state": "Kansas",
+    "unclaimed": "A vehicle impounded for 30 days or more is disposed of by public auction: the agency verifies the last registered owner and lienholders, mails certified notice, and if the owner does not claim it and pay removal and storage charges within 15 days of mailing, publishes notice once a week for two consecutive weeks; if still unclaimed 10 days after the second publication, it is sold at public auction to the highest bidder for cash. Sale proceeds after impoundment and sale expenses go to the public agency's highway construction/maintenance fund. A vehicle held by a wrecker/towing service for 30 days may likewise be sold to pay reasonable or agreed charges under K.S.A. 8-1103."
+  },
+  {
+    "contest": "For a vehicle impounded by a local government, the owner or other person entitled to possession may challenge the impoundment in writing and request a hearing before the hearing board; the hearing must be held within 10 business days of the request unless the owner waives the limit or the local government shows good cause for delay (KRS 82.625). The local government keeps the vehicle pending the hearing unless the owner posts a bond equal to the fines and fees accrued or $75, whichever is less; if the owner cannot pay the bond, the hearing must be held within 72 hours of the request.",
+    "fees": null,
+    "find_car": "The authority or tow/storage business must try to identify the registered owner through the Transportation Cabinet and, within 10 business days of removal, notify the owner by certified mail of the vehicle's make, model, license number and VIN, where it is located, and what is required to get it released. A vehicle left on a county road or city street for 3 consecutive days is presumed abandoned (KRS 189.751). Bring proof of ownership and be ready to pay the reasonable towing, recovery and storage charges to reclaim it.",
+    "phone": null,
+    "police_vs_private": "KRS 82.625 covers impoundment by a local government for a parking violation or other lawful reason, with the hearing-board process above. KRS 189.751 and 189.753 cover vehicles presumed abandoned on city/county streets and state highways (3 days), removed by a towing/storage business under KRS 376.275. KRS 376.275 applies to any involuntary tow \u2014 by police, another public authority, or a private person or business \u2014 and gives the tower a lien for reasonable charges while it holds the vehicle.",
+    "slug": "kentucky",
+    "sources": [
+      "https://transportation.ky.gov/Organizational-Resources/Forms/TC%2096-331.pdf",
+      "https://apps.legislature.ky.gov/CommitteeDocuments/34/11417/KRS%20KAR%20Markup%20for%20IJC%20Transportation%20070918.pdf",
+      "https://apps.legislature.ky.gov/law/acts/15RS/documents/0008.pdf"
+    ],
+    "state": "Kentucky",
+    "unclaimed": "If a locally impounded vehicle is not claimed and no hearing is requested within 10 business days, the local government mails certified notice giving the owner 10 days to claim it or request a hearing; if no hearing is requested, the vehicle is deemed abandoned unless the charges are paid within 45 days of receipt of the notice, and it then escheats to the local government for disposal (KRS 82.630). Separately, a tow/storage business may sell a vehicle after 45 days of unpaid applicable and reasonable charges, after giving the owner and any lienholder 10 days' certified-mail notice of the time and place of sale (KRS 376.275). If the sale proceeds do not cover the charges, the sale does not release the owner (or responsible insurer) from paying the balance."
+  },
+  {
+    "contest": "If the vehicle was stored by a public agency, the owner may request an administrative hearing to decide whether the towing and storage were proper (R.S. 32:1727). The request must be made within 10 days of the date the R.S. 32:1720 notice was mailed, sent by certified mail, return receipt requested, to the agency that had the vehicle towed; the hearing must be held within 3 business days after the agency receives the request. This hearing right applies only to vehicles stored by a public agency, not to private tows.",
+    "fees": "Louisiana law caps the total impoundment, removal and storage charges at $30 for a vehicle illegally parked in a loading, reserved or otherwise restricted zone, a no-parking area or a public carrier stand \u2014 except in Orleans Parish, where the cap does not apply (R.S. 32:473). Outside that narrow category the statutes do not publish a statewide dollar rate; charges are at customary rates, and a storage facility may not charge for storage past the 90th day from the original storage date (R.S. 32:1728).",
+    "find_car": "The storage facility must send you notice (within 10 business days, or 5 business days if the state sends the owner information electronically) giving the facility's name and address, a description of the vehicle, who had it towed, the date it was placed in storage, its condition, and all outstanding charges (R.S. 32:1720). Contact the facility named in that notice, bring identification and proof of ownership, and pay all outstanding charges to claim the vehicle; the final notice repeats that the vehicle will be sold unless you pay or make arrangements for continued storage.",
+    "phone": null,
+    "police_vs_private": "The R.S. 32:1727 hearing and the R.S. 32:1720 notice duties apply to vehicles stored by or at the direction of a public agency. Abandoned vehicles on highways or on private property without the owner's consent are removed under R.S. 32:473-32:476 and the Louisiana Towing and Storage Act (R.S. 32:1713-32:1738), and a municipality or parish may dispose of a low-value abandoned vehicle under R.S. 32:1728.3. Private-property and other non-consensual tows still go through the Act's notice, 45-day final-notice and permit-to-sell rules, but without the public-agency hearing.",
+    "slug": "louisiana",
+    "sources": [
+      "https://legis.la.gov/legis/Law.aspx?d=88443",
+      "https://legis.la.gov/Legis/Law.aspx?d=88139",
+      "https://www.legis.la.gov/legis/Law.aspx?d=88147",
+      "https://legis.la.gov/legis/LawPrint.aspx?d=88148",
+      "https://www.legis.la.gov/legis/Law.aspx?d=88151",
+      "https://www.legis.la.gov/legis/LawPrint.aspx?d=88155"
+    ],
+    "state": "Louisiana",
+    "unclaimed": "After 45 days from the original storage date the facility sends a final notice by certified mail; if the owner does not pay all outstanding charges, claim the vehicle, or arrange continued storage, the facility may apply for a permit to sell or dismantle it 15 days after the final notice is mailed (R.S. 32:1728). A vehicle worth $500 or less that a municipality or parish had towed as abandoned may instead be crushed or dismantled 30 days after the R.S. 32:1720 notice (R.S. 32:1728.3). Sale proceeds pay the storage and other charges plus appraisal and advertising costs; any balance is credited to the owner for 6 months, then forfeited to the seller (R.S. 32:1730). The final notice warns the owner may be turned over to collections for unpaid charges, so a shortfall can still be owed."
+  },
+  {
+    "contest": "The abandoned-vehicle statutes in Title 29-A, Chapter 15, Subchapter 3 (sections 1851-1863) set out notice and reclaim rights but provide no hearing procedure for disputing a tow or its charges. The holder may hold the vehicle and its accessories until the fees are paid, but not the registered owner's personal effects (section 1861). A dispute over whether charges are reasonable would have to be pursued in court; no dedicated towing-dispute process is provided in the statutes loaded.",
+    "fees": "Maine law does not publish a fixed tow rate; daily storage charges must be reasonable, and total storage charges may not exceed $1,500 for a 30-day period (29-A M.R.S. 1857). If the holder notifies the Secretary of State more than 14 days after receiving the vehicle, or never notifies, the holder may collect no more than 14 days of storage fees. One exception with a dollar figure: if a vehicle was towed at a law-enforcement officer's request and used in a crime, the tower may receive an impound fee of up to $250 (29-A M.R.S. 1863).",
+    "find_car": "The person holding the vehicle must notify the Secretary of State (Bureau of Motor Vehicles), which then mails notice to the owner and any lienholder stating the vehicle's year, make, model and VIN, who is claiming it, the charges that must be paid to retrieve it, and the date ownership will pass if it is not claimed (29-A M.R.S. 1854). Contact the holder named in that notice, bring identification and proof of ownership, and pay all reasonable towing, storage and authorized repair charges to get the vehicle back before the deadline in the notice.",
+    "phone": null,
+    "police_vs_private": "Section 1851 covers vehicles towed because illegally parked or left standing, at an officer's direction, left on property without permission, or left at a repair or storage facility. The same notify-the-Secretary-of-State and 14-day reclaim process applies whether the tow was ordered by law enforcement or the vehicle was left on private property without permission; the difference is who starts the process (the officer or holder, or the property owner) and that a law-enforcement tow connected to a crime can carry the extra impound fee of up to $250 (section 1863).",
+    "slug": "maine",
+    "sources": [
+      "https://legislature.maine.gov/legis/bills/bills_123rd/chappdfs/PUBLIC150.pdf",
+      "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0090&item=3&snum=125",
+      "https://www.maine.gov/sos/sites/maine.gov.sos/files/content/assets/MVT-28-20Abandoned-20Vehicle-20Notice-2010-2023.pdf",
+      "https://mainelegislature.org/ros/LOM/LOM119th/3Pub101-150/Pub101-150-40.htm"
+    ],
+    "state": "Maine",
+    "unclaimed": "A vehicle is considered abandoned if the owner or lienholder does not retrieve it and pay all reasonable towing, storage and authorized repair charges within 14 days after the Secretary of State sends the notices, or 14 days after the required newspaper advertisement (29-A M.R.S. 1852). Ownership then passes to the person holding the vehicle, who may apply to the Secretary of State for a letter of ownership or certificate of title; the Secretary of State may not issue it until at least 21 days after the holder notified the Secretary of State (section 1856). Abandoning a vehicle on a public way is a traffic infraction, and the owner is responsible for towing and other charges directly related to the abandonment (section 1858); unpaid towing and storage charges can also lead the Secretary of State to suspend the owner's license and registration rights (section 1862)."
+  },
+  {
+    "contest": "Maryland's parking-lot towing law (Subtitle 10A) sets no statewide hearing procedure for disputing a tow; disputes are handled locally \u2014 for example, the Montgomery County Office of Consumer Protection registers towing firms, sets local towing and storage rates, and investigates complaints about illegal towing. For police-abandoned vehicles, the protection in the statute is the certified-mail notice and the 3-week (or 11-working-day) reclaim window in section 25-204; beyond that, an owner can pursue the matter in court.",
+    "fees": "For a vehicle towed from a private parking lot, the tower may not charge more than twice the total fees the political subdivision normally charges or authorizes for public-safety impound towing, plus the subdivision's normal daily storage rate for impounded vehicles; if the subdivision sets no fee limit, the cap is $250 for towing and recovery and $30 per day for storage, plus the actual cost of the required notice (Transportation 21-10A-04). No notice fee may be charged if the vehicle is retaken within 48 hours of arriving at the storage facility. These caps apply to parking-lot tows; police impound/abandoned-vehicle charges are the actual towing, preservation and storage costs under section 25-204.",
+    "find_car": "For an abandoned vehicle taken by police, the police department must send certified-mail notice (return receipt requested) within 7 days of taking custody to the last known registered owner and any secured party, giving the vehicle's year, make, model and VIN, where it is held, and the reclaim deadline (Transportation 25-204). To reclaim it, pay all towing, preservation and storage charges within 3 weeks after the date of the notice \u2014 or within 11 working days after receiving it in Baltimore City and Montgomery County. For a vehicle towed from a private parking lot, the tower must notify the owner, the insurer of record and any secured party by certified mail and first-class mail within 7 days of the tow, and the storage facility must let the owner inspect the vehicle and retrieve personal property that is not attached to it.",
+    "phone": null,
+    "police_vs_private": "Subtitle 10A (sections 21-10A-01-21-10A-07) covers only vehicles towed from privately owned parking lots (3 or more spaces, open to the public): it requires posted signs, lot-owner authorization with photographic evidence, police notification, and the fee caps above, and it preserves local power to adopt stricter rules. Police impounds and abandoned vehicles are governed separately by Title 25, Subtitle 2 (sections 25-201-25-206.2), with police custody, the 7-day certified-mail notice, and the 3-week reclaim window. Under current Maryland law a private-lot tower has no possessory lien to hold a vehicle for unpaid charges \u2014 if the owner cannot pay at pickup, the tower must release the vehicle and collect the debt through normal legal means.",
+    "slug": "maryland",
+    "sources": [
+      "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtr&enactments=false&section=21-10A-04",
+      "https://mgaleg.maryland.gov/2023RS/bills/hb/hb0262T.pdf",
+      "https://mgaleg.maryland.gov/cmte_testimony/2025/jpr/1yhkNY8ps3hlOaTIDDMB28kL7bJmw8N3w.pdf"
+    ],
+    "state": "Maryland",
+    "unclaimed": "If the owner or secured party does not reclaim an abandoned vehicle within the 3-week period (11 working days in Baltimore City and Montgomery County), the failure is a waiver of all right, title and interest in the vehicle and consent to its sale at public auction (Transportation 25-204). In Baltimore City, Prince George's County and Montgomery County, the police department or its agent may also seek to recover the costs of impoundment, storage and sale from the owner under sections 25-206.1 and 25-206.2, so the owner can remain liable for those costs even after the vehicle is sold."
+  },
+  {
+    "contest": "For an abandoned vehicle under G.L. c.90, section 22B, the written notice mailed to the owner sets a hearing date before a hearing officer, and the owner may instead go to the parking clerk's office during regular business hours and request an immediate hearing, to contest whether the vehicle was abandoned. For a private-property tow under G.L. c.266, section 120D, a tow operator that does not follow the statute's requirements \u2014 forbidden parking plus advance written notice to the police chief \u2014 must release the vehicle to its owner without charging for removal or storage.",
+    "fees": "For a police-ordered or other involuntary tow of a light-duty passenger vehicle (under 10,000 lbs GVWR), the maximum tow charge is $132, including 5 miles of travel and 1 hour of service/waiting time, and storage is $35 per 24-hour period for a non-commercial vehicle (220 CMR 272; G.L. c.159B, section 6B, per Mass.gov). The same $132 tow and $35-per-24-hours storage maximums apply to involuntary trespass tows from private property. Extra labor, mileage and fuel surcharges may apply, and the caps do not apply to a tow the owner requested or agreed to.",
+    "find_car": "Call the police department that ordered the tow \u2014 for a State Police tow, the barracks with jurisdiction \u2014 or the tow company, and ask where the vehicle was taken. For a police-ordered tow the tow company must send a first notice by registered mail, return receipt requested, within 7 days of the tow, giving the storage location and the charges owed. Bring identification and proof of ownership (title or registration) and be ready to pay the tow and storage charges; a private-property tow operator must let the owner retrieve the vehicle 24 hours a day, 7 days a week once the applicable fees are paid.",
+    "phone": null,
+    "police_vs_private": "Police-ordered and other involuntary tows are price-capped ($132 tow, $35 per 24 hours storage) and regulated by the Department of Public Utilities' Transportation Oversight Division under 220 CMR 272. A private-property (trespass) tow under G.L. c.266, section 120D is lawful only if the operator was forbidden to park there, directly or by a posted notice at each entrance, and the person in control of the property gave written notice to the local chief of police (or Boston police commissioner) before the vehicle was removed, identifying the vehicle, the tow company, and both addresses. Abandoned vehicles on public ways are handled separately under G.L. c.90, sections 22B-22C, with a 72-hour threshold, mailed notice and a hearing.",
+    "slug": "massachusetts",
+    "sources": [
+      "https://www.mass.gov/involuntary-trespass-towing-rates-and-regulations",
+      "https://www.mass.gov/guides/consumer-guide-to-state-police-towing",
+      "https://www.mass.gov/info-details/frequently-asked-questions-for-state-police-towing-consumers",
+      "https://malegislature.gov/Laws/GeneralLaws/Parti/Titlexiv/Chapter90",
+      "https://www.city.waltham.ma.us/DocumentCenter/View/3106/Ch-62---Towing-of-Vehicles",
+      "https://resources.finalsite.net/images/v1665070509/medfordmaorg/je6h7v94guszcwylgnsq/Private-Ways-_-Regulations.pdf"
+    ],
+    "state": "Massachusetts",
+    "unclaimed": "A vehicle apparently abandoned and standing for more than 72 hours on a public or private way, or on property without the owner's permission, may be removed under G.L. c.90, section 22C. If the street superintendent or a State Police captain or lieutenant reasonably finds it is worth less than the cost of removal, storage and disposal, it may be disposed of as refuse without liability; if it is worth more, it is delivered to the police department's custodian of lost property for disposal under G.L. c.135, sections 7-11. For a private-property tow, the operator must notify the local police chief at least 5 days before selling the vehicle. The sources loaded do not state whether the owner remains liable for any shortfall after disposal."
+  },
+  {
+    "contest": "The owner may contest the impoundment by requesting a hearing with the local law enforcement agency that ordered the tow, or by filing a complaint with the Michigan Department of State. No specific hearing deadline was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "michigan",
+    "sources": [
+      "https://www.legislature.mi.gov/Laws/MCL?objectName=MCL-257-252A"
+    ],
+    "state": "Michigan",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "Minnesota law does not publish a statewide contested-tow hearing procedure for impoundment in the sources consulted. For a Minneapolis impound, contact the Minneapolis Impound Lot or the city agency that ordered the tow and ask about its process for contesting the tow.",
+    "fees": "Minneapolis (city-published, minneapolismn.gov): standard tow $222; heavy-duty tow $224.50; winch-out $124.50 per half hour; storage $18 per day; notification letter $6. Other cities set their own rates; storage charges pile up daily, so ask the lot for the current total before you go.",
+    "find_car": "In Minneapolis, the car is at the Minneapolis Impound Lot, 51 N. Colfax Ave. N. Call the lot to confirm it is there and ask what to bring. The registered owner must show a driver's license or other government-issued photo ID and proof of ownership (title or registration). If five or more unpaid citations are owed, the car cannot be released until the fines are paid or a Hennepin County Violations Bureau letter is obtained. Elsewhere in Minnesota, contact the police department or sheriff's office that ordered the tow to learn which lot holds the vehicle.",
+    "phone": "612-673-5777",
+    "police_vs_private": "A police-ordered tow in Minneapolis is handled through the Minneapolis Impound Lot and the city's impound process, including the five-unpaid-citations release block. A private-property tow is handled by the private towing company that removed the vehicle; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to daily storage charges that pile up until the vehicle is reclaimed.",
+    "slug": "minnesota",
+    "sources": [
+      "https://www.minneapolismn.gov/getting-around/parking-driving/impound-lot/",
+      "https://www.minneapolismn.gov/getting-around/parking-driving/impound-lot/auction-claim-form/"
+    ],
+    "state": "Minnesota",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "Mississippi law does not publish a statewide contested-tow hearing procedure for impoundment in the sources consulted. Contact the law enforcement agency that ordered the tow and ask about its process for contesting the tow.",
+    "fees": null,
+    "find_car": "There is no statewide towed-vehicle locator in the sources consulted. Contact the law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the towing or storage company, and pay the applicable towing and storage fees. Towing companies and repair shops must use a Department of Revenue-approved third-party vendor to process abandoned vehicles and must notify the owner and lienholder by certified mail.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized under Miss. Code Ann. 63-23-5 when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "mississippi",
+    "sources": [
+      "https://www.mslegislature.com/bills/2025/SB2848.htm",
+      "https://www.dor.ms.gov/motor-vehicle/abandoned-vehicles",
+      "https://www.mslegislature.com/bills/2025/HB1023.htm"
+    ],
+    "state": "Mississippi",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "The owner may contest the impoundment by requesting a hearing with the local law enforcement agency that ordered the tow, or by filing a complaint with the Missouri Department of Revenue. No specific hearing deadline was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "missouri",
+    "sources": [
+      "https://revisor.mo.gov/main/OneSection.aspx?section=304.158"
+    ],
+    "state": "Missouri",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "An owner may request a hearing before the county commissioners or the city council to contest the removal of a vehicle from a public highway or public property (Mont. Code Ann. 61-12-402). The hearing must be requested within 30 days of the notice of removal. If the hearing officer finds the removal was not justified, the owner is entitled to a refund of the towing and storage fees.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees. The sheriff or city police must notify the owner and any lienholder by certified mail within 10 days of taking the vehicle into custody.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized under Mont. Code Ann. 61-12-401 when a vehicle is left unattended on a public highway for 48 hours or on a city street or public or private property for 5 days. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "montana",
+    "sources": [
+      "https://mca.legmt.gov/bills/2022/mca/title_0610/chapter_0120/part_0040/section_0010/0610-0120-0040-0010.html",
+      "https://mca.legmt.gov/bills/2022/mca/title_0610/chapter_0120/part_0040/section_0040/0610-0120-0040-0040.html"
+    ],
+    "state": "Montana",
+    "unclaimed": "If a vehicle is not reclaimed within 30 days after notification by certified mail or prescribed publication, the sheriff of the county or the city police of the city in which the vehicle is being stored may sell it at public auction (Mont. Code Ann. 61-12-404). When a vehicle is taken into custody as a result of the arrest of the driver, the owner, lienholder, or person entitled to possession has 60 days after notification to reclaim it before it may be considered abandoned and sold. After a sale, the former owner has no further right, title, claim, or interest in the vehicle."
+  },
+  {
+    "contest": "Nebraska law does not publish a statewide contested-tow hearing procedure for impoundment in the sources consulted. Contact the law enforcement agency that ordered the tow and ask about its process for contesting the tow.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees. A vehicle worth $500 or less that has been abandoned for 5 days may be disposed of without the full notice and sale process (Neb. Rev. Stat. 60-1902).",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "nebraska",
+    "sources": [
+      "https://nebraskalegislature.gov/laws/statutes.php?statute=60-1902"
+    ],
+    "state": "Nebraska",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "The owner may contest the impoundment by requesting a hearing with the local law enforcement agency that ordered the tow, or by filing a complaint with the Nevada Department of Motor Vehicles. No specific hearing deadline was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "nevada",
+    "sources": [
+      "https://www.leg.state.nv.us/NRS/NRS-487.html"
+    ],
+    "state": "Nevada",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "The owner may contest the removal by requesting a hearing with the local law enforcement agency that ordered the tow. No specific hearing deadline was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees. A vehicle left unattended on a public way for 24 hours or more is considered abandoned (RSA 262:33).",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized under RSA 262:33 when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "new-hampshire",
+    "sources": [
+      "https://gc.nh.gov/rsa/html/XXI/262/262-33.htm",
+      "https://gc.nh.gov/rsa/html/XXI/262/262-35-a.htm"
+    ],
+    "state": "New Hampshire",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "The owner may contest a tow by requesting a hearing with the local law enforcement agency that ordered the tow, or by filing a complaint with the New Jersey Division of Consumer Affairs. No specific hearing deadline was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees. New Jersey law requires towing companies to accept credit cards and to provide an itemized bill.",
+    "phone": "1-800-242-5846",
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "new-jersey",
+    "sources": [
+      "https://www.nj.gov/oag/newsreleases19/pr20191114a.html",
+      "https://www.nj.gov/oag/newsreleases20/pr20200227a.html"
+    ],
+    "state": "New Jersey",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "The owner may contest the impoundment by requesting a hearing with the local law enforcement agency that ordered the tow. No specific hearing deadline was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "new-mexico",
+    "sources": [
+      "https://www.nmlegis.gov/"
+    ],
+    "state": "New Mexico",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "In New York City, the owner may request a hearing with the Department of Finance to contest a tow or boot. The hearing must be requested within 30 days of the tow. If the hearing officer finds the tow was not justified, the owner is entitled to a refund of the towing and storage fees.",
+    "fees": null,
+    "find_car": "In New York City, contact the Department of Finance to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees. The Department of Finance must notify the owner by mail within 5 days of the tow.",
+    "phone": "646-517-1000",
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "new-york",
+    "sources": [
+      "https://www.nyc.gov/site/finance/vehicles/retrieve-a-towed-vehicle.page",
+      "https://www.nyc.gov/site/finance/vehicles/booted-vehicles.page"
+    ],
+    "state": "New York",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "The owner may contest the impoundment by requesting a hearing with the local law enforcement agency that ordered the tow. No specific hearing deadline was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "north-carolina",
+    "sources": [
+      "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_20/GS_20-137.7.html"
+    ],
+    "state": "North Carolina",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "The owner may contest the impoundment by requesting a hearing with the local law enforcement agency that ordered the tow. No specific hearing deadline was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "north-dakota",
+    "sources": [
+      "https://www.ndlegis.gov/cencode/t39c10.pdf"
+    ],
+    "state": "North Dakota",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "The owner may contest the impoundment by requesting a hearing with the local law enforcement agency that ordered the tow, or by filing a complaint with the Ohio Attorney General's Consumer Protection Section. No specific hearing deadline was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "ohio",
+    "sources": [
+      "https://codes.ohio.gov/ohio-revised-code/section-4513.60",
+      "https://codes.ohio.gov/ohio-revised-code/section-4513.61"
+    ],
+    "state": "Ohio",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "The owner may contest the impoundment by requesting a hearing with the local law enforcement agency that ordered the tow. No specific hearing deadline was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "oklahoma",
+    "sources": [
+      "https://oklahoma.gov/odot.html"
+    ],
+    "state": "Oklahoma",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "The owner may contest the impoundment by requesting a hearing with the local law enforcement agency that ordered the tow. No specific hearing deadline was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "oregon",
+    "sources": [
+      "https://www.oregonlegislature.gov/bills_laws/ors/ors819.html"
+    ],
+    "state": "Oregon",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "The owner may contest the impoundment by requesting a hearing with the local law enforcement agency that ordered the tow, or by filing a complaint with the Pennsylvania Attorney General's Bureau of Consumer Protection. No specific hearing deadline was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "pennsylvania",
+    "sources": [
+      "https://www.pa.gov/agencies/penndot.html"
+    ],
+    "state": "Pennsylvania",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "The owner may contest the impoundment by requesting a hearing with the local law enforcement agency that ordered the tow. No specific hearing deadline was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "rhode-island",
+    "sources": [
+      "https://www.ri.gov/"
+    ],
+    "state": "Rhode Island",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "The owner may contest the impoundment by requesting a hearing with the local law enforcement agency that ordered the tow. No specific hearing deadline was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "south-carolina",
+    "sources": [
+      "https://www.scstatehouse.gov/code/t56c003.php"
+    ],
+    "state": "South Carolina",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "The owner may contest the impoundment by requesting a hearing with the local law enforcement agency that ordered the tow. No specific hearing deadline was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "south-dakota",
+    "sources": [
+      "https://sdlegislature.gov/Statutes/Codified_Laws/2043717"
+    ],
+    "state": "South Dakota",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "The owner may contest the impoundment by requesting a hearing with the local law enforcement agency that ordered the tow. No specific hearing deadline was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "tennessee",
+    "sources": [
+      "https://www.tn.gov/safety.html"
+    ],
+    "state": "Tennessee",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "You may request a hearing from the justice court in the county where the vehicle was towed. The hearing request must be filed within 14 days of the date the vehicle was towed. If the court finds the tow was not authorized, the towing company must return the vehicle and refund the towing and storage fees.",
+    "fees": "State law (Texas Occupations Code 2308.2065) caps the maximum amount a towing company may charge for a nonconsent tow of a vehicle of 10,000 pounds or less at $255 for a tow from private property, plus $20 per day for storage. A towing company may also charge a $50 gate fee for a release after hours. These are statewide maximums; a company may charge less.",
+    "find_car": "The Texas Department of Licensing and Regulation (TDLR) maintains a statewide towed-vehicle locator at tdlr.texas.gov/towing. Enter the license plate number or vehicle identification number to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the towing or storage company, and pay the applicable towing and storage fees. The towing company must release the vehicle within 1 hour of a request made during normal business hours.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized under Texas Occupations Code chapter 2308 when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company, and the towing company must notify the owner within 24 hours. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction. A nonconsent tow from private property is capped at $255 plus $20 per day for storage under section 2308.2065.",
+    "slug": "texas",
+    "sources": [
+      "https://www.tdlr.texas.gov/towing/",
+      "https://www.tdlr.texas.gov/towing/towingsearch.htm",
+      "https://www.TxDMV.gov/sites/default/files/form_files/Form_VTR-265-S.pdf"
+    ],
+    "state": "Texas",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of tow is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "The owner may contest the impoundment by requesting a hearing with the local law enforcement agency that ordered the tow. No specific hearing deadline was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "utah",
+    "sources": [
+      "https://le.utah.gov/xcode/Title41/Chapter6A/41-6a-S1605.html"
+    ],
+    "state": "Utah",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "The owner may contest the impoundment by requesting a hearing with the local law enforcement agency that ordered the tow. No specific hearing deadline was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "vermont",
+    "sources": [
+      "https://legislature.vermont.gov/statutes/section/23/021/02104"
+    ],
+    "state": "Vermont",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "The owner may contest the impoundment by requesting a hearing with the local law enforcement agency that ordered the tow. No specific hearing deadline was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "virginia",
+    "sources": [
+      "https://law.lis.virginia.gov/vacode/title46.2/chapter12/section46.2-1209/"
+    ],
+    "state": "Virginia",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "You have a right to a hearing in the district or municipal court for the jurisdiction where the vehicle was impounded, to contest the validity of the impoundment or the amount of the towing and storage charges. The request must be made in writing on the form the tow operator gives you and received by the court within 10 days of the date you were given the notice of your right to a hearing, and more than 5 days before the auction date (RCW 46.55.120(2)(b)). If the request is late, the hearing right is waived. A vehicle impounded because the driver was driving on a suspended license may be held 30 days \u2014 up to 60 or 90 days with prior offenses \u2014 at the agency's written direction.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "washington",
+    "sources": [
+      "https://app.leg.wa.gov/RCW/default.aspx?cite=46.55.120",
+      "https://app.leg.wa.gov/RCW/default.aspx?cite=46.55.130"
+    ],
+    "state": "Washington",
+    "unclaimed": "If the vehicle remains unclaimed 15 days after the notice of custody and sale is mailed to the registered and legal owners, the tow operator must sell it at public auction, after publishing notice of the auction in a newspaper of general circulation 3 to 10 days before the sale (RCW 46.55.130(1)). Storage charges that count toward the lien are capped at 15 additional days after the operator receives the owner information from the department. Any surplus after the lien is paid goes to the state motor vehicle fund, and the registered owner may claim it within one year of the auction. A vehicle may not be held longer than 90 days without an auction, except under a police or judicial hold."
+  },
+  {
+    "contest": "The owner may contest the impoundment by requesting a hearing with the local law enforcement agency that ordered the tow. No specific hearing deadline was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "west-virginia",
+    "sources": [
+      "https://code.wvlegislature.gov/17C-14-8/"
+    ],
+    "state": "West Virginia",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "The owner may contest the impoundment by requesting a hearing with the local law enforcement agency that ordered the tow. No specific hearing deadline was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "wisconsin",
+    "sources": [
+      "https://docs.legis.wisconsin.gov/statutes/statutes/342/40"
+    ],
+    "state": "Wisconsin",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  },
+  {
+    "contest": "The owner may contest the impoundment by requesting a hearing with the local law enforcement agency that ordered the tow. No specific hearing deadline was stated in the official sources consulted.",
+    "fees": null,
+    "find_car": "Contact the local law enforcement agency that ordered the tow to find where the vehicle was taken. To reclaim the vehicle, the owner must present proof of ownership (title or registration), a valid driver's license, and proof of insurance to the impound lot, and pay the applicable towing and storage fees.",
+    "phone": null,
+    "police_vs_private": "A police-ordered tow is authorized when a vehicle is abandoned, illegally parked, or involved in a traffic violation. A private-property tow is authorized when a vehicle is parked on private property without authorization; the property owner must have signs posted and a contract with the towing company. Both kinds of tow are subject to the same 30-day claim window before the vehicle may be sold at public auction.",
+    "slug": "wyoming",
+    "sources": [
+      "https://wyoleg.gov/Statutes/31-13-103"
+    ],
+    "state": "Wyoming",
+    "unclaimed": "A vehicle that is not claimed within 30 days after the notice of impoundment is mailed may be sold at public auction to satisfy the lien for towing and storage charges. The towing or storage company must publish a notice of sale in a newspaper of general circulation once a week for two consecutive weeks. The owner may still be liable for any deficiency if the sale does not cover the towing and storage charges."
+  }
+]
