@@ -1,0 +1,354 @@
+{
+ "states": {
+  "alabama": {
+   "state": "Alabama",
+   "slug": "alabama",
+   "state_card": "The Alabama Department of Labor says a worker is an employee if the business has the \u201cright of control\u201d over the worker, whether or not it exercises it, and that Alabama law uses common law factors to make determinations.",
+   "link": "https://adol.alabama.gov/faq/when-is-an-individual-considered-an-employee/",
+   "link_label": "When is an individual considered an employee? \u2014 Alabama Department of Labor"
+  },
+  "alaska": {
+   "state": "Alaska",
+   "slug": "alaska",
+   "state_card": "Alaska's Department of Labor says AS 23.20.525(a)(8)(A)(B)(C) gives three conditions that must all be met to be excluded from Employment Security Tax coverage: free from direction, services not in the employer's usual course or place of business, and customarily working in an independent trade or business of the same nature.",
+   "link": "https://labor.alaska.gov/estax/newsletters/newsltr0425.pdf",
+   "link_label": "Employee or independent contractor? \u2014 Alaska Employer Newsletter, Dept. of Labor and Workforce Development"
+  },
+  "arizona": {
+   "state": "Arizona",
+   "slug": "arizona",
+   "state_card": "Arizona DES says an employment relationship exists for unemployment tax when services are subject to the employer's control or right to control, while independent contractors are customarily engaged in an independent trade, occupation, profession, or business, usually advertise, can profit or suffer loss, and usually have a significant investment.",
+   "link": "https://des.az.gov/services/employment/unemployment-employer/employer-handbook-unemployment-insurance-tax/employees-and-wages",
+   "link_label": "Unemployment Insurance Tax \u2014 Employees and Wages FAQ \u2014 Arizona DES"
+  },
+  "arkansas": {
+   "state": "Arkansas",
+   "slug": "arkansas",
+   "state_card": "Arkansas Division of Workforce Services says a worker is presumed an employee for unemployment tax under A.C.A. \u00a7 11-10-210 unless the payer establishes the worker is free from control and direction and meets either the outside-usual-course/outside-places-of-business part or the customarily engaged in an independently established trade part.",
+   "link": "http://dws.arkansas.gov/wp-content/uploads/Misclassification-of-Workers-PDF.pdf",
+   "link_label": "Misclassification of Workers & Arkansas Law \u2014 Arkansas Division of Workforce Services"
+  },
+  "california": {
+   "state": "California",
+   "slug": "california",
+   "state_card": "California EDD says to use the ABC test: a worker is an employee unless all three are met \u2014 free from control and direction, work outside the hiring entity's usual course of business, and customarily engaged in an independently established trade, occupation, or business of the same nature.",
+   "link": "https://edd.ca.gov/en/payroll_taxes/employment-status/",
+   "link_label": "Employee or Independent Contractor \u2014 California Employment Development Department"
+  },
+  "colorado": {
+   "state": "Colorado",
+   "slug": "colorado",
+   "state_card": "Colorado CDLE says the two main concepts for an independent contractor under CESA 8-70-115 are that the individual is free from control and direction in performing the service, under contract and in fact, and is customarily engaged in an independent trade, occupation, profession, or business related to the service.",
+   "link": "https://cdle.colorado.gov/employers/frequently-asked-questions",
+   "link_label": "Frequently Asked Questions \u2014 Audits \u2014 Colorado Department of Labor and Employment"
+  },
+  "connecticut": {
+   "state": "Connecticut",
+   "slug": "connecticut",
+   "state_card": "Connecticut Department of Labor says service is employment for unemployment taxes unless the recipient establishes the \u201cABC\u201d test in Conn. Gen. Stat. \u00a7 31-222(a)(1)(B)(ii): free from direction and control, service outside the usual course or outside all places of business, and customarily engaged in an independently established trade of the same nature.",
+   "link": "https://portal.ct.gov/dol/knowledge-base/articles/unemployment-taxes/employer-employee-relationship-for-ct-unemployment-taxes",
+   "link_label": "Employer Employee Relationship for CT Unemployment Taxes \u2014 Connecticut Department of Labor"
+  },
+  "delaware": {
+   "state": "Delaware",
+   "slug": "delaware",
+   "state_card": "Delaware's Workplace Fraud Act, Title 19 Chapter 35, defines an independent contractor as meeting all of: performing work free from the employer's control and direction, customarily engaged in an independently established trade, occupation, profession, or business, and performing work outside the employer's usual course of business or, for a registered contractor, outside its place of business.",
+   "link": "http://delcode.delaware.gov/title19/c035/index.html",
+   "link_label": "Delaware Code Title 19, Chapter 35 \u2014 Workplace Fraud Act, \u00a7 3501"
+  },
+  "florida": {
+   "state": "Florida",
+   "slug": "florida",
+   "state_card": "Florida Department of Revenue says Chapter 443, Florida Statutes, governs reemployment tax classification and provides that employment includes service performed under the usual common law rules for an employer-employee relationship, looking primarily at 10 factors of the working relationship.",
+   "link": "https://floridarevenue.com:443/taxes/taxesfees/Pages/rt_employee.aspx",
+   "link_label": "Classification of Workers for Reemployment Tax \u2014 Employees vs. Independent Contractors \u2014 Florida Dept. of Revenue"
+  },
+  "georgia": {
+   "state": "Georgia",
+   "slug": "georgia",
+   "state_card": "Georgia's Department of Labor rule 300-2-7-.13 says \u201cindependent contractor\u201d is not defined or used in the Employment Security Law, unemployment tax liability is based on its statutory definitions, and the test in O.C.G.A. \u00a7 34-8-35(f) requires proof the individual was free from significant direction and control.",
+   "link": "https://rules.sos.ga.gov/gac/300-2-7",
+   "link_label": "Rule 300-2-7-.13 Independent Contractors \u2014 Georgia Rules and Regulations"
+  },
+  "hawaii": {
+   "state": "Hawaii",
+   "slug": "hawaii",
+   "state_card": "Hawaii's Unemployment Insurance Handbook for Employers says an independent contractor must meet all of the following conditions (\"ABC Test\"): free from control or direction, service outside the usual course or place of business, and customarily engaged in an independent occupation or business.",
+   "link": "https://labor.hawaii.gov/ui/test-handbook-for-employers/",
+   "link_label": "Handbook for Employers \u2013 Unemployment Insurance \u2013 Hawaii DLIR"
+  },
+  "idaho": {
+   "state": "Idaho",
+   "slug": "idaho",
+   "state_card": "The Idaho Department of Labor says two criteria must be met for an independent contractor: the worker must be free from the right of direction or control under contract and in fact, and engaged in an independently established trade, occupation, profession or business.",
+   "link": "https://www.labor.idaho.gov/wp-content/uploads/publications/Contractor_Or_Employee.pdf",
+   "link_label": "Independent Contractor or Employee? \u2013 Idaho Department of Labor"
+  },
+  "illinois": {
+   "state": "Illinois",
+   "slug": "illinois",
+   "state_card": "Illinois Section 212 lists conditions A, B and C, all of which an employer must prove: freedom from control or direction, service outside the usual course or outside all places of business, and an independently established trade, occupation, profession or business.",
+   "link": "https://www.ilga.gov/commission/jcar/admincode/056/056027320B02000R.html",
+   "link_label": "Section 212 Services in Employment \u2013 Ill. Admin. Code 56-2732.200"
+  },
+  "indiana": {
+   "state": "Indiana",
+   "slug": "indiana",
+   "state_card": "The Indiana Department of Labor says misclassification occurs when a worker who meets the statutory or common law definition of an employee is treated as a self-employed worker or independent contractor.",
+   "link": "https://www.in.gov/dol/wage-and-hour/worker-misclassification",
+   "link_label": "Worker Misclassification \u2013 Indiana Department of Labor"
+  },
+  "iowa": {
+   "state": "Iowa",
+   "slug": "iowa",
+   "state_card": "Iowa Administrative Code 871-23.19 says an employer-employee relationship exists when the person for whom services are performed has the right to control and direct the individual, not only as to the result but also as to the details and means.",
+   "link": "https://www.Legis.Iowa.gov/docs/iac/rule/01-22-2025.871.23.19.pdf",
+   "link_label": "Employer-Employee and Independent Contractor Relationship \u2013 Iowa Admin. Code 871-23.19"
+  },
+  "kansas": {
+   "state": "Kansas",
+   "slug": "kansas",
+   "state_card": "Kansas guidance quoting the employment definition in Kansas Statutes 44-703 says service is employment unless the individual is free from control or direction and the service is outside the usual course or outside all places of business.",
+   "link": "https://www.kdor.ks.gov/Apps/Misc/Miscellaneous/MisclassFAQ",
+   "link_label": "Misclassification of Workers FAQ \u2013 Kansas Department of Revenue"
+  },
+  "kentucky": {
+   "state": "Kentucky",
+   "slug": "kentucky",
+   "state_card": "Kentucky's Education and Labor Cabinet publishes a Supreme Court test with six factors, including control, skill, investment, profit or loss, permanency and whether the service is integral, asking whether the worker is economically dependent on the business.",
+   "link": "https://elc.ky.gov/Workers-Compensation/Pages/Employee-Independent-Contractor-Guide.aspx",
+   "link_label": "Employee or Independent Contractor Guide \u2013 Kentucky Education and Labor Cabinet"
+  },
+  "louisiana": {
+   "state": "Louisiana",
+   "slug": "louisiana",
+   "state_card": "Louisiana Workforce Commission's Independent Contractor or Employee poster says a worker is an employee unless free from direction and control, performing work outside the hiring business's usual work or off its premises, and customarily engaged in an independently established trade or business.",
+   "link": "https://www.laworks.net/downloads/downloads_alpha.asp",
+   "link_label": "Independent Contractor or Employee? \u2013 Louisiana Works resources"
+  },
+  "maine": {
+   "state": "Maine",
+   "slug": "maine",
+   "state_card": "Maine Department of Labor says a common employment standard for workers' compensation, unemployment insurance and wage and hour requires freedom from essential direction and control, all five criteria in part one, and three of seven criteria in part two.",
+   "link": "https://www.maine.gov/labor/misclass/employment_standard.shtml",
+   "link_label": "Employment Standard Defining Employee vs Independent Contractor \u2013 Maine Department of Labor"
+  },
+  "maryland": {
+   "state": "Maryland",
+   "slug": "maryland",
+   "state_card": "Maryland Labor says the ABC Test applies for the Workplace Fraud Act and unemployment insurance: a worker is presumed an employee unless free from direction and control, customarily engaged in an independent business, and working outside the usual course or places of business.",
+   "link": "https://www.labor.maryland.gov/workplace/wfempfaqs.shtml",
+   "link_label": "Worker Classification Protection FAQs for Businesses \u2013 Maryland Department of Labor"
+  },
+  "massachusetts": {
+   "state": "Massachusetts",
+   "slug": "massachusetts",
+   "state_card": "Massachusetts workers are presumed employees under MGL c. 149, \u00a7 148B, and an employer must show the work is done without its direction and control, is performed outside its usual course of business, and is done by someone who has their own independent business or trade.",
+   "link": "https://www.mass.gov/info-details/independent-contractors",
+   "link_label": "Independent contractors | Mass.gov"
+  },
+  "michigan": {
+   "state": "Michigan",
+   "slug": "michigan",
+   "state_card": "Under MCL 421.42, Michigan's unemployment agency determines whether an employer-employee relationship exists using the 20-factor test announced by the IRS in Revenue Ruling 87-41, and an individual from whom an employer must withhold federal income tax is prima facie considered to perform services in employment.",
+   "link": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-421-42",
+   "link_label": "Michigan Legislature \u2014 MCL 421.42 (employment defined)"
+  },
+  "minnesota": {
+   "state": "Minnesota",
+   "slug": "minnesota",
+   "state_card": "Minnesota DLI says misclassification is illegal and employers should consider and weigh factors required by law, including who controls how work is done, who controls the location where work is performed, who provides materials and tools, and the payment method.",
+   "link": "http://dli.mn.gov/misclassification-general",
+   "link_label": "General worker misclassification | Minnesota DLI"
+  },
+  "mississippi": {
+   "state": "Mississippi",
+   "slug": "mississippi",
+   "state_card": "MDES says it decides classification under Mississippi Law \u00a771-5-11 J.(14), considering all the facts in categories including extent of control, nature of business, furnishing tools, materials and place of work, period of employment, method of payment, and relationship of worker to firm.",
+   "link": "https://mdes.ms.gov/employers/unemployment-tax/reporting-and-filing/worker-classification/",
+   "link_label": "MDES - Worker Classification"
+  },
+  "missouri": {
+   "state": "Missouri",
+   "slug": "missouri",
+   "state_card": "Missouri's Department of Labor says Missouri law defines employee versus independent contractor based on the relationship between the business and the person performing the work, and Missouri uses the IRS 20-factor test as a guide in determining if a worker is an employee.",
+   "link": "https://labor.mo.gov/off-the-books",
+   "link_label": "Off the Books | Missouri Department of Labor"
+  },
+  "montana": {
+   "state": "Montana",
+   "slug": "montana",
+   "state_card": "Montana DLI says an independent contractor has been and will continue to be free from control or direction over performance of the services, both under contract and in fact, and is engaged in an independently established trade, occupation, profession or business, and must obtain an ICEC or self-elected workers' compensation coverage.",
+   "link": "https://erd.dli.mt.gov/work-comp-regulations/montana-contractor/independent-contractor/",
+   "link_label": "Montana Independent Contractor Exemption Certificate (ICEC) Program"
+  },
+  "nebraska": {
+   "state": "Nebraska",
+   "slug": "nebraska",
+   "state_card": "Nebraska's Employment Security Law, \u00a748-604(5), deems services for wages employment unless it is shown the individual (a) is free from control or direction, (b) performs service outside the usual course of business or outside all places of business, and (c) is customarily engaged in an independently established trade, occupation, profession, or business.",
+   "link": "https://nebraskalegislature.gov/laws/statutes.php?statute=48-604",
+   "link_label": "Nebraska Legislature - 48-604 Employment, defined"
+  },
+  "nevada": {
+   "state": "Nevada",
+   "slug": "nevada",
+   "state_card": "Nevada DETR says Nevada Unemployment Compensation Law does not define independent contractor and uses what is commonly referred to as the \"ABC\" test, unique to that program, requiring all three conditions: freedom from control, service outside the usual course or outside all places of business, and an independently established trade.",
+   "link": "https://detr.nv.gov/Page/UI_Information_for_Employers",
+   "link_label": "UI Information for Employers | Nevada DETR"
+  },
+  "new-hampshire": {
+   "state": "New Hampshire",
+   "slug": "new-hampshire",
+   "state_card": "New Hampshire RSA 282-A:9, III deems services for wages employment unless shown to the commissioner that the individual (a) is free from control or direction, (b) performs service outside the usual course of business or outside all places of business, and (c) is customarily engaged in an independently established trade, occupation, profession, or business.",
+   "link": "https://gc.nh.gov/rsa/html/XXIII/282-A/282-A-9.htm",
+   "link_label": "RSA 282-A:9 Employment"
+  },
+  "new-jersey": {
+   "state": "New Jersey",
+   "slug": "new-jersey",
+   "state_card": "New Jersey DOL says New Jersey uses the \"ABC\" test under Unemployment Compensation Law 43:21-19(i)6(A)(B)(C), and a worker is an employee unless the employer proves all three parts: freedom from control or direction, work outside the usual course or outside all places of business, and an independently established trade, occupation, profession or business.",
+   "link": "https://www.nj.gov/labor/myworkrights/worker-protections/independent_contractors/index.shtml",
+   "link_label": "Independent Contractors and Misclassification | NJDOL"
+  },
+  "new-mexico": {
+   "state": "New Mexico",
+   "slug": "new-mexico",
+   "state_card": "For unemployment compensation, New Mexico uses an ABC test: a worker is an employee unless proved by a preponderance of evidence to be free from control, performing service outside the usual course of business or outside all its places of business, and customarily engaged in an independently established trade.",
+   "link": "https://www.dws.state.nm.us/Portals/0/Independent_Contractor_or_Employee_Article.pdf",
+   "link_label": "NMDWS \u2014 Independent Contractor or Employee"
+  },
+  "new-york": {
+   "state": "New York",
+   "slug": "new-york",
+   "state_card": "The Department of Labor says status depends on the relationship: telling a worker when, where and how to do the job, setting hours and pay, and providing tools indicate employment, while independent contractors are in business for themselves and free from supervision, direction and control.",
+   "link": "https://dol.ny.gov/worker-misclassification-employee-vs-independent-contractor-fare-grant",
+   "link_label": "NYSDOL \u2014 Worker Misclassification: Employee vs. Independent Contractor"
+  },
+  "north-carolina": {
+   "state": "North Carolina",
+   "slug": "north-carolina",
+   "state_card": "The Industrial Commission's Employee Classification Section investigates misclassification, defined as avoiding tax liabilities and other obligations imposed by Chapters 95, 96, 97, 105 or 143 by misclassifying an employee as an independent contractor, and coordinates recovery with other state agencies.",
+   "link": "https://IC.NC.GOV/CriminalInvestigations&amp;EmployeeClassification.html",
+   "link_label": "NC Industrial Commission \u2014 Criminal Investigations and Employee Classification Division"
+  },
+  "north-dakota": {
+   "state": "North Dakota",
+   "slug": "north-dakota",
+   "state_card": "The Department of Labor and Human Rights says North Dakota uses the common law test \u2014 a series of 20 questions focusing primarily on the level of control a business has over a worker \u2014 reviewing the circumstances as a whole, with no specific number of factors required.",
+   "link": "https://www.nd.gov/labor/node/67",
+   "link_label": "ND Dept. of Labor and Human Rights \u2014 What is an independent contractor?"
+  },
+  "ohio": {
+   "state": "Ohio",
+   "slug": "ohio",
+   "state_card": "Ohio's unemployment rule says a worker is in employment when the person for whom services are performed has the right to direct or control the performance, using twenty common-law factors, considered in totality, as guides to whether sufficient direction or control exists.",
+   "link": "https://codes.ohio.gov/ohio-administrative-code/rule-4141-3-05",
+   "link_label": "Ohio Administrative Code Rule 4141-3-05"
+  },
+  "oklahoma": {
+   "state": "Oklahoma",
+   "slug": "oklahoma",
+   "state_card": "Oklahoma's unemployment law deems services performed for wages to be employment unless and until it is shown to the Commission's satisfaction that the individual is free from control or direction under the contract and in fact and is customarily engaged in an independently established business.",
+   "link": "https://www.oscn.net/applications/oscn/DeliverDocument.asp?citeid=484566",
+   "link_label": "Oklahoma Statutes, Title 40 \u2014 Employment definition (OSCN)"
+  },
+  "oregon": {
+   "state": "Oregon",
+   "slug": "oregon",
+   "state_card": "BOLI applies the economic realities test for wage and hour claims, weighing factors in their totality to decide whether a worker is economically dependent on the business, and a four-factor right-to-control test for civil rights disputes.",
+   "link": "https://www.oregon.gov/boli/employers/Pages/employee-or-independent-contractor.aspx",
+   "link_label": "Oregon BOLI \u2014 Employee or Independent Contractor"
+  },
+  "pennsylvania": {
+   "state": "Pennsylvania",
+   "slug": "pennsylvania",
+   "state_card": "Pennsylvania unemployment guidance says services are employment unless both conditions are met to the department's satisfaction: the individual is free from control or direction over performance under the contract and in fact, and is customarily engaged in an independently established trade, occupation, profession or business.",
+   "link": "https://www.pa.gov/content/dam/copapwp-pagov/en/dli/documents/uc/ucp-forms/ucp-32.pdf",
+   "link_label": "PA Office of UC Tax Services \u2014 UCP-32"
+  },
+  "rhode-island": {
+   "state": "Rhode Island",
+   "slug": "rhode-island",
+   "state_card": "DLT says an employee is anyone performing service for an employer who controls what will be done and how it will be done, while independent contractors have an independent trade, business or profession, offer their services to the public, and control the means and methods of the work.",
+   "link": "https://dlt.ri.gov/employers/employer-tax-unit/frequently-asked-employer-tax-questions",
+   "link_label": "RI DLT \u2014 Frequently Asked Employer Tax Questions"
+  },
+  "south-carolina": {
+   "state": "South Carolina",
+   "slug": "south-carolina",
+   "state_card": "The Workers' Compensation Commission says determination of an individual's independent contractor status is fact specific, considering direct evidence of the right or exercise of control, furnishing of equipment, method of payment, and the right to fire.",
+   "link": "https://wcc.sc.gov/employer-faqs",
+   "link_label": "SC Workers' Compensation Commission \u2014 Employer FAQs"
+  },
+  "south-dakota": {
+   "state": "South Dakota",
+   "slug": "south-dakota",
+   "state_card": "South Dakota law at SDCL 61-1-11 says service performed for wages is employment unless the Department of Labor and Regulation is shown the worker is free from control or direction and is customarily engaged in an independently established trade, occupation, profession, or business.",
+   "link": "https://sdlegislature.gov/Statutes?Statute=61-1-11",
+   "link_label": "SD Legislature \u2014 SDCL 61-1-11"
+  },
+  "tennessee": {
+   "state": "Tennessee",
+   "slug": "tennessee",
+   "state_card": "Tennessee's Department of Labor and Workforce Development says that since January 1, 2020, classification for wage and hour, safety, and employment security purposes uses the 20-factor test in IRS Revenue Ruling 87-41, replacing the ABC test used before that date.",
+   "link": "https://www.tn.gov/workforce/employers/tax-and-insurance-redirect/unemployment-insurance-tax/employee-or-contractor.html",
+   "link_label": "Tenn. Dept. of Labor \u2014 Employee or Independent Contractor?"
+  },
+  "texas": {
+   "state": "Texas",
+   "slug": "texas",
+   "state_card": "The Texas Workforce Commission says the Texas Unemployment Compensation Act uses a direction-or-control, or common-law, test \u2014 employment unless service is shown free from control or direction \u2014 and TWC has adapted the old IRS twenty-factor test to apply it.",
+   "link": "https://efte.twc.texas.gov/ics_contract_labor.html",
+   "link_label": "TWC \u2014 Independent Contractors / Contract Labor"
+  },
+  "utah": {
+   "state": "Utah",
+   "slug": "utah",
+   "state_card": "Utah's Department of Workforce Services says services performed for wages are employment under the Utah Employment Security Act unless the worker is customarily engaged in an independently established trade or business of the same nature and is free from control or direction.",
+   "link": "https://jobs.utah.gov/UI/Employer/Public/Handbook/IndependentContractor.aspx",
+   "link_label": "Utah DWS \u2014 Guidelines for Employment Status (Independent Contractors)"
+  },
+  "vermont": {
+   "state": "Vermont",
+   "slug": "vermont",
+   "state_card": "Vermont's Department of Taxes says the Department of Labor uses the ABC Test to determine unemployment compensation and the Department of Taxes uses the ABC Test for Health Care Fund contributions, while withholding uses the same definitions as the IRS.",
+   "link": "https://tax.vermont.gov/business/hire-employees",
+   "link_label": "Vt. Dept. of Taxes \u2014 Hiring Employees or Independent Contractors"
+  },
+  "virginia": {
+   "state": "Virginia",
+   "slug": "virginia",
+   "state_card": "Virginia Tax says an individual performing services for an employer for remuneration is presumed an employee unless shown to be an independent contractor according to IRS guidelines, which fall into behavioral control, financial control, and type of relationship.",
+   "link": "https://www.tax.virginia.gov/news/worker-misclassification-what-you-need-know",
+   "link_label": "Virginia Tax \u2014 Worker Misclassification: What You Need to Know"
+  },
+  "washington": {
+   "state": "Washington",
+   "slug": "washington",
+   "state_card": "Washington's Employment Security Department says employers pay unemployment taxes on employees but not on independent contractors, offers a test-your-worker's-status tool to determine a worker's status, and warns that misclassification can mean back taxes plus penalties and interest.",
+   "link": "https://esd.wa.gov/employer-requirements/quarterly-reports/independent-contractors",
+   "link_label": "Wash. ESD \u2014 Independent contractors"
+  },
+  "west-virginia": {
+   "state": "West Virginia",
+   "slug": "west-virginia",
+   "state_card": "West Virginia Code Section 21-5I-4 says a person is an independent contractor for unemployment, workers' compensation, human rights, and wage payment laws only with a written contract containing stated acknowledgements, business or self-employment tax status, direct control over manner and means, and three or more listed criteria.",
+   "link": "https://code.wvlegislature.gov/email/21-5I-4/",
+   "link_label": "W. Va. Code \u00a721-5I-4 \u2014 Classification of independent contractors and employees"
+  },
+  "wisconsin": {
+   "state": "Wisconsin",
+   "slug": "wisconsin",
+   "state_card": "Wisconsin's Department of Workforce Development says a worker who performs services for pay is presumed an employee under unemployment insurance law unless the employer proves the two-part test: freedom from control or direction, plus meeting six of nine conditions.",
+   "link": "https://dwd.wisconsin.gov/worker-classification/ui/allothers/",
+   "link_label": "Wis. DWD \u2014 Unemployment Insurance Worker Classification"
+  },
+  "wyoming": {
+   "state": "Wyoming",
+   "slug": "wyoming",
+   "state_card": "",
+   "link": "",
+   "link_label": ""
+  }
+ }
+}
