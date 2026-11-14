@@ -1,0 +1,460 @@
+{
+ "states": {
+  "alabama": {
+   "state": "Alabama",
+   "slug": "alabama",
+   "state_law": [],
+   "link_label": "Alabama Attorney General — Consumer Protection",
+   "link": "https://www.alabamaag.gov/during-national-consumer-protection-week-ag-strange-announces-top-consumer-complaints/",
+   "slrp_office": null
+  },
+  "alaska": {
+   "state": "Alaska",
+   "slug": "alaska",
+   "state_law": [],
+   "link_label": "Alaska Commission on Postsecondary Education — Loan Servicing Partners (AES)",
+   "link": "https://acpe.alaska.gov/Partners",
+   "slrp_office": "Alaska Department of Health"
+  },
+  "arizona": {
+   "state": "Arizona",
+   "slug": "arizona",
+   "state_law": [],
+   "link_label": "Arizona Attorney General — Collections and Debt Settlement (consumer tips)",
+   "link": "https://www.azag.gov/consumer/tips/collections-and-debt-settlement",
+   "slrp_office": "Arizona Department of Health Services"
+  },
+  "arkansas": {
+   "state": "Arkansas",
+   "slug": "arkansas",
+   "state_law": [],
+   "link_label": "Arkansas Attorney General — File a Consumer Complaint",
+   "link": "https://arkansasag.gov/file-a-complaint/",
+   "slrp_office": "University of Arkansas for Medical Sciences"
+  },
+  "california": {
+   "state": "California",
+   "slug": "california",
+   "state_law": [
+    "California has both: the Student Loan Servicing Act (Financial Code § 28100 et seq.) requires most student loan servicers to be licensed by the Department of Financial Protection and Innovation (DFPI), and the Student Borrower Bill of Rights (AB 376, Civil Code § 1788.100 et seq.) requires servicers to give accurate information about repayment options, post payments on time, cap late fees at 6% of the past-due amount, answer a Qualified Written Request within 30 business days, and not engage in abusive or deceptive practices — with special protections for military, public-service, older, and disabled borrowers, and a private right of action allowing a borrower to sue a servicer that breaks the rules.",
+    "The California Student Loan Ombudsperson, in the DFPI, receives and reviews borrower complaints, monitors state and federal student-loan laws and policies affecting California borrowers, and helps borrowers get answers about their loans."
+   ],
+   "link_label": "California DFPI — Student Loans: Know Your Rights (Student Borrower Bill of Rights)",
+   "link": "https://dfpi.ca.gov/consumers/student-loans/rights/",
+   "slrp_office": "California Department of Health Care Access and Information"
+  },
+  "colorado": {
+   "state": "Colorado",
+   "slug": "colorado",
+   "state_law": [
+    "The Colorado Student Loan Servicers Act (SB 19-002, C.R.S. §§ 5-20-101 to 5-20-110) requires anyone servicing a student loan owed by a Colorado resident to be licensed by the Uniform Consumer Credit Code Administrator in the Attorney General's office; it bans defrauding or misleading borrowers, misapplying payments, and giving inaccurate information to credit bureaus, and it requires a servicer to evaluate a borrower for income-based repayment or Public Service Loan Forgiveness before placing the borrower in forbearance or default — a violation is a deceptive trade practice.",
+    "The Colorado Student Loan Ombudsperson, in the Attorney General's office (Department of Law), receives, reviews, and tries to resolve complaints from borrowers with federal or private student loans."
+   ],
+   "link_label": "Colorado Attorney General — Student Loan Servicers: Information for Consumers",
+   "link": "https://coag.gov/office-sections/consumer-protection/consumer-credit-unit/student-loan-servicers-act/office-sections-consumer-protection-consumer-credit-unit-student-loan-servicers-act-consumers/",
+   "slrp_office": "Colorado Health Services Corps"
+  },
+  "connecticut": {
+   "state": "Connecticut",
+   "slug": "connecticut",
+   "state_law": [
+    "Connecticut's Student Loan Bill of Rights (Public Act 15-162, now Conn. Gen. Stat. §§ 36a-846 to 36a-856) requires private student loan servicers to be licensed by the Banking Commissioner (federal servicers must register with the state), bans defrauding or misleading borrowers, misapplying payments, and knowingly or recklessly giving inaccurate information to a credit bureau, and — under § 36a-855 — lets an aggrieved borrower sue in Superior Court for actual damages, attorney's fees, and court costs, with possible treble damages, punitive damages, and restitution.",
+    "The Connecticut Office of the Student Loan Ombudsperson works directly with borrowers to resolve servicer complaints, helps them understand their rights and find resources, and monitors laws and policies affecting borrowers. The office moved from the Department of Banking to the Office of Higher Education on July 1, 2026."
+   ],
+   "link_label": "Connecticut Department of Banking — Office of the Student Loan Ombudsperson",
+   "link": "https://portal.CT.gov/dob/student-loan-ombudsperson/student-loan-ombudsperson-office",
+   "slrp_office": "Connecticut Student Loan Repayment Program (UConn AHEC)"
+  },
+  "delaware": {
+   "state": "Delaware",
+   "slug": "delaware",
+   "state_law": [],
+   "link_label": "Delaware Department of Justice — Consumer Protection (Debt Management Services Act)",
+   "link": "https://attorneygeneral.delaware.gov/fraud/cpu/debtmanadvisory/",
+   "slrp_office": "Delaware State Loan Repayment Program, Department of Health and Social Services"
+  },
+  "florida": {
+   "state": "Florida",
+   "slug": "florida",
+   "state_law": [
+    "Florida has no student loan servicer licensing law or servicer bill of rights, but the Keep Our Graduates Working Act of 2020 (Fla. Stat. § 120.82) gives borrowers one concrete protection: a state authority may not deny a license, refuse to renew a license, or suspend or revoke a license solely because the person is delinquent or in default on a student loan."
+   ],
+   "link_label": "Florida Statutes § 120.82 — Keep Our Graduates Working Act (Florida Senate)",
+   "link": "https://www.FLSenate.gov/Laws/Statutes/2023/120.82",
+   "slrp_office": null
+  },
+  "georgia": {
+   "state": "Georgia",
+   "slug": "georgia",
+   "state_law": [
+    "Georgia has no student loan servicer licensing law or servicer bill of rights, but O.C.G.A. § 20-3-295 (rewritten by SB 214 in 2019) bars any Georgia licensing entity from refusing to issue, suspending, or revoking a professional, business, or occupational license because the borrower is in default on a guaranteed educational loan or has been certified for nonpayment or default under a federal educational loan, loan repayment, or service-conditional scholarship program."
+   ],
+   "link_label": "Georgia Attorney General's Consumer Protection Division — File a Complaint",
+   "link": "http://www.consumer.ga.gov/resolve-your-dispute/how-do-i-file-complaint",
+   "slrp_office": "Georgia Board of Health Care Workforce"
+  },
+  "hawaii": {
+   "state": "Hawaii",
+   "slug": "hawaii",
+   "state_law": [],
+   "link_label": "Hawaii Department of Commerce and Consumer Affairs — Overview / Services",
+   "link": "https://cca.hawaii.gov/overview/",
+   "slrp_office": "Hawaii Department of Health, Office of Primary Care and Rural Health"
+  },
+  "idaho": {
+   "state": "Idaho",
+   "slug": "idaho",
+   "state_law": [],
+   "link_label": "Idaho Attorney General — Navient Settlement FAQs (student loan servicer complaints)",
+   "link": "https://ag.idaho.gov/content/uploads/2022/05/5-6-22-Navient-FAQs.pdf",
+   "slrp_office": "Idaho Department of Health and Welfare"
+  },
+  "illinois": {
+   "state": "Illinois",
+   "slug": "illinois",
+   "state_law": [
+    "Illinois Student Loan Servicing Rights Act, 110 ILCS 992 — Article 5 is the Student Loan Bill of Rights and Article 15 requires student loan servicers to be licensed. It bars unfair or deceptive practices and misapplying payments, requires prompt and accurate payment crediting, a free written payment history within 21 days of a request, a payoff statement within 10 days, and specialized repayment help from trained repayment specialists.",
+    "Illinois Student Loan Ombudsman, in the Office of the Attorney General's Consumer Protection Division — receives, reviews and tries to resolve borrower complaints with servicers, schools and other lenders."
+   ],
+   "link_label": "Illinois Attorney General — Student Lending",
+   "link": "https://www.illinoisattorneygeneral.gov/Consumer-Protection/Student-Loan-Debt-Assistance/index",
+   "slrp_office": "Illinois Department of Public Health"
+  },
+  "indiana": {
+   "state": "Indiana",
+   "slug": "indiana",
+   "state_law": [],
+   "link_label": "Indiana Department of Financial Institutions — Where Do I File My Complaint",
+   "link": "https://www.in.gov/dfi/file-a-complaint/where-do-i-file-my-complaint",
+   "slrp_office": "Indiana Department of Health"
+  },
+  "iowa": {
+   "state": "Iowa",
+   "slug": "iowa",
+   "state_law": [
+    "Iowa Code § 533A.8A (added by Senate File 272) does not license loan servicers themselves — it licenses companies that offer educational loan debt management, often called student loan rescue help, through the Iowa Division of Banking. Those licensees may not charge or collect any fee until they have fully performed the services promised, must give the borrower an unconditional right to cancel by midnight of the third business day, and may not block a borrower from contacting a creditor, loan servicer, government entity, attorney or counselor."
+   ],
+   "link_label": "Iowa Legislature — Senate File 272, Educational Loan Debt Management Services",
+   "link": "https://www.legis.iowa.gov:443/docs/publications/LGE/88/SF272.pdf",
+   "slrp_office": null
+  },
+  "kansas": {
+   "state": "Kansas",
+   "slug": "kansas",
+   "state_law": [],
+   "link_label": "Kansas Office of the State Bank Commissioner — Resources & Tools",
+   "link": "https://osbckansas.gov/consumers/resources-tools/",
+   "slrp_office": "Kansas Department of Health and Environment"
+  },
+  "kentucky": {
+   "state": "Kentucky",
+   "slug": "kentucky",
+   "state_law": [
+    "Student Education Loan Servicing, Licensing, and Protection Act of 2022, KRS 286.12-005 to 286.12-155 — KRS 286.12-020 requires a license from the Department of Financial Institutions commissioner to service student education loans in Kentucky, with federal-only servicers deemed licensed for federal loans after giving notice. KRS 286.12-080 bars abusive, unfair, deceptive or predatory practices, misapplying payments, and refusing to communicate with a borrower's authorized representative, and KRS 286.12-140 allows civil penalties of $1,000 to $25,000 per violation per day."
+   ],
+   "link_label": "Kentucky Department of Financial Institutions — Student Education Loan Servicers",
+   "link": "https://kfi.ky.gov/newstatic_Info.aspx?static_ID=699",
+   "slrp_office": "University of Kentucky Center of Excellence in Rural Health"
+  },
+  "louisiana": {
+   "state": "Louisiana",
+   "slug": "louisiana",
+   "state_law": [
+    "Louisiana Revised Statutes Title 6, Chapter 23, §§ 6:1411–6:1413, Student Loan Servicers (Act 710 of 2022) — a duties and prohibited-conduct law, not a servicer licensing law. Servicers may not mislead borrowers, engage in unfair, abusive or deceptive practices, misrepresent fees, payments, repayment options or loan terms, misapply payments, or provide inaccurate information to a credit reporting agency; they must acknowledge a written inquiry or complaint within 10 days, respond within 30 days, apply a nonconforming payment as the borrower directs, and provide account documents within 30 days of a request. Separately, §§ 6:1421 et seq. require private education lenders to register with the commissioner of Financial Institutions."
+   ],
+   "link_label": "Louisiana Legislature — RS 6:1413, Written Inquiries and Complaints",
+   "link": "https://www.legis.la.gov/legis/Law.aspx?d=1294847",
+   "slrp_office": "Well-Ahead Louisiana (State Loan Repayment Program)"
+  },
+  "maine": {
+   "state": "Maine",
+   "slug": "maine",
+   "state_law": [
+    "Maine Student Loan Bill of Rights, 9-A MRSA Article 14, §§ 14-101 to 14-109 (PL 2019, c. 431, effective January 1, 2020) — § 14-107 requires most student loan servicers to be licensed by the Superintendent of Consumer Credit Protection, and § 14-108 requires servicers to respond to written inquiries, apply partial payments in a way that minimizes late fees and negative credit reporting, and preserve borrower benefits when servicing is transferred, and bars misleading borrowers, misapplying payments, and inaccurate credit reporting. A violation is an unfair trade practice under the Maine Unfair Trade Practices Act.",
+    "Maine Student Loan Ombudsman, in the Bureau of Consumer Credit Protection — receives, reviews and tries to resolve borrower complaints, helps borrowers understand their rights and responsibilities, and helps make sure servicers comply with the law."
+   ],
+   "link_label": "Maine Bureau of Consumer Credit Protection — Student Loan Resources",
+   "link": "https://www.maine.gov/pfr/consumercredit/consumer/student_loans.html",
+   "slrp_office": "Maine Center for Disease Control and Prevention"
+  },
+  "maryland": {
+   "state": "Maryland",
+   "slug": "maryland",
+   "state_law": [
+    "Maryland Student Loan Borrower's Bill of Rights, drawn from Md. Code, Education Article §§ 26-601 et seq. and Financial Institutions Article § 2-104.1 — these sections do not license servicers, but servicers may not mislead borrowers or engage in unfair, abusive or deceptive practices, misrepresent fees, payments, repayment options or loan terms, misapply payments, or report inaccurate credit information. Servicers must acknowledge a written inquiry or complaint within 10 days, respond within 30 days, apply nonconforming payments as the borrower directs, and provide account documents within 30 days of a request, and a violation is an unfair, abusive or deceptive trade practice under the Maryland Consumer Protection Act.",
+    "Maryland Student Loan Ombudsman, in the Office of Financial Regulation, Maryland Department of Labor — created by the Financial Consumer Protection Act of 2018, the Ombudsman mediates borrower complaints against servicers, monitors student loan servicing in Maryland, and may refer abusive, unfair, deceptive or fraudulent matters to the Attorney General."
+   ],
+   "link_label": "Maryland Office of Financial Regulation — Student Loan Ombudsman",
+   "link": "https://www.labor.md.gov/finance/consumers/frslombud.shtml",
+   "slrp_office": "Maryland Department of Health"
+  },
+  "massachusetts": {
+   "state": "Massachusetts",
+   "slug": "massachusetts",
+   "state_law": [
+    "Massachusetts General Laws Chapter 93L, Student Loan Servicers, requires anyone acting as a student loan servicer to be licensed by the Division of Banks (banks, credit unions, their subsidiaries, nonprofits and public colleges are exempt). Chapter 93L, Section 8 bars unfair or deceptive acts by servicers, and a violation of the chapter is also a violation of Chapter 93A, the state consumer-protection law.",
+    "Student Loan Ombudsman in the Attorney General's Office, under Mass. General Laws Chapter 12, Section 35: the ombudsman receives, reviews and helps resolve borrower complaints with colleges, servicers and the Division of Banks, including help exploring repayment options, applying for income-driven repayment, avoiding or removing default, and resolving billing disputes."
+   ],
+   "link_label": "Massachusetts Division of Banks — Student Loan Information for Consumers",
+   "link": "https://www.mass.gov/info-details/student-loan-information-for-consumers",
+   "slrp_office": "Massachusetts Department of Public Health"
+  },
+  "michigan": {
+   "state": "Michigan",
+   "slug": "michigan",
+   "state_law": [],
+   "link_label": "MI Student Aid — State of Michigan",
+   "link": "https://www.michigan.gov/mistudentaid",
+   "slrp_office": "Michigan Department of Health and Human Services"
+  },
+  "minnesota": {
+   "state": "Minnesota",
+   "slug": "minnesota",
+   "state_law": [
+    "Minnesota Statutes Chapter 58B, cited as the Student Loan Borrower Bill of Rights, requires student loan servicers to be licensed by the Commissioner of Commerce (58B.03), sets servicer duties in 58B.06 and prohibited conduct in 58B.07. Section 58B.09, subdivision 4 gives a damaged borrower a private right of action for actual damages (at least $500 per plaintiff, per violation), restitution, punitive damages and attorney fees, after 45 days' written notice to the servicer.",
+    "Student Loan Advocate in the Minnesota Department of Commerce, under Minn. Stat. 58B.011: the advocate receives, reviews and works to resolve borrower complaints about servicers, helps borrowers understand their rights and responsibilities, reviews a borrower's full loan history with written consent, and runs a borrower education course."
+   ],
+   "link_label": "Minnesota Department of Commerce — Student Loan Advocate",
+   "link": "https://mn.gov/commerce/money/consumer/student-loans/",
+   "slrp_office": "Minnesota Department of Health, Office of Rural Health and Primary Care"
+  },
+  "mississippi": {
+   "state": "Mississippi",
+   "slug": "mississippi",
+   "state_law": [],
+   "link_label": "Mississippi Department of Banking and Consumer Finance — Consumer Complaints",
+   "link": "https://dbcf.ms.gov/complaint-form/",
+   "slrp_office": "Mississippi State Department of Health"
+  },
+  "missouri": {
+   "state": "Missouri",
+   "slug": "missouri",
+   "state_law": [],
+   "link_label": "Journey to College (Missouri Department of Higher Education & Workforce Development) — Avoid Default",
+   "link": "https://journeytocollege.mo.gov/pay/student-loans/avoid-default/",
+   "slrp_office": "Missouri Department of Health and Senior Services"
+  },
+  "montana": {
+   "state": "Montana",
+   "slug": "montana",
+   "state_law": [],
+   "link_label": "Montana Department of Justice — Office of Consumer Protection",
+   "link": "https://dojmt.gov/office-of-consumer-protection/",
+   "slrp_office": "Montana Department of Public Health and Human Services"
+  },
+  "nebraska": {
+   "state": "Nebraska",
+   "slug": "nebraska",
+   "state_law": [],
+   "link_label": "Nebraska Attorney General — Consumer Alert: Federal Student Loan Debt Relief Scams",
+   "link": "https://ago.nebraska.gov/news/3d-consumer-alert-federal-student-loan-debt-relief-scams",
+   "slrp_office": "Nebraska Department of Health and Human Services"
+  },
+  "nevada": {
+   "state": "Nevada",
+   "slug": "nevada",
+   "state_law": [
+    "Nevada Revised Statutes Chapter 670B, Student Loan Servicers; Private Education Lenders (added by AB 332 in 2023, effective Jan. 1, 2024), requires student loan servicers to be licensed by the Commissioner of Financial Institutions (NRS 670B.200). Servicers have stated duties on responding to inquiries, applying overpayments and partial payments, handling servicing transfers and evaluating borrowers for income-driven repayment (NRS 670B.380), prohibited acts are listed in NRS 670B.400, and NRS 670B.710 allows a civil action for a violation, including treble damages.",
+    "Student Loan Ombudsman designated by the State Treasurer within the Office of the State Treasurer, under NRS 226.560 and NRS 226.500 to 226.580: the ombudsman provides timely assistance to student education loan borrowers and works as an educational resource on loan options, borrower rights and loan details."
+   ],
+   "link_label": "Nevada State Treasurer — Student Loan Ombudsman (NVigate)",
+   "link": "https://nvigate.gov/?p=531",
+   "slrp_office": "Nevada Health Service Corps (University of Nevada, Reno School of Medicine)"
+  },
+  "new-hampshire": {
+   "state": "New Hampshire",
+   "slug": "new-hampshire",
+   "state_law": [],
+   "link_label": "New Hampshire Banking Department — Consumer Assistance: Avoiding Scams and Fraud",
+   "link": "https://www.banking.nh.gov/consumer-assistance/avoiding-scams-and-fraud",
+   "slrp_office": null
+  },
+  "new-jersey": {
+   "state": "New Jersey",
+   "slug": "new-jersey",
+   "state_law": [
+    "New Jersey's student loan servicer law, P.L. 2019, c.200, codified at N.J.S.A. 17:16ZZ-1 et seq., requires student loan servicers to be licensed and regulated by the Department of Banking and Insurance. The Department states the law protects borrowers against deceptive practices by servicers, including fraudulent or misleading practices that can harm borrowers financially.",
+    "Student Loan Ombudsman within the New Jersey Department of Banking and Insurance, created by the same 2019 law (N.J.S.A. 17:16ZZ-2 and 17:16ZZ-3): the ombudsman helps borrowers with questions or complaints about their student loans that they have not been able to resolve with their servicer, and helps borrowers understand their rights and responsibilities under their loan terms."
+   ],
+   "link_label": "New Jersey Department of Banking and Insurance — Student Loan Information",
+   "link": "https://www.nj.gov/dobi/division_consumers/finance/studentloan/index.html",
+   "slrp_office": null
+  },
+  "new-mexico": {
+   "state": "New Mexico",
+   "slug": "new-mexico",
+   "state_law": [],
+   "link_label": "New Mexico Department of Justice — Consumer Affairs",
+   "link": "https://nmdoj.gov/about-the-office/consumer-affairs/",
+   "slrp_office": "New Mexico Higher Education Department"
+  },
+  "new-york": {
+   "state": "New York",
+   "slug": "new-york",
+   "state_law": [
+    "New York Banking Law Article 14-A (§§ 710–723) requires entities servicing student loans held by New York borrowers to be licensed by the Department of Financial Services. DFS rules require servicers to give clear and complete information on fees, payments due, and loan terms, apply payments in the borrower's best interest, tell borrowers about income-based repayment and loan forgiveness options, provide a detailed account history, and respond to consumer complaints; § 719 also prohibits defrauding or misleading borrowers, misapplying payments, and providing inaccurate information to a credit reporting agency."
+   ],
+   "link_label": "New York Department of Financial Services — Student Loans and Debt Relief Resources",
+   "link": "https://www.dfs.ny.gov/consumers/student_protection",
+   "slrp_office": "Doctors Across New York (New York Department of Health)"
+  },
+  "north-carolina": {
+   "state": "North Carolina",
+   "slug": "north-carolina",
+   "state_law": [],
+   "link_label": "North Carolina Department of Justice — Student Loan Tips",
+   "link": "https://ncdoj.gov/protecting-consumers/college-consumers/student-loan-tips/",
+   "slrp_office": null
+  },
+  "north-dakota": {
+   "state": "North Dakota",
+   "slug": "north-dakota",
+   "state_law": [],
+   "link_label": "North Dakota Department of Financial Institutions — Who We Regulate",
+   "link": "https://www.nd.gov/dfi/about-dfi/who-we-regulate",
+   "slrp_office": "North Dakota Department of Health and Human Services, Primary Care Office"
+  },
+  "ohio": {
+   "state": "Ohio",
+   "slug": "ohio",
+   "state_law": [],
+   "link_label": "Ohio Attorney General — Student Loan Center: After College",
+   "link": "https://ohioattorneygeneral.gov/Individuals-and-Families/Consumers/Student-Loan-Center/After-College",
+   "slrp_office": "Ohio Department of Health"
+  },
+  "oklahoma": {
+   "state": "Oklahoma",
+   "slug": "oklahoma",
+   "state_law": [
+    "The Oklahoma Student Borrower's Bill of Rights Act (Okla. Stat. tit. 24, §§ 170–172, enacted 2021 and amended 2023) does not license servicers, but § 24-172 bars servicers from defrauding or misleading borrowers, engaging in unfair or deceptive practices, misapplying payments, or providing inaccurate information to a credit bureau, and requires them to tell borrowers about federal income-driven repayment options before offering deferment or forbearance and to tell borrowers if their loan type does not qualify for loan forgiveness programs. The Attorney General must publish the Bill of Rights statement in plain language."
+   ],
+   "link_label": "Oklahoma Legislature — Enrolled SB 261, Oklahoma Student Borrower's Bill of Rights Act (Okla. Stat. tit. 24, §§ 170–172)",
+   "link": "http://webserver1.lsb.state.ok.us/cf_pdf/2021-22%20ENR/SB/SB261%20ENR.PDF",
+   "slrp_office": "Oklahoma State Department of Health"
+  },
+  "oregon": {
+   "state": "Oregon",
+   "slug": "oregon",
+   "state_law": [
+    "Oregon's student loan servicing law (ORS 725A.500–725A.530, enacted 2021) prohibits servicing a student loan for an Oregon borrower without a license from the Director of the Department of Consumer and Business Services (ORS 725A.503). Servicers must credit payments within one business day, promptly correct errors and refund fees assessed in error, and keep transaction records; ORS 725A.521 also prohibits fraud, knowingly or recklessly misapplying payments, and failing to respond to a borrower complaint or an ombuds communication within 30 days.",
+    "Oregon's Student Loan Ombuds, appointed within the Department of Consumer and Business Services (Division of Financial Regulation) under ORS 725A.530, receives, reviews, and attempts to resolve borrower complaints and helps borrowers understand their rights and responsibilities under their student loans."
+   ],
+   "link_label": "Oregon Division of Financial Regulation — Student Loan Help",
+   "link": "https://dfr.oregon.gov/help/student-loan-help",
+   "slrp_office": "Oregon Office of Rural Health (Oregon Health & Science University)"
+  },
+  "pennsylvania": {
+   "state": "Pennsylvania",
+   "slug": "pennsylvania",
+   "state_law": [],
+   "link_label": "Pennsylvania Department of Banking and Securities — Consumer Help Center",
+   "link": "https://www.pa.gov/agencies/dobs/consumer-help-center",
+   "slrp_office": "Pennsylvania Department of Health"
+  },
+  "rhode-island": {
+   "state": "Rhode Island",
+   "slug": "rhode-island",
+   "state_law": [
+    "Rhode Island's Student Loan Bill of Rights Act (R.I. Gen. Laws ch. 19-33, enacted 2019) requires student loan servicers to register with the Department of Business Regulation, pay an annual fee, post a $50,000 bond, and renew each year (§ 19-33-4). Servicers must give borrowers, annually and on request, their loan terms, repayment progress, and eligibility for relief such as income-driven repayment and Public Service Loan Forgiveness, answer written inquiries within 10 business days, and ask the borrower how to apply overpayments (§ 19-33-8); § 19-33-12 prohibits defrauding or misleading borrowers, misapplying payments, and knowingly or recklessly providing inaccurate information to a credit bureau.",
+    "Under § 19-33-3, the Attorney General's Consumer Protection Unit, in collaboration with the Department of Business Regulation director, the General Treasurer, and the Commissioner of Postsecondary Education, receives, reviews, and attempts to resolve student loan borrower complaints and assists borrowers in understanding their rights and responsibilities under their student education loans."
+   ],
+   "link_label": "Rhode Island General Laws — Student Loan Bill of Rights Act, ch. 19-33 (§ 19-33-1)",
+   "link": "https://webserver.rilegislature.gov/Statutes/TITLE19/19-33/19-33-1.htm",
+   "slrp_office": "Rhode Island Department of Health"
+  },
+  "south-carolina": {
+   "state": "South Carolina",
+   "slug": "south-carolina",
+   "state_law": [],
+   "link_label": "South Carolina Department of Consumer Affairs — Consumer Complaints",
+   "link": "https://consumer.sc.gov/consumer-resources/consumer-complaints",
+   "slrp_office": null
+  },
+  "south-dakota": {
+   "state": "South Dakota",
+   "slug": "south-dakota",
+   "state_law": [],
+   "link_label": "South Dakota Attorney General, Consumer Protection — Lending",
+   "link": "http://consumer.sd.gov/fastfacts/lending.aspx",
+   "slrp_office": null
+  },
+  "tennessee": {
+   "state": "Tennessee",
+   "slug": "tennessee",
+   "state_law": [],
+   "link_label": "Tennessee Department of Financial Institutions — Consumer Resources",
+   "link": "https://www.tn.gov/tdfi/consumer-resources.html",
+   "slrp_office": "Tennessee Department of Health"
+  },
+  "texas": {
+   "state": "Texas",
+   "slug": "texas",
+   "state_law": [],
+   "link_label": "Texas Attorney General — Beware of Student Loan Scams",
+   "link": "https://www.texasattorneygeneral.gov/consumer-protection/beware-student-loan-scams",
+   "slrp_office": "Texas Higher Education Coordinating Board"
+  },
+  "utah": {
+   "state": "Utah",
+   "slug": "utah",
+   "state_law": [],
+   "link_label": "Utah Department of Financial Institutions",
+   "link": "https://dfi.utah.gov/",
+   "slrp_office": "Utah Department of Health and Human Services"
+  },
+  "vermont": {
+   "state": "Vermont",
+   "slug": "vermont",
+   "state_law": [],
+   "link_label": "Vermont Department of Financial Regulation — Banking Complaints",
+   "link": "https://dfr.vermont.gov/file-complaint-or-ask-help/banking-complaints",
+   "slrp_office": "Vermont Department of Health"
+  },
+  "virginia": {
+   "state": "Virginia",
+   "slug": "virginia",
+   "state_law": [
+    "Virginia's Qualified Education Loan Servicers law, Code of Virginia Title 6.2, Chapter 26 (sections 6.2-2600 et seq.), requires a person to get a State Corporation Commission license before acting as a qualified education loan servicer (section 6.2-2601) and bans fraud, unfair or deceptive practices, misapplying payments, and providing inaccurate credit-bureau information (section 6.2-2610). A borrower who suffers damage from a servicer's failure to comply may bring a private cause of action for actual damages of at least $500 per violation, plus other relief the court deems proper (section 6.2-2619).",
+    "Virginia's Office of the Qualified Education Loan Ombudsman, at the State Council of Higher Education for Virginia, provides timely assistance to Virginia borrowers, acts as a liaison with loan servicers to explore repayment options and try to resolve complaints, and refers abusive, unfair, deceptive or fraudulent matters to the Attorney General."
+   ],
+   "link_label": "State Council of Higher Education for Virginia — Student Loan Advising / Office of the Qualified Education Loan Ombudsman",
+   "link": "https://www.schev.edu/students/student-loan-advising",
+   "slrp_office": "Virginia Department of Health"
+  },
+  "washington": {
+   "state": "Washington",
+   "slug": "washington",
+   "state_law": [
+    "Washington's Student Education Loan Bill of Rights, enacted as Chapter 62, Laws of 2018 and codified in the Consumer Loan Act at RCW 31.04.400 through 31.04.420, requires student education loan servicers to be licensed by the Department of Financial Institutions and bans misrepresenting or omitting material information about fees, payments, or loan terms in connection with servicing. Under RCW 31.04.405 a servicer must credit payments promptly, answer a borrower's written request for account information within 15 business days, give notice 45 to 60 days before a servicing transfer, and provide free information about repayment and loan forgiveness options and the Student Loan Advocate.",
+    "Washington's Office of Student Loan Advocacy, in the Washington Student Achievement Council, houses the Student Loan Advocate designated under RCW 28B.77.007, who answers borrower questions, reviews complaints, and refers servicer complaints to the Department of Financial Institutions or the Attorney General's Consumer Protection Division."
+   ],
+   "link_label": "Washington Student Achievement Council — Office of Student Loan Advocacy",
+   "link": "https://wsac.wa.gov/index.php/loan-advocacy",
+   "slrp_office": "Washington Student Achievement Council (Washington Health Corps)"
+  },
+  "west-virginia": {
+   "state": "West Virginia",
+   "slug": "west-virginia",
+   "state_law": [],
+   "link_label": "West Virginia Division of Financial Institutions",
+   "link": "https://dfi.wv.gov",
+   "slrp_office": "West Virginia Department of Health"
+  },
+  "wisconsin": {
+   "state": "Wisconsin",
+   "slug": "wisconsin",
+   "state_law": [],
+   "link_label": "Wisconsin Department of Financial Institutions — File a Wisconsin Consumer Act Complaint",
+   "link": "https://dfi.wi.gov/Pages/FinancialServices/LicensedFinancial/FileAComplaint.aspx",
+   "slrp_office": "Wisconsin Office of Rural Health"
+  },
+  "wyoming": {
+   "state": "Wyoming",
+   "slug": "wyoming",
+   "state_law": [],
+   "link_label": "Wyoming Division of Banking — How to File a Complaint",
+   "link": "https://wyomingbankingdivision.wyo.gov/how-to-file-a-complaint?ld=NSGoogle",
+   "slrp_office": "Wyoming Department of Health"
+  }
+ }
+}
