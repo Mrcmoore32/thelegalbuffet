@@ -1,0 +1,404 @@
+{
+ "states": {
+  "alabama": {
+   "slug": "alabama",
+   "state": "Alabama",
+   "payday": "Payday lending is authorized and licensed in Alabama. The Alabama Banking Department states that payday lenders operate under the Alabama Deferred Presentment Services Act (Ala. Code \u00a7\u00a75-18A-1 et seq.) and must be licensed by the Banking Department. The Banking Department's consumer FAQ states that the finance charge may not exceed 17.5% of the amount advanced, that a transaction may not exceed $500, and that the term is limited to a minimum of 10 days and a maximum of 31 days. The Banking Department also states that a transaction may be renewed (rolled over) only once, that Alabama maintains a statewide common database that licensed providers must check, and that a borrower may have only one outstanding deferred presentment transaction of up to $500 at a time statewide.",
+   "title": "Title lending is separately licensed in Alabama under the Alabama Pawnshop Act (Ala. Code \u00a7\u00a75-19A-1 et seq.), administered through the Alabama State Banking Department's pawnbroker licensing program. Title pawn transactions in Alabama are therefore regulated as pawn transactions, not under the deferred presentment (payday) statute.",
+   "link_label": "Alabama State Banking Department",
+   "link": "https://www.banking.alabama.gov"
+  },
+  "alaska": {
+   "slug": "alaska",
+   "state": "Alaska",
+   "payday": "Payday lending is authorized in Alaska. Alaska DCCED states that payday lending is governed by the Alaska Deferred Deposit Advances Act (AS 06.50) and that a person may not engage in the business of making deferred deposit advances in Alaska, including online, unless licensed by the department. Alaska law and the department's guidance summarize the activity as licensed deferred deposit lending, not as a banned category.",
+   "title": "Alaska regulates motor vehicle title loans under the Alaska Small Loans Act (AS 06.20), not under the deferred deposit statute. The Alaska Division of Banking & Securities states that the Small Loans Act covers loans of $25,000 or less, including motor vehicle title loans.",
+   "link_label": "Alaska Division of Banking & Securities",
+   "link": "https://www.commerce.alaska.gov/web/dbs/"
+  },
+  "arizona": {
+   "slug": "arizona",
+   "state": "Arizona",
+   "payday": "Payday lending is effectively banned in Arizona. The deferred presentment (payday loan) authorization in Arizona law expired on July 1, 2010, and Arizona's general usury law (A.R.S. section 44-1201) caps interest at 36%, a rate at which the old payday model cannot operate. The Arizona Attorney General's consumer guidance treats Arizona as a state where payday lending is not authorized.",
+   "title": "Arizona auto title loans are made by state-licensed consumer lenders under Arizona's consumer lender law (A.R.S. Title 6), supervised by the Department of Insurance and Financial Institutions - they are not made under a payday statute.",
+   "link_label": "Arizona Department of Insurance and Financial Institutions",
+   "link": "https://difi.az.gov"
+  },
+  "arkansas": {
+   "slug": "arkansas",
+   "state": "Arkansas",
+   "payday": "Payday lending is effectively banned in Arkansas. The Arkansas Attorney General states plainly that payday lending is illegal in Arkansas because the Arkansas Constitution caps interest on consumer loans at 17% and the Arkansas Supreme Court struck down the Check-cashers Act fee structure as unconstitutional. The AG's published consumer guidance therefore treats Arkansas as a no-payday state under the constitutional usury cap.",
+   "title": "Title lending in Arkansas is treated by the Arkansas Attorney General as subject to the same constitutional 17% interest cap, and the AG's guidance has treated title-loan charges above that cap as unlawful. Arkansas therefore does not operate a licensed storefront title-loan category comparable to neighboring states.",
+   "link_label": "Arkansas Attorney General - Payday Lending",
+   "link": "https://arkansasag.gov/consumer-protection/insurance-and-finance/payday-lending/"
+  },
+  "california": {
+   "slug": "california",
+   "state": "California",
+   "payday": "Payday lending is authorized in California with fee caps administered by the Department of Financial Protection and Innovation (DFPI). DFPI states that deferred deposit transactions (payday loans) are governed by the California Deferred Deposit Transaction Law, that a license is required, and that the maximum amount of a deferred deposit transaction is $300 (face amount of the check), with a maximum fee of 15% of the face amount of the check. DFPI guidance also reflects the statutory prohibition on criminal prosecution for a bad check given for a deferred deposit transaction and the rule against multiple deferred deposit transactions with the same customer by one licensee at one time.",
+   "title": "California title loans are not payday loans under the Deferred Deposit Transaction Law. DFPI treats car title loans as consumer loans under the California Financing Law; large title lenders were the subject of DFPI enforcement, and the DFPI consumer materials distinguish title loans (secured by the vehicle) from deferred deposit transactions.",
+   "link_label": "California DFPI - Payday Lending Consumer Advisory",
+   "link": "https://dfpi.ca.gov/alert/payday-lending-consumer-advisory/"
+  },
+  "colorado": {
+   "slug": "colorado",
+   "state": "Colorado",
+   "payday": "Small loans in Colorado are restricted by a 36% APR cap structure. The Colorado Attorney General's consumer credit page states that after voters approved Proposition 111 in 2018, Colorado law caps charges on deferred deposit / payday loans at 36% APR, with limits on origination and monthly maintenance charges as the AG summarizes them. Colorado's Uniform Consumer Credit Code (UCCC) administrator materials describe payday-type lending as continuing only under the UCCC's supervised-loan framework with the 36% cap, so Colorado is characterized as restricted rather than fully open payday lending.",
+   "title": "Colorado title loans are made as supervised loans under the Uniform Consumer Credit Code, administered by the Attorney General's consumer credit office; Colorado has no separate title-loan statute.",
+   "link_label": "Colorado Attorney General - Uniform Consumer Credit Code / Payday Loans",
+   "link": "https://coag.gov/resources/uccc"
+  },
+  "connecticut": {
+   "slug": "connecticut",
+   "state": "Connecticut",
+   "payday": "Payday lending is not authorized in Connecticut. The Connecticut Department of Banking states flatly that 'Payday loans are illegal in Connecticut': Connecticut's small loan law caps interest on small loans at 12%, and payday-style fees cannot fit under that cap. That is the Department's own characterization.",
+   "title": "Connecticut does not license title lenders as a separate category. The Department of Banking treats vehicle-secured high-cost lending under the small loan / usury framework, and no Connecticut title-loan license category is published by the Department.",
+   "link_label": "Connecticut Department of Banking - Payday Loans",
+   "link": "https://portal.ct.gov/DOB/Consumer/Consumer-Education/Money-Matters/Payday-Loans"
+  },
+  "delaware": {
+   "slug": "delaware",
+   "state": "Delaware",
+   "payday": "Payday lending is authorized in Delaware with licensing through the Office of the State Bank Commissioner. The Bank Commissioner states that payday lenders must be licensed by the State Bank Commissioner under Delaware's licensed-lender law and that Delaware law does not cap the interest rate a licensed lender may charge, while Delaware's short-term consumer loan database and repeat-borrowing limits apply: the Bank Commissioner's consumer materials state a borrower may not have more than five short-term consumer loans in any twelve-month period and that lenders must check the database before making a short-term consumer loan. Delaware is therefore an authorized state with database and frequency limits but no rate cap.",
+   "title": "Delaware title loans are made by licensed lenders under the same licensed-lender framework; Delaware does not publish a separate title-loan statute, and the Bank Commissioner's licensed lender materials cover lenders who take a vehicle title as security.",
+   "link_label": "Delaware Office of the State Bank Commissioner - Licensed Lenders",
+   "link": "https://banking.delaware.gov/services/lending/licensed-lenders"
+  },
+  "florida": {
+   "slug": "florida",
+   "state": "Florida",
+   "payday": "Payday lending is authorized and licensed in Florida. The Florida Office of Financial Regulation states that deferred presentment providers must be licensed and that a provider may not enter into a deferred presentment agreement with a term of less than 7 days or more than 31 days, with a maximum face amount of $500, a fee capped at 10% of the currency or payment instrument provided plus a verification fee not to exceed $5, and that providers must check the statewide database maintained for deferred presentment transactions before entering an agreement. OFR also states a borrower may have only one outstanding deferred presentment agreement at a time and that rollovers are prohibited.",
+   "title": "Florida title loans are separately licensed under the Florida Title Loan Act (Fla. Stat. ch. 537), and section 537.011 caps the interest at 30% per year on the first $2,000 of principal, 24% on the part between $2,000 and $3,000, and 18% above $3,000, computed as simple interest - far below payday-loan pricing.",
+   "link_label": "Florida Office of Financial Regulation - Payday Lenders (Deferred Presentment Providers)",
+   "link": "https://www.flofr.gov/education/consumer-resources/lists/consumer-resources/payday-lenders-(deferred-presentment-providers)"
+  },
+  "georgia": {
+   "slug": "georgia",
+   "state": "Georgia",
+   "payday": "Payday lending is illegal in Georgia. The Georgia Department of Banking and Finance states that under O.C.G.A. section 16-17-1 et seq. it is unlawful to make loans of $3,000 or less - including online and out-of-state payday loans - unless the lender is a bank, credit union, or a licensed Georgia installment lender. The Department also states that a loan made by an unlicensed lender is void and the lender has no right to collect even the principal (O.C.G.A. sections 16-17-3 and 7-3-50).",
+   "title": "Georgia title pawns are a separate, lawful category regulated under Georgia's pawnbroker law (O.C.G.A. Title 44, ch. 12, part 5) - a title pawn is a pawn transaction, not a payday loan, and has its own statutory scheme.",
+   "link_label": "Georgia Department of Banking and Finance - Payday Lending",
+   "link": "https://dbf.georgia.gov/payday-lending"
+  },
+  "hawaii": {
+   "slug": "hawaii",
+   "state": "Hawaii",
+   "payday": "Hawaii ended traditional payday loans on January 1, 2022. Act 56 (2021) repealed the old deferred deposit law (former HRS section 480F-4), and single-payment payday loans are no longer authorized. In their place, licensed 'installment lenders' under the new HRS Chapter 480J, supervised by the Division of Financial Institutions, may make small installment loans of up to $1,500, repaid in installments over 2 to 12 months. Interest is capped at 36% a year, plus a monthly maintenance fee of up to $35 depending on the loan size, and total charges may not exceed half the amount borrowed. You may repay early with no penalty, and a loan made by an unlicensed lender is void - the lender may not collect it.",
+   "title": "Hawaii has no separate title-loan statute: a loan secured by your car falls under Hawaii's general consumer-credit law, not under the check cashing chapter.",
+   "link_label": "Hawaii Division of Financial Institutions - Installment Lenders (Act 56)",
+   "link": "https://cca.hawaii.gov/dfi/learn-more-about-installment-lenders/"
+  },
+  "idaho": {
+   "slug": "idaho",
+   "state": "Idaho",
+   "payday": "Payday lending is authorized in Idaho under the Idaho Credit Code's payday loan provisions, Idaho Code section 28-46-412. Lenders must be licensed by the Department of Finance. A payday loan may not exceed $1,000 and may not exceed 25% of the borrower's gross monthly income. Idaho law does not cap the fee a lender may charge - the Department of Finance states fees vary between lenders and are negotiable - but the fee must be disclosed in dollars and as an APR, and no charges beyond the agreed fee are allowed. A loan may be renewed no more than three times in a row.",
+   "title": "Idaho title loans are regulated as 'title loans' under Idaho Code \u00a728-46-5 (Title Loans), a separate part of the Idaho Credit Code: title lenders must be licensed by the Department of Finance, loans are limited in amount and term, and the statute restricts renewals and requires disclosures specific to vehicle-title-secured loans.",
+   "link_label": "Idaho Department of Finance",
+   "link": "https://www.finance.idaho.gov"
+  },
+  "illinois": {
+   "slug": "illinois",
+   "state": "Illinois",
+   "payday": "Payday lending is heavily restricted in Illinois and no longer operates in its classic single-payment form. The Illinois Predatory Loan Prevention Act (PLPA), 815 ILCS 123, signed March 23, 2021 and effective immediately, imposes a 36% annual percentage rate cap (computed as an all-in 'annual percentage rate' under the Military Lending Act methodology) on consumer loans, including payday loans. The Illinois Department of Financial and Professional Regulation (IDFPR), Division of Financial Institutions, which licenses payday lenders under the Payday Loan Reform Act (815 ILCS 122), confirms the 36% PLPA cap applies to payday and title loans alike. Characterized as the IDFPR states it: payday loans remain licensed products but are subject to a hard 36% all-in APR cap, which ended traditional high-cost payday lending in Illinois. A loan made in violation of the PLPA is void and unenforceable - the lender has no right to collect principal, interest, or fees.",
+   "title": "Title loans in Illinois are separately licensed under the Consumer Installment Loan Act (205 ILCS 670) and are ALSO subject to the PLPA's 36% all-in APR cap, per IDFPR. Illinois formerly had a specific title-loan regime with much higher rates; the PLPA cap now governs title loans the same as other consumer loans.",
+   "link_label": "Illinois IDFPR - Consumer Credit Division",
+   "link": "https://IDFPR.illinois.gov/dfi/ccd/ccd-main.html"
+  },
+  "indiana": {
+   "slug": "indiana",
+   "state": "Indiana",
+   "payday": "Payday lending is authorized in Indiana. The Indiana Department of Financial Institutions (DFI) states that 'small loans' (payday loans) are governed by the Indiana Uniform Consumer Credit Code, IC 24-4.5-7, and lenders must be licensed by DFI. Under DFI's current borrower pamphlet, a single small loan may not exceed $605 (a statutory cap that is adjusted periodically), a loan may not exceed 20% of your monthly gross income, the due date must be at least 14 days out, the finance charge is tiered by amount (15% of the first $250, 13% of the next $150, 10% above $400), renewals are prohibited, and a borrower may not have small loans with more than one lender if the total exceeds the statutory limits enforced through a statewide database.",
+   "title": "Indiana title loans are treated as consumer loans under the Indiana Uniform Consumer Credit Code (IC 24-4.5) supervised by DFI; Indiana does not have a standalone title-loan act, and title-secured lending is licensed as supervised consumer credit rather than under the small-loan (payday) chapter.",
+   "link_label": "Indiana Department of Financial Institutions - Consumer Credit Division",
+   "link": "https://www.in.gov/dfi/general-information/consumer-credit-division/"
+  },
+  "iowa": {
+   "slug": "iowa",
+   "state": "Iowa",
+   "payday": "Payday lending is authorized in Iowa under the Delayed Deposit Services Act, Iowa Code ch. 533D. The Iowa Division of Banking states that delayed deposit businesses must be licensed, the maximum loan is $500, the fee is capped on a sliding scale set in \u00a7533D.9 (commonly summarized by the Division as $15 on the first $100 and $10 on each additional $100, for a maximum fee of $55 on a $500 loan), the term may not exceed 31 days, and a customer may have no more than two delayed deposit transactions outstanding at one time. All figures are as the Division of Banking publishes them.",
+   "title": "Iowa does not have a separate title-loan statute; vehicle-title-secured lending in Iowa is made under the Iowa Consumer Credit Code (Iowa Code ch. 537) as supervised consumer loans, not under the Delayed Deposit Services Act.",
+   "link_label": "Iowa Division of Banking",
+   "link": "https://idob.iowa.gov"
+  },
+  "kansas": {
+   "slug": "kansas",
+   "state": "Kansas",
+   "payday": "Payday lending is authorized in Kansas under the Kansas Uniform Consumer Credit Code (K.S.A. 16a-2-404), and payday lenders must be licensed by the Office of the State Bank Commissioner. A payday loan (cash advance) may not exceed $500, the finance charge may not exceed 15% of the cash advance, the term must be at least 7 days and not more than 30 days, you may not have more than two payday loans outstanding with one lender group at a time, and you may not take more than three payday loans in any 30-day period.",
+   "title": "Kansas title loans are not a separate license category: vehicle-title-secured consumer loans are made under the Kansas Uniform Consumer Credit Code as supervised loans, and the OSBC does not publish a standalone title-loan program.",
+   "link_label": "Kansas Office of the State Bank Commissioner",
+   "link": "https://www.osbckansas.org"
+  },
+  "kentucky": {
+   "slug": "kentucky",
+   "state": "Kentucky",
+   "payday": "Payday lending is authorized in Kentucky under the Deferred Deposit / Check Cashing law, KRS Chapter 286.9. The Kentucky Department of Financial Institutions (DFI) states that deferred deposit businesses must be licensed, the maximum check is $500, the service fee may not exceed $15 per $100 advanced (with a maximum fee structure DFI summarizes), the term is at least 14 days and not more than 60 days, and a customer may not have more than two deferred deposit transactions totaling $500 outstanding at one time, verified through the statewide database (Veritec) DFI requires licensees to use. Figures are as DFI publishes them. One licensing catch: Kentucky stopped issuing new deferred deposit licenses in 2019 (SB 145), and the newer 'limited check casher' licenses do not authorize deferred deposit (payday) transactions.",
+   "title": "Kentucky title loans are made under Kentucky's consumer loan / title pledge framework rather than the deferred deposit chapter; DFI does not list a separate payday-style title loan license, and title-secured lending is regulated under the state's general consumer lending statutes.",
+   "link_label": "Kentucky Department of Financial Institutions - Deferred Deposit & Check Cashing",
+   "link": "https://kfi.ky.gov/newstatic_info.aspx?static_id=239"
+  },
+  "louisiana": {
+   "slug": "louisiana",
+   "state": "Louisiana",
+   "payday": "Payday lending is authorized in Louisiana under the Louisiana Deferred Presentment and Small Loan Act, La. R.S. 9:3579.1 et seq. The Louisiana Office of Financial Institutions (OFI) states that deferred presentment / small loan licensees must be licensed by OFI, a deferred presentment transaction may not exceed $350, the fee may not exceed 16.75% of the face amount of the check plus a $10 documentation fee (as OFI summarizes the statutory caps), the term may not exceed 30 days, and partial payments and payment plans are addressed in the Act. Figures are as OFI publishes them.",
+   "title": "Louisiana title loans are regulated under the Louisiana Title Loan Act, La. R.S. 6:1081 et seq., a separate licensing scheme administered by OFI: title loan licensees are licensed separately from deferred presentment lenders, and the Act governs loans secured by a clear title to a motor vehicle.",
+   "link_label": "Louisiana OFI - Deferred Presentment & Small Loans",
+   "link": "https://www.ofi.louisiana.gov/consumer-credit/deferred-presentment"
+  },
+  "maine": {
+   "slug": "maine",
+   "state": "Maine",
+   "payday": "Payday lending is restricted in Maine, not storefront-authorized in its classic form. Maine's Bureau of Consumer Credit Protection states that payday-type lending is governed by the Maine Consumer Credit Code: a 'payday loan' by a Maine lender is treated as a supervised consumer loan, Maine caps interest on consumer loans (the Code's rate ceilings, incl. the 30% ceiling that applies to smaller supervised loans as the Bureau summarizes), and \u2014 critically \u2014 out-of-state / online payday lenders must be licensed as supervised lenders in Maine and are subject to the same rate caps, which is why Maine is characterized as effectively closed to high-cost payday lending. The Bureau's published position is that any lender making small loans to Maine consumers, wherever located, needs a Maine supervised lender license and must obey Maine rate caps.",
+   "title": "Maine has no separate title-loan licensing category; vehicle-secured small loans fall under the same Maine Consumer Credit Code supervised-lender licensing and rate-cap framework the Bureau administers.",
+   "link_label": "Maine Bureau of Consumer Credit Protection - Supervised Lenders",
+   "link": "https://www.maine.gov/pfr/consumercredit/industry/licensing/supervised_lender.htm"
+  },
+  "maryland": {
+   "slug": "maryland",
+   "state": "Maryland",
+   "payday": "Payday lending is effectively banned in Maryland. Maryland's Consumer Loan Law caps interest on small consumer loans - 33% a year on the first $1,000 of a loan of $2,000 or less, and 24% on the amount above that (Md. Code, Commercial Law section 12-306), and the Maryland Commissioner of Financial Regulation states that payday lending as practiced elsewhere \u2014 triple-digit APR deferred presentment \u2014 is not authorized in Maryland and that payday lenders are not licensed because the product cannot be offered within Maryland's rate caps. The Attorney General's Consumer Protection Division states the same conclusion in consumer materials: payday loans are illegal in Maryland. Both official sources are cited; the characterization is the regulators' own.",
+   "title": "Title lending is likewise not authorized in Maryland: the Commissioner of Financial Regulation states title loans fall under the same Consumer Loan Law rate caps and no title-loan license category exists; the AG's consumer materials treat high-cost title lending as unlawful in Maryland.",
+   "link_label": "Maryland Office of Financial Regulation - Payday Loans",
+   "link": "https://labor.maryland.gov/finance/consumers/frpaydayloans.shtml"
+  },
+  "massachusetts": {
+   "slug": "massachusetts",
+   "state": "Massachusetts",
+   "payday": "Massachusetts does not license payday lenders. The Division of Banks' consumer guidance states that payday lending is not permitted under Massachusetts small-loan law because the Small Loans Act (M.G.L. c. 140, \u00a7\u00a7 96-114) caps interest and charges on loans of $6,000 or less at 23% per annum plus a $20 administrative fee, a ceiling payday-style fees cannot meet; the Division also treats unlicensed out-of-state and internet payday lenders making loans to Massachusetts residents as violating Massachusetts law. This is an official negative from the licensing regulator.",
+   "title": "Massachusetts has no title-loan licensing category. Vehicle-title-secured small lending would fall under the same Small Loans Act rate ceiling (23% + $20 on loans of $6,000 or less) administered by the Division of Banks; no standalone title lender license exists in the Division's published license types.",
+   "link_label": "Massachusetts Division of Banks - Small Loans & Payday Lending",
+   "link": "https://www.mass.gov/info-details/small-loan-companies"
+  },
+  "michigan": {
+   "slug": "michigan",
+   "state": "Michigan",
+   "payday": "Payday-style lending in Michigan is licensed as 'deferred presentment' under the Deferred Presentment Service Transactions Act, MCL 487.2121 et seq., supervised by the Department of Insurance and Financial Services (DIFS). A transaction may not exceed $600 and the term may not exceed 31 days. The service fee is set by a statutory sliding scale in MCL 487.2153: 15% of the first $100 advanced, then 14% of the next $100, 13% of the next, 12% of the next, and 11% of each $100 above that. A customer may have no more than two transactions outstanding statewide, tracked through a statewide database Michigan law requires lenders to check.",
+   "title": "Michigan title loans are not under the deferred presentment act. Vehicle-title lending in Michigan is made as consumer credit by licensed lenders under other Michigan lending statutes; DIFS does not publish a separate title-loan license category comparable to deferred presentment.",
+   "link_label": "Michigan Legislature - Deferred Presentment Fee Scale (MCL 487.2153)",
+   "link": "https://www.legislature.mi.gov/Laws/MCL?objectName=MCL-487-2153"
+  },
+  "minnesota": {
+   "slug": "minnesota",
+   "state": "Minnesota",
+   "payday": "Payday lending is authorized in Minnesota but restricted by a 36% APR cap for the standard product. Under Minn. Stat. \u00a7 47.601 (Consumer Short-Term Loans), as amended effective January 1, 2024, the Minnesota Department of Commerce states that consumer short-term loans (loans of $1,000 or less) may not exceed 36% APR, with an additional origination-fee structure abolished by the 2023 amendments; loans between $1,000 and the statutory 'consumer small loan' band are treated under \u00a7 47.60 with its own fee schedule. Commerce licenses industrial loan and thrift / consumer small loan lenders and publishes the 36% cap in its consumer guidance. Bottom line as Commerce states it: payday-style short-term loans at or below $1,000 are capped at 36% APR in Minnesota.",
+   "title": "Minnesota has no title-loan statute or title-loan license. Vehicle-title-secured consumer lending is made under the general consumer lending statutes supervised by the Department of Commerce; the same short-term / small-loan framework, not a title-loan act, governs.",
+   "link_label": "Minnesota Department of Commerce - Consumer Short-Term Loans",
+   "link": "https://mn.gov/commerce/consumers/your-money/loans/consumer-short-term-loans.jsp"
+  },
+  "mississippi": {
+   "slug": "mississippi",
+   "state": "Mississippi",
+   "payday": "Payday lending is authorized in Mississippi as 'delayed deposit' / check advance under the Mississippi Check Cashers Act, Miss. Code sections 75-67-501 et seq. (check advance provisions at section 75-67-519). Licensees must be licensed by the Department of Banking and Consumer Finance. A customer may not have more than $500 in check advances outstanding in total, and the deposit of a check may be delayed up to 30 days. The fee is set by statute - the Department's regulations work the example of a $20 fee on a $100 advance, with a higher per-$100 rate on advances above $250 - and rollovers are prohibited: the transaction must be collected in full.",
+   "title": "Mississippi title loans are separately licensed under the Mississippi Title Pledge Act, Miss. Code \u00a7\u00a7 75-67-401 et seq.: title pledge lenders are licensed by the Department of Banking and Consumer Finance separately from check advance licensees, and the Act sets the pledge period, charges, and the procedure for sale of the vehicle after default.",
+   "link_label": "Mississippi Department of Banking and Consumer Finance",
+   "link": "https://www.dbcf.ms.gov"
+  },
+  "missouri": {
+   "slug": "missouri",
+   "state": "Missouri",
+   "payday": "Payday lending is authorized in Missouri. The Division of Finance states that payday lenders must be licensed under \u00a7\u00a7 408.500-408.506, RSMo, a payday loan may not exceed $500, the total interest and fees may not exceed 75% of the initial loan amount, the term is at least 14 days and not more than 31 days, and a loan may be renewed (rolled over) up to six times if the principal is reduced at each renewal as the statute requires and the Division summarizes. Missouri has no APR cap on payday loans; the Division's published limits are the $500 amount cap and the 75%-of-principal total-charges cap.",
+   "title": "Missouri title loans are separately regulated: the Division of Finance states that title lenders are licensed under \u00a7\u00a7 367.500-367.533, RSMo (the Missouri Consumer Credit Loan / title loan provisions), loans are secured by clear title to a vehicle, and Missouri law caps interest and fees on title loans (the Division publishes the statutory structure, including limits that work out to a maximum monthly charge). Title loans are a distinct license category in Missouri, not part of the payday statute.",
+   "link_label": "Missouri Division of Finance - Consumer Complaints",
+   "link": "https://finance.mo.gov/consumers/consumer_complaint.php"
+  },
+  "montana": {
+   "slug": "montana",
+   "state": "Montana",
+   "payday": "Payday (deferred deposit) lending is authorized in Montana with a 36% APR cap. Montana voters approved Initiative 164 in 2010, capping deferred deposit loan charges at 36% APR, codified in the Montana Deferred Deposit Loan Act, Title 31, ch. 1, part 7, MCA. Lenders must be licensed by the Division of Banking and Financial Institutions. Under section 31-1-715, a deferred deposit loan may not exceed $300 (not counting the fee) and the term may not exceed 31 days; you may rescind the loan by 5 p.m. on the next business day by returning the money.",
+   "title": "Montana title loans are regulated as 'title loans' under Title 31, ch. 1, part 9, MCA, a separate part administered by the Division of Banking: title lenders must be licensed, and the title loan provisions carry their own rate and term rules distinct from deferred deposit lending.",
+   "link_label": "Montana Division of Banking & Financial Institutions - I-164 (36% Cap) Guidance",
+   "link": "http://architecture.mt.gov/_docs/bfid/Memos-and-Legal-Opinions/Memo_Initiative_164.pdf"
+  },
+  "nebraska": {
+   "slug": "nebraska",
+   "state": "Nebraska",
+   "payday": "Payday lending is licensed in Nebraska as 'delayed deposit services,' but voters capped the price: Initiative 428, approved in November 2020, amended the Delayed Deposit Services Licensing Act so a licensee may not impose an annual percentage rate greater than 36% on a delayed deposit transaction, and a transaction made in violation of that cap is void and uncollectible (Neb. Rev. Stat. section 45-918). The older framework still shapes the product: a transaction may not exceed $500 in total including fees, a lender may hold your check no more than 34 days, you may not have more than two checks outstanding with one licensee, and rollovers are prohibited (sections 45-917 and 45-919). At a 36% APR the old $15-per-$100 fee model no longer fits. The Department of Banking and Finance licenses these businesses.",
+   "title": "Nebraska does not have a separate title-loan act; vehicle-title-secured lending is made under Nebraska's general consumer credit / installment loan licensing administered by the Department of Banking and Finance, not under the Delayed Deposit Services Licensing Act.",
+   "link_label": "Nebraska Department of Banking and Finance - Delayed Deposit Services Regulation",
+   "link": "https://ndbf.nebraska.gov/industries/delayed-deposit-servicespayday-lender-regulation"
+  },
+  "nevada": {
+   "slug": "nevada",
+   "state": "Nevada",
+   "payday": "Payday lending is authorized in Nevada. The Nevada Financial Institutions Division (FID) states that deferred deposit / payday loan licensees are licensed under NRS Chapter 604A, a payday loan may not exceed 25% of the customer's expected gross monthly income, Nevada imposes no statutory APR cap on payday loans, the initial term may not exceed 35 days, and after the 2019 amendments (AB 114) a payday loan may not be extended/refinanced beyond the statutory limits the Division summarizes, with a statewide database (Veritec) lenders must check. Nevada is an authorized state with an income-based amount limit but no rate cap.",
+   "title": "Nevada title loans are licensed under the same NRS Chapter 604A high-interest lending framework: title loan licensees are licensed by FID under 604A, a title loan may not exceed the fair market value of the vehicle and has its own term limits (initial term limits and a statutory cap on total extensions), and Nevada imposes no APR cap on title loans.",
+   "link_label": "Nevada Financial Institutions Division",
+   "link": "https://fid.nv.gov"
+  },
+  "new-hampshire": {
+   "slug": "new-hampshire",
+   "state": "New Hampshire",
+   "payday": "Payday-style lending is restricted in New Hampshire. New Hampshire repealed its payday loan title in 2009; small-dollar lending is now governed by the small loan provisions of RSA 399-A, administered by the New Hampshire Banking Department, which caps interest on small loans (loans of $10,000 or less) at 36% APR for 'small loans' as the Department summarizes the 2009 reforms. The Banking Department states that lenders making small loans to New Hampshire consumers must be licensed and that the former payday model \u2014 fees amounting to triple-digit APR on 14-day loans \u2014 is not permitted under RSA 399-A's rate ceiling. Bucket: restricted by a 36% small-loan cap, per the Department.",
+   "title": "New Hampshire has no title-loan licensing category. Vehicle-title-secured small lending falls under the same RSA 399-A small-loan licensing and rate-cap framework; the Banking Department does not publish a separate title lender license.",
+   "link_label": "New Hampshire Banking Department - Small Loans (RSA 399-A)",
+   "link": "https://www.nh.gov/banking/consumer-affairs/small-loans.htm"
+  },
+  "new-jersey": {
+   "slug": "new-jersey",
+   "state": "New Jersey",
+   "payday": "Payday lending is not authorized in New Jersey. New Jersey's criminal usury law (N.J.S.A. 2C:21-19) and the Licensed Lenders Act framework cap interest such that payday lending cannot operate: the New Jersey Department of Banking and Insurance (DOBI) states that payday loans are illegal in New Jersey because interest is capped (30% for most consumer lending by licensed lenders; loans above the criminal usury ceiling are crimes), and DOBI warns consumers that online payday lenders targeting New Jersey residents are operating illegally. This is the regulator's own characterization, published on DOBI's consumer pages.",
+   "title": "New Jersey does not license title lenders. Title lending at payday-style rates is barred by the same usury framework; DOBI does not publish a title-loan license category, and vehicle-secured consumer lending by licensed lenders is subject to New Jersey's interest ceilings.",
+   "link_label": "New Jersey DOBI - Payday Loans",
+   "link": "https://www.nj.gov/dobi/consumer.htm"
+  },
+  "new-mexico": {
+   "slug": "new-mexico",
+   "state": "New Mexico",
+   "payday": "Payday-style lending in New Mexico is restricted by a 36% APR cap. The New Mexico Financial Institutions Division (FID) states that under the New Mexico Small Loan Act of 1955 (NMSA 58-15-1 et seq.), as amended by HB 132 (2022), loans of $10,000 or less may not exceed 36% APR (the cap took effect January 1, 2023), lenders making small loans must be licensed by FID, and the former 'payday loan' category was folded into the small loan framework with storefront and online lenders subject to the same cap. FID consumer guidance characterizes New Mexico as a 36%-cap state for small loans. Bucket: restricted by rate cap, per FID.",
+   "title": "New Mexico has no separate title-loan act. Vehicle-title-secured small loans are made under the same Small Loan Act licensing framework and are subject to the same 36% APR cap for loans of $10,000 or less.",
+   "link_label": "New Mexico FID - Small Loans & Payday Lending",
+   "link": "https://www.rld.nm.gov/financial-institutions/"
+  },
+  "new-york": {
+   "slug": "new-york",
+   "state": "New York",
+   "payday": "New York does not authorize payday lending. The New York Department of Financial Services (DFS) states plainly: 'Payday lending is illegal in New York.' New York's usury law caps interest at 16% for most consumer loans (General Obligations Law \u00a7 5-501; Banking Law \u00a7 14-a) and lending above 25% is criminal usury (Penal Law \u00a7 190.40); DFS warns that online payday lenders offering loans to New Yorkers are operating illegally and has taken enforcement action against them. This is the regulator's own published characterization, on DFS's consumer page devoted to payday loans.",
+   "title": "Title lending is likewise illegal in New York: DFS treats vehicle-title loans at payday-style rates as usurious lending under the same framework, and New York has no title-loan license category; DFS consumer guidance groups title loans with prohibited high-cost lending.",
+   "link_label": "New York Department of Financial Services - Avoiding Predatory Loans",
+   "link": "https://www.dfs.ny.gov/consumers/banking_money/avoiding_predatory_loans_and_loan_scams"
+  },
+  "north-carolina": {
+   "slug": "north-carolina",
+   "state": "North Carolina",
+   "payday": "Payday lending is effectively banned in North Carolina, and has been since 2001. The North Carolina Department of Justice (Attorney General) states that payday lending is illegal in North Carolina: the payday lending statute expired in 2001, storefront payday lending ended, and the AG's consumer guidance explains that North Carolina's Consumer Finance Act caps rates on small loans (the Attorney General describes the Consumer Finance Act's interest limit as 30%), so the classic payday product cannot be offered. The Commissioner of Banks' consumer materials say the same. A loan made by an unlicensed lender in violation of the caps is void, and the Attorney General has won refunds and cancellations of loans from online lenders who lent into North Carolina anyway. Characterized as both official sources state it: payday lending is not authorized in North Carolina.",
+   "title": "Title lending is not authorized in North Carolina either: the AG's consumer guidance treats title loans as subject to the same Consumer Finance Act rate caps, and North Carolina has no title-loan licensing category; out-of-state title lenders have been the subject of AG enforcement.",
+   "link_label": "North Carolina Attorney General - Protecting North Carolinians from Predatory Payday Lenders",
+   "link": "https://ncdoj.gov/attorney-general-josh-stein-sues-to-protect-north-carolinians-from-predatory-payday-lenders/"
+  },
+  "north-dakota": {
+   "slug": "north-dakota",
+   "state": "North Dakota",
+   "payday": "Payday lending is authorized in North Dakota as 'deferred deposit' under N.D.C.C. ch. 13-08, administered by the North Dakota Department of Financial Institutions (DFI). DFI states that deferred deposit service providers must be licensed, a transaction may not exceed $500, the fee is capped by statute (DFI summarizes the fee as not more than 20% of the amount advanced), the term may not exceed 60 days, and a customer may not have more than $500 in deferred deposit transactions outstanding at one time. Figures as DFI publishes them.",
+   "title": "North Dakota has no separate title-loan statute; vehicle-title-secured lending is made under North Dakota's general consumer lending / money broker framework supervised by DFI, not under ch. 13-08.",
+   "link_label": "North Dakota DFI - Deferred Deposit",
+   "link": "https://www.nd.gov/dfi/consumer/deferred-deposit"
+  },
+  "ohio": {
+   "slug": "ohio",
+   "state": "Ohio",
+   "payday": "Payday-style lending in Ohio is restricted by the Fairness in Lending Act (2018), R.C. 1321.35-1321.48 (Short-Term Loan Law), administered by the Ohio Department of Commerce, Division of Financial Institutions. The Department states that short-term lenders must be licensed, loans may not exceed $1,000, the term structure must allow at least 91 days (loans are installment-structured; a loan shorter than 91 days must have payments not exceeding 7% of the borrower's net income as the Department summarizes), total fees and interest are capped at 60% of the principal, and the all-in cost is structured to a 28% interest ceiling plus capped monthly maintenance and origination fees. The old pre-2019 single-payment payday model does not exist under this framework. Bucket: restricted / restructured by statute, per the Department.",
+   "title": "Ohio title loans (vehicle-title-secured) are made under the same Short-Term Loan Law framework or as second-mortgage / general lending by licensed lenders; Ohio's former separate title-loan practices were folded into the licensed-lending framework the Department administers, and there is no standalone title-loan act.",
+   "link_label": "Ohio Department of Commerce - Short-Term Loans",
+   "link": "https://com.ohio.gov/divisions-and-programs/financial-institutions/consumer-finance/short-term-loans"
+  },
+  "oklahoma": {
+   "slug": "oklahoma",
+   "state": "Oklahoma",
+   "payday": "Oklahoma replaced traditional payday loans in 2020. The old deferred deposit loans - borrow now, repay in full within 12 to 45 days - ended on August 1, 2020, when the Oklahoma Small Lenders Act (59 O.S. sections 3150.1 et seq.) took over and the deferred deposit licenses expired. Today's licensed 'small loans' are installment loans: unsecured, with terms of 60 days to 12 months, fully amortized in substantially equal payments, and prepayable at any time without penalty. Interest is capped at 17% per month, your total small-loan principal across all lenders may not exceed $1,500 (adjusted yearly), and a lender may not make a loan whose monthly payments exceed 20% of your gross monthly income. The Department of Consumer Credit licenses small lenders and runs the database lenders must check.",
+   "title": "Title loans are not offered under a separate Oklahoma title-loan act. Small-dollar lending to Oklahoma consumers is licensed by the Department of Consumer Credit under the Small Lenders Act and the Uniform Consumer Credit Code - if a loan puts your car title up as collateral, the repossession rules in this page's Car Repossession section apply.",
+   "link_label": "Oklahoma Department of Consumer Credit - Oklahoma Small Lender",
+   "link": "https://oklahoma.gov/okdocc/licenses-we-regulate/oklahoma-small-lender.html"
+  },
+  "oregon": {
+   "slug": "oregon",
+   "state": "Oregon",
+   "payday": "Payday lending is authorized in Oregon as 'payday loans' under ORS chapter 725A, administered by the Oregon Division of Financial Regulation (DFR). DFR states that payday lenders must be licensed, the interest rate may not exceed 36% APR, the initial term must be at least 31 days, origination fees are capped (DFR summarizes: up to $10 per $100 borrowed, capped at $30), and a payday loan may be renewed only twice. Oregon is therefore an authorized state with a statutory 36% APR cap written into the payday statute itself. Figures as DFR publishes them.",
+   "title": "Oregon title loans are separately defined and licensed under ORS 725.600 et seq. as 'title loans' by DFR licensees, with the same 36% APR cap framework and their own term and renewal rules \u2014 Oregon regulates title loans inside the same payday/title chapter, not under pawn law.",
+   "link_label": "Oregon Legislature - ORS Chapter 725A (Payday Loans)",
+   "link": "https://www.oregonlegislature.gov/bills_laws/ors/ors725A.html"
+  },
+  "pennsylvania": {
+   "slug": "pennsylvania",
+   "state": "Pennsylvania",
+   "payday": "Payday lending is not authorized in Pennsylvania. The Pennsylvania Department of Banking and Securities states that payday loans are illegal in Pennsylvania: the Consumer Discount Company Act caps rates on small consumer loans (the Department summarizes the CDCA framework at roughly 24% for licensed consumer discount companies), and the 1937 Loan Interest and Protection Law (Usury Law) caps unlicensed lending at 6%, so payday-style fees cannot lawfully be charged; the Department warns consumers about illegal online payday lenders targeting Pennsylvanians. This is the Department's own published position.",
+   "title": "Pennsylvania has no title-loan licensing category, and the Department treats high-cost title lending as barred by the same usury / CDCA framework; vehicle-secured consumer lending by licensed consumer discount companies is subject to CDCA caps.",
+   "link_label": "Pennsylvania Department of Banking and Securities",
+   "link": "https://www.pa.gov/agencies/dobs.html"
+  },
+  "rhode-island": {
+   "slug": "rhode-island",
+   "state": "Rhode Island",
+   "payday": "Payday lending is authorized in Rhode Island through licensed check cashers offering deferred deposit transactions under R.I. Gen. Laws ch. 19-14.4, administered by the Department of Business Regulation (DBR), Banking Division. Under section 19-14.4-5.1, the face amount of the check may not exceed $500, the term must be at least 13 days, the fee may not exceed 10% of the face amount of the check, and a transaction may be rolled over only once. Note: section 19-14.4-5.1 is repealed effective January 1, 2027, so this framework is scheduled to change - confirm the current rules with DBR.",
+   "title": "Rhode Island does not license title lenders as a separate category; vehicle-title-secured lending falls under Rhode Island's general regulated-lender / consumer credit framework administered by DBR, not under the check cashing chapter.",
+   "link_label": "Rhode Island Department of Business Regulation - Banking Division",
+   "link": "https://dbr.ri.gov"
+  },
+  "south-carolina": {
+   "slug": "south-carolina",
+   "state": "South Carolina",
+   "payday": "Payday lending is authorized in South Carolina as 'deferred presentment' under the Deferred Presentment Services Act, S.C. Code \u00a7\u00a7 34-39-110 et seq., licensed and supervised by the Consumer Finance Division of the State Board of Financial Institutions (consumer complaints go to the Department of Consumer Affairs). State sources state that deferred presentment licensees must be licensed, a transaction may not exceed $550, the fee may not exceed 15% of the face amount of the check, a customer may not have more than $550 in transactions outstanding at one time, transactions must be checked against the statewide database, and the term may not exceed 31 days. Figures as the Department publishes them.",
+   "title": "South Carolina title loans are regulated under the South Carolina Consumer Protection Code's supervised loan framework and the separate title-loan provisions administered through the Dept. of Consumer Affairs / Board of Financial Institutions; title lending is a licensed activity distinct from deferred presentment, with its own statutory restrictions (including the restrictions in S.C. Code Title 37 and Title 34 on title-secured loans).",
+   "link_label": "South Carolina Department of Consumer Affairs - Related Laws (incl. Deferred Presentment)",
+   "link": "https://consumer.sc.gov/business-resourceslaws/other-related-laws"
+  },
+  "south-dakota": {
+   "slug": "south-dakota",
+   "state": "South Dakota",
+   "payday": "Payday lending is restricted in South Dakota by a 36% all-in rate cap. Anyone in the business of lending money must hold a money lender license under SDCL ch. 54-4, and since Initiated Measure 21 took effect on November 16, 2016, a licensed money lender may not charge total interest, fees, and charges above 36% APR on a loan - a loan that breaks the cap is void and uncollectible (SDCL 54-4-44). Separately, the total payday-loan principal a licensee may have outstanding with one borrower is capped at $500 (SDCL 54-4-66). The Division of Banking's published guidance on IM 21 states the cap covers payday and title loans alike; traditional high-cost payday lending does not operate under it.",
+   "title": "South Dakota title loans are made by licensed money lenders under the same SDCL ch. 54-4 framework and are subject to the same 36% all-in APR cap; there is no separate title-loan statute.",
+   "link_label": "South Dakota Division of Banking - Guidance on Initiated Measure 21 (36% cap)",
+   "link": "https://dlr.sd.gov/banking/money_lenders/guidance_initiated_measure_21.aspx"
+  },
+  "tennessee": {
+   "slug": "tennessee",
+   "state": "Tennessee",
+   "payday": "Deferred presentment ('payday') service businesses must be licensed by the Tennessee Department of Financial Institutions under Tenn. Code Ann. \u00a7 45-17-101 et seq. The Department's deferred-presentment guidance says a licensee may not hold a check with a face amount over $500 (exclusive of the service charge), the service charge may not exceed 15 percent of the face amount of the check, the term may not run more than 31 days, and a customer may not have more than three outstanding transactions statewide totaling more than $500 at any one time.",
+   "title": "Title pledges are separately licensed under the Tennessee Title Pledge Act, Tenn. Code Ann. \u00a7 45-15-101 et seq., administered by TDFI: title pledge lenders are licensed separately from deferred presentment providers, with a 30-day pledge term, statutory interest/fee caps, and a grace period before the vehicle may be sold after default.",
+   "link_label": "Tennessee Department of Financial Institutions - Consumer Lending",
+   "link": "https://www.tn.gov/tdfi/mortgage-consumer-lending.html"
+  },
+  "texas": {
+   "slug": "texas",
+   "state": "Texas",
+   "payday": "Payday lending in Texas operates through the Credit Services Organization (CSO) model rather than a direct payday-loan license: the Texas Office of Consumer Credit Commissioner (OCCC) states that payday businesses register as credit services organizations under Texas Finance Code ch. 393 and arrange loans made by separate third-party lenders under the Finance Code's authorized interest frameworks, and Texas law does not cap the CSO fee or the rate on these transactions in the way a payday statute would. OCCC registers CSOs and licenses the underlying lenders; municipal ordinances in many Texas cities add amount and repayment limits locally. Characterized as OCCC describes the model.",
+   "title": "Texas title loans run through the same CSO model and, for direct lenders, the pawn and Finance Code frameworks: title loans arranged by CSOs are registered under ch. 393, and motor vehicle title loans made directly are governed by Texas Finance Code ch. 342's provisions as OCCC summarizes them \u2014 the car is the collateral either way.",
+   "link_label": "Texas Office of Consumer Credit Commissioner - Credit Access Businesses",
+   "link": "https://occc.texas.gov/industry/cab/"
+  },
+  "utah": {
+   "slug": "utah",
+   "state": "Utah",
+   "payday": "Payday lending is authorized in Utah as 'deferred deposit lending' under Utah Code Title 7, ch. 23, administered by the Department of Financial Institutions; lenders must be registered with the Department. State law builds in hard stops: a lender may not collect interest on a loan once it has been outstanding 10 weeks, a loan may be rolled over only if you request it and never in a way that pushes repayment past 10 weeks from the day the loan was made, you may make partial payments of $5 or more on the principal at any time without extra charges, and you may rescind the loan by 5 p.m. on the next business day at no cost (Utah Code section 7-23-401).",
+   "title": "Utah title lenders register with the Department of Financial Institutions under their own title-lending provisions, separate from deferred deposit lending. A title loan is secured by your vehicle, and state law sets registration and operating rules for title lenders, including rules on repossession and sale of the vehicle after default.",
+   "link_label": "Utah Department of Financial Institutions",
+   "link": "https://dfi.utah.gov"
+  },
+  "vermont": {
+   "slug": "vermont",
+   "state": "Vermont",
+   "payday": "Payday lending is effectively banned in Vermont. Vermont's Licensed Lenders law, 8 V.S.A. ch. 73, caps interest on small loans at rates (18-24% depending on loan type/balance as the Dept. of Financial Regulation summarizes) far below payday pricing, and the Vermont Department of Financial Regulation (DFR) consumer guidance states that payday loans are not permitted in Vermont \u2014 Vermont is one of the states that has never authorized deferred presentment lending, and DFR has warned consumers that online payday lenders soliciting Vermonters are unlicensed and unlawful. Characterized as DFR states it.",
+   "title": "Vermont has no title-loan licensing category; vehicle-title-secured lending at high cost is barred by the same Licensed Lenders rate caps, and DFR does not publish a title lender registration.",
+   "link_label": "Vermont Legislature - 8 V.S.A. section 2233 (Licensed Lender Charges)",
+   "link": "https://legislature.vermont.gov/statutes/section/08/073/02233"
+  },
+  "virginia": {
+   "slug": "virginia",
+   "state": "Virginia",
+   "payday": "Virginia replaced traditional payday loans on January 1, 2021. Under the Fairness in Lending Act reforms, Chapter 18 of Title 6.2 of the Code of Virginia is now the 'Short-Term Loans' chapter, administered by the State Corporation Commission's Bureau of Financial Institutions. A licensed short-term loan is an installment loan, payable in substantially equal installments of principal, fees, and interest combined. Interest may not exceed 36% a year; the only other routine charge is a monthly maintenance fee of no more than the lesser of 8% of the loan amount or $25; and total fees and charges are capped at 50% of the amount borrowed on loans of $1,500 or less (60% above that). The lender must make a reasonable attempt to verify your income, every loan is checked against a statewide database, and you may cancel the loan by 5 p.m. on the third business day. A loan made by an unlicensed lender is void - nothing on it is collectible (Va. Code sections 6.2-1801, 6.2-1817, 6.2-1818.3).",
+   "title": "Virginia title loans are separately regulated under the Motor Vehicle Title Loan Act, Va. Code \u00a7\u00a7 6.2-2200 et seq., also administered by the SCC: title lenders are licensed separately, interest is capped at 22% per month on the first tier of principal (tiered monthly caps), and the Act provides procedures and borrower rights on default and vehicle sale.",
+   "link_label": "Virginia SCC - Short-Term Lending Pamphlet (Borrower Rights & Responsibilities)",
+   "link": "https://law.lis.virginia.gov/admincode/title10/agency5/chapter200/section80/"
+  },
+  "washington": {
+   "slug": "washington",
+   "state": "Washington",
+   "payday": "Payday lending is authorized in Washington as 'payday loans' under the Check Cashers and Sellers Act, RCW 31.45, administered by the Washington Department of Financial Institutions (DFI). DFI states that payday lenders must be licensed, a payday loan may not exceed $700 or 30% of the borrower's gross monthly income (whichever is less), the fee is tiered by statute ($15 per $100 on the first $500; $10 per $100 above $500), the term is based on the borrower's next pay date structure, a borrower may not take more than 8 payday loans in any 12-month period, and all loans are checked against the statewide database.",
+   "title": "Washington title loans are not offered under the payday framework: Washington's Consumer Loan Act (RCW 31.04) governs vehicle-secured consumer lending by licensed consumer loan companies, and Washington does not have storefront title-loan licensing comparable to other states; DFI consumer materials treat title-secured lending under the Consumer Loan Act.",
+   "link_label": "Washington DFI - Consumers Guide to Payday Loans",
+   "link": "https://dfi.wa.gov/financial-education/information/payday-loans"
+  },
+  "west-virginia": {
+   "slug": "west-virginia",
+   "state": "West Virginia",
+   "payday": "Payday lending is not authorized in West Virginia. West Virginia's Consumer Credit and Protection Act caps interest on consumer loans (the WVCCPA rate ceilings summarized by the Attorney General and the Division of Financial Institutions), and the West Virginia Attorney General's consumer guidance states that payday loans are illegal in West Virginia; the Division of Financial Institutions does not license payday lenders, and payday-style deferred presentment cannot be offered within West Virginia's rate caps. Characterized as the AG and DFI state it.",
+   "title": "Title lending is likewise not authorized in West Virginia: the AG's consumer guidance and DFI's licensing framework treat vehicle-title loans at payday-style rates as barred by the WVCCPA rate ceilings, and no title-loan license category exists.",
+   "link_label": "West Virginia Division of Financial Institutions",
+   "link": "https://dfi.wv.gov"
+  },
+  "wisconsin": {
+   "slug": "wisconsin",
+   "state": "Wisconsin",
+   "payday": "Payday lending is authorized in Wisconsin under Wis. Stat. \u00a7 138.14, administered by the Wisconsin Department of Financial Institutions (DFI). DFI states that payday lenders must be licensed, a payday loan may not exceed $1,500 or 35% of the borrower's gross monthly income (whichever is less), the term may not exceed 90 days, a loan may be rolled over only once and only within the statutory limits, Wisconsin imposes no APR cap on payday loans, and all payday loans are entered in a statewide database DFI oversees. Figures as DFI publishes them.",
+   "title": "Wisconsin title loans are regulated as 'title loans' under Wis. Stat. \u00a7 138.16, a separate section administered by DFI: title lenders are licensed, title loans have their own amount and term provisions, and Wisconsin imposes no APR cap on title loans.",
+   "link_label": "Wisconsin Department of Financial Institutions",
+   "link": "https://dfi.wi.gov"
+  },
+  "wyoming": {
+   "slug": "wyoming",
+   "state": "Wyoming",
+   "payday": "Payday lending is authorized in Wyoming as 'postdated check services' under the Wyoming Uniform Consumer Credit Code, administered by the Wyoming Division of Banking. The Division states that postdated check service providers (payday lenders) must be licensed, a transaction may not exceed $1,000, the finance charge is capped by statute (the greater of $30 or 20% of the amount advanced, as the Division summarizes the Act), the term may not exceed one calendar month, and a customer may not have more than one outstanding transaction per licensee location structure as the Act provides. Figures as the Division publishes them.",
+   "title": "Wyoming title loans are made under Wyoming's Uniform Consumer Credit Code (Wyo. Stat. Title 40, ch. 14) by supervised lenders, not under the Postdated Check Services Act; the Division of Banking does not publish a separate title-loan license category.",
+   "link_label": "Wyoming Division of Banking - How to File a Complaint",
+   "link": "https://wyomingbankingdivision.wyo.gov/how-to-file-a-complaint"
+  }
+ }
+}
