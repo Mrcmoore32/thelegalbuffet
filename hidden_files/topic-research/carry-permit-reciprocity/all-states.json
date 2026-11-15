@@ -558,7 +558,7 @@
    "permitless_age": null,
    "permitless_note": "No — you need a Hawaii license to carry.",
    "duty_bucket": "must",
-   "duty_note": "You must immediately disclose that you are carrying when an officer stops or contacts you.",
+   "duty_note": "You must immediately disclose that you are carrying when an officer stops you, or stops the vehicle you are riding in.",
    "vehicle": "No — only unloaded and in an enclosed container under the 'place to keep' law; carrying or possessing a loaded firearm on a public highway is a separate offense.",
    "watch_out": "Every firearm brought into Hawaii must be registered with the county chief of police within 5 days of arrival.",
    "prohibited": [
@@ -894,7 +894,7 @@
    "permitless_age": "18",
    "permitless_note": "",
    "duty_bucket": "must",
-   "duty_note": "Anyone carrying concealed, licensed or permitless, must inform an officer on contact, and must submit to a pat-down and temporary disarming if the officer asks.",
+   "duty_note": "Anyone carrying concealed, licensed or permitless, must inform an officer on contact, and must submit to a pat-down and let the officer temporarily disarm you.",
    "vehicle": "Yes — no permit is needed for a handgun in your vehicle.",
    "watch_out": "Louisiana's firearm-free school zones extend 1,000 feet beyond campus boundaries, and a concealed handgun may not be carried into another person's home without that person's consent.",
    "prohibited": [
@@ -1157,7 +1157,7 @@
    "permitless_age": null,
    "permitless_note": "No — you need a Minnesota Permit to Carry.",
    "duty_bucket": "if-asked",
-   "duty_note": "A permit holder must disclose when an officer asks for ID (Minn. Stat. § 624.714, subd. 1b(d)). You do not have to volunteer it unasked.",
+   "duty_note": "A permit holder must disclose whether they are carrying when a peace officer asks (Minn. Stat. § 624.714, subd. 1b(d)). You do not have to volunteer it unasked.",
    "vehicle": "No — without a permit Minnesota issues or honors, a handgun in a vehicle must be unloaded and in a closed, fastened case/gunbox or securely tied package, or unloaded in the closed trunk; loaded vehicle carry requires a recognized permit.",
    "watch_out": "Without a Minnesota-issued or recognized permit, a firearm in a motor vehicle must be unloaded and in a gun case that fully encloses it and is zipped, snapped, buckled, tied or otherwise fastened, or unloaded in the closed trunk (Minn. Stat. 97B.045).",
    "prohibited": [
@@ -1737,7 +1737,7 @@
    "permitless_age": "18",
    "permitless_note": "You must carry a valid driver’s license or state ID.",
    "duty_bucket": "hybrid-permitless",
-   "duty_note": "If you are carrying without a permit, you must inform an officer on any in-person contact (N.D.C.C. § 62.1-04-04). If you carry on a license, show it when the officer asks.",
+   "duty_note": "If you are carrying without a permit, you must tell the officer you are carrying only if the officer asks about it (N.D.C.C. § 62.1-04-04). If you carry on a license, show it if the officer asks to see it.",
    "vehicle": "Yes — no permit is needed for a handgun in your vehicle.",
    "watch_out": "Constitutional carry works only inside North Dakota — the moment you cross the state line you need an actual North Dakota concealed weapon license for reciprocity to apply.",
    "prohibited": [
@@ -1884,7 +1884,7 @@
    "permitless_age": null,
    "permitless_note": "No — you need an Oregon concealed handgun license.",
    "duty_bucket": "none",
-   "duty_note": "No law requires you to volunteer that you are carrying. If the officer asks, answer honestly, and show your permit and ID when asked for them.",
+   "duty_note": "No law requires you to volunteer that you are carrying. If the officer asks, answer honestly.",
    "vehicle": "Only if openly visible or locked away.",
    "watch_out": "Cities and counties may restrict possession of loaded firearms in public places by local ordinance (ORS 166.173) — Portland and several other cities do — so even openly carrying a loaded handgun can be restricted locally.",
    "prohibited": [
@@ -2106,7 +2106,7 @@
    "permitless_age": "18",
    "permitless_note": "",
    "duty_bucket": "none",
-   "duty_note": "No law requires you to volunteer that you are carrying. If the officer asks, answer honestly, and show your permit and ID when asked for them.",
+   "duty_note": "No law requires you to volunteer that you are carrying. If the officer asks, answer honestly.",
    "vehicle": "Yes — no permit is needed for a handgun in your vehicle.",
    "watch_out": "Carry in the State Capitol is limited to enhanced-permit holders; courthouses and K-12 schools are off-limits.",
    "prohibited": [
@@ -2153,7 +2153,7 @@
    "permitless_age": "18",
    "permitless_note": "The statute still reads 21+, but a January 2023 federal court order bars Tennessee from enforcing the higher age — in practice, 18 and older.",
    "duty_bucket": "none",
-   "duty_note": "No law requires you to volunteer that you are carrying. If the officer asks, answer honestly, and show your permit and ID when asked for them.",
+   "duty_note": "No law requires you to volunteer that you are carrying. You only have to show your permit if an officer asks while you are carrying in a place or way that is legal only because you have the permit.",
    "vehicle": "Yes — no permit is needed for a handgun in your vehicle.",
    "watch_out": "Out-of-state permit holders must keep the permit on their person while carrying; anyone who becomes a Tennessee resident must obtain a Tennessee permit within 6 months.",
    "prohibited": [
@@ -2255,7 +2255,7 @@
    "permitless_age": "21",
    "permitless_note": "18 to 20 with a Utah provisional permit.",
    "duty_bucket": "none",
-   "duty_note": "No law requires you to volunteer that you are carrying. If the officer asks, answer honestly, and show your permit and ID when asked for them.",
+   "duty_note": "No law requires you to volunteer that you are carrying. If the officer asks, answer honestly.",
    "vehicle": "Yes — no permit is needed for a handgun in your vehicle.",
    "watch_out": "",
    "prohibited": [
@@ -2441,7 +2441,7 @@
    "permitless_age": "18",
    "permitless_note": "Since June 12, 2026 (HB 4106), any U.S. citizen or legal resident 18 or older who is not prohibited may carry concealed without a license. The old 21+ rule and the provisional license for 18- to 20-year-olds are gone (W. Va. Code § 61-7-7(c)).",
    "duty_bucket": "none",
-   "duty_note": "No law requires you to volunteer that you are carrying. If the officer asks, answer honestly, and show your permit and ID when asked for them.",
+   "duty_note": "No law requires you to volunteer that you are carrying. If the officer asks, answer honestly.",
    "vehicle": "Yes — no permit is needed for a handgun in your vehicle.",
    "watch_out": "",
    "prohibited": [
