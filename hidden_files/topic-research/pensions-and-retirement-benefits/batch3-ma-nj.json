@@ -1,0 +1,140 @@
+{
+ "massachusetts": {
+  "labor_agency_name": "Massachusetts Attorney General, Fair Labor Division",
+  "labor_agency_url": "https://www.mass.gov/how-to/file-a-workplace-complaint",
+  "ag_name": "Massachusetts Attorney General, Consumer Advocacy & Response Division",
+  "ag_url": "https://forms.mass.gov/ago/form/9/",
+  "state_note": "The Massachusetts State Retirement Board runs the State Employees' Retirement System, a defined benefit pension under state law for state employees and certain other public workers.",
+  "phone": "617-727-3465",
+  "sources": [
+   "https://www.mass.gov/how-to/file-a-workplace-complaint",
+   "https://www.mass.gov/news/ag-campbell-releases-annual-labor-day-report-spotlighting-actions-to-protect-massachusetts-workers-0",
+   "https://forms.mass.gov/ago/form/9/",
+   "https://www.mass.gov/about-the-massachusetts-state-retirement-board-msrb"
+  ]
+ },
+ "michigan": {
+  "labor_agency_name": "Michigan Department of Labor and Economic Opportunity, Wage and Hour Division",
+  "labor_agency_url": "https://www.michigan.gov/leo/bureaus-agencies/ber/wage-and-hour/frequently-asked-questions",
+  "ag_name": "Michigan Department of Attorney General, Consumer Protection Team",
+  "ag_url": "https://www.michigan.gov/ag/complaints",
+  "state_note": "Michigan's Office of Retirement Services runs the State Employees' Retirement System, a defined benefit pension for state workers hired before March 31, 1997, plus a defined contribution plan for later hires.",
+  "phone": "877-765-8388",
+  "sources": [
+   "https://www.michigan.gov/leo/bureaus-agencies/ber/wage-and-hour/frequently-asked-questions",
+   "https://www.michigan.gov/ag/complaints",
+   "https://www.michigan.gov/ag/news/press-releases/2026/11/16/ag-nessel-warns-of-limitations-to-michigans-price-gouging-laws",
+   "https://www.michigan.gov/ors/state-emp"
+  ]
+ },
+ "minnesota": {
+  "labor_agency_name": "Minnesota Department of Labor and Industry, Labor Standards Division",
+  "labor_agency_url": "https://www.dli.mn.gov/laborlaw",
+  "ag_name": "Minnesota Attorney General, Consumer Action Division",
+  "ag_url": "https://www.ag.state.mn.us/office/complaint.asp",
+  "state_note": "The Minnesota State Retirement System manages defined benefit pension funds covering state employees, State Patrol, corrections workers, judges, and legislators.",
+  "phone": "651-284-5075",
+  "sources": [
+   "https://www.dli.mn.gov/laborlaw",
+   "https://www.dli.mn.gov/business/employment-practices/prevailing-wage-know-your-rights",
+   "https://www.ag.state.mn.us/office/complaint.asp",
+   "https://mn.gov/mmb-stat/documents/budget/research-and-data/2026/summary-of-agencies-programs-activities/minnesota-state-retirement-system.pdf",
+   "https://www.mnretire.gov/"
+  ]
+ },
+ "mississippi": {
+  "labor_agency_name": null,
+  "labor_agency_url": null,
+  "ag_name": "Mississippi Attorney General, Consumer Protection Division",
+  "ag_url": "https://www.ago.state.ms.us/divisions/consumer-protection/",
+  "state_note": "Mississippi's Public Employees' Retirement System (PERS) is a defined benefit plan providing lifetime pensions to eligible state and local public employees.",
+  "phone": null,
+  "sources": [
+   "https://www.ago.state.ms.us/divisions/consumer-protection/",
+   "https://www.pers.ms.gov/member-resources",
+   "https://www.pers.ms.gov/contact"
+  ]
+ },
+ "missouri": {
+  "labor_agency_name": "Missouri Department of Labor and Industrial Relations, Division of Labor Standards",
+  "labor_agency_url": "https://labor.mo.gov/dls/minimum-wage/file-complaint",
+  "ag_name": "Missouri Attorney General, Consumer Protection Section",
+  "ag_url": "https://ago.mo.gov/get-help/programs-services-from-a-z/consumer-complaints/",
+  "state_note": "Missouri's MOSERS runs a defined benefit pension for state employees that vests after five years of service and pays a lifetime monthly benefit.",
+  "phone": "573-751-3403",
+  "sources": [
+   "https://labor.mo.gov/dls/minimum-wage/file-complaint",
+   "https://labor.mo.gov/faq/topic/minimum-wage",
+   "https://ago.mo.gov/get-help/programs-services-from-a-z/consumer-complaints/",
+   "https://mobenefits.mo.gov/wp-content/uploads/MSEP.pdf"
+  ]
+ },
+ "montana": {
+  "labor_agency_name": "Montana Department of Labor & Industry, Employment Standards Division",
+  "labor_agency_url": "https://erd.dli.mt.gov/labor-standards/wage-and-hour-payment-act/filing-a-wage-claim",
+  "ag_name": "Montana Department of Justice, Office of Consumer Protection",
+  "ag_url": "https://dojmt.gov/office-of-consumer-protection/consumer-complaints/",
+  "state_note": "Montana's Public Employee Retirement Administration (MPERA) runs the state's public employee retirement systems, including defined benefit pensions for state and local workers.",
+  "phone": "406-444-6543",
+  "sources": [
+   "https://erd.dli.mt.gov/labor-standards/wage-and-hour-payment-act/filing-a-wage-claim",
+   "https://erd.dli.mt.gov/labor-standards/public-contracts-prevailing-wage-law/faqs",
+   "https://dojmt.gov/office-of-consumer-protection/consumer-complaints/",
+   "https://mpera.mt.gov/members/lifeevents/apply-for-retirement"
+  ]
+ },
+ "nebraska": {
+  "labor_agency_name": "Nebraska Department of Labor, Office of Labor Standards",
+  "labor_agency_url": "https://dol.nebraska.gov/LaborStandards/wages/WageComplaint",
+  "ag_name": "Nebraska Attorney General, Consumer Affairs Response Team",
+  "ag_url": "https://www.nebraska.gov/apps-ago-complaints/?complaint=",
+  "state_note": "Nebraska's Public Employees Retirement Systems (NPERS) administers six mandatory retirement plans for state, county, school, judges, and State Patrol employees.",
+  "phone": null,
+  "sources": [
+   "https://dol.nebraska.gov/LaborStandards/WorkerRights/WageComplaint",
+   "https://www.nebraska.gov/apps-ago-complaints/?complaint=",
+   "https://npers.ne.gov/SelfService/public/aboutus/aboutus.jsp"
+  ]
+ },
+ "nevada": {
+  "labor_agency_name": "Nevada Office of the Labor Commissioner",
+  "labor_agency_url": "https://labor.nv.gov/About/Forms/FORMS_FOR_EMPLOYEES/",
+  "ag_name": "Nevada Attorney General, Bureau of Consumer Protection",
+  "ag_url": "https://ag.nv.gov/Complaints/File_Complaint/",
+  "state_note": "Nevada's Public Employees' Retirement System (PERS) is a defined benefit plan providing a lifetime base income to qualified state and local public employees.",
+  "phone": null,
+  "sources": [
+   "https://labor.nv.gov/About/Forms/FORMS_FOR_EMPLOYEES/",
+   "https://ag.nv.gov/Complaints/File_Complaint/",
+   "https://www.nvpers.org/aboutus"
+  ]
+ },
+ "new hampshire": {
+  "labor_agency_name": "New Hampshire Department of Labor",
+  "labor_agency_url": "https://www.dol.nh.gov/online-forms/file-online-wage-claim",
+  "ag_name": "New Hampshire Department of Justice, Consumer Protection and Antitrust Bureau",
+  "ag_url": "https://www.doj.nh.gov/consumer/complaints",
+  "state_note": "The New Hampshire Retirement System (NHRS) is a defined benefit plan paying lifetime pensions to state, county, and municipal employees, teachers, police officers, and firefighters.",
+  "phone": "1-888-468-4454",
+  "sources": [
+   "https://www.dol.nh.gov/online-forms/file-online-wage-claim",
+   "https://www.doj.nh.gov/consumer/complaints",
+   "https://www.doj.nh.gov/news-and-media/attorney-general-formella-announces-1835-million-multistate-settlement-rent-own",
+   "https://www.nhrs.org/about-nhrs"
+  ]
+ },
+ "new jersey": {
+  "labor_agency_name": "New Jersey Department of Labor & Workforce Development, Division of Wage and Hour Compliance",
+  "labor_agency_url": "https://www.nj.gov/labor/myworkrights/our-commitment/",
+  "ag_name": "New Jersey Division of Consumer Affairs (Office of the Attorney General)",
+  "ag_url": "https://njconsumeraffairs.nj.gov/file-a-complaint/",
+  "state_note": "New Jersey's Division of Pensions & Benefits runs the Public Employees' Retirement System (PERS) and Teachers' Pension and Annuity Fund (TPAF) defined benefit pensions.",
+  "phone": "609-292-2305",
+  "sources": [
+   "https://www.nj.gov/labor/myworkrights/our-commitment/",
+   "https://www.nj.gov/labor/wageandhour/assets/PDFs/mw-31a.pdf",
+   "https://njconsumeraffairs.nj.gov/file-a-complaint/",
+   "https://nj.gov/treasury/pensions/pension-info-active.shtml"
+  ]
+ }
+}

@@ -1,0 +1,146 @@
+{
+ "new mexico": {
+  "labor_agency_name": "New Mexico Department of Workforce Solutions — Labor Relations Division",
+  "labor_agency_url": "https://www.nm.gov/online-services/",
+  "ag_name": "New Mexico Department of Justice (Office of the Attorney General) — Consumer Protection",
+  "ag_url": "https://nmag.gov/get-help/submit-a-complaint/",
+  "state_note": "New Mexico PERA provides a lifetime defined-benefit pension to public employees, with benefits based on salary and service credit.",
+  "phone": null,
+  "sources": [
+   "https://www.nm.gov/online-services/",
+   "https://nmag.gov/get-help/submit-a-complaint/",
+   "https://www.nmpera.org/members/overview/"
+  ]
+ },
+ "new york": {
+  "labor_agency_name": "New York State Department of Labor — Division of Labor Standards",
+  "labor_agency_url": "https://dol.ny.gov/node/7241",
+  "ag_name": "New York State Attorney General — Consumer Frauds and Protection Bureau",
+  "ag_url": "https://ag.ny.gov/complaint-form",
+  "state_note": "New York State and Local Retirement System, run by the State Comptroller, provides pensions to state and local public employees.",
+  "phone": null,
+  "sources": [
+   "https://dol.ny.gov/node/7241",
+   "https://ag.ny.gov/complaint-form",
+   "https://ag.ny.gov/file-complaint/employment",
+   "https://www.osc.ny.gov/retirement/contact-us?employer=true"
+  ]
+ },
+ "north carolina": {
+  "labor_agency_name": "North Carolina Department of Labor — Wage and Hour Bureau",
+  "labor_agency_url": "https://www.labor.nc.gov/workplace-rights/employee-rights-regarding-time-worked-and-wages-earned/how-and-where-file-wage-complaint",
+  "ag_name": "North Carolina Attorney General — Consumer Protection Division",
+  "ag_url": "https://ncdoj.gov/file-a-complaint/",
+  "state_note": "North Carolina Retirement Systems administers pensions for teachers and state/local public employees; NCDOL notes it does not handle pension plans.",
+  "phone": "1-800-625-2267",
+  "sources": [
+   "https://www.labor.nc.gov/workplace-rights/employee-rights-regarding-time-worked-and-wages-earned/how-and-where-file-wage-complaint",
+   "https://www.labor.nc.gov/contact",
+   "https://www.labor.nc.gov/workplace-rights/employee-rights-regarding-time-worked-and-wages-earned/promised-wages-including-wage-benefits",
+   "https://ncdoj.gov/file-a-complaint/",
+   "https://ncdoj.gov/protecting-consumers/",
+   "https://www.nctreasurer.gov/news/press-releases/2018/11/15/north-carolina-retirement-systems-division-launches-online-retirement"
+  ]
+ },
+ "north dakota": {
+  "labor_agency_name": "North Dakota Department of Labor and Human Rights — Wage and Hour Division",
+  "labor_agency_url": "https://www.nd.gov/labor/wage-and-hour-topics/wage-claim",
+  "ag_name": "North Dakota Attorney General — Consumer Protection Division",
+  "ag_url": "https://attorneygeneral.nd.gov/consumer-resources/consumer-complaints/",
+  "state_note": "North Dakota PERS provides a defined-benefit hybrid pension to eligible public employees, based on salary, multiplier and service credit.",
+  "phone": null,
+  "sources": [
+   "https://www.nd.gov/labor/wage-and-hour-topics/wage-claim",
+   "https://www.nd.gov/labor/complaint-inquiry-and-wage-claim-faq",
+   "https://attorneygeneral.nd.gov/consumer-resources/consumer-complaints/",
+   "https://www.ndpers.nd.gov/sites/www/files/documents/employer-additional-information/join-ndpers-plans/retirement-presentation-new-group.pdf"
+  ]
+ },
+ "ohio": {
+  "labor_agency_name": "Ohio Department of Commerce — Bureau of Wage and Hour Administration",
+  "labor_agency_url": "https://www.ohioattorneygeneral.gov/FAQ/Labor-Relations-FAQs",
+  "ag_name": "Ohio Attorney General — Consumer Protection Section",
+  "ag_url": "https://www.ohioattorneygeneral.gov/SpecialPages/File-Complaints",
+  "state_note": "Ohio OPERS provides pension benefits and health coverage to retired public employees, with defined-benefit pensions based on salary and service.",
+  "phone": "614-644-2239",
+  "sources": [
+   "https://ohio.gov/jobs/topic-hubs/labor-law/",
+   "https://www.ohioattorneygeneral.gov/FAQ/Labor-Relations-FAQs/What-should-I-do-if-my-employer-does-not-pay-me-fo",
+   "https://codes.ohio.gov/ohio-administrative-code/rule-4101:9-4-23",
+   "https://www.ohioattorneygeneral.gov/SpecialPages/File-Complaints",
+   "https://www.opers.org/about/opers101/"
+  ]
+ },
+ "oklahoma": {
+  "labor_agency_name": "Oklahoma Department of Labor — Wage and Hour Unit",
+  "labor_agency_url": "https://oklahoma.gov/labor/workplace-rights/wage-hour/wage-claim.html",
+  "ag_name": "Oklahoma Attorney General — Consumer Protection Unit",
+  "ag_url": "https://oklahoma.gov/oag/about/divisions/cpu.html",
+  "state_note": "Oklahoma OPERS is a defined-benefit plan providing lifetime retirement benefits to eligible state and local public employees.",
+  "phone": "(888) 269-5353",
+  "sources": [
+   "https://oklahoma.gov/labor/workplace-rights/wage-hour/wage-claim.html",
+   "https://Oklahoma.gov/labor/workplace-rights/protect-your-pay.html",
+   "https://oklahoma.gov/labor/workplace-rights/wage-hour.html",
+   "https://oklahoma.gov/oag/about/divisions/cpu.html",
+   "https://www.opers.ok.gov/retirement-process/"
+  ]
+ },
+ "oregon": {
+  "labor_agency_name": "Oregon Bureau of Labor and Industries (BOLI)",
+  "labor_agency_url": "https://www.oregon.gov/boli/workers/Pages/wageclaim.aspx",
+  "ag_name": "Oregon Attorney General — Consumer Protection",
+  "ag_url": "https://www.doj.state.or.us/consumer-protection/contact-us/",
+  "state_note": "Oregon PERS provides a lifetime pension plus an Individual Account Program to most Oregon public-service and state employees.",
+  "phone": "971-245-3844",
+  "sources": [
+   "https://www.oregon.gov/boli/workers/Pages/wageclaim.aspx",
+   "https://www.oregon.gov/boli/workers/Pages/wage-and-hour-complaint-form.aspx",
+   "https://www.doj.state.or.us/consumer-protection/contact-us/",
+   "https://www.oregon.gov/pers/emp/Pages/What-is-PERS.aspx"
+  ]
+ },
+ "pennsylvania": {
+  "labor_agency_name": "Pennsylvania Department of Labor and Industry — Bureau of Labor Law Compliance",
+  "labor_agency_url": "https://www.pa.gov/services/dli/file-a-wage-payment-and-collection-complaint",
+  "ag_name": "Pennsylvania Attorney General — Bureau of Consumer Protection",
+  "ag_url": "https://www.attorneygeneral.gov/submit-a-complaint/",
+  "state_note": "Pennsylvania PSERS administers a defined-benefit pension for public school employees, paying monthly benefits based on salary and service.",
+  "phone": "1-800-932-0665",
+  "sources": [
+   "https://www.pa.gov/services/dli/file-a-wage-payment-and-collection-complaint",
+   "https://www.pa.gov/services/dli/file-a-minimum-wage-and-overtime-complaint",
+   "http://www.pa.gov/services/dli/file-a-prevailing-wage-complaint.html",
+   "https://www.attorneygeneral.gov/submit-a-complaint/",
+   "https://www.pa.gov/agencies/psers/member-resources/leaving-employment/retiring"
+  ]
+ },
+ "rhode island": {
+  "labor_agency_name": "Rhode Island Department of Labor and Training — Labor Standards Unit",
+  "labor_agency_url": "https://dlt.ri.gov/regulation-and-safety/labor-standards",
+  "ag_name": "Rhode Island Attorney General — Consumer Protection Unit",
+  "ag_url": "https://riag.ri.gov/forms/consumer-complaint",
+  "state_note": "Rhode Island ERSRI provides retirement, disability and survivor benefits to state employees, teachers and participating municipal workers.",
+  "phone": null,
+  "sources": [
+   "https://dlt.ri.gov/regulation-and-safety/labor-standards",
+   "https://dlt.ri.gov/regulation-and-safety/labor-standards/labor-standards-faq",
+   "https://riag.ri.gov/forms/consumer-complaint",
+   "https://www.ersri.org/about-ersri"
+  ]
+ },
+ "south carolina": {
+  "labor_agency_name": "South Carolina Department of Labor, Licensing and Regulation — Wages and Child Labor Section",
+  "labor_agency_url": "https://llr.sc.gov/wage/paymentofwages.aspx",
+  "ag_name": "South Carolina Attorney General — Consumer Protection and Antitrust Division",
+  "ag_url": "https://www.scag.gov/inside-the-office/legal-services-division/consumer-protection-antitrust/",
+  "state_note": "South Carolina Retirement System, run by PEBA, is a defined-benefit plan paying a monthly pension to state and local public employees.",
+  "phone": null,
+  "sources": [
+   "https://llr.sc.gov/wage/paymentofwages.aspx",
+   "https://llr.sc.gov/oie/investigations.aspx",
+   "https://www.scag.gov/inside-the-office/legal-services-division/consumer-protection-antitrust/",
+   "https://peba.sc.gov/index.php/scrs"
+  ]
+ }
+}
