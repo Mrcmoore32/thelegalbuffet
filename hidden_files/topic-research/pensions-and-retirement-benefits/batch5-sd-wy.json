@@ -1,0 +1,147 @@
+{
+ "south dakota": {
+  "labor_agency_name": "South Dakota Department of Labor and Regulation, Division of Labor Standards and Operational Services (Wage and Hour)",
+  "labor_agency_url": "https://dlr.sd.gov/employment_laws/wage_hour_issues.aspx",
+  "ag_name": "South Dakota Attorney General, Division of Consumer Protection",
+  "ag_url": "https://atg.sd.gov/complaintform.aspx",
+  "state_note": "South Dakota's public employees get a lifetime pension through the South Dakota Retirement System (SDRS), a defined-benefit plan funded by fixed 6% employee and employer contributions.",
+  "phone": null,
+  "sources": [
+   "https://dlr.sd.gov/employment_laws/wage_hour_issues.aspx",
+   "https://atg.sd.gov/complaintform.aspx",
+   "https://consumer.sd.gov/whoweare.aspx",
+   "https://mylrc.sdlegislature.gov/api/Documents/Resource/292752.pdf"
+  ]
+ },
+ "tennessee": {
+  "labor_agency_name": "Tennessee Department of Labor and Workforce Development, Labor Standards Unit",
+  "labor_agency_url": "https://www.tn.gov/workforce/employees/labor-laws/labor-laws-redirect/wages-breaks/wcf.html",
+  "ag_name": "Tennessee Attorney General, Division of Consumer Affairs",
+  "ag_url": "https://www.tn.gov/attorneygeneral/working-for-tennessee/file-a-consumer-complaint.html",
+  "state_note": "Tennessee's public workers get a lifetime pension through the Tennessee Consolidated Retirement System (TCRS), which pays lifetime retirement, survivor, and disability benefits after five years of service.",
+  "phone": null,
+  "sources": [
+   "https://www.tn.gov/workforce/employees/labor-laws/labor-laws-redirect/wages-breaks/wcf.html",
+   "https://www.tn.gov/attorneygeneral/working-for-tennessee/file-a-consumer-complaint.html",
+   "https://treasury.tn.gov/Retirement/Retire-Ready-Tennessee/for-State-Employees"
+  ]
+ },
+ "texas": {
+  "labor_agency_name": "Texas Workforce Commission, Wage and Hour Department",
+  "labor_agency_url": "https://twc.texas.gov/jobseekers/texas-payday-law",
+  "ag_name": "Texas Attorney General, Consumer Protection Division",
+  "ag_url": "https://www.texasattorneygeneral.gov/consumer-protection/file-consumer-complaint",
+  "state_note": "Texas state employees get a lifetime monthly pension through the Employees Retirement System of Texas (ERS), based on years of service and highest average salary.",
+  "phone": "800-832-9243",
+  "sources": [
+   "https://www.twc.texas.gov/sites/default/files/fdcm/docs/wh-1-wage-claim-twc.pdf",
+   "https://www.twc.texas.gov/sites/default/files/commissioners/docs/commissioner-trevino-faq-page-twc.pdf",
+   "https://www.texasattorneygeneral.gov/consumer-protection/file-consumer-complaint",
+   "https://www.ers.texas.gov/doing-business-with-ers/general-information"
+  ]
+ },
+ "utah": {
+  "labor_agency_name": "Utah Labor Commission, Antidiscrimination and Labor Division, Wage Claim Unit",
+  "labor_agency_url": "https://laborcommission.utah.gov/divisions/utah-antidiscrimination-and-labor-uald/wage-claim/",
+  "ag_name": "Utah Division of Consumer Protection (Utah Department of Commerce)",
+  "ag_url": "https://services.commerce.utah.gov/dcp-complaint/",
+  "state_note": "Utah public employees hired since July 2011 choose between a hybrid pension and a 401(k)-style plan through Utah Retirement Systems, with the hybrid paying a monthly benefit for life.",
+  "phone": "801-530-6801",
+  "sources": [
+   "https://laborcommission.utah.gov/divisions/utah-antidiscrimination-and-labor-uald/wage-claim/",
+   "https://laborcommission.utah.gov/wp-content/uploads/2022/10/EnglishWageIntakeQ_1_5.pdf",
+   "https://attorneygeneral.dev.utah.gov/about-2/faqs/",
+   "https://compliance.byu.edu/complaints",
+   "https://urs.org/Content/documents/byfilename/%7CPublic%20Web%20Documents%7CURS%7CDB%7CHighlights%7CTier2PE||application%7Cpdf"
+  ]
+ },
+ "vermont": {
+  "labor_agency_name": "Vermont Department of Labor, Wage and Hour Division",
+  "labor_agency_url": "https://labor.vermont.gov/rights-and-wages",
+  "ag_name": "Vermont Attorney General, Consumer Assistance Program",
+  "ag_url": "https://ago.vermont.gov/consumer-assistance-program-complaint-form",
+  "state_note": "Vermont state employees get a defined-benefit pension through the Vermont State Retirement System, created in 1944, with benefits based on service, age, and final pay and vesting after five years.",
+  "phone": "802-951-4083",
+  "sources": [
+   "https://labor.vermont.gov/workforce-development/job-seekers/layoff-support",
+   "https://labor.vermont.gov/sites/labor/files/documents/LMI/stateconstrprevailwage.pdf",
+   "https://ago.vermont.gov/consumer-assistance-program-complaint-form",
+   "http://humanresources.vermont.gov/benefits-wellness/retirement/retirement-system"
+  ]
+ },
+ "virginia": {
+  "labor_agency_name": "Virginia Department of Labor and Industry, Labor and Employment Law Division, Payment of Wage Unit",
+  "labor_agency_url": "https://doli.virginia.gov/programs/labor-law/payment-of-wage/",
+  "ag_name": "Virginia Attorney General, Consumer Protection Section",
+  "ag_url": "https://oag.state.va.us/consumer-protection/index.php/file-a-complaint",
+  "state_note": "Virginia public employees, teachers, and local government workers get a lifetime monthly pension through the Virginia Retirement System (VRS), with membership automatic when hired.",
+  "phone": "804-786-2706",
+  "sources": [
+   "https://doli.virginia.gov/programs/labor-law/payment-of-wage/",
+   "https://doli.virginia.gov/wp-content/uploads/2026/02/What-is-Retaliation.pdf",
+   "https://oag.state.va.us/consumer-protection/index.php/file-a-complaint",
+   "https://www.varetire.org/about/"
+  ]
+ },
+ "washington": {
+  "labor_agency_name": "Washington State Department of Labor & Industries, Employment Standards Program",
+  "labor_agency_url": "https://lni.wa.gov/workers-rights/workplace-complaints/worker-rights-complaints",
+  "ag_name": "Washington State Attorney General, Consumer Protection Division",
+  "ag_url": "https://www.atg.wa.gov/file-complaint",
+  "state_note": "Washington public employees get a lifetime pension through the Department of Retirement Systems (DRS); PERS Plan 2 pays 2% of final pay times years of service after five years.",
+  "phone": "1-866-219-7321",
+  "sources": [
+   "https://lni.wa.gov/workers-rights/workplace-complaints/worker-rights-complaints",
+   "https://lni.wa.gov/forms-publications/F700-148-000.pdf",
+   "https://content.govdelivery.com/accounts/WADLI/bulletins/40225d9",
+   "https://www.atg.wa.gov/file-complaint",
+   "https://www.drs.wa.gov/plan/pers2/"
+  ]
+ },
+ "west virginia": {
+  "labor_agency_name": "West Virginia Division of Labor, Wage and Hour Section",
+  "labor_agency_url": "http://labor.wv.gov/index%2ephp/media/87/download?inline",
+  "ag_name": "West Virginia Attorney General, Consumer Protection Division",
+  "ag_url": "https://ago.wv.gov/consumer-protection/file-complaint-consumer-protection-division",
+  "state_note": "West Virginia public employees get a lifetime pension through the Public Employees Retirement System (PERS), paying 2% of final average salary times years of service, with full benefits at age 60 with five years.",
+  "phone": "304-558-7890",
+  "sources": [
+   "http://labor.wv.gov/index%2ephp/media/87/download?inline",
+   "https://wvclboard.wv.gov/www/download_resource.asp?id=215",
+   "https://labor.wv.gov/media/261/download?inline",
+   "https://ago.wv.gov/consumer-protection/file-complaint-consumer-protection-division",
+   "https://www.wvretirement.com/PERS.html"
+  ]
+ },
+ "wisconsin": {
+  "labor_agency_name": "Wisconsin Department of Workforce Development, Equal Rights Division, Labor Standards",
+  "labor_agency_url": "https://www.dwd.wi.gov/er/laborstandards/wages.htm/",
+  "ag_name": "Wisconsin Department of Agriculture, Trade and Consumer Protection, Bureau of Consumer Protection",
+  "ag_url": "https://datcp.wi.gov/Pages/Programs_Services/FileConsumerComplaint.aspx",
+  "state_note": "Wisconsin public employees get a lifetime pension through the Wisconsin Retirement System (WRS), a fully funded hybrid defined-benefit plan covering state and local workers.",
+  "phone": "608-266-6860",
+  "sources": [
+   "https://www.dwd.wi.gov/er/laborstandards/wages.htm/",
+   "https://dwd.wi.gov/dwd/workplace-posters/pdf/dwd-posters.pdf",
+   "http://dhs.wi.gov/publications/p00990.pdf",
+   "https://datcp.wi.gov/Documents2/ToolkitPresenterGuide_SeniorScams.pdf",
+   "https://www.wisdoj.gov:443/Pages/PublicSafety/consumer-protection-concerns.aspx",
+   "https://etf.wi.gov/publications/et7100/direct"
+  ]
+ },
+ "wyoming": {
+  "labor_agency_name": "Wyoming Department of Workforce Services, Labor Standards Division",
+  "labor_agency_url": "https://dws.wyo.gov/dws-division/labor-standards/file-a-claim-for-wages/",
+  "ag_name": "Wyoming Attorney General, Consumer Protection and Antitrust Unit",
+  "ag_url": "https://attorneygeneral.wyo.gov/law-office-division/consumer-protection-and-antitrust-unit/consumer-complaints",
+  "state_note": "Wyoming public employees are automatically enrolled in a defined-benefit pension through the Wyoming Retirement System (WRS), which pays a guaranteed monthly benefit for life once vested.",
+  "phone": "307-777-7691",
+  "sources": [
+   "https://dws.wyo.gov/dws-division/labor-standards/file-a-claim-for-wages/",
+   "https://dws.wyo.gov/dws-division/labor-standards/",
+   "https://attorneygeneral.wyo.gov/law-office-division/consumer-protection-and-antitrust-unit/consumer-complaints",
+   "https://retirement.wyo.gov/wp-content/uploads/New-Hire-Flyer-2026.pdf",
+   "https://retirement.wyo.gov/about/"
+  ]
+ }
+}
