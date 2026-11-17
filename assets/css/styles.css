@@ -751,7 +751,7 @@ main section.block[style] > h2 { margin-bottom: 1.15rem; }
 @media print {
   body.printing-letter .site-header, body.printing-letter .site-footer, body.printing-letter .quick-exit,
   body.printing-letter .letters-toc, body.printing-letter .letters-intro, body.printing-letter .page-head,
-  body.printing-letter .letter-actions, body.printing-letter .back-to-top, body.printing-letter .action-plan-bar, body.printing-letter .letter-tip, body.printing-letter .disclaimer { display: none !important; }
+  body.printing-letter .letter-actions, body.printing-letter .back-to-top, body.printing-letter .action-plan-bar, body.printing-letter .letter-tip, body.printing-letter .disclaimer, body.printing-letter .lb-emergency, body.printing-letter .letter-use { display: none !important; }
   .fill { background: transparent !important; border-bottom: 1px solid #555; display: inline-block; min-width: 5em; }
   .fill-blank { color: transparent !important; }
   body.printing-letter .letter:not(.letter-print-target) { display: none !important; }
