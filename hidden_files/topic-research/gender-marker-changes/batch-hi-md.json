@@ -1,0 +1,180 @@
+{
+  "hawaii": {
+    "agency_name": "Hawaii Department of Health, Office of Health Status Monitoring",
+    "agency_url": "https://health.hawaii.gov/vitalrecords/amendments/new-birth-certificate-for-sex-designation-change/",
+    "birth_certificate": "Apply to the Hawaii Department of Health, Office of Health Status Monitoring, Registration/Corrections Section, with an Application for Amendment to Birth Record and a notarized Physician Affidavit Form for Sex Designation Change. The physician must attest to a bona fide physician-patient relationship, treatment and evaluation, and that the registrant has had appropriate clinical treatment for gender transition and completed the transition. Fee is $3 per amended item. A new certificate is issued and the original is sealed.",
+    "court_order_required": "No \u2014 No court order is needed to change the gender marker on either a birth certificate or a driver's license; a court order is only needed if you are also changing your legal name.",
+    "drivers_license": "Apply through the Hawaii Department of Transportation / county examiner of drivers. Since July 1, 2020, the gender marker on a Hawaii driver's license or state ID can be updated to M, F, or X upon self-attestation by the applicant, with no medical documentation required. A Gender Designation Form is completed at the licensing office.",
+    "legal_aid_name": "Legal Aid Society of Hawaii",
+    "legal_aid_url": "https://www.legalaidhawaii.org/",
+    "marker_overview": "Hawaii allows gender-marker changes on both a birth certificate and a driver's license or state ID. The birth certificate requires a notarized physician affidavit, while a driver's license or state ID can be updated by self-attestation with M, F, or X available since July 1, 2020. No court order is needed for the gender marker itself on either document.",
+    "slug": "hawaii",
+    "sources": [
+      "https://health.hawaii.gov/vitalrecords/amendments/new-birth-certificate-for-sex-designation-change/",
+      "https://transequality.org/documents/hawaii-identity-documents"
+    ],
+    "state": "Hawaii",
+    "surgery_required": "No \u2014 No surgery is required for either document; the birth certificate requires a physician affidavit of appropriate clinical treatment and completed transition, and the driver's license requires only self-attestation."
+  },
+  "idaho": {
+    "agency_name": "Idaho Department of Health and Welfare, Bureau of Vital Records and Health Statistics",
+    "agency_url": "https://healthandwelfare.idaho.gov/services-programs/birth-marriage-death-records/change-birth-certificate",
+    "birth_certificate": "Handled by the Idaho Department of Health and Welfare, Bureau of Vital Records and Health Statistics. Sex is a material fact recorded at birth under Idaho Code sections 39-245A and 73-114. Within one year of birth it can be corrected only by a notarized affidavit that the certificate incorrectly recorded a material fact; after one year it can be challenged in court only on fraud, duress, or material mistake of fact. There is no gender-identity amendment path.",
+    "court_order_required": "No \u2014 A court order does not create a gender-marker change in Idaho; after one year a court proceeding is only available to correct fraud, duress, or material mistake of fact on the record.",
+    "drivers_license": "Handled by the Idaho Transportation Department, Division of Motor Vehicles. Idaho licenses and IDs show M or F only, with no X option, and the department no longer publishes a procedure for changing the sex designation. Since 2024 it has required an amended birth certificate or an updated passport for a designation change, so with birth-certificate sex amendments closed, the license marker is effectively unchangeable for most Idaho-born people.",
+    "legal_aid_name": "Idaho Legal Aid Services",
+    "legal_aid_url": "https://idaholegalaid.org/",
+    "marker_overview": "Idaho currently does not allow gender-marker changes on birth certificates or, in practice, on driver's licenses. A federal injunction that had blocked enforcement since 2018 was dissolved on January 8, 2026, so Idaho now enforces its law requiring birth certificates to reflect the biological sex recorded at birth. Because the transportation department requires an amended birth certificate for a license change, the license marker is effectively unchangeable for most Idaho-born people.",
+    "slug": "idaho",
+    "sources": [
+      "https://www.ag.idaho.gov/newsroom/attorney-general-labrador-secures-court-order-ending-yearslong-block-on-idahos-birth-certificate-law/",
+      "https://healthandwelfare.idaho.gov/services-programs/birth-marriage-death-records/change-birth-certificate"
+    ],
+    "state": "Idaho",
+    "surgery_required": "No \u2014 Idaho does not offer a surgery-based route at all; gender-marker changes are not permitted regardless of surgery or medical treatment."
+  },
+  "illinois": {
+    "agency_name": "Illinois Department of Public Health, Division of Vital Records",
+    "agency_url": "https://dph.illinois.gov/topics-services/birth-death-other-records/birth-records/gender-reassignment.html",
+    "birth_certificate": "Apply by mail to the Illinois Department of Public Health, Division of Vital Records, with a signed and notarized Affidavit and Certificate of Correction Request form, a copy of a non-expired government-issued photo ID, and a $15 fee, which includes one certified copy (additional copies $2 each). No medical signature or documentation is required to change only the gender marker; a certified court order is needed only if also changing the name.",
+    "court_order_required": "No \u2014 No court order is needed to change the gender marker on either a birth certificate or a driver's license or state ID; a court order is only needed if you are also changing your legal name.",
+    "drivers_license": "Visit an Illinois Secretary of State facility in person with a completed Gender Designation Change Form signed by the applicant and a current Illinois driver's license or state ID. M, F, or X is available, with no medical signature or documentation required. Fee is $5 for a driver's license and $10 for a state ID.",
+    "legal_aid_name": "Illinois Legal Aid Online",
+    "legal_aid_url": "https://www.illinoislegalaid.org/",
+    "marker_overview": "Illinois is one of the most permissive states for gender-marker changes: both the birth certificate and the driver's license or state ID can be updated to M, F, or X by self-attestation, with no court order, medical documentation, or surgery required. Since July 1, 2023, no health care professional certification is needed for a birth certificate, and the X marker has been available on licenses and IDs since January 1, 2024.",
+    "slug": "illinois",
+    "sources": [
+      "https://dph.illinois.gov/topics-services/birth-death-other-records/birth-records/gender-reassignment.html",
+      "https://transequality.org/documents/illinois-identity-documents",
+      "https://www.illinoislegalaid.org/legal-information/updating-sex-and-gender-markers-identification"
+    ],
+    "state": "Illinois",
+    "surgery_required": "No \u2014 No surgery, medical procedure, or doctor's letter is required for either document; both are changed by the applicant's own signed statement."
+  },
+  "indiana": {
+    "agency_name": "Indiana Department of Health, Vital Records",
+    "agency_url": "https://www.in.gov/health/vital-records/corrections-and-amendments/",
+    "birth_certificate": "On paper, apply to the Indiana Department of Health, Vital Records, with Form 49607 (Application for Search and Certified Copy of Birth Record), a certified copy of a court order for change of gender marker, a photocopy of a valid government-issued ID, and a $10 fee. In practice, the department has not been processing gender-change requests since March 2025 under Executive Order 25-36, and a federal court declined to preliminarily enjoin that policy in September 2025, so confirm current practice before relying on a court order.",
+    "court_order_required": "Yes \u2014 A court order is required on paper for a birth-certificate gender change, and it was formerly accepted for a driver's license, but the BMV no longer accepts court orders for gender changes as of February 12, 2026, and the Department of Health has not processed birth-certificate gender changes since March 2025.",
+    "drivers_license": "Handled by the Indiana Bureau of Motor Vehicles. Effective February 12, 2026, under amended rule 140 IAC 7-1.1-3, the BMV no longer provides the option to change the gender on an Indiana credential by using a court-ordered gender change or a physician statement. Credentials are issued with M or F only; there is no X option.",
+    "legal_aid_name": "Indiana Legal Services",
+    "legal_aid_url": "https://www.indianalegalservices.org/",
+    "marker_overview": "Indiana has sharply restricted gender-marker changes in 2025\u20132026. On paper, a birth-certificate gender change still requires a court order, but the Indiana Department of Health has not processed gender-change requests since March 2025 under Executive Order 25-36, with litigation ongoing. Effective February 12, 2026, the Bureau of Motor Vehicles no longer changes the gender marker on a driver's license or ID card at all, even with a court order or physician statement.",
+    "slug": "indiana",
+    "sources": [
+      "https://www.in.gov/bmv/licenses-permits-ids/learners-permits-and-drivers-licenses-overview/drivers-license/amending-your-drivers-license-or-identification-card/",
+      "https://transequality.org/documents/indiana-identity-documents",
+      "https://www.in.gov/health/vital-records/corrections-and-amendments/"
+    ],
+    "state": "Indiana",
+    "surgery_required": "No \u2014 Indiana law does not require surgery for a birth-certificate change; it requires a court order, and no surgery or medical proof can now change a driver's license marker."
+  },
+  "iowa": {
+    "agency_name": "Iowa Department of Health and Human Services, Bureau of Health Statistics",
+    "agency_url": "https://hhs.iowa.gov/media/8870/download?inline",
+    "birth_certificate": "Handled by the Iowa Department of Health and Human Services, Bureau of Health Statistics. As of July 1, 2025, the department is no longer issuing gender-marker amendments on birth certificates under Senate File 418 (Iowa Code sections 4.1A and 144.23). A new birth certificate may now show only the sex observed or clinically verified at birth, and the former process using a notarized physician affidavit of sex-designation treatment was removed.",
+    "court_order_required": "No \u2014 A court order does not provide a gender-marker change in Iowa; Senate File 418 removed the sex-designation amendment process, so neither a court order nor a physician affidavit can now change an Iowa birth certificate's sex designation.",
+    "drivers_license": "Handled by the Iowa Department of Transportation, in person by appointment. Iowa licenses and IDs show M or F only, with no X option. For a person born in Iowa, an amended birth certificate with the updated marker was required, and that route is now closed. People born outside Iowa could previously use an amended out-of-state birth certificate or a notarized physician affidavit, but a DOT rule effective November 19, 2025 (761 IAC 605.4(5)) states the license sex will match the sex on the identity document presented, and whether that leaves any route for out-of-state-born residents is not settled in the official sources reviewed \u2014 verify current practice with the DOT before applying.",
+    "legal_aid_name": "Iowa Legal Aid",
+    "legal_aid_url": "https://www.iowalegalaid.org/",
+    "marker_overview": "Iowa banned gender-marker changes on birth certificates effective July 1, 2025, under Senate File 418, which defines sex as male or female as observed or clinically verified at birth and removed the former physician-affidavit process. Iowa-born people therefore can no longer obtain an amended birth certificate with a new gender marker, which also blocks a license change for them. A driver's license or state ID shows M or F only, with no X option.",
+    "slug": "iowa",
+    "sources": [
+      "https://transequality.org/documents/iowa-identity-documents",
+      "https://hhs.iowa.gov/media/8870/download?inline"
+    ],
+    "state": "Iowa",
+    "surgery_required": "No \u2014 Iowa does not require surgery, because gender-marker changes on Iowa birth certificates are no longer permitted at all under Senate File 418, regardless of surgery or treatment."
+  },
+  "kansas": {
+    "agency_name": "Kansas Department of Health and Environment, Office of Vital Statistics",
+    "agency_url": "https://www.kdhe.ks.gov/FAQ.aspx?QID=266",
+    "birth_certificate": "Handled by the Kansas Department of Health and Environment, Office of Vital Statistics. The office no longer processes gender-identity amendments to birth certificates, a policy in place since Senate Bill 180 in 2023. Senate Bill 244 now directs the office to invalidate and reissue birth certificates that were amended due to sex identification so they reflect the individual's sex at birth; a replacement certificate costs $20 per certificate.",
+    "court_order_required": "No \u2014 A court order does not enable a gender-marker change in Kansas; Senate Bill 244 bars gender-marker changes on both documents and requires previously changed documents to be reverted to sex assigned at birth.",
+    "drivers_license": "Handled by the Kansas Department of Revenue, Division of Vehicles. Kansas is no longer amending gender markers on driver's licenses. Under Senate Bill 244, effective February 26, 2026, any driver's license or state ID whose gender marker does not match the sex assigned at birth is invalid, with no grace period; affected residents were directed to surrender the credential and be issued a new one showing the sex assigned at birth, at the standard replacement cost.",
+    "legal_aid_name": "Kansas Legal Services",
+    "legal_aid_url": "https://www.kansaslegalservices.org/",
+    "marker_overview": "Kansas now bans gender-marker changes on both birth certificates and driver's licenses, and goes further than other states by invalidating documents that were already changed. Senate Bill 244, effective February 26, 2026, requires state documents to list only the sex assigned at birth and directs the state to invalidate and reissue about 1,700 driver's licenses and up to about 1,800 birth certificates that had been amended. There is no X marker and no court-order or medical route around the ban.",
+    "slug": "kansas",
+    "sources": [
+      "https://transequality.org/documents/kansas-identity-documents",
+      "https://www.kdhe.ks.gov/FAQ.aspx?QID=266",
+      "https://www.reuters.com/legal/government/kansas-invalidates-drivers-licenses-birth-certificates-over-1000-transgender-2026-02-26/"
+    ],
+    "state": "Kansas",
+    "surgery_required": "No \u2014 Kansas does not offer a surgery-based route; gender-marker changes are banned regardless of surgery or medical treatment."
+  },
+  "kentucky": {
+    "agency_name": "Kentucky Cabinet for Health and Family Services, Office of Vital Statistics",
+    "agency_url": "https://www.chfs.ky.gov/agencies/dph/dehp/vsb/pages/purchase.aspx",
+    "birth_certificate": "Apply to the Kentucky Cabinet for Health and Family Services, Office of Vital Statistics, under KRS 213.121. The office will amend the certificate upon receipt of a sworn statement by a licensed physician indicating the individual's gender has been changed by surgical procedure, together with a certified copy of a court order changing the individual's name. An amended certificate is marked as amended. A certified copy costs $10.",
+    "court_order_required": "Yes \u2014 A court order changing the name is required for the birth-certificate change, and a court order changing the gender marker is one of the accepted proofs for a driver's license (a surgeon's letter or an amended birth certificate also works for the license).",
+    "drivers_license": "Apply in person at a Kentucky Transportation Cabinet Driver Licensing Regional Office. To change the gender marker, present one of: an amended birth certificate showing the correct gender, a court order of gender change, or a letter from the surgeon stating that gender reassignment surgery has been completed. Only M or F is available; there is no X option.",
+    "legal_aid_name": "Legal Aid of the Bluegrass",
+    "legal_aid_url": "https://lablaw.org/",
+    "marker_overview": "Kentucky still allows gender-marker changes, but it is one of the strictest states that does so: a birth-certificate change requires proof of gender reassignment surgery plus a court-ordered name change, and a driver's license change requires an amended birth certificate, a court order changing the gender marker, or a surgeon's letter. Only M or F is available; there is no X option on either document.",
+    "slug": "kentucky",
+    "sources": [
+      "https://transequality.org/documents/kentucky-identity-documents",
+      "https://drive.ky.gov/realid/pages/faqs.aspx",
+      "https://law.justia.com/codes/kentucky/chapter-213/section-213-121/"
+    ],
+    "state": "Kentucky",
+    "surgery_required": "Yes \u2014 Kentucky requires proof of gender reassignment surgery for a birth-certificate change, and a surgeon's letter confirming completed surgery is one accepted proof for a driver's license (a court order or an amended birth certificate is an alternative for the license)."
+  },
+  "louisiana": {
+    "agency_name": "Louisiana Department of Health, Vital Records Registry (Center for Vital Records and Statistics)",
+    "agency_url": "https://www.ldh.la.gov/index.cfm/page/696",
+    "birth_certificate": "Apply to the Louisiana Department of Health, Vital Records Registry, under La. R.S. 40:62. First obtain a court order certifying the gender change; the court must be convinced the petitioner was properly diagnosed, that sex reassignment or corrective surgery was properly performed, and that the anatomical structure of the petitioner's sex has changed. Then submit a certified copy of the court order, an Application to Amend Birth Certificate, a copy of the original birth certificate, and a copy of a photo ID. The amendment fee is $27.50, which includes one certified copy of the new record.",
+    "court_order_required": "Yes \u2014 A court order certifying the gender change is required for a birth certificate; for a driver's license a court judgment is one accepted proof, but a physician's statement of a successful change is also accepted.",
+    "drivers_license": "Apply at a Louisiana Office of Motor Vehicles field office. To change the gender marker, present a medical statement signed by a physician stating the applicant has undergone a successful gender change or reassignment, a corrected birth certificate showing the change, or a court judgment specifying the change of sex. Licenses show M or F; no X option is listed in the sources reviewed.",
+    "legal_aid_name": "Southeast Louisiana Legal Services",
+    "legal_aid_url": "https://slls.org/",
+    "marker_overview": "Louisiana still allows gender-marker changes, but only through a court process that requires proof of surgery for a birth certificate. A birth certificate is changed only on a court order certifying the gender change, while a driver's license can be changed with a physician's statement of a successful gender change, a corrected birth certificate, or a court judgment. Only M or F is available; no X option is listed in the sources reviewed.",
+    "slug": "louisiana",
+    "sources": [
+      "https://transequality.org/documents/louisiana-identity-documents",
+      "https://www.legis.la.gov/legis/Law.aspx?d=98726",
+      "https://www.law.cornell.edu/regulations/louisiana/La-Admin-Code-tit-55-SS-III-111"
+    ],
+    "state": "Louisiana",
+    "surgery_required": "Yes \u2014 A court order for a birth-certificate change requires proof that sex reassignment or corrective surgery was properly performed; a driver's license change requires a physician's statement of a successful gender change or reassignment."
+  },
+  "maine": {
+    "agency_name": "Maine Department of Health and Human Services, Maine CDC, Data, Research, and Vital Statistics",
+    "agency_url": "https://www11.maine.gov/dhhs/mecdc/vital-records/amend-correct-or-complete-vital-records/change-the-gender-marker-on-your-birth-record",
+    "birth_certificate": "Apply to the Maine Department of Health and Human Services, Maine CDC, Data, Research, and Vital Statistics. An adult 18 or older completes the Application to Correct a Vital Record (Form VS-7), has it notarized, and mails it with a $60 fee; no physician's letter or court order is needed, and M, F, or X may be selected. For a minor, a parent or legal guardian applies and must also submit a health care professional declaration affirming the requested gender aligns with the minor's gender identity.",
+    "court_order_required": "No \u2014 No court order is needed to change the gender marker on either a birth certificate or a driver's license or state ID; a court order is only needed for a separate legal name change, unless a first or middle name change is made at the same time as the birth-certificate gender change.",
+    "drivers_license": "Apply in person at a Maine Bureau of Motor Vehicles location with a new license or Real ID application and a Gender Designation Form; a new photo is taken. M, F, or X may be selected, with no medical provider certification required. The X option has been available on Maine licenses and IDs since 2018, and the Secretary of State confirmed in March 2025 that it remains available.",
+    "legal_aid_name": "Pine Tree Legal Assistance",
+    "legal_aid_url": "https://www.ptla.org/",
+    "marker_overview": "Maine is one of the most permissive states: adults can change the gender marker on a birth certificate with a simple notarized application and on a driver's license or state ID with a gender designation form, with M, F, or X available on both and no court order, doctor's letter, or surgery required for adults. The Secretary of State reaffirmed on March 3, 2025, that the X option and gender-marker changes on licenses remain available despite the 2025 federal executive order on sex designations.",
+    "slug": "maine",
+    "sources": [
+      "https://www11.maine.gov/dhhs/mecdc/vital-records/amend-correct-or-complete-vital-records/change-the-gender-marker-on-your-birth-record",
+      "https://www.maine.gov/sos/news/secretary-state-offers-public-guidance-regarding-gender-designations-maine-drivers-licenses",
+      "https://www.gladlaw.org/issues/id-documents-maine/"
+    ],
+    "state": "Maine",
+    "surgery_required": "No \u2014 No surgery, medical procedure, or doctor's letter is required for an adult to change the gender marker on either document; for a minor's birth certificate, a health care professional declaration is required, but not surgery."
+  },
+  "maryland": {
+    "agency_name": "Maryland Department of Health, Vital Statistics Administration",
+    "agency_url": "https://health.maryland.gov/vsa/pages/birthcorrect.aspx",
+    "birth_certificate": "Apply to the Maryland Department of Health, Vital Statistics Administration, with the application for change in sex designation, a government-issued photo ID, and a $10 fee for the new certificate plus $10 for a copy. Proof is a signed statement from a licensed health care practitioner who treated or evaluated the applicant, stating the applicant has undergone surgical, hormonal, or other treatment appropriate for sex transition or has an intersex condition, or a court order indicating the sex has been changed. A court order is also needed if changing the name at the same time. Under Senate Bill 314 (effective October 1, 2025), the practitioner letter is replaced by the applicant's own statement under penalty of perjury and X is expressly allowed \u2014 confirm the current form before filing.",
+    "court_order_required": "No \u2014 No court order is required for either document; a court order is an optional alternative proof for a birth certificate, and a separate judicial declaration of gender identity is available but not required.",
+    "drivers_license": "Apply at the Maryland Motor Vehicle Administration, by appointment. Under Md. Code, Transportation section 12-305, an applicant may indicate female, male, or unspecified/other, which displays as X on the license, ID card, or moped permit. The MVA may not require proof of the applicant's sex and may not deny the application because the selected sex does not match another document. No documentation is needed unless also changing the name.",
+    "legal_aid_name": "Maryland Legal Aid",
+    "legal_aid_url": "https://www.mdlab.org/",
+    "marker_overview": "Maryland allows gender-marker changes on both documents, with the driver's license handled entirely by self-attestation and the birth certificate by a health care practitioner's statement or a court order. M, F, or X is available on both. Maryland law changed in 2025: Senate Bill 314, the Birth Certificate Modernization Act, effective October 1, 2025, modernized the birth-certificate process, replacing the medical-provider letter with the applicant's own statement under penalty of perjury and clarifying that X is allowed \u2014 confirm the current application form with the Vital Statistics Administration, as the statute text retrieved still lists the practitioner-statement route.",
+    "slug": "maryland",
+    "sources": [
+      "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0314?ys=2025rs",
+      "https://www.peoples-law.org/changing-sex-listed-your-maryland-birth-certificate",
+      "https://health.maryland.gov/vsa/pages/birthcorrect.aspx",
+      "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gtr&enactments=false&section=12-305"
+    ],
+    "state": "Maryland",
+    "surgery_required": "No \u2014 No surgery or medical procedure is required; a birth certificate needs a health care practitioner's statement of appropriate treatment (surgical, hormonal, or other) or a court order, and a driver's license needs no documentation at all."
+  }
+}
