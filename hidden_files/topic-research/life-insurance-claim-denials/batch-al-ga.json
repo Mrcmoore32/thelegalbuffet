@@ -1,0 +1,199 @@
+[
+ {
+  "state": "Alabama",
+  "slug": "alabama",
+  "contestability_period": "Two years from the date the policy is issued. After the policy has been in force during the insured's lifetime for two years, the insurer generally cannot contest it based on statements in the application, except for nonpayment of premiums (Ala. Code \u00a7 27-15-4).",
+  "common_denial_reasons": "Insurers may deny a claim if the insured made a material misstatement on the application and the death happened within the two-year contestability period. Other lawful reasons include the policy having lapsed for nonpayment of premiums, suicide within the policy's two-year suicide exclusion, or a death caused by an activity the policy specifically excludes.",
+  "grace_period": "30 days (or, at the insurer's option, one month of not less than 30 days) after a premium due date, during which the policy stays in full force (Ala. Code \u00a7 27-15-3). If the insured dies during the grace period, the insurer may deduct the unpaid premium from the payout.",
+  "complaint_process": "First contact the insurance company in writing and ask it to resolve the problem. If that does not work, file an online complaint with the Alabama Department of Insurance, giving your policy and claim numbers and a description of what happened; the department sends the complaint to the insurer, which must respond, and the department can require corrective action if the insurer broke the law.",
+  "appeal_rights": "Ask the insurer in writing for a full review of the denial and the exact policy language it relied on. If that fails, file a complaint with the Alabama Department of Insurance. You can also sue the insurer for breach of contract, but watch the time limit for suing in your policy and talk to a lawyer promptly.",
+  "bad_faith": "Yes. Alabama recognizes a bad-faith tort against an insurer that intentionally refuses to pay a claim with no reasonably legitimate or arguable reason, knowing it has no such reason (Chavers v. National Security Fire & Casualty Co., 405 So. 2d 1 (Ala. 1981)). If the insurer had a debatable reason for the denial, there is no bad faith.",
+  "insurance_dept_name": "Alabama Department of Insurance",
+  "insurance_dept_url": "https://aldoi.gov/Consumers/FileComplaint.aspx",
+  "legal_aid_name": "Legal Services Alabama",
+  "legal_aid_url": "https://legalservicesalabama.org/",
+  "sources": [
+   "https://alison.legislature.state.al.us/code-of-alabama?section=27-15-3",
+   "https://alison.legislature.state.al.us/code-of-alabama?section=27-18-4",
+   "https://aldoi.gov/Consumers/FileComplaint.aspx",
+   "https://legalservicesalabama.org/"
+  ]
+ },
+ {
+  "state": "Alaska",
+  "slug": "alaska",
+  "contestability_period": "Two years from the date of issue. After the policy has been in force during the insured's lifetime for two years, it is uncontestable except for nonpayment of premiums (Alaska Stat. \u00a7 21.45.040).",
+  "common_denial_reasons": "Insurers may deny a claim for a material misstatement on the application if the death happened within the two-year contestability period. Other lawful reasons include the policy having lapsed for nonpayment, suicide within two years of issue, or a death that falls under a coverage exclusion in the policy.",
+  "grace_period": "30 days (or, at the insurer's option, one month of not less than 30 days) after a premium due date, during which the policy stays in full force (Alaska Stat. \u00a7 21.45.030). If a claim arises during the grace period, the unpaid premium may be deducted from the payout.",
+  "complaint_process": "First try to resolve the problem with the insurance company or agent, then contact the Division of Insurance Consumer Services section. You can file a complaint online or by mail; within about two weeks you should get an acknowledgment with a file number, the division sends the complaint to the company for its response, and most complaints take about 45 working days to complete.",
+  "appeal_rights": "Ask the insurer in writing to reconsider the denial and to state the specific policy provisions and facts it relied on. If that fails, file a complaint with the Alaska Division of Insurance. You can also sue the insurer for breach of contract, but watch the time limit for suing in your policy and talk to a lawyer promptly.",
+  "bad_faith": "Yes. Alaska recognizes bad faith as a tort in first-party insurance cases: an insurer that unreasonably withholds payment of a valid claim without a reasonable basis can be liable in tort, and punitive damages are possible for outrageous conduct (State Farm Fire & Casualty Co. v. Nicholson, 1989).",
+  "insurance_dept_name": "Alaska Division of Insurance",
+  "insurance_dept_url": "https://www.commerce.Alaska.gov/web/ins/Consumers/Complaints/FileaComplaint.aspx",
+  "legal_aid_name": "Alaska Legal Services Corporation",
+  "legal_aid_url": "https://www.alsc-law.org/",
+  "sources": [
+   "https://www.akleg.gov/basis/folioproxy.asp?url=http://wwwjnu03.akleg.org/cgi-bin/folioisa.dll/STATTX96/query=[jump!3A!27as2145210!27]/doc/{t8753}/pageitems={body}?",
+   "https://www.commerce.alaska.gov/web/ins/consumers/complaints.aspx",
+   "https://www.alsc-law.org/faq/"
+  ]
+ },
+ {
+  "state": "Arizona",
+  "slug": "arizona",
+  "contestability_period": "Two years from the date of issue. After the policy has been in force during the insured's lifetime for two years, it is incontestable except for nonpayment of premiums (A.R.S. \u00a7 20-1204). The Arizona Supreme Court has held that even a lack of insurable interest cannot be raised after the two years run.",
+  "common_denial_reasons": "Insurers may deny a claim for a material misstatement on the application if the death happened within the two-year contestability period. Other lawful reasons include the policy having lapsed for nonpayment, suicide within two years of issue or reinstatement, or a death that falls under a coverage exclusion in the policy.",
+  "grace_period": "30 days (or, at the insurer's option, one month of not less than 30 days) after a premium due date, during which the policy stays in full force (A.R.S. \u00a7 20-1203). If a claim arises during the grace period, the unpaid premium may be deducted from the payout.",
+  "complaint_process": "First read the policy and contact the insurance company or agent to try to resolve the problem. If you are still not satisfied, file a complaint online with the Arizona Department of Insurance and Financial Institutions (DIFI); DIFI checks whether it has authority over the complaint, opens an investigation if it does, and can fine the insurer or suspend or revoke its license.",
+  "appeal_rights": "Ask the insurer in writing to reconsider the denial and to state the exact policy language it relied on. If that fails, file a complaint with DIFI. You can also sue the insurer for breach of contract and bad faith, but watch the time limit for suing in your policy and talk to a lawyer promptly.",
+  "bad_faith": "Yes. Arizona recognizes the tort of bad faith refusal to pay a valid claim (Noble v. National American Life Ins. Co., 128 Ariz. 188 (1981)). You must show the insurer had no reasonable basis for the denial and knew or recklessly disregarded that lack of basis; a claim that is fairly debatable is not bad faith.",
+  "insurance_dept_name": "Arizona Department of Insurance and Financial Institutions",
+  "insurance_dept_url": "https://difi.az.gov/file-a-complaint",
+  "legal_aid_name": "Community Legal Services",
+  "legal_aid_url": "https://clsaz.org/",
+  "sources": [
+   "https://www.azleg.gov/ars/20/01204.htm",
+   "https://difi.az.gov/file-a-complaint",
+   "https://clsaz.org/apply-for-services/"
+  ]
+ },
+ {
+  "state": "Arkansas",
+  "slug": "arkansas",
+  "contestability_period": "Two years from the date of issue. Except for fraud in getting the policy, the policy is incontestable, except for nonpayment of premiums, after it has been in force during the insured's lifetime for two years (Ark. Code \u00a7 23-81-105).",
+  "common_denial_reasons": "Insurers may deny a claim for a material misstatement or fraud in the application if the death happened within the two-year contestability period. Other lawful reasons include the policy having lapsed for nonpayment, suicide within the policy's exclusion period, or a death that falls under a coverage exclusion in the policy.",
+  "grace_period": "30 days (or, at the insurer's option, one month of not less than 30 days) after a premium due date, during which the policy stays in full force (Ark. Code \u00a7 23-81-104). If a claim arises during the grace period, the unpaid premium may be deducted from the payout.",
+  "complaint_process": "File a complaint online with the Arkansas Insurance Department's Consumer Services Division, or print the form and send it by email, fax, or mail, including your policy and claim numbers and a brief description of the problem. The division investigates complaints and works with the insurance company and the consumer to find the right course of action.",
+  "appeal_rights": "Ask the insurer in writing to reconsider the denial and to state the exact policy language it relied on. If that fails, file a complaint with the Arkansas Insurance Department. You can also sue the insurer for breach of contract, but watch the time limit for suing in your policy and talk to a lawyer promptly.",
+  "bad_faith": "Yes, in a limited way. Arkansas recognizes a first-party bad-faith claim, and Ark. Code \u00a7 23-79-208 also lets a court award 12% damages on the amount of the loss plus reasonable attorney's fees when an insurer fails to pay a covered loss within the time in the policy after a demand is made. A mere disagreement over coverage, or simple delay and red tape, is not bad faith.",
+  "insurance_dept_name": "Arkansas Insurance Department",
+  "insurance_dept_url": "https://insurance.arkansas.gov/consumer-assistance/consumer-services/file-a-complaint/",
+  "legal_aid_name": "Legal Aid of Arkansas",
+  "legal_aid_url": "https://arlegalaid.org/",
+  "sources": [
+   "https://law.onecle.com/arkansas/title-23/subtitle-3/chapter-81/subchapter-1/index.html",
+   "https://insurance.arkansas.gov/consumer-assistance/consumer-services/file-a-complaint/",
+   "https://law.justia.com/codes/arkansas/2020/title-23/subtitle-3/chapter-79/subchapter-2/section-23-79-208/",
+   "https://arlegalaid.org/who-we-are/frequent-questions.html"
+  ]
+ },
+ {
+  "state": "California",
+  "slug": "california",
+  "contestability_period": "Not more than two years from the date of issue. The policy must become incontestable after it has been in force during the insured's lifetime for a period of not more than two years, except for nonpayment of premiums and certain supplemental benefits (Cal. Ins. Code \u00a7 10113.5). Unlike many states, California has no fraud exception after the two years run.",
+  "common_denial_reasons": "Insurers may deny a claim for a material misstatement on the application if the death happened within the contestability period. Other lawful reasons include the policy having lapsed for nonpayment, suicide within the policy's exclusion period, or a death that falls under a coverage exclusion in the policy.",
+  "grace_period": "At least 60 days from the premium due date, and the policy stays in force during that time (Cal. Ins. Code \u00a7 10113.71). Before a policy can lapse for nonpayment, the insurer must also mail a lapse notice at least 30 days before the termination date to the policy owner and any person designated to receive lapse notices.",
+  "complaint_process": "First contact the insurance company and give it a chance to fix the problem. Then file a Request for Assistance with the California Department of Insurance online, by phone, or by mail, attaching the denial letter, policy, and claim number; the department investigates and can order corrective action or fine the insurer.",
+  "appeal_rights": "Ask the insurer in writing for a full review of the denial and the exact policy language it relied on. If that fails, file a complaint with the California Department of Insurance. You can also sue the insurer for breach of contract and bad faith, but watch the time limit for suing in your policy and talk to a lawyer promptly.",
+  "bad_faith": "Yes. California recognizes insurance bad faith as a tort: an insurer that unreasonably withholds policy benefits breaches the implied promise of good faith and fair dealing, and a beneficiary can recover damages beyond the policy benefits, including emotional distress and, for oppressive, fraudulent, or malicious conduct, punitive damages (Gruenberg v. Aetna Ins. Co., 9 Cal.3d 566 (1973)).",
+  "insurance_dept_name": "California Department of Insurance",
+  "insurance_dept_url": "https://www.insurance.ca.gov/01-consumers/101-help/upload/RFAnonhealth.pdf",
+  "legal_aid_name": "LawHelp California",
+  "legal_aid_url": "https://www.lawhelpca.org/",
+  "sources": [
+   "https://leginfo.legislature.ca.gov/faces/billCompareClient.xhtml?bill_id=201120120AB1747&showamends=false",
+   "https://law.justia.com/codes/california/2022/code-ins/division-2/part-2/chapter-1/article-1/section-10113-71/",
+   "https://www.insurance.ca.gov/01-consumers/101-help/upload/RFAnonhealth.pdf",
+   "https://legalclarity.org/california-life-insurance-laws-key-regulations-and-consumer-rights/"
+  ]
+ },
+ {
+  "state": "Colorado",
+  "slug": "colorado",
+  "contestability_period": "Two years from the policy date. The policy must be incontestable after it has been in force during the insured's lifetime for two years, except for nonpayment of premiums and violations of conditions about naval and military service in wartime or other prohibited risks (C.R.S. \u00a7 10-7-102(1)(b)).",
+  "common_denial_reasons": "Insurers may deny a claim for a material misstatement on the application if the death happened within the two-year contestability period. Other lawful reasons include the policy having lapsed for nonpayment, suicide during the first policy year, or a death that falls under a coverage exclusion in the policy.",
+  "grace_period": "One month, not less than 30 days, for the payment of a premium after the first year, during which the insurance stays in force (C.R.S. \u00a7 10-7-102). If the insured dies during the grace period, the unpaid premium for the current policy year may be deducted from the payout.",
+  "complaint_process": "Contact the Division of Insurance Consumer Services Team first with questions, then file a complaint through the Division's online Consumer Portal, where you create an account and upload supporting documents. The Division investigates complaints, answers questions, and provides education about insurance.",
+  "appeal_rights": "Ask the insurer in writing to reconsider the denial and to state the exact policy language it relied on. If that fails, file a complaint with the Colorado Division of Insurance. You can also sue the insurer for breach of contract and bad faith, but watch the time limit for suing in your policy and talk to a lawyer promptly.",
+  "bad_faith": "Yes, two ways. Colorado recognizes a common-law bad-faith claim, and C.R.S. \u00a7\u00a7 10-3-1115 and 10-3-1116 bar an insurer from unreasonably delaying or denying payment of a first-party claim; a successful claimant can recover twice the covered benefit plus reasonable attorney's fees and court costs.",
+  "insurance_dept_name": "Colorado Division of Insurance",
+  "insurance_dept_url": "https://doi.colorado.gov/before-you-schedule-an-appointment-or-file-a-complaint",
+  "legal_aid_name": "Colorado Legal Services",
+  "legal_aid_url": "https://www.coloradolegalservices.org/",
+  "sources": [
+   "https://law.justia.com/codes/colorado/2021/title-10/article-7/part-1/section-10-7-102/",
+   "https://doi.colorado.gov/before-you-schedule-an-appointment-or-file-a-complaint",
+   "https://www.coloradolegalservices.org/"
+  ]
+ },
+ {
+  "state": "Connecticut",
+  "slug": "connecticut",
+  "contestability_period": "Two years from the date of issue. Connecticut follows the standard two-year rule: after the policy has been in force during the insured's lifetime for two years, the insurer generally cannot contest a death claim based on misstatements in the application. No specific individual-life incontestability statute cite was verified; Connecticut requires life policy forms to be filed with and approved by the insurance commissioner (Conn. Gen. Stat. \u00a7 38a-430), and its fraternal-benefit law sets the same two-year rule (\u00a7 38a-639).",
+  "common_denial_reasons": "Insurers may deny a claim for a material misstatement on the application if the death happened within the two-year contestability period. Other lawful reasons include the policy having lapsed for nonpayment, suicide within the policy's exclusion period, or a death that falls under a coverage exclusion in the policy.",
+  "grace_period": "At least 60 days for premium payments on life insurance policies delivered, issued, renewed, amended, or endorsed on or after October 1, 2013 (Conn. Gen. Stat. \u00a7 38a-430(b)). If a claim arises during the grace period before the overdue premium is paid, the unpaid premium may be deducted from the payout.",
+  "complaint_process": "Submit a written complaint to the Connecticut Insurance Department's Consumer Affairs Unit online, by email, or by fax or mail, including the company name, type of insurance, policy number, and a summary of the problem. You will get an acknowledgment the next business day after the case is assigned to an examiner; the department checks jurisdiction, then forwards the complaint to the insurer, which has two weeks to respond.",
+  "appeal_rights": "Ask the insurer in writing to reconsider the denial and to state the exact policy language it relied on. If that fails, file a complaint with the Connecticut Insurance Department. You can also sue the insurer for breach of contract and bad faith, but watch the time limit for suing in your policy and talk to a lawyer promptly.",
+  "bad_faith": "Yes. Connecticut recognizes an independent bad-faith tort against an insurer (Buckman v. People Express, 205 Conn. 166 (1987)), and bad faith means more than negligence \u2014 it involves a dishonest purpose. A violation of the Connecticut Unfair Insurance Practices Act can also support a claim under the Connecticut Unfair Trade Practices Act, but that route generally requires showing a pattern of misconduct, not just one bad act.",
+  "insurance_dept_name": "Connecticut Insurance Department",
+  "insurance_dept_url": "https://portal.ct.gov/cid/consumer-resource-library/the-complaint-process",
+  "legal_aid_name": "Connecticut Legal Services",
+  "legal_aid_url": "https://ctlegal.org/",
+  "sources": [
+   "https://www.cga.ct.gov/2023/pub/chap_700b.htm",
+   "https://legiscan.com/CT/text/SB00959/id/801310/Connecticut-2013-SB00959-Comm_Sub.html",
+   "https://portal.ct.gov/cid/consumer-resource-library/the-complaint-process",
+   "https://ctlegal.org/get-help/"
+  ]
+ },
+ {
+  "state": "Delaware",
+  "slug": "delaware",
+  "contestability_period": "Not more than two years after the date of issue. The policy must be incontestable after it has been in force during the insured's lifetime for a period of not more than two years, except for nonpayment of premiums and, at the insurer's option, disability and accidental-death benefits (18 Del. C. \u00a7 2908).",
+  "common_denial_reasons": "Insurers may deny a claim for a material misstatement on the application if the death happened within the contestability period. Other lawful reasons include the policy having lapsed for nonpayment, suicide within two years of issue (one year for policies issued on or after March 30, 2027), or a death that falls under a coverage exclusion in the policy.",
+  "grace_period": "30 days (or, at the insurer's option, one month of not less than 30 days) after a premium due date, during which the policy stays in full force (18 Del. C. \u00a7 2906). If a claim arises during the grace period, the unpaid premium may be deducted from the payout.",
+  "complaint_process": "Contact the Delaware Department of Insurance Consumer Services Division, which acts as a mediator between consumers and insurers. You can file a complaint online, by phone, fax, letter, or email; the division helps you understand your rights and appeal options and contacts the insurer about the dispute.",
+  "appeal_rights": "Ask the insurer in writing to reconsider the denial and to state the exact policy language it relied on, and follow the appeal steps in your policy or benefit booklet. If that fails, file a complaint with the Delaware Department of Insurance. You can also sue the insurer for breach of contract, but watch the time limit for suing in your policy and talk to a lawyer promptly.",
+  "bad_faith": "Delaware does not recognize a separate bad-faith tort, but a bad-faith delay or nonpayment can be sued as a breach of the contract's implied promise of good faith and fair dealing (Tackett v. State Farm Fire & Casualty Ins. Co., 653 A.2d 254 (Del. 1995)). You must show the insurer lacked reasonable justification, and punitive damages are possible only for an egregious or malicious breach.",
+  "insurance_dept_name": "Delaware Department of Insurance",
+  "insurance_dept_url": null,
+  "legal_aid_name": "Community Legal Aid Society, Inc. (CLASI)",
+  "legal_aid_url": "https://www.declasi.org/",
+  "sources": [
+   "https://delcode.delaware.gov/title18/c029/index.html",
+   "https://insurance.delaware.gov/wp-content/uploads/sites/15/2024/05/Consumers-Services-Trifold-2024.pdf",
+   "https://www.declasi.org/about-clasi/",
+   "https://law.justia.com/cases/delaware/supreme-court/1995/653-a-2d-254-1.html"
+  ]
+ },
+ {
+  "state": "Florida",
+  "slug": "florida",
+  "contestability_period": "Two years from the date of issue. Every life insurance contract must be incontestable after it has been in force during the insured's lifetime for two years from its date of issue, except for nonpayment of premiums and, at the insurer's option, disability and accidental-death benefits (Fla. Stat. \u00a7 627.455).",
+  "common_denial_reasons": "Insurers may deny a claim for a misstatement on the application if the death happened within the two-year contestability period; under Fla. Stat. \u00a7 627.409, the statement must be fraudulent or material, or the insurer must show it would not have issued the policy on the same terms had it known the truth. Other lawful reasons include the policy having lapsed for nonpayment or a death that falls under a coverage exclusion in the policy.",
+  "grace_period": "At least 30 days for each premium after the first, during which the policy stays in force (Fla. Stat. \u00a7 627.453). If a claim arises during the grace period, the unpaid premium may be deducted from the payout.",
+  "complaint_process": "Contact the insurance company first and give it a chance to resolve the problem. Then file a concern online through the Florida Department of Financial Services Consumer Assistance Portal, or call the consumer helpline; the Division of Consumer Services assigns your case to a specialist, sends the complaint to the insurer for a response, and investigates whether the insurer followed Florida law.",
+  "appeal_rights": "Ask the insurer in writing to reconsider the denial and to state the exact policy language it relied on. If that fails, file a complaint with the Florida Department of Financial Services, Division of Consumer Services. You can also sue the insurer for breach of contract, and Florida law allows attorney's fees to the winning side in a wrongful-denial suit (Fla. Stat. \u00a7 627.428), but watch the time limit for suing in your policy and talk to a lawyer promptly.",
+  "bad_faith": "Yes. Under Fla. Stat. \u00a7 624.155, a person damaged by an insurer's bad-faith failure to settle a claim can sue, but first must give the department and the insurer 60 days' written notice of the violation; if the insurer pays or fixes the problem within those 60 days, no suit lies. If you win, the insurer can be liable for damages plus court costs and reasonable attorney's fees.",
+  "insurance_dept_name": "Florida Department of Financial Services, Division of Consumer Services",
+  "insurance_dept_url": "https://myfloridacfo.com/division/consumers/needourhelp/1000",
+  "legal_aid_name": "Florida Legal Services",
+  "legal_aid_url": "https://www.floridalegal.org/",
+  "sources": [
+   "https://www.flhouse.gov/Statutes/2021/0624.155/",
+   "https://myfloridacfo.com/division/consumers/needourhelp/1000",
+   "https://www.floridalegal.org/fh-newsletter/2024-09",
+   "https://quote.betterlifequotes.com/term-life-insurance/florida"
+  ]
+ },
+ {
+  "state": "Georgia",
+  "slug": "georgia",
+  "contestability_period": "Two years from the date of issue. The policy must be incontestable, except for nonpayment of premiums, after it has been in force during the insured's lifetime for two years from its date of issue (O.C.G.A. \u00a7 33-25-3(a)(2)).",
+  "common_denial_reasons": "Insurers may deny a claim for a misstatement or omission on the application if the death happened within the two-year contestability period. Other lawful reasons include the policy having lapsed for nonpayment, suicide within the policy's two-year exclusion period, or a death that falls under a coverage exclusion in the policy.",
+  "grace_period": "Not less than 30 days after a premium due date, during which the policy stays in force (O.C.G.A. \u00a7 33-25-3(a)(1)). If a claim arises during the grace period, the unpaid premium may be deducted from the payout.",
+  "complaint_process": "First contact the insurance company and ask it to resolve the dispute. If you cannot resolve it, file a complaint with the Office of the Commissioner of Insurance and Safety Fire through its online Consumer Complaint Portal, providing the company name, policy number, and supporting documents; the Consumer Services Division reviews the complaint, assigns it to an investigator, and gives the insurer time to respond.",
+  "appeal_rights": "Ask the insurer in writing to reconsider the denial and to state the exact policy language it relied on. If that fails, file a complaint with the Office of the Commissioner of Insurance and Safety Fire. You can also sue the insurer for breach of contract, but watch the time limit for suing in your policy and talk to a lawyer promptly.",
+  "bad_faith": "Yes. Under O.C.G.A. \u00a7 33-4-6, if an insurer refuses in bad faith to pay a covered loss within 60 days after a demand is made, it can owe up to 50% of the loss (or $5,000, whichever is greater) plus all reasonable attorney's fees. Within 20 days of filing the lawsuit, you must mail a copy of the demand and complaint to the Commissioner of Insurance.",
+  "insurance_dept_name": "Georgia Office of Commissioner of Insurance and Safety Fire",
+  "insurance_dept_url": "https://oci.georgia.gov/file-consumer-insurance-complaint",
+  "legal_aid_name": "Georgia Legal Services Program",
+  "legal_aid_url": "https://www.glsp.org/",
+  "sources": [
+   "https://law.justia.com/codes/georgia/title-33/chapter-25/section-33-25-3/",
+   "https://law.justia.com/codes/georgia/title-33/chapter-4/section-33-4-6/",
+   "https://oci.georgia.gov/file-consumer-insurance-complaint",
+   "https://www.glsp.org/need-help/"
+  ]
+ }
+]

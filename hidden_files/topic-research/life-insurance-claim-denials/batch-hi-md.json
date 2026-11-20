@@ -1,0 +1,200 @@
+[
+ {
+  "state": "Hawaii",
+  "slug": "hawaii",
+  "contestability_period": "Two years from the date the policy was issued, while the insured was alive. After that the insurer generally cannot deny the claim by saying something on the application was wrong, except for unpaid premiums (Haw. Rev. Stat. \u00a7 431:10D-102(a)(3)).",
+  "common_denial_reasons": "A material misstatement on the application discovered within the first two years, the policy having lapsed because premiums were not paid, or death by suicide within the policy's suicide exclusion period (up to two years, Haw. Rev. Stat. \u00a7 431:10D-108). A policy exclusion, such as death during an excluded activity, can also be a lawful reason to deny.",
+  "grace_period": "30 days after a missed premium, during which the policy stays in full force. If the insured dies during the grace period, the insurer may deduct the unpaid premium from the payout (Haw. Rev. Stat. \u00a7 431:10D-102(a)(1)).",
+  "complaint_process": "File a complaint with the Hawaii Insurance Division (part of the Department of Commerce and Consumer Affairs) online, by mail, or by phone. The Division investigates, contacts the insurer, and can require the insurer to fix a violation; call the Division first, since an investigator may resolve the problem without a formal complaint.",
+  "appeal_rights": "Ask the insurer in writing to reconsider the denial and send any documents that support the claim, such as the death certificate and proof premiums were paid. If that fails, file a complaint with the Insurance Division, and you can also sue the insurer for breach of contract \u2014 check the policy's time limit for suing, since Hawaii law allows policies to set a limit of at least three years (Haw. Rev. Stat. \u00a7 431:10D-108).",
+  "bad_faith": "Yes. Hawaii recognizes a first-party bad-faith claim against an insurer. You must show benefits due under the policy were withheld and the reason for withholding them was unreasonable or without proper cause (Best Place, Inc. v. Penn America Ins. Co., 82 Haw. 120 (1996)).",
+  "insurance_dept_name": "Hawaii Department of Commerce and Consumer Affairs, Insurance Division",
+  "insurance_dept_url": "https://cca.hawaii.gov/ins/consumer/complaints/",
+  "legal_aid_name": "Legal Aid Society of Hawaii",
+  "legal_aid_url": "https://www.legalaidhawaii.org/",
+  "sources": [
+   "https://law.justia.com/codes/hawaii/2022/title-24/chapter-431/section-431-10d-102/",
+   "https://law.justia.com/cases/hawaii/supreme-court/1996/16065-2.html",
+   "https://content.naic.org/state-insurance-departments?field_contact_state_department_target_id=1036",
+   "https://www.legalaidhawaii.org/get-legal-assistance.html"
+  ]
+ },
+ {
+  "state": "Idaho",
+  "slug": "idaho",
+  "contestability_period": "Two years from the date the policy was issued, while the insured was alive. After that the insurer generally cannot deny the claim over application answers, except for unpaid premiums (Idaho Code \u00a7 41-1905).",
+  "common_denial_reasons": "A material misstatement on the application found within the first two years, the policy having lapsed because premiums were not paid, or death by suicide within the policy's suicide exclusion period (up to two years, Idaho Code \u00a7 41-1925). A death caused by an activity the policy excludes can also be a lawful reason to deny.",
+  "grace_period": "30 days (or, at the insurer's option, one month of at least 30 days) after a missed premium once the first policy year has passed, during which the policy stays in full force. If a claim arises during the grace period, the overdue premium may be deducted from the payout (Idaho Code \u00a7 41-1904).",
+  "complaint_process": "File a complaint online with the Idaho Department of Insurance, Consumer Affairs section, or by mail, fax, or email. Consumer Affairs officers act as a free, neutral resource, forward the complaint to the insurer, and work toward a resolution; the Department cannot act as your lawyer or order payment.",
+  "appeal_rights": "Ask the insurer in writing to reconsider and send supporting documents, then file a complaint with the Department of Insurance if the denial stands. You can also sue the insurer for breach of contract, and if the insurer fails to pay what is justly due within 30 days after proof of loss, the court can order it to pay your attorney fees (Idaho Code \u00a7 41-1839).",
+  "bad_faith": "Yes. Idaho recognizes a bad-faith claim when the insurer intentionally and unreasonably denied or withheld payment, the claim was not fairly debatable, and the harm is not fully covered by contract damages (White v. Unigard Mut. Ins. Co., 112 Idaho 94 (1986)).",
+  "insurance_dept_name": "Idaho Department of Insurance",
+  "insurance_dept_url": "https://doi.idaho.gov/consumers/file-a-complaint/",
+  "legal_aid_name": "Idaho Legal Aid Services",
+  "legal_aid_url": "https://idaholegalaid.org/",
+  "sources": [
+   "https://legislature.idaho.gov/statutesrules/idstat/Title41/T41CH19/SECT41-1905/",
+   "https://doi.idaho.gov/consumers/file-a-complaint/",
+   "https://legislature.idaho.gov/statutesrules/idstat/title41/t41ch18/sect41-1839/",
+   "https://idaholegalaid.org/apply-for-help"
+  ]
+ },
+ {
+  "state": "Illinois",
+  "slug": "illinois",
+  "contestability_period": "A period the policy states, no later than two years from the policy date, while the insured was alive. After that the policy generally cannot be contested over application answers, except for unpaid premiums (215 ILCS 5/224(1)(c)).",
+  "common_denial_reasons": "A material misstatement on the application discovered within the first two years, the policy having lapsed because premiums were not paid, or death by suicide within the policy's suicide exclusion period. A death caused by an activity the policy excludes can also be a lawful reason to deny.",
+  "grace_period": "30 days (or one month) after a missed premium after the first premium, during which the policy stays in force. If the insured dies during the grace period, the overdue premium may be deducted from the payout (215 ILCS 5/224(1)(b)).",
+  "complaint_process": "File a complaint with the Illinois Department of Insurance online through the IDOI Help Center, by email, mail, or fax. The Department sends a copy to the insurer, which by law has 21 days to respond, and the investigation usually takes four to six weeks.",
+  "appeal_rights": "Ask the insurer in writing to reconsider the denial and send supporting documents, then file a complaint with the Department of Insurance. You can also sue the insurer for breach of contract, and a court can award extra penalties plus attorney fees if the insurer's delay or refusal was vexatious and unreasonable (215 ILCS 5/155).",
+  "bad_faith": "Yes. Under 215 ILCS 5/155, if an insurer's refusal to pay or delay in paying was vexatious and unreasonable, a court can award the amount due plus an extra penalty and reasonable attorney fees.",
+  "insurance_dept_name": "Illinois Department of Insurance",
+  "insurance_dept_url": "https://idoi.illinois.gov/consumers/file-a-complaint.html",
+  "legal_aid_name": "Prairie State Legal Services",
+  "legal_aid_url": "https://www.pslegal.org/",
+  "sources": [
+   "https://www.casemine.com/act/us/63b55ef65b2af40829f73323",
+   "https://idoi.illinois.gov/consumers/understanding-complaint-process.html",
+   "https://idoi.illinois.gov/consumers/file-a-complaint.html",
+   "https://www.pslegal.org/"
+  ]
+ },
+ {
+  "state": "Indiana",
+  "slug": "indiana",
+  "contestability_period": "Two years from the policy date, while the insured was alive. After that the insurer generally cannot challenge the policy over application answers, except for nonpayment of premiums and violations of wartime military-service conditions (Ind. Code \u00a7 27-1-12-6(3)).",
+  "common_denial_reasons": "A material misrepresentation on the application, such as hiding a medical condition, smoking habit, or dangerous job, discovered within the first two years; the policy having lapsed because premiums were not paid; or death by suicide within the policy's suicide exclusion period. A death caused by an activity the policy excludes can also be a lawful reason to deny.",
+  "grace_period": "At least 30 days after a premium due date (after the first premium), during which the policy stays in force. If the insured dies during the grace period, the insurer pays the death benefit minus the overdue premium (Ind. Code \u00a7 27-1-12-6(2)).",
+  "complaint_process": "File a complaint with the Indiana Department of Insurance, Consumer Services Division, using the online complaint portal or a paper form by mail or fax. The complaint is processed within 72 hours, sent to the insurer, which by law has 20 business days to respond in writing; the Department cannot order the insurer to pay you.",
+  "appeal_rights": "Ask the insurer in writing to reconsider the denial and send supporting documents, then file a complaint with the Department of Insurance. You can also sue the insurer for breach of contract, and the insurer must pay interest if a death claim is not paid within 30 days (Ind. Code \u00a7 27-1-12-35).",
+  "bad_faith": "Yes, but with a limit for beneficiaries. Indiana recognizes a first-party bad-faith claim against an insurer (Erie Ins. Co. v. Hickman, 622 N.E.2d 515 (Ind. 1993)), but it belongs to a party to the insurance contract, so a beneficiary who was not a party to the policy may not be able to bring it (Cain v. Griffin, 849 N.E.2d 507 (Ind. 2006)).",
+  "insurance_dept_name": "Indiana Department of Insurance",
+  "insurance_dept_url": "https://www.in.gov/idoi/consumer-services/file-an-insurance-company-complaint",
+  "legal_aid_name": "Indiana Legal Services",
+  "legal_aid_url": "https://www.indianalegalservices.org/",
+  "sources": [
+   "https://www.in.gov/idoi/compliance-rates-and-forms/life/life-and-annuity-review-standards",
+   "https://www.in.gov/idoi/consumer-services/file-an-insurance-company-complaint",
+   "https://law.justia.com/cases/indiana/supreme-court/1993/29s02-9310-cv-1180-4.html",
+   "https://www.indianalegalservices.org/about/"
+  ]
+ },
+ {
+  "state": "Iowa",
+  "slug": "iowa",
+  "contestability_period": "Two years from the policy date, while the insured was alive. After that the policy is incontestable, except for nonpayment of premiums (Iowa Code \u00a7 508.28).",
+  "common_denial_reasons": "A material misstatement on the application discovered within the first two years, the policy having lapsed because premiums were not paid, or death by suicide within the policy's suicide exclusion period. A death caused by an activity the policy excludes can also be a lawful reason to deny.",
+  "grace_period": null,
+  "complaint_process": "File a complaint with the Iowa Insurance Division online or by phone. The Division's Market Regulation Bureau helps consumers with insurance problems and investigates complaints against insurers; it cannot take complaints about policies issued or bought in another state.",
+  "appeal_rights": "Ask the insurer in writing to reconsider the denial and send supporting documents, then file a complaint with the Iowa Insurance Division. You can also sue the insurer for breach of contract, and if the insurer does not pay within 30 days after receiving satisfactory proof of death, it owes interest on the payout (Iowa Code \u00a7 511.38).",
+  "bad_faith": "Yes. Iowa recognizes a first-party bad-faith claim: you must show the insurer had no reasonable basis for denying or delaying the benefits and knew or should have known its refusal was without a reasonable basis (Dolan v. Aid Ins. Co., 431 N.W.2d 790 (Iowa 1988)).",
+  "insurance_dept_name": "Iowa Insurance Division",
+  "insurance_dept_url": "https://iid.iowa.gov/consumers/filing-complaints",
+  "legal_aid_name": "Iowa Legal Aid",
+  "legal_aid_url": "https://www.iowalegalaid.org/",
+  "sources": [
+   "https://www.legis.iowa.gov/docs/code/508.28.pdf",
+   "https://law.justia.com/cases/iowa/supreme-court/1988/87-1380-0.html",
+   "https://www.helmlife.ai/claim-interest/iowa/",
+   "https://iowalegalaid.org/who-we-are/"
+  ]
+ },
+ {
+  "state": "Kansas",
+  "slug": "kansas",
+  "contestability_period": "A period the policy states, no more than two years from the policy date, while the insured was alive. After that the policy generally cannot be contested over application answers, except for nonpayment of premiums and violations of military-service or aviation conditions (K.S.A. 40-420(2)).",
+  "common_denial_reasons": "A misrepresentation on the application that actually contributed to the death or the event the policy pays for, the policy having lapsed because premiums were not paid, or death by suicide within the policy's suicide exclusion period. A death caused by an activity the policy excludes can also be a lawful reason to deny.",
+  "grace_period": "Not less than 30 days after a missed premium after the first, during which the policy stays in full force. If the insured dies during the grace period, the overdue premium and any unpaid installments for that policy year may be deducted from the payout (K.S.A. 40-420(1)).",
+  "complaint_process": "File a complaint with the Kansas Department of Insurance online, by email, mail, or fax. A consumer representative reviews the complaint, contacts the insurer (which must respond within 15 days), and the process usually takes 30 to 45 days; the Department cannot act as your lawyer or order payment.",
+  "appeal_rights": "Ask the insurer in writing to reconsider the denial and send supporting documents, then file a complaint with the Kansas Insurance Department. You can also sue the insurer for breach of contract; act promptly, since the policy sets a deadline for suing.",
+  "bad_faith": "No. Kansas does not recognize a first-party bad-faith lawsuit against an insurer (Spencer v. Aetna Life & Cas. Ins. Co., 227 Kan. 914 (1980)). Instead, if you win a lawsuit and the insurer refused to pay without just cause or excuse, the court must award you a reasonable attorney fee (K.S.A. 40-256).",
+  "insurance_dept_name": "Kansas Department of Insurance",
+  "insurance_dept_url": "https://www.insurance.kansas.gov/consumers/file-a-complaint",
+  "legal_aid_name": "Kansas Legal Services",
+  "legal_aid_url": "https://www.kansaslegalservices.org/",
+  "sources": [
+   "https://www.kslegislature.gov/li_2018/b2017_18/statute/040_000_0000_chapter/040_004_0000_article/040_004_0020_section/040_004_0020_k/",
+   "https://www.insurance.kansas.gov/consumers/file-a-complaint",
+   "https://ksrevisor.gov/statutes/chapters/ch40/040_002_0056.html",
+   "https://www.kansaslegalservices.org/"
+  ]
+ },
+ {
+  "state": "Kentucky",
+  "slug": "kentucky",
+  "contestability_period": "A period the policy states, no more than two years after the date of issue, while the insured was alive. After that the policy generally cannot be contested over application answers, except for nonpayment of premiums (Ky. Rev. Stat. \u00a7 304.15-080).",
+  "common_denial_reasons": "A material misstatement on the application discovered within the first two years, the policy having lapsed because premiums were not paid, or death by suicide within the policy's suicide exclusion period (up to two years, Ky. Rev. Stat. \u00a7 304.15-260). A death caused by an activity the policy excludes can also be a lawful reason to deny.",
+  "grace_period": "30 days (or, at the insurer's option, one month of at least 30 days) after a missed premium, during which the policy stays in force (Ky. Rev. Stat. \u00a7 304.15-060).",
+  "complaint_process": "File a complaint with the Kentucky Department of Insurance, Consumer Protection Division, online, by mail, fax, or email. The insurer has 15 days to respond to the Department, and the Department aims to resolve complaints within 30 days.",
+  "appeal_rights": "Ask the insurer in writing to reconsider the denial and send supporting documents, then file a complaint with the Department of Insurance. You can also sue the insurer for breach of contract; if the insurer fails to make a good-faith attempt to settle within 30 days after notice and proof of claim, the settlement bears 12% annual interest (Ky. Rev. Stat. \u00a7 304.12-235).",
+  "bad_faith": "Yes. Kentucky recognizes a common-law bad-faith claim when the insurer was obligated to pay, had no reasonable basis for denying the claim, and knew it or acted with reckless disregard (Wittmer v. Jones, 864 S.W.2d 885 (Ky. 1993); Curry v. Fireman's Fund Ins. Co., 784 S.W.2d 176 (Ky. 1989)). The unfair claims practices law (Ky. Rev. Stat. \u00a7 304.12-230) can also support a private lawsuit.",
+  "insurance_dept_name": "Kentucky Department of Insurance",
+  "insurance_dept_url": "https://insurance.ky.gov/ppc/forms/oc_info.aspx",
+  "legal_aid_name": "Legal Aid of the Bluegrass",
+  "legal_aid_url": "https://lablaw.org/",
+  "sources": [
+   "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=17204",
+   "https://insurance.ky.gov/ppc/forms/oc_info.aspx",
+   "https://lablaw.org/"
+  ]
+ },
+ {
+  "state": "Louisiana",
+  "slug": "louisiana",
+  "contestability_period": "Two years from the date the policy was issued, while the insured was alive. After that the policy generally cannot be contested over application answers, except for nonpayment of premiums and military or naval service conditions (La. Rev. Stat. \u00a7 22:931(A)(2)).",
+  "common_denial_reasons": "A material misrepresentation on the application discovered within the first two years, the policy having lapsed because premiums were not paid, or death by suicide within the policy's suicide exclusion period (up to two years, La. Rev. Stat. \u00a7 22:931(B)(1)(c)). A death caused by an activity the policy excludes can also be a lawful reason to deny.",
+  "grace_period": "30 days (or, at the insurer's option, one month) after a missed premium after the first, during which the policy stays in full force. If a claim arises during the grace period, the overdue premium may be deducted from the payout (La. Rev. Stat. \u00a7 22:931(A)(1)).",
+  "complaint_process": "File a complaint with the Louisiana Department of Insurance online, by phone, or by mail. You will usually get an acknowledgement letter with a file number and a compliance examiner within a week; the Department sends the complaint to the insurer and investigates, but it cannot give legal advice, act as your lawyer, or order payment.",
+  "appeal_rights": "Ask the insurer in writing to reconsider the denial and send supporting documents, then file a complaint with the Department of Insurance. You can also sue the insurer for breach of contract, but Louisiana has short deadlines for bad-faith claims, so do not wait.",
+  "bad_faith": "Yes. Louisiana law treats an insurer's failure to pay a claim as bad faith when it is arbitrary, capricious, or without probable cause (La. Rev. Stat. \u00a7 22:1973). An insurer that fails to pay within 30 days after receiving satisfactory proof of loss can owe extra penalties and attorney fees (La. Rev. Stat. \u00a7 22:1892).",
+  "insurance_dept_name": "Louisiana Department of Insurance",
+  "insurance_dept_url": "https://www.ldi.la.gov/onlineservices/ConsumerComplaintForm",
+  "legal_aid_name": "Southeast Louisiana Legal Services",
+  "legal_aid_url": "https://slls.org/",
+  "sources": [
+   "https://legis.la.gov/legis/Law.aspx?d=507787",
+   "https://www.ldi.la.gov/onlineservices/ConsumerComplaintForm",
+   "https://www.ldi.la.gov/docs/default-source/documents/publicaffairs/consumerpublications/ocs_-whatcanwedoforyou.pdf"
+  ]
+ },
+ {
+  "state": "Maine",
+  "slug": "maine",
+  "contestability_period": "A period the policy states, no more than two years after the date of issue, while the insured was alive. After that the policy generally cannot be contested over application answers, except for nonpayment of premiums (24-A M.R.S. \u00a7 2507).",
+  "common_denial_reasons": "A material misstatement on the application discovered within the first two years, the policy having lapsed because premiums were not paid, or death by suicide within the policy's suicide exclusion period (up to two years, 24-A M.R.S. \u00a7 2525). A death caused by an activity the policy excludes can also be a lawful reason to deny.",
+  "grace_period": "30 days (or, at the insurer's option, one month of at least 30 days) after a missed premium after the first, during which the policy stays in full force. If a claim arises during the grace period, the overdue premium may be deducted from the payout (24-A M.R.S. \u00a7 2505).",
+  "complaint_process": "File a complaint with the Maine Bureau of Insurance online using the Health, Life, Annuity, Long Term Care, Disability, and Medicare Supplement form, or by mail. An investigator is assigned, and by law the insurer must respond to the Bureau within 14 days; the Bureau cannot force the insurer to pay.",
+  "appeal_rights": "Ask the insurer in writing to reconsider the denial and send supporting documents, then file a complaint with the Bureau of Insurance. You can also sue the insurer for breach of contract; check the policy's deadline for suing, since policies often set a time limit.",
+  "bad_faith": "Maine law bans unfair claim practices, including refusing to pay without a reasonable investigation and failing to deal in good faith to resolve claims (24-A M.R.S. \u00a7 2164-D). A violation can be reported to the Bureau of Insurance, which can penalize the insurer; ask a lawyer whether you can also sue for extra damages.",
+  "insurance_dept_name": "Maine Bureau of Insurance",
+  "insurance_dept_url": "https://www.maine.gov/pfr/insurance/consumers/file-a-complaint-dispute",
+  "legal_aid_name": "Pine Tree Legal Assistance",
+  "legal_aid_url": "https://www.ptla.org/",
+  "sources": [
+   "https://www.mainelegislature.org/Legis/Statutes/24-A/title24-Ach29.pdf",
+   "https://legislature.maine.gov/statutes/24-a/title24-Asec2164-D.pdf",
+   "https://www.maine.gov/pfr/insurance/consumers/file-a-complaint-dispute",
+   "https://www.ptla.org/pine-tree-services"
+  ]
+ },
+ {
+  "state": "Maryland",
+  "slug": "maryland",
+  "contestability_period": "Two years after the date of issue, while the insured was alive. After that the policy is incontestable, except for nonpayment of premiums (Md. Code, Insurance \u00a7 16-203).",
+  "common_denial_reasons": "A material misstatement on the application discovered within the first two years, the policy having lapsed because premiums were not paid, or death by suicide within the policy's suicide exclusion period (up to two years, Md. Code, Insurance \u00a7 16-215). A death caused by an activity the policy excludes can also be a lawful reason to deny, even after the two years have passed.",
+  "grace_period": "At least 30 days after a premium due date (other than the first premium), during which the policy stays in full force. If the insured dies during the grace period, the insurer may deduct the overdue premium from the payout (Md. Code, Insurance \u00a7 16-202).",
+  "complaint_process": "File a complaint with the Maryland Insurance Administration online through its secure portal, by email, mail, or fax. Allow about 90 days for a decision; the Administration investigates whether the insurer broke state law or the policy, but it cannot give legal advice.",
+  "appeal_rights": "Ask the insurer in writing to reconsider the denial and send supporting documents, then file a complaint with the Maryland Insurance Administration. You can also sue the insurer for breach of contract; check the policy's deadline for suing, since policies often set a time limit.",
+  "bad_faith": "Maryland's special bad-faith procedure (Md. Code, Insurance \u00a7 27-1001) is written for property and casualty and disability claims, so it does not clearly cover a life insurance denial. A beneficiary's main route is a lawsuit for breach of contract; ask a lawyer about any other remedies.",
+  "insurance_dept_name": "Maryland Insurance Administration",
+  "insurance_dept_url": "https://insurance.maryland.gov/Consumer/Pages/FileAComplaint2.aspx",
+  "legal_aid_name": "Maryland Legal Aid",
+  "legal_aid_url": "https://www.mdlab.org/",
+  "sources": [
+   "https://codes.findlaw.com/md/insurance/md-code-insurance-sect-16-203/",
+   "https://insurance.maryland.gov/Consumer/Pages/FileAComplaint2.aspx",
+   "https://law.justia.com/codes/maryland/2018/insurance/title-27/subtitle-10/section-27-1001/",
+   "https://www.mdlab.org/get-help-services/"
+  ]
+ }
+]

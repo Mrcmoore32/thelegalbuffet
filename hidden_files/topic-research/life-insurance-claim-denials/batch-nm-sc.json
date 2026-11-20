@@ -1,0 +1,205 @@
+[
+ {
+  "state": "New Mexico",
+  "slug": "new-mexico",
+  "contestability_period": "2 years from the date of issue, while the policy is in force during the insured's lifetime. After that the insurer generally cannot deny a claim over statements in the application, except for nonpayment of premiums (NMSA 1978, Section 59A-20-5).",
+  "common_denial_reasons": "A material misstatement on the application discovered within the first 2 years; the policy lapsed because premiums were not paid after the grace period ended; suicide within the first 2 years if the policy excludes it (NMSA 1978, Section 59A-20-25); or death from an activity the policy specifically excludes. After 2 years, a misstatement alone is generally not enough to deny the claim.",
+  "grace_period": "30 days (or, at the insurer's option, one month of at least 30 days) after a missed premium, during which the policy stays in full force (NMSA 1978, Section 59A-20-4).",
+  "complaint_process": "File a complaint with the New Mexico Office of Superintendent of Insurance (OSI) online, by mail, or by phone, with the policy number, claim number, denial letter, and copies of supporting documents. OSI first asks you to contact the insurer for an explanation. OSI sends the complaint to the insurer, reviews the response, and tells you its findings; it cannot order the insurer to pay the claim or act as your lawyer.",
+  "appeal_rights": "Ask the insurer in writing for the reason for the denial and the policy language it relied on, and ask it to reconsider with any new evidence. File a complaint with OSI. If that does not resolve it, you can sue the insurer in district court; a lawyer can advise on the deadline for your policy.",
+  "bad_faith": "Yes. New Mexico's Unfair Claims Practices Act (NMSA 1978, Sections 59A-16-20 and 59A-16-30) bans insurers from knowingly mishandling claims, such as refusing to settle fairly when liability is reasonably clear, and gives a person harmed by a violation a private right to sue in district court for actual damages, with attorney fees if the violation was willful.",
+  "insurance_dept_name": "New Mexico Office of Superintendent of Insurance",
+  "insurance_dept_url": "https://osi.state.nm.us/en/complaints/",
+  "legal_aid_name": "New Mexico Legal Aid",
+  "legal_aid_url": "https://newmexicolegalaid.org/",
+  "sources": [
+   "https://law.justia.com/codes/new-mexico/2023/chapter-59a/article-20/section-59a-20-4/",
+   "https://law.justia.com/codes/new-mexico/2020/chapter-59a/article-21/section-59a-21-13/",
+   "https://osi.state.nm.us/en/complaints/",
+   "https://newmexicolegalaid.org/what-we-do/programs-services/our-projects.html",
+   "https://www.nmlegis.gov/Sessions/99%20Regular/bills/house/HB0314.html"
+  ]
+ },
+ {
+  "state": "New York",
+  "slug": "new-york",
+  "contestability_period": "2 years from the date of issue, while the policy is in force during the insured's lifetime. After that the policy is incontestable, except for nonpayment of premiums or violation of policy conditions about armed-forces service (New York Insurance Law Section 3203(a)(3)). Each increase in the death benefit has its own 2-year period from the effective date of the increase.",
+  "common_denial_reasons": "A material misrepresentation on the application within the first 2 years \u2014 the insurer needs actual proof that the misstatement mattered to issuing the policy, not just that the death happened within 2 years; the policy lapsed for nonpayment after the grace period; or suicide or another exclusion that applies within the first 2 years (Insurance Law Section 3203(b)). A death inside the 2-year period alone is not a lawful reason to deny.",
+  "grace_period": "31 days (or one month) after a premium due date for most policies, during which the policy stays in full force; flexible-premium policies get a 61-day grace period in the circumstances the statute describes (New York Insurance Law Section 3203(a)(1)).",
+  "complaint_process": "File a complaint with the New York State Department of Financial Services (DFS) through its online Consumer Complaint Portal, or by mailing a paper complaint form to the Consumer Assistance Unit. DFS asks you to complain to the insurer first. DFS reviews the complaint, contacts the insurer, and investigates; it cannot order the insurer to pay a disputed claim.",
+  "appeal_rights": "Ask the insurer in writing for the denial reason and the policy language, and ask for reconsideration with any supporting evidence. File a DFS complaint. If that does not resolve it, you can sue the insurer for breach of contract in court; there is no external review process for life insurance denials as there is for some health insurance denials. A lawyer can advise on the deadline, which may be set by the policy.",
+  "bad_faith": "No standalone bad-faith lawsuit. New York does not recognize a separate tort for bad-faith refusal to pay an insurance claim, and Insurance Law Section 2601 (unfair claim settlement practices) has no private right of action \u2014 it is enforced by DFS (see Rocanova v. Equitable Life Assurance Society, 83 N.Y.2d 603 (1994)). A beneficiary's usual remedy is a breach-of-contract suit for the policy benefits, plus interest and, in some cases, consequential damages.",
+  "insurance_dept_name": "New York State Department of Financial Services",
+  "insurance_dept_url": "https://www.ny.gov/services/file-complaint-about-insurer-or-financial-institution",
+  "legal_aid_name": "The Legal Aid Society",
+  "legal_aid_url": "https://legalaidnyc.org/",
+  "sources": [
+   "https://www.nysenate.gov/legislation/laws/ISC/3203",
+   "https://www.nysenate.gov/legislation/laws/ISC/2601",
+   "https://www.dfs.ny.gov/industry_guidance/circular_letters/cl2017_01",
+   "https://www.dfs.ny.gov/complaint-old",
+   "https://legalaidnyc.org/get-help/family-domestic-violence-divorce/"
+  ]
+ },
+ {
+  "state": "North Carolina",
+  "slug": "north-carolina",
+  "contestability_period": "2 years after the date of issue. Once the policy has been in force for 2 years, its validity cannot be contested, except for nonpayment of premiums, and no statement about insurability can be used to contest it (N.C.G.S. Section 58-58-22(2)).",
+  "common_denial_reasons": "A material misstatement on the application within the first 2 years; the policy lapsed for nonpayment after the grace period; or suicide within the first 2 years, in which case the policy must return at least the premiums paid (N.C.G.S. Section 58-58-22(4)). After 2 years, application misstatements generally cannot be used to deny the claim.",
+  "grace_period": "31 days for the payment of any premium due except the first, during which the death benefit coverage stays in force; any premium due may be deducted from the amount payable if a claim arises during the grace period (N.C.G.S. Section 58-58-22(1)).",
+  "complaint_process": "File a Request for Assistance/Complaint with the North Carolina Department of Insurance online or by mail, with the policy and claim numbers, the insurer's letters, and copies of supporting documents. The Department forwards the complaint to the insurer and requires the company to respond or explain. It cannot act as your lawyer or decide a pending lawsuit.",
+  "appeal_rights": "Ask the insurer in writing for the denial reason and the policy language, and ask for reconsideration with any new evidence. File a Department of Insurance complaint. If that does not resolve it, you can sue the insurer in court; a lawyer can advise on the deadline for your policy and claim.",
+  "bad_faith": "Yes. North Carolina recognizes a bad-faith claim against an insurer, including a claim under the Unfair and Deceptive Trade Practices Act (N.C.G.S. Sections 75-1.1 and 58-63-15(11)) for unfair claim settlement practices such as refusing to settle in good faith when liability is reasonably clear. A successful claim can bring treble (triple) damages and attorney fees.",
+  "insurance_dept_name": "North Carolina Department of Insurance",
+  "insurance_dept_url": "https://www.ncdoi.gov/consumers/assistance-or-file-complaint",
+  "legal_aid_name": "Legal Aid of North Carolina",
+  "legal_aid_url": "https://legalaidnc.org/",
+  "sources": [
+   "https://library.ncleg.gov/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_58/Article_58.pdf",
+   "https://www.ncdoi.gov/consumers/assistance-or-file-complaint",
+   "https://legalaidnc.org/our-services/",
+   "https://www.chartwelllaw.com/bad-faith-claims-map/north-carolina"
+  ]
+ },
+ {
+  "state": "North Dakota",
+  "slug": "north-dakota",
+  "contestability_period": "2 years from the date of the policy, while it is in force during the insured's lifetime. After that the policy is incontestable, except for nonpayment of premiums and violations relating to naval or military service in time of war (N.D.C.C. Section 26.1-33-05(3)).",
+  "common_denial_reasons": "A material misrepresentation on the application within the first 2 years; the policy lapsed for nonpayment after the grace period; suicide within the first year \u2014 after a policy has been in force one year, suicide is no defense (N.D.C.C. Section 26.1-33-37); or death from an activity the policy specifically excludes. Insurers must pay reasonable interest from the date of death if proof of death is filed within 180 days (N.D.C.C. Sections 26.1-33-05(9) and 26.1-33-11(13)).",
+  "grace_period": "31 days for the payment of every premium after the first, during which the insurance continues in force; if the insured dies during the grace period, the overdue premium may be deducted from the settlement (N.D.C.C. Section 26.1-33-05(2)).",
+  "complaint_process": "File a complaint with the North Dakota Insurance Department online through its Consumer Complaint form, or by mail, with the policy and claim numbers and copies of the policy, claim, and correspondence. The Department first encourages you to try to resolve the dispute with the insurer directly. It investigates whether the insurer followed the law and the policy, and can fine or sanction a violator, but it cannot act as your lawyer or order the insurer to pay you.",
+  "appeal_rights": "Ask the insurer in writing for the denial reason and the policy language, and ask for reconsideration with any supporting evidence. File a complaint with the Insurance Department. If that does not resolve it, you can sue the insurer in court; a lawyer can advise on the deadline for your policy and claim.",
+  "bad_faith": "Yes. North Dakota recognizes an independent common-law bad-faith claim against a first-party insurer (Corwin Chrysler-Plymouth, Inc. v. Westchester Fire Insurance Co., 279 N.W.2d 638 (N.D. 1979)). You must show the insurer acted unreasonably in handling the claim by failing to pay without proper cause; a claim that is fairly debatable is not bad faith. Consequential and punitive damages may be available.",
+  "insurance_dept_name": "North Dakota Insurance Department",
+  "insurance_dept_url": "https://www.insurance.nd.gov/consumers/complaints",
+  "legal_aid_name": "Legal Services of North Dakota",
+  "legal_aid_url": "https://lsnd.org/",
+  "sources": [
+   "https://www.lawserver.com/law/state/north-dakota/nd-code/north_dakota_code_26-1_33_05",
+   "https://www.insurance.nd.gov/about-us",
+   "https://lsnd.org/about/",
+   "https://uphelp.org/wp-content/uploads/2020/11/Final-Bad-Faith-Survey-1.pdf"
+  ]
+ },
+ {
+  "state": "Ohio",
+  "slug": "ohio",
+  "contestability_period": "Not more than 2 years from the policy date, while the policy is in force during the insured's lifetime. After that the policy is incontestable, except for nonpayment of premiums and certain military, aviation, disability, and accidental-death provisions (Ohio Revised Code Section 3915.05(C)). A policy may promise a shorter period.",
+  "common_denial_reasons": "A false answer on the application that was willfully false, fraudulent, material, actually led the insurer to issue the policy, and was not known to the insurer (Ohio Revised Code Section 3911.06); the policy lapsed for nonpayment after the grace period; or death from an activity the policy specifically excludes. After 3 annual premiums are paid, the insurer generally cannot defend on application errors except for fraud and age (Section 3911.07).",
+  "grace_period": "One month for the payment of every premium after the first, during which the insurance stays in force; the insurer may charge interest, and an overdue premium may be deducted if the insured dies during the grace month (Ohio Revised Code Section 3915.05(B)).",
+  "complaint_process": "File a complaint with the Ohio Department of Insurance online, by phone, by email, or by mail, with the company name, policy and claim numbers, and a description of what happened. The Department first asks you to try to resolve it with the company. It investigates whether the company handled the claim properly and within the policy and the law, and usually takes about 30 days; it cannot act as your lawyer.",
+  "appeal_rights": "Ask the insurer in writing for the denial reason and the policy language, and ask for reconsideration with any supporting evidence. File a complaint with the Ohio Department of Insurance. If that does not resolve it, you can sue the insurer in court; Ohio law also requires interest from the date of death when payment is delayed (Ohio Revised Code Section 3915.052). A lawyer can advise on the deadline for your policy and claim.",
+  "bad_faith": "Yes. Ohio recognizes bad faith as an independent tort: an insurer fails to act in good faith when its refusal to pay is not based on circumstances that give reasonable justification for it (Zoppo v. Homestead Insurance Co., 71 Ohio St.3d 552 (1994)). A bad-faith claim is separate from the breach-of-contract claim and can support extra damages, including punitive damages.",
+  "insurance_dept_name": "Ohio Department of Insurance",
+  "insurance_dept_url": "https://insurance.ohio.gov/consumer/file-a-complaint",
+  "legal_aid_name": "Ohio Legal Help",
+  "legal_aid_url": "https://www.ohiolegalhelp.org/",
+  "sources": [
+   "https://codes.findlaw.com/oh/title-xxxix-insurance/oh-rev-code-sect-3915-05/",
+   "https://codes.ohio.gov/ohio-revised-code/section-3917.06",
+   "https://www.supremecourt.ohio.gov/rod/docs/pdf/0/1994/1994-Ohio-461.pdf",
+   "https://www.ohiolegalhelp.org/ohio-legal-help-launches-public"
+  ]
+ },
+ {
+  "state": "Oklahoma",
+  "slug": "oklahoma",
+  "contestability_period": "2 years from the date of issue, while the policy is in force during the insured's lifetime. After that the policy cannot be contested, except for nonpayment of premiums (36 O.S. Section 4004). A reinstated policy can be contested again for the same period after reinstatement (36 O.S. Section 4025).",
+  "common_denial_reasons": "A material misrepresentation on the application within the first 2 years; the policy lapsed for nonpayment after the grace period; or suicide within the first 2 years if the policy excludes it, in which case the insurer must return all premiums paid (36 O.S. Section 4024(A)(3)). After 2 years, application misstatements generally cannot be used to deny the claim.",
+  "grace_period": "30 days, or at the insurer's option one month of at least 30 days, for any premium after the first, during which the policy stays in full force (36 O.S. Section 4003). Note: group life policies have a separate 31-day grace period (36 O.S. Section 4103).",
+  "complaint_process": "File a Request for Assistance/complaint with the Oklahoma Insurance Department online or by mail/fax, with the completed form, policy and claim information, and copies of policies, letters, and phone logs. The Department assigns a claims analyst, sends the complaint to the insurer, and the insurer must respond within 20 days. The Department can investigate and sanction violations, but it cannot order the insurer to pay your claim.",
+  "appeal_rights": "Ask the insurer in writing for the denial reason and the policy language, and ask for reconsideration with any supporting evidence. File a complaint with the Oklahoma Insurance Department; if the complaint does not resolve it, the Department's EAGLE mediation program may be an option. If that does not resolve it, you can sue the insurer in court; a lawyer can advise on the deadline for your policy and claim.",
+  "bad_faith": "Yes. Oklahoma recognizes a common-law tort for an insurer's bad-faith refusal to pay a valid claim (Christian v. American Home Assurance Co., 577 P.2d 899 (Okla. 1977)). You must show the insurer unreasonably withheld payment of a covered claim; a genuine, legitimate dispute about coverage is generally not bad faith. Consequential and punitive damages may be available.",
+  "insurance_dept_name": "Oklahoma Insurance Department",
+  "insurance_dept_url": "https://www.oid.ok.gov/consumers/file-an-online-complaint/",
+  "legal_aid_name": "Legal Aid Services of Oklahoma",
+  "legal_aid_url": "https://legalaidok.org/",
+  "sources": [
+   "https://law.justia.com/codes/oklahoma/title-36/section-36-4103/",
+   "https://www.oid.ok.gov/consumers/file-an-online-complaint/",
+   "https://legalaidok.org/programs/tulsa-rtc-program/",
+   "https://www.figuremytax.com/us/life-insurance/grace-and-reinstatement/oklahoma/"
+  ]
+ },
+ {
+  "state": "Oregon",
+  "slug": "oregon",
+  "contestability_period": "2 years from the date of issue, while the policy is in force during the insured's lifetime. After that the policy is incontestable, except for nonpayment of premiums; at the insurer's option the limit may not apply to disability and accidental-death provisions (ORS 743.168). A reinstated policy may be contested again for the same period after reinstatement (ORS 743.171).",
+  "common_denial_reasons": "A material misrepresentation on the application within the first 2 years; the policy lapsed for nonpayment after the grace period; or death from an activity the policy specifically excludes \u2014 written exclusions can still be raised after 2 years (ORS 743.168(2)). No statement can be used to defend a claim unless it is in an application attached to the policy (ORS 743.177).",
+  "grace_period": "30 days, or at the insurer's option one month of at least 30 days, for any premium after the first, during which the policy stays in full force; the insurer may charge interest of up to 6% per year for the grace days (ORS 743.165).",
+  "complaint_process": "File a complaint with the Oregon Division of Financial Regulation online, by mail, or by email, with the company name, policy and claim numbers, and copies of supporting documents; you can also call its consumer advocates for free help. The Division checks whether the company followed Oregon law, contacts the insurer, and most complaints are resolved within 60 days. It cannot act as your lawyer.",
+  "appeal_rights": "Ask the insurer in writing for the denial reason and the policy language, and ask for reconsideration with any supporting evidence. File a complaint with the Division of Financial Regulation. If that does not resolve it, you can sue the insurer in court; a lawyer can advise on the deadline for your policy and claim.",
+  "bad_faith": "Narrow. Oregon generally does not recognize a standalone bad-faith tort against an insurer, and the Unfair Claim Settlement Practices Act (ORS 746.230) has no private right of action. But the Oregon Supreme Court in Moody v. Oregon Community Credit Union, 371 Or. 772 (2023), held that a policyholder can bring a common-law negligence claim, including for emotional distress, when an insurer violates the claim-handling standards in ORS 746.230. This is a developing area, so get advice from an Oregon insurance lawyer.",
+  "insurance_dept_name": "Oregon Division of Financial Regulation",
+  "insurance_dept_url": "https://dfr.oregon.gov/help/complaints-licenses/pages/file-complaint.aspx",
+  "legal_aid_name": "Legal Aid Services of Oregon",
+  "legal_aid_url": "https://lasoregon.org/",
+  "sources": [
+   "https://law.justia.com/codes/oregon/2019/volume-18/chapter-743/section-743-168/",
+   "https://law.justia.com/codes/oregon/2019/volume-18/chapter-743/section-743-165/",
+   "https://dfr.oregon.gov/help/complaints-licenses/pages/file-complaint.aspx",
+   "https://lasoregon.org/",
+   "https://www.wshblaw.com/experience-supreme-court-opens-the-door-to-emotional-distress-claims-in-first-party-cases"
+  ]
+ },
+ {
+  "state": "Pennsylvania",
+  "slug": "pennsylvania",
+  "contestability_period": "2 years from the date of issue, while the policy is in force during the insured's lifetime. After that the policy is incontestable, except for nonpayment of premiums; at the insurer's option, disability and accidental-death provisions may also be excepted (40 P.S. Section 510(c)). Defenses based on written policy exclusions can still be raised after 2 years.",
+  "common_denial_reasons": "A material misrepresentation on the application within the first 2 years; the policy lapsed for nonpayment after the grace period; or death from an activity the policy specifically excludes. After 2 years, application misstatements generally cannot be used to deny the claim.",
+  "grace_period": "30 days or one month after a premium due date (after the first year, as the statute phrases it), during which the policy stays in full force; an overdue premium may be deducted from any settlement if the policy becomes a claim during the grace period (40 P.S. Section 510(b)).",
+  "complaint_process": "File a complaint with the Pennsylvania Insurance Department through its Consumer Services Online Portal (you create an account first), or by mailing or faxing the paper complaint form to the Bureau of Consumer Services in Harrisburg. Within a few days you get a letter with your file number and the investigator assigned. The Department investigates and contacts the insurer, but it cannot force the insurer to pay a disputed claim.",
+  "appeal_rights": "Ask the insurer in writing for the denial reason and the policy language, and ask for reconsideration with any supporting evidence. File a complaint with the Pennsylvania Insurance Department. If that does not resolve it, you can sue the insurer in court, including a bad-faith claim under 42 Pa.C.S. Section 8371; a lawyer can advise on the deadline for your policy and claim.",
+  "bad_faith": "Yes, by statute. Under 42 Pa.C.S. Section 8371, if a court finds the insurer acted in bad faith toward the insured, it may award interest on the claim at the prime rate plus 3% from the date the claim was made, punitive damages, and court costs and attorney fees. You must prove by clear and convincing evidence that the insurer had no reasonable basis for denying benefits and knew or recklessly disregarded that lack of a reasonable basis.",
+  "insurance_dept_name": "Pennsylvania Insurance Department",
+  "insurance_dept_url": "https://www.pa.gov/agencies/insurance/consumer-help-center/complaints-questions-help",
+  "legal_aid_name": "Pennsylvania Legal Aid Network",
+  "legal_aid_url": "https://palegalaid.net/",
+  "sources": [
+   "https://codes.findlaw.com/pa/title-40-ps-insurance/pa-st-sect-40-510/",
+   "https://www.pa.gov/agencies/insurance/consumer-help-center/complaints-questions-help",
+   "https://law.Justia.com/codes/pennsylvania/title-42/chapter-83/section-8371/",
+   "https://palegalaid.net/"
+  ]
+ },
+ {
+  "state": "Rhode Island",
+  "slug": "rhode-island",
+  "contestability_period": "2 years from the date of issue, while the policy is in force during the insured's lifetime. After that the policy is incontestable, except for nonpayment of premiums; each increase in the death benefit has its own 2-year period from its effective date (R.I. Gen. Laws Section 27-4-6.2(a)(2)).",
+  "common_denial_reasons": "A material misstatement on the application within the first 2 years \u2014 under Rhode Island law a misstatement is material only if it actually contributed to the event insured against (R.I. Gen. Laws Section 27-4-10); the policy lapsed for nonpayment after the grace period; or suicide within the first 2 years if the policy excludes it, in which case the insurer must pay at least a refund of all premiums paid (Section 27-4-6.2(b)).",
+  "grace_period": "31 days or one month after any premium due date after the first premium, during which the policy stays in full force; if the insured dies during the grace period, the insurer may deduct the unpaid premium for that policy month (R.I. Gen. Laws Section 27-4-6.2(a)(1)).",
+  "complaint_process": "File a written, signed complaint with the Rhode Island Department of Business Regulation, Insurance Division, online, by email, or by mail to its Cranston office, with the policy and claim numbers and copies of supporting documents. The Division first recommends contacting the insurer to try to resolve it. The Division investigates possible violations of insurance law, but it cannot settle or arbitrate a claim or order the insurer to pay.",
+  "appeal_rights": "Ask the insurer in writing for the denial reason and the policy language, and ask for reconsideration with any supporting evidence. File a complaint with the Insurance Division. If that does not resolve it, you can sue the insurer in court, including a bad-faith claim under R.I. Gen. Laws Section 9-1-33. A policy cannot cut the time to sue to less than 3 years (Section 27-4-13); a lawyer can advise on the deadline for your policy and claim.",
+  "bad_faith": "Yes. Rhode Island recognizes a bad-faith claim against an insurer, first in Bibeault v. Hanover Insurance Co., 417 A.2d 313 (R.I. 1980), and then codified in R.I. Gen. Laws Section 9-1-33, which lets an insured sue when the insurer wrongfully and in bad faith refuses to pay or settle a claim. You must show the insurer had no reasonable basis for denying benefits and knew or recklessly disregarded that; a fairly debatable claim is not bad faith. Compensatory and punitive damages and attorney fees may be available.",
+  "insurance_dept_name": "Rhode Island Department of Business Regulation, Insurance Division",
+  "insurance_dept_url": "https://dbr.ri.gov/insurance-overview",
+  "legal_aid_name": "Rhode Island Legal Services",
+  "legal_aid_url": "https://www.rils.org/",
+  "sources": [
+   "http://webserver.rilin.state.ri.us/Statutes/TITLE27/27-4/27-4-6.2.HTM",
+   "https://dbr.ri.gov/insurance-overview",
+   "https://www.rils.org/",
+   "https://law.justia.com/cases/rhode-island/supreme-court/1991/590-a-2d-398.html"
+  ]
+ },
+ {
+  "state": "South Carolina",
+  "slug": "south-carolina",
+  "contestability_period": "2 years from the date of issue, while the policy is in force during the insured's lifetime. After that the policy and any rider are incontestable as to the truth of the application and the insured's representations; a rider attached later has its own 2-year period (S.C. Code Section 38-63-220(d)). If the insurer sues to void the policy for false statements, it must start the case within that time.",
+  "common_denial_reasons": "A fraudulent or material misrepresentation on the application within the first 2 years \u2014 inside that period the insurer can rescind only by a mutual agreement or by proving the misrepresentation by clear and convincing evidence in court (S.C. Code Section 38-63-230); the policy lapsed for nonpayment after the grace period; or suicide within the first 2 years, in which case at least the premiums paid must be returned (Section 38-63-225).",
+  "grace_period": "Not less than 31 days for the payment of any premium after the first, during which the policy stays in full force; any premium due may be deducted from the amount payable if a claim arises during the grace period (S.C. Code Section 38-63-220(i)).",
+  "complaint_process": "File a complaint with the South Carolina Department of Insurance online, by mail, or by phone, with the exact insurer name, policy and claim numbers, a detailed description, and copies of supporting documents. Contact the insurer first and give it a chance to resolve the issue. The Department requires the insurer to explain its actions within 7 days and aims to resolve complaints within 7 to 10 days; it cannot give legal advice or force the insurer to pay unless the law or policy was violated.",
+  "appeal_rights": "Ask the insurer in writing for the denial reason and the policy language, and ask for reconsideration with any supporting evidence \u2014 and be careful with any rescission letter: do not cash a premium-refund check that says cashing it means you agree the policy is void, without legal advice. File a complaint with the Department of Insurance. If that does not resolve it, you can sue the insurer in court; a lawyer can advise on the deadline for your policy and claim.",
+  "bad_faith": "Yes. South Carolina recognizes a tort claim for an insurer's bad-faith refusal to pay first-party benefits (Nichols v. State Farm Mutual Automobile Insurance Co., 279 S.C. 336, 306 S.E.2d 616 (1983)). The claim rests on the implied promise of good faith in every policy; an unreasonable refusal can bring consequential damages beyond the policy amount, including punitive damages. It applies to first-party insureds, not third parties.",
+  "insurance_dept_name": "South Carolina Department of Insurance",
+  "insurance_dept_url": "https://www.doi.sc.gov/8/Consumers",
+  "legal_aid_name": "South Carolina Legal Services",
+  "legal_aid_url": "https://sclegal.org/",
+  "sources": [
+   "https://law.justia.com/codes/south-carolina/2020/title-38/chapter-63/section-38-63-220/",
+   "https://www.doi.sc.gov/8/Consumers",
+   "https://sclegal.org/services/",
+   "https://law.justia.com/cases/south-carolina/supreme-court/1983/21979-1.html"
+  ]
+ }
+]
