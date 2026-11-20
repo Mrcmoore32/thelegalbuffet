@@ -1,0 +1,201 @@
+[
+ {
+  "state": "South Dakota",
+  "slug": "south-dakota",
+  "contestability_period": "Two years from the date the policy was issued, while the insured is alive. After that the policy cannot be contested for misstatements, except for nonpayment of premiums or fraud (SDCL \u00a7 58-15-10).",
+  "common_denial_reasons": "The insurer may deny if the application had a material misstatement and death happened within the first two years, if premiums were not paid and the policy lapsed, or if death was by suicide within two years of issue (in which case premiums must be returned, SDCL \u00a7\u00a7 58-15-45 and 58-15-46). After two years, misstatements alone generally cannot be used to deny the claim.",
+  "grace_period": "30 days after the premium due date (four weeks for industrial policies paid more often than monthly). The policy stays in full force during that time, and any overdue premium can be deducted from the death benefit (SDCL \u00a7 58-15-13).",
+  "complaint_process": "First try to resolve the problem with the insurance company directly. If that fails, file a complaint with the South Dakota Division of Insurance online, by mail, fax, or email, including the policy number, the denial letter, and what you want fixed. The Division sends the complaint to the company, which has 20 days to respond, then reviews the answer and tells you its findings.",
+  "appeal_rights": "Ask the insurer in writing for the specific reason for the denial and the policy language it relied on, and send any missing proof such as the death certificate. You can also file a Division of Insurance complaint, and if the claim is still denied you can sue in court \u2014 but watch the deadline to sue written in your policy, because the complaint does not stop that clock.",
+  "bad_faith": null,
+  "insurance_dept_name": "South Dakota Division of Insurance, Department of Labor and Regulation",
+  "insurance_dept_url": "https://dlr.sd.gov/insurance/doi_complaint.aspx",
+  "legal_aid_name": "East River Legal Services",
+  "legal_aid_url": "https://erlservices.org/",
+  "sources": [
+   "https://law.justia.com/codes/south-dakota/title-58/chapter-15/section-58-15-10/",
+   "https://getpocketlaw.com/law/state_south_dakota/section-58-15-13-grace-period-in-policy_94e36f4b4fc0",
+   "https://dlr.sd.gov/insurance/doi_complaint.aspx",
+   "https://www.turbaklaw.com/blog/filing-complaints-with-the-south-dakota-division-of-insurance/"
+  ]
+ },
+ {
+  "state": "Tennessee",
+  "slug": "tennessee",
+  "contestability_period": "Not more than two years from the policy date, while the insured is alive. After that the insurer cannot contest the policy except for nonpayment of premiums (Tenn. Code Ann. \u00a7 56-7-2307(3)). A statement cannot be used against a claim unless it was in a written application attached to the policy when issued.",
+  "common_denial_reasons": "The insurer may deny for a material misstatement on the application if death happened within the two-year contestability period, if the policy lapsed for nonpayment, or if the death falls under a policy exclusion. After two years, only nonpayment of premiums can void the policy.",
+  "grace_period": "It depends on how premiums are paid: 7 days for weekly premiums, 10 days for monthly premiums, and 31 days for all other payment schedules (Tenn. Code Ann. \u00a7 56-7-2305). The policy stays in force during the grace period, and if death happens then, the overdue premium is deducted from the payout.",
+  "complaint_process": "Contact the insurance company first to try to resolve the dispute. If that fails, file a complaint online with the Tennessee Department of Commerce and Insurance, Consumer Insurance Services, or by mail to 500 James Robertson Parkway, 10th Floor, Nashville, TN 37243. The Department reviews the complaint, sends it to the company for a response, and checks whether the company followed Tennessee law \u2014 but it cannot act as your lawyer or order payment.",
+  "appeal_rights": "Ask the insurer in writing to reconsider and to explain the denial with the policy language it relied on, and send any missing documents. You can file a Department of Commerce and Insurance complaint, and you can sue in court. Tennessee's bad-faith law requires a formal written demand for payment first, and the insurer then has 60 days to pay (Tenn. Code Ann. \u00a7 56-7-105).",
+  "bad_faith": "Yes. If the insurer refuses to pay within 60 days after a formal written demand, and the refusal was not in good faith and caused you extra loss, the court can add a penalty of up to 25% of the amount owed (Tenn. Code Ann. \u00a7 56-7-105(a)). Courts have also allowed punitive damages on top of that in life insurance cases (Lindenberg v. Jackson National Life Insurance Co.).",
+  "insurance_dept_name": "Tennessee Department of Commerce and Insurance",
+  "insurance_dept_url": "https://www.tn.gov/commerce/insurance/consumer-resources/file-a-complaint.html",
+  "legal_aid_name": "Legal Aid Society of Middle Tennessee and the Cumberlands",
+  "legal_aid_url": "https://las.org/",
+  "sources": [
+   "https://law.justia.com/codes/tennessee/2010/title-56/chapter-7/part-23/56-7-2303",
+   "https://www.tn.gov/commerce/insurance/consumer-resources/file-a-complaint.html",
+   "https://law.justia.com/cases/federal/appellate-courts/ca6/17-6034/17-6034-2018-12-21.html",
+   "https://www.figuremytax.com/us/life-insurance/contestability/tennessee/"
+  ]
+ },
+ {
+  "state": "Texas",
+  "slug": "texas",
+  "contestability_period": "Two years from the date of issue, while the insured is alive. After two years the policy is incontestable except for nonpayment of premiums (Tex. Ins. Code \u00a7 1101.006). A 2025 law (H.B. 3960, effective for policies delivered or renewed on or after January 1, 2026) clarifies that within the two years the insurer may rescind only for a material misrepresentation that affects the risk assumed, and must refund premiums.",
+  "common_denial_reasons": "The insurer may deny for a material misstatement on the application during the first two years, for a lapsed policy after premiums went unpaid, or for a death excluded by the policy, such as suicide within the exclusion period. After two years, the insurer must pay unless premiums were not paid or the applicant committed fraud.",
+  "grace_period": "At least one month (31 days) for each premium after the first, during which the policy stays in force. If the insured dies during the grace period, the overdue premium is deducted from the payout (Tex. Ins. Code \u00a7 1101.005).",
+  "complaint_process": "Talk to the insurance company first \u2014 many problems are fixed that way. If not, file a complaint with the Texas Department of Insurance (TDI) through its online complaint system, attaching the policy, denial letter, and supporting papers. TDI sends the complaint to the company, requires an answer, and investigates whether the law was broken, but it cannot force the company to pay your claim.",
+  "appeal_rights": "Ask the insurer in writing for the reason for the denial and the policy language behind it, and send any missing proof. Texas prompt-payment law requires the insurer to acknowledge your claim within 15 days, accept or deny it within 15 business days after receiving everything it needs, and pay within 5 business days of accepting (Tex. Ins. Code \u00a7\u00a7 542.055\u2013542.057). If the denial stands, you can sue \u2014 your policy cannot cut the time to sue to less than two years after the claim arose (Tex. Ins. Code \u00a7 1101.053).",
+  "bad_faith": "Yes. Texas allows a bad-faith lawsuit when an insurer denies without a reasonable basis, and the Insurance Code adds statutory remedies: up to three times actual damages for a knowing violation (Tex. Ins. Code \u00a7 541.152) and 18% annual interest on late-paid claims (Tex. Ins. Code \u00a7 542.058).",
+  "insurance_dept_name": "Texas Department of Insurance",
+  "insurance_dept_url": "https://www.tdi.texas.gov/consumer/complaint-home.html",
+  "legal_aid_name": "Lone Star Legal Aid",
+  "legal_aid_url": "https://www.lonestarlegal.org/",
+  "sources": [
+   "https://law.justia.com/codes/texas/2005/in/007.00.001101.00.html",
+   "https://www.tdi.texas.gov/consumer/complaint-home.html",
+   "https://capitol.texas.gov/tlodocs/89R/analysis/html/HB03960H.htm",
+   "https://www.opic.texas.gov/wp-json/wp/v2/pages/1731"
+  ]
+ },
+ {
+  "state": "Utah",
+  "slug": "utah",
+  "contestability_period": "Two years from the policy's date of issue, while the insured is alive. After that the policy is incontestable except for nonpayment of premiums (Utah Code \u00a7 31A-22-403). Each benefit increase and each reinstatement gets its own new two-year period.",
+  "common_denial_reasons": "The insurer may deny for a material misstatement on the application during the first two years, for a lapsed policy after premiums went unpaid, or for suicide within two years of issue (in which case the insurer must pay back at least the premiums paid, less debts and withdrawals, Utah Code \u00a7 31A-22-404). After two years, suicide is not a defense and misstatements cannot be used to deny the claim.",
+  "grace_period": "At least 31 days (or four weeks for policies with premiums due more often than monthly). The policy stays in full force during the grace period, and any premium due can be deducted from the payout (Utah Code \u00a7 31A-22-402). The insurer must also give at least 30 days' written notice before ending coverage for nonpayment.",
+  "complaint_process": "Work with the insurance company or agent first and keep copies of everything. If the problem is not fixed, file a formal complaint online with the Utah Insurance Department through its complaints portal. The Department forwards your complaint to the insurer for a response, reviews it, and tells you its findings.",
+  "appeal_rights": "Ask the insurer in writing to reconsider the denial and to state the exact policy language it relied on, and send any missing proof such as the death certificate. You can file a Utah Insurance Department complaint, and if the denial was unreasonable you can sue in court for the benefit owed.",
+  "bad_faith": "Yes. Utah recognizes both statutory bad faith under the unfair claim settlement practices law (Utah Code \u00a7 31A-26-303) and common-law bad faith. Bad faith means denying without a reasonable basis or a fair investigation, misrepresenting the policy, or refusing to settle when liability is reasonably clear.",
+  "insurance_dept_name": "Utah Insurance Department",
+  "insurance_dept_url": "https://insurance.utah.gov/complaints/",
+  "legal_aid_name": "Utah Legal Services",
+  "legal_aid_url": "https://utahlegalservices.org",
+  "sources": [
+   "https://law.justia.com/codes/utah/2012/title-31a/article-22/section-403/",
+   "https://le.utah.gov/xcode/Title31A/Chapter22/C31A-22-S402_2021050520210505.pdf",
+   "https://insurance.utah.gov/wp-content/uploads/6ClaimAssistanceAndSupportResources.pdf",
+   "https://www.utcourts.gov/en/self-help/legal-help/finding-legal-help/legal-clinics/organizations.html"
+  ]
+ },
+ {
+  "state": "Vermont",
+  "slug": "vermont",
+  "contestability_period": "Two years from the date of issue, while the insured is alive. After that the policy is incontestable except for nonpayment of premiums (8 V.S.A. \u00a7 3731(4)). A reinstated policy can be contested again for fraud or misrepresentation about the reinstatement for the same period (8 V.S.A. \u00a7 3734).",
+  "common_denial_reasons": "The insurer may deny for a material misstatement on the application during the first two years, for a lapsed policy after premiums went unpaid, or for a death excluded by the policy. A misstatement only counts if it was fraudulent, material to the risk, or something the insurer would have acted on (8 V.S.A. \u00a7 3736), and a statement cannot be used against a claim unless it was in an application attached to the policy (8 V.S.A. \u00a7 3735).",
+  "grace_period": "30 days (or one month of at least 30 days, at the insurer's option; four weeks for industrial policies paid more often than monthly). The policy stays in full force during the grace period, and any premium due can be deducted from the payout (8 V.S.A. \u00a7 3731(2)).",
+  "complaint_process": "File a complaint with the Vermont Department of Financial Regulation, Insurance Division, online or by mail to 89 Main Street, Montpelier, VT 05620-3101. The Department writes to the company and requires a written response, checks whether the company followed Vermont law and your policy, and suggests steps that might resolve the problem. It cannot act as your lawyer or force the company to pay if no law was broken.",
+  "appeal_rights": "Ask the insurer in writing for the reason for the denial and the policy language behind it, and send any missing proof. Vermont law requires life insurance claims to be paid within 30 days after the insurer receives proof of loss, with interest from the date of death (8 V.S.A. \u00a7 3665b). If the denial stands, you can file a Department complaint and you can sue in court.",
+  "bad_faith": "Vermont law bars unfair claim settlement practices (8 V.S.A. \u00a7 4724), which the Department of Financial Regulation enforces. If an insurer denied your claim without a reasonable basis, talk to a lawyer about whether you can sue for damages beyond the benefit owed.",
+  "insurance_dept_name": "Vermont Department of Financial Regulation",
+  "insurance_dept_url": "https://dfr.vermont.gov/consumers/file-complaint/insurance/insurance-complaints",
+  "legal_aid_name": "Vermont Legal Aid",
+  "legal_aid_url": null,
+  "sources": [
+   "https://law.justia.com/codes/vermont/2022/title-8/chapter-103/section-3731/",
+   "https://dfr.vermont.gov/consumers/file-complaint/insurance/insurance-complaints",
+   "https://legislature.vermont.gov/statutes/section/08/154/08094"
+  ]
+ },
+ {
+  "state": "Virginia",
+  "slug": "virginia",
+  "contestability_period": "Two years from the date of issue, while the insured is alive. After that the policy is incontestable except for nonpayment of premiums (Va. Code \u00a7 38.2-3305). No statement can be used to defend a claim unless it was in a written application attached to the policy when issued (Va. Code \u00a7 38.2-3304).",
+  "common_denial_reasons": "The insurer may deny for a material misstatement on the application during the first two years, for a lapsed policy after premiums went unpaid, or for a death excluded by the policy. After two years, only nonpayment of premiums can void the policy.",
+  "grace_period": "At least 31 days after the premium due date. The policy stays in full force during the grace period, and if a claim arises then, the overdue premium (with interest up to 6% per year) can be deducted from the payout (Va. Code \u00a7 38.2-3303).",
+  "complaint_process": "File a complaint with the Virginia State Corporation Commission, Bureau of Insurance, through its online Insurance Complaint Portal \u2014 complaints are not accepted by phone or email. The Bureau contacts the company for an explanation, checks that it followed Virginia law and your policy, and shares its findings with you. It cannot act as your lawyer, decide disputed facts, or force the company to pay outside the policy terms.",
+  "appeal_rights": "Ask the insurer in writing to reconsider and to explain the denial with the policy language it relied on, and send any missing proof. You can file a Bureau of Insurance complaint, and if the denial stands you can sue in court \u2014 but your policy cannot cut the time to sue to less than one year after the claim arose (Va. Code \u00a7 38.2-3316), so do not wait.",
+  "bad_faith": "Virginia law bars unfair claim settlement practices (Va. Code \u00a7 38.2-510), which the Bureau of Insurance enforces. If the denial was wrongful, your main remedy is a breach-of-contract lawsuit for the benefit owed \u2014 ask a lawyer whether extra damages are available in your case.",
+  "insurance_dept_name": "Virginia State Corporation Commission, Bureau of Insurance",
+  "insurance_dept_url": "http://www.scc.virginia.gov/consumers/insurance/file-an-insurance-complaint/",
+  "legal_aid_name": "Virginia Legal Aid Society",
+  "legal_aid_url": "https://www.vlas.org/",
+  "sources": [
+   "https://law.lis.virginia.gov/vacodefull/title38.2/chapter33/article1/",
+   "https://law.lis.virginia.gov/vacode/title38.2/chapter33/section38.2-3303/",
+   "http://www.scc.virginia.gov/consumers/insurance/file-an-insurance-complaint/",
+   "https://vsb.org/YLC/Site/legal-help/access-guide.aspx"
+  ]
+ },
+ {
+  "state": "Washington",
+  "slug": "washington",
+  "contestability_period": "Two years from the date of issue, while the insured is alive. After that the policy is incontestable except for nonpayment of premiums (RCW 48.23.050). Disability and accidental-death benefit provisions can be excepted from this rule at the insurer's option.",
+  "common_denial_reasons": "The insurer may deny for a material misstatement on the application during the first two years, for a lapsed policy after premiums went unpaid, or for suicide within two years of issue (RCW 48.23.260). After two years, misstatements alone cannot be used to deny the claim.",
+  "grace_period": "One month, but not less than 30 days, for any premium after the first. The policy stays in force during the grace period, and if a claim arises then, the overdue premium (with interest up to 6% per year) can be deducted from the payout (RCW 48.23.030). The insurer must also send a written lapse warning at least 30 days before coverage ends for nonpayment.",
+  "complaint_process": "File a complaint with the Washington State Office of the Insurance Commissioner online, or call its Consumer Advocacy line for help. The office sends your complaint to the insurer and requires a response \u2014 the insurer has 15 days to answer \u2014 then reviews whether the company followed Washington law and your policy, and can tell the company to fix the problem. You can also check your complaint status online.",
+  "appeal_rights": "Ask the insurer in writing for the reason for the denial and the policy language behind it, and send any missing proof. If the denial was unreasonable, Washington's Insurance Fair Conduct Act requires you to give the insurer written notice of the problem first; if it does not fix it within 20 days, you can sue (RCW 48.30.015). A regulator complaint does not stop the deadline to sue, so act promptly.",
+  "bad_faith": "Yes. Under the Insurance Fair Conduct Act (RCW 48.30.015), a beneficiary who is unreasonably denied a claim can sue in superior court for actual damages plus attorney fees, and the court can raise the award to as much as three times the actual damages. Washington also recognizes a common-law bad-faith claim.",
+  "insurance_dept_name": "Washington State Office of the Insurance Commissioner",
+  "insurance_dept_url": "https://www.insurance.wa.gov/complaints-appeals-fraud/complaints",
+  "legal_aid_name": "Northwest Justice Project",
+  "legal_aid_url": "https://nwjustice.org/home",
+  "sources": [
+   "https://app.leg.wa.gov/Rcw/default.aspx?Cite=48.23&full=true",
+   "https://www.insurance.wa.gov/complaints-appeals-fraud/complaints",
+   "https://lawfilesext.leg.wa.gov/Law/RCWArchive/2025/pdf/RCW%20%2048%20%20TITLE/RCW%20%2048%20.%2030%20%20CHAPTER/RCW%20%2048%20.%2030%20%20COMBINEDCHAPTER.pdf",
+   "https://ocla.wa.gov/programs/core-legal-services"
+  ]
+ },
+ {
+  "state": "West Virginia",
+  "slug": "west-virginia",
+  "contestability_period": "Two years from the date of issue, while the insured is alive. After that the policy is incontestable except for nonpayment of premiums (W. Va. Code \u00a7 33-13-4). A reinstated policy can be contested again for fraud or misrepresentation about the reinstatement for the same period (W. Va. Code \u00a7 33-13-26).",
+  "common_denial_reasons": "The insurer may deny for a material misstatement on the application during the first two years, for a lapsed policy after premiums went unpaid, or for a death excluded or restricted by a written policy provision \u2014 exclusions survive the contestability period (W. Va. Code \u00a7 33-13-16). If the insured's age was misstated, the benefit is adjusted to what the premium would have bought at the correct age, not denied outright (W. Va. Code \u00a7 33-13-6).",
+  "grace_period": "31 days for any premium after the first. The policy stays in full force during the grace period, and if a claim arises then, the overdue premium can be deducted from the payout (W. Va. Code \u00a7 33-13-3).",
+  "complaint_process": "Try to resolve the dispute with the insurance company first and keep records of every contact. If that fails, file a complaint with the West Virginia Offices of the Insurance Commissioner, Consumer Service Division, online or by mail to P.O. Box 50540, Charleston, WV 25305-0540. The office shares your complaint with the company, investigates whether the law was followed, and can take action against a company that broke the law \u2014 but it cannot act as your lawyer or order the company to pay your claim.",
+  "appeal_rights": "Ask the insurer in writing to reconsider the denial and to state the policy language it relied on, and send any missing proof such as the death certificate. You can file a complaint with the Offices of the Insurance Commissioner, and if the denial stands you can sue in circuit court for the benefit owed.",
+  "bad_faith": "West Virginia allows a first-party bad-faith lawsuit when an insurer denies a claim without a reasonable basis, and unfair settlement practices are barred by W. Va. Code \u00a7 33-11-4(9). Punitive damages are possible only with clear and convincing proof of actual malice or conscious, reckless indifference (W. Va. Code \u00a7 55-7-29).",
+  "insurance_dept_name": "West Virginia Offices of the Insurance Commissioner",
+  "insurance_dept_url": "https://www.wvinsurance.gov/Consumer_Services",
+  "legal_aid_name": "Legal Aid of West Virginia",
+  "legal_aid_url": "https://www.lawv.net",
+  "sources": [
+   "https://code.wvlegislature.gov/33-13/",
+   "https://law.justia.com/codes/west-virginia/2019/chapter-33/article-13/section-33-13-4/",
+   "https://www.wvinsurance.gov/Consumer_Services",
+   "https://sbs.naic.org/solar-web/pages/public/onlineComplaintForm/onlineComplaintForm.jsf?dswid=7997&spanish=N&state=WV"
+  ]
+ },
+ {
+  "state": "Wisconsin",
+  "slug": "wisconsin",
+  "contestability_period": "Two years from the date of issue, while the insured is alive. After that an individual life policy cannot be contested except for nonpayment of premiums (Wis. Stat. \u00a7 632.46(1)). Disability and accidental-death coverages can still be contested at any time for fraudulent misrepresentation.",
+  "common_denial_reasons": "The insurer may deny for a material misstatement on the application during the first two years, for a lapsed policy after premiums went unpaid, or for a death excluded by the policy. After two years, misstatements alone cannot be used to deny the claim, and no statement can be used against a claim unless it was in a written document signed by the insured.",
+  "grace_period": "At least 31 days for any premium after the first (except group policies, which have their own rule). The death benefit stays in force during the grace period (Wis. Stat. \u00a7 632.44(2)).",
+  "complaint_process": "Contact the insurance company first and ask it to resolve the dispute, following whatever steps it gives you. If that fails, file a complaint with the Wisconsin Office of the Commissioner of Insurance (OCI) online or by mail. OCI sends the complaint to the company, which has 20 days plus mailing time to respond, then reviews the answer against Wisconsin law and your policy and tells you its decision.",
+  "appeal_rights": "Ask the insurer in writing for the reason for the denial and the policy language behind it, and send any missing proof. You can file an OCI complaint, and if the denial stands you can sue in court or, for a smaller claim, consider small claims court. A complaint to OCI does not stop the deadline to sue in your policy, so do not wait.",
+  "bad_faith": "Yes. Wisconsin recognizes a bad-faith claim when the insurer had no reasonable basis to deny the benefit and knew or recklessly disregarded that lack of basis (Anderson v. Continental Insurance Co.). Wisconsin law also requires prompt payment of claims (Wis. Stat. \u00a7 628.46).",
+  "insurance_dept_name": "Wisconsin Office of the Commissioner of Insurance",
+  "insurance_dept_url": "https://oci.wi.gov/Pages/Consumers/Filing-a-Complaint.aspx",
+  "legal_aid_name": "Legal Action of Wisconsin",
+  "legal_aid_url": "https://www.legalaction.org",
+  "sources": [
+   "https://docs.legis.wisconsin.gov/document/statutes/1999/632.475(1)(b)",
+   "https://oci.wi.gov/Pages/Consumers/Filing-a-Complaint.aspx",
+   "https://wilawlibrary.gov/topics/assist.php/military/military/military/military/military/military/military/military/military/military/military/military/military/military/military/military/military/military/military/military/military/military/military/military/military/military/military/military/military/military/military/military/military/military/military/military/military/index.php",
+   "https://www.judicare.org/legal-services/"
+  ]
+ },
+ {
+  "state": "Wyoming",
+  "slug": "wyoming",
+  "contestability_period": "Two years from the date of issue, while the insured is alive. After that the policy is incontestable except for nonpayment of premiums (Wyo. Stat. \u00a7 26-16-104). A reinstated policy can be contested again for fraud or misrepresentation about the reinstatement for the same period (Wyo. Stat. \u00a7 26-16-501).",
+  "common_denial_reasons": "The insurer may deny for a material misstatement on the application during the first two years, for a lapsed policy after premiums went unpaid, or for suicide within two years of issue (in which case the insurer must pay at least the policy reserve, Wyo. Stat. \u00a7 26-16-119). After two years, misstatements alone cannot be used to deny the claim.",
+  "grace_period": "30 days (or one month of at least 30 days, at the insurer's option; four weeks for industrial policies paid more often than monthly). The policy stays in force during the grace period (Wyo. Stat. \u00a7 26-16-103).",
+  "complaint_process": "Contact the insurance company first, state your dispute, and ask what it needs from you to review it. If that fails, file a complaint with the Wyoming Department of Insurance online through its consumer portal, or call to have a paper form mailed to you. The Department investigates complaints about improper denials and claim delays, but it cannot act as your lawyer, decide disputed facts, or force the company to pay your claim.",
+  "appeal_rights": "Ask the insurer in writing for the reason for the denial and the policy language behind it, and send any missing proof. Wyoming law requires life and health insurers to accept or reject a claim and pay it within 45 days after receiving proof of loss (Wyo. Stat. \u00a7 26-15-124(a)). If the denial stands, you can file a Department complaint and you can sue in court \u2014 your policy cannot cut the time to sue to less than three years (Wyo. Stat. \u00a7 26-16-119).",
+  "bad_faith": "Yes. Wyoming allows a bad-faith claim, but punitive damages require proof of willful and wanton misconduct by the insurer. Attorney fees are available when the insurer unreasonably and without cause refuses to pay a covered loss (Wyo. Stat. \u00a7 26-15-124(c)).",
+  "insurance_dept_name": "Wyoming Department of Insurance",
+  "insurance_dept_url": "https://doi.wyo.gov/consumers/information?preview=true&site_id=816",
+  "legal_aid_name": "Legal Aid of Wyoming",
+  "legal_aid_url": "https://www.lawyoming.org/",
+  "sources": [
+   "https://law.justia.com/codes/wyoming/2010/Title26/chapter16.html",
+   "https://doi.wyo.gov/consumers/information?preview=true&site_id=816",
+   "https://www.alfainternational.com/compendium/insurance-law/wyoming/",
+   "https://www.womenslaw.org/find-help/wy/finding-lawyer/legal-assistance"
+  ]
+ }
+]

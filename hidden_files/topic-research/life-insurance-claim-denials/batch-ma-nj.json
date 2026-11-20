@@ -1,0 +1,204 @@
+[
+ {
+  "state": "Massachusetts",
+  "slug": "massachusetts",
+  "contestability_period": "Two years from the date of issue, while the policy is in force during the insured's lifetime. After that, the insurer generally cannot deny a claim over statements in the application, except for nonpayment of premiums or wartime military-service violations (M.G.L. c. 175, \u00a7 132).",
+  "common_denial_reasons": "The most common lawful reasons are a material misstatement on the application made within the two-year contestability period, the policy having lapsed because premiums were not paid, and death from an activity the policy specifically excludes. A statement can only be used against a claim if it was in a written application attached to the policy, and under M.G.L. c. 175, \u00a7 186 it must have been made with intent to deceive or have increased the risk of loss.",
+  "grace_period": "30 days of grace for payment of any premium after the first year, during which the policy stays in force (M.G.L. c. 175, \u00a7 132).",
+  "complaint_process": "File a complaint with the Massachusetts Division of Insurance Consumer Service Unit online or by mail, including the insurer's name, policy and claim numbers, and copies of the denial letter and related papers. The Division sends the complaint to the insurer, reviews whether the company followed the policy and Massachusetts law, and can require corrective action, but it cannot give legal advice or order payment when the company followed the law.",
+  "appeal_rights": "First ask the insurer in writing to reconsider and to explain the exact policy language behind the denial. If that fails, file a Division of Insurance complaint, and you can also sue for breach of contract. If the insurer's claim handling was unfair, you may have a claim under M.G.L. c. 93A, which can allow double or triple damages plus attorney's fees.",
+  "bad_faith": "Yes. Unfair claim settlement practices are banned under M.G.L. c. 176D, \u00a7 3(9) (for example, refusing to pay without a reasonable investigation), and violations can support a consumer claim under M.G.L. c. 93A with double or triple damages and attorney's fees.",
+  "insurance_dept_name": "Massachusetts Division of Insurance",
+  "insurance_dept_url": "https://www.mass.gov/how-to/filing-an-insurance-complaint",
+  "legal_aid_name": "Greater Boston Legal Services",
+  "legal_aid_url": "https://www.gbls.org/",
+  "sources": [
+   "https://MALEGISLATURE.GOV/Laws/GeneralLaws/PartI/TitleXXII/Chapter175/Section134",
+   "https://law.justia.com/codes/massachusetts/2020/part-i/title-xxii/chapter-175/section-132/",
+   "https://www.mass.gov/how-to/filing-an-insurance-complaint",
+   "https://www.harvardlegalaid.org/pro-se-resources"
+  ]
+ },
+ {
+  "state": "Michigan",
+  "slug": "michigan",
+  "contestability_period": "Two years from the policy's date, while it is in force during the insured's lifetime. After two years the insurer cannot contest the policy over application statements, except for nonpayment of premiums and wartime military-service violations (MCL 500.4014).",
+  "common_denial_reasons": "The most common lawful reasons are a material misstatement on the application discovered within the two-year contestability period, the policy having lapsed for nonpayment of premiums, and death from an activity the policy specifically excludes. A misstatement only defeats a claim if it was in a written application attached to the policy, and Michigan law treats application statements as representations, not warranties, unless there was fraud.",
+  "grace_period": "One month for the payment of every premium after the first, during which the policy stays in force; any overdue premium is deducted from the death benefit if the insured dies during the grace period (MCL 500.4012).",
+  "complaint_process": "Try to resolve the dispute with the insurer first, then file a complaint with the Michigan Department of Insurance and Financial Services (DIFS) online, by phone, or by mail, including the policy and claim numbers and supporting documents. DIFS contacts the insurer for a written response, reviews whether the law and policy were followed, and can fine or sanction a company that broke the law, but it cannot order the insurer to pay you.",
+  "appeal_rights": "Ask the insurer in writing to reconsider and explain the denial, then file a DIFS complaint. You can also sue for breach of contract, and if the insurer paid late, Michigan law adds 12% annual simple interest on the overdue amount (MCL 500.2006).",
+  "bad_faith": "Michigan does not recognize a standalone first-party bad-faith lawsuit against your own insurer. The main remedies are a breach-of-contract suit, 12% penalty interest for late payment under MCL 500.2006, and a DIFS complaint for unfair claim practices under MCL 500.2026.",
+  "insurance_dept_name": "Michigan Department of Insurance and Financial Services",
+  "insurance_dept_url": "https://www.michigan.gov/difs/consumers/complaint",
+  "legal_aid_name": "Michigan Legal Help",
+  "legal_aid_url": "https://michiganlegalhelp.org/",
+  "sources": [
+   "https://law.onecle.com/michigan/chapter-500/statute-act-218-of-1956/division-218-1956-40/index.html",
+   "https://www.michigan.gov/difs/consumers/complaint",
+   "https://legalclarity.org/legal-actions-against-insurers-in-michigan-criteria-types/",
+   "https://michiganlegalhelp.org/self-help-centers/miside-legal-self-help-center"
+  ]
+ },
+ {
+  "state": "Minnesota",
+  "slug": "minnesota",
+  "contestability_period": "Two years from the policy's date, while it is in force during the insured's lifetime. After two years the insurer cannot contest the policy over application statements, except for nonpayment of premiums and wartime naval or military service violations (Minn. Stat. \u00a7 61A.03).",
+  "common_denial_reasons": "The most common lawful reasons are a material misstatement on the application found within the two-year contestability period, the policy having lapsed for nonpayment of premiums, and suicide within one year of issue (Minn. Stat. \u00a7 61A.031, which requires a refund of premiums paid). No statement voids the policy unless it was in a written application attached to the policy when issued.",
+  "grace_period": "One month for the payment of every premium after the first, during which the insurance stays in force; if the insured dies during the grace period, the overdue premium is deducted from the settlement (Minn. Stat. \u00a7 61A.03).",
+  "complaint_process": "File a complaint with the Minnesota Department of Commerce online through its complaint portal or by mail, giving the insurer's name, policy and claim numbers, and copies of the denial letter and correspondence. An investigator asks the insurer for a written response and checks whether state law or the policy was violated, and the Department can sanction a company that broke the law, but it cannot act as your lawyer or order the insurer to pay.",
+  "appeal_rights": "Ask the insurer in writing to reconsider and explain the denial, then file a Department of Commerce complaint. You can also sue for breach of contract, and Minnesota has a statutory bad-faith remedy (Minn. Stat. \u00a7 604.18) that can add up to $250,000 in taxable costs plus up to $100,000 in attorney's fees, though it must be added to the lawsuit by a court-approved motion, not in the original complaint.",
+  "bad_faith": "Minnesota has no standalone common-law bad-faith tort for first-party claims, but Minn. Stat. \u00a7 604.18 lets an insured seek extra costs if the insurer had no reasonable basis to deny benefits and knew it or recklessly disregarded that fact; recovery is capped at $250,000 plus up to $100,000 in attorney's fees.",
+  "insurance_dept_name": "Minnesota Department of Commerce",
+  "insurance_dept_url": "https://mn.gov/commerce/consumer/file-a-complaint/",
+  "legal_aid_name": "LawHelpMN",
+  "legal_aid_url": "https://www.lawhelpmn.org/",
+  "sources": [
+   "https://www.revisor.mn.gov/statutes/2025/2025-10-19%2010:11:35+00:00/cite/61A.03/pdf",
+   "https://mn.gov/commerce/consumer/file-a-complaint/",
+   "https://www.propertyinsurancecoveragelaw.com/blog/merlin-lawyers-permitted-to-allege-a-claim-for-bad-faith/",
+   "https://lprb.mncourts.gov/about/resources-for-the-public/"
+  ]
+ },
+ {
+  "state": "Mississippi",
+  "slug": "mississippi",
+  "contestability_period": "Two years from the date the policy goes into effect. During those two years the insurer may review the application and deny a claim for material misrepresentation or fraud; after two years it generally cannot contest the policy for application errors (Mississippi Code, Title 83; the specific standard-provisions section number was not verified, so none is given).",
+  "common_denial_reasons": "The most common lawful reasons are a material misstatement or omission on the application found within the two-year contestability period, the policy having lapsed for nonpayment of premiums, and death by suicide or another cause the policy specifically excludes. After the two-year period, the insurer generally must pay even if the application had errors.",
+  "grace_period": null,
+  "complaint_process": "File a complaint with the Mississippi Insurance Department online, by mail, or by fax, including the type of insurance, policy and claim numbers, date of loss, and copies of the denial letter and policy. A Consumer Services specialist reviews it, contacts the company for a response (the company has about 20 working days), and investigates whether Mississippi law was violated, but the Department cannot act as your lawyer, decide disputed facts, or order the company to pay.",
+  "appeal_rights": "Ask the insurer in writing to reconsider and explain the denial, then file a Mississippi Insurance Department complaint. You can also sue for breach of contract, and if the insurer denied the claim in bad faith you may seek extra damages in court.",
+  "bad_faith": "Yes. Mississippi courts recognize bad-faith claims against insurers; a beneficiary must show the insurer denied the claim without a legitimate or arguable reason, and punitive damages may be available when the conduct was willful or malicious.",
+  "insurance_dept_name": "Mississippi Insurance Department",
+  "insurance_dept_url": "https://www.mid.ms.gov/mississippi-insurance-department/consumers/file-a-complaint/file-company-complaint/",
+  "legal_aid_name": "Mississippi Center for Legal Services",
+  "legal_aid_url": "https://mscenterforlegalservices.org/",
+  "sources": [
+   "https://life-insurance-law.com/life-insurance-laws-by-state/mississippi-life-insurance-denials-and-delays/",
+   "https://www.lifeant.com/mississippi-life-insurance/",
+   "https://www.mid.ms.gov/mississippi-insurance-department/consumers/file-a-complaint/file-company-complaint/",
+   "https://www.womenslaw.org/find-help/ms/finding-lawyer/legal-assistance?ref=blog.counselstack.com"
+  ]
+ },
+ {
+  "state": "Missouri",
+  "slug": "missouri",
+  "contestability_period": "Two years from the earlier of the policy date or issue date, while the policy is in force during the insured's lifetime. After that the policy is incontestable except for nonpayment of premiums (20 CSR 400-1.010(2)(B), a state regulation rather than a statute).",
+  "common_denial_reasons": "The most common lawful reasons are a misstatement on the application within the two-year contestability period, the policy having lapsed for nonpayment of premiums, and suicide within one year of issue (RSMo \u00a7 376.620, which requires a prompt refund of premiums paid). Under RSMo \u00a7 376.580, a misrepresentation only voids a policy if it actually contributed to the event that made the policy payable.",
+  "grace_period": "31 days, without interest, for every premium after the first, during which the policy stays in force; if the insured dies during the grace period, the unpaid premium is deducted from the death benefit (20 CSR 400-1.010(2)(C)).",
+  "complaint_process": "Contact the insurer or agent first, then file a complaint with the Missouri Department of Commerce and Insurance, Division of Consumer Affairs, online, by mail, or by fax, with the policy and claim numbers and copies of the denial letter and correspondence. The Division forwards the complaint to the insurer and requires a written response, investigates whether Missouri law was followed, and can recommend next steps, but it cannot act as your lawyer or order payment.",
+  "appeal_rights": "Ask the insurer in writing to reconsider and explain the denial, then file a Department of Commerce and Insurance complaint. You can also sue for breach of contract, and under Missouri's vexatious-refusal law (RSMo \u00a7 375.420) a court may add damages and attorney's fees if the insurer refused to pay without reasonable cause.",
+  "bad_faith": "Yes, through Missouri's vexatious-refusal statute (RSMo \u00a7 375.420): if an insurer refuses to pay a covered loss without reasonable cause or excuse, a court or jury may award additional damages and attorney's fees on top of the policy benefits.",
+  "insurance_dept_name": "Missouri Department of Commerce and Insurance",
+  "insurance_dept_url": "https://insurance.mo.gov/consumer-complaints/insurance-complaints",
+  "legal_aid_name": "Legal Services of Missouri",
+  "legal_aid_url": "https://www.lsmo.org/",
+  "sources": [
+   "http://s1.sos.mo.gov/cmsimages/adrules/csr/current/20csr/20c400-1.pdf",
+   "https://octansinsurance.com/life-insurance-missouri/",
+   "https://insurance.mo.gov/consumer-complaints/insurance-complaints",
+   "https://libraryguides.missouri.edu/c.php?g=28063&p=8136118"
+  ]
+ },
+ {
+  "state": "Montana",
+  "slug": "montana",
+  "contestability_period": "Two years from the date of issue, while the policy is in force during the insured's lifetime. After two years the insurer cannot contest the policy over application statements, except for nonpayment of premiums (MCA \u00a7 33-20-105).",
+  "common_denial_reasons": "The most common lawful reasons are a material misstatement on the application found within the two-year contestability period, the policy having lapsed for nonpayment of premiums, and suicide within two years of issue (MCA \u00a7 33-20-121). Policy exclusions written into the contract, such as war or aviation limits, can still be enforced after the contestability period ends.",
+  "grace_period": "30 days, or one month of at least 30 days at the insurer's option, for payment of any premium after the first, during which the policy stays in full force; any overdue premium is deducted from the proceeds if a claim arises during the grace period (MCA \u00a7 33-20-104).",
+  "complaint_process": "Contact the insurer or agent first and try to resolve it, then file a complaint with the Montana Commissioner of Securities and Insurance (CSI) online or by mail, with the policy and claim numbers and copies of supporting papers. CSI assigns a Consumer Advocate, sends the complaint to the insurer for an explanation, and can require corrective action if the insurer broke Montana law or the policy, but it cannot act as your lawyer or order the insurer to pay.",
+  "appeal_rights": "Ask the insurer in writing to reconsider and explain the denial, then file a CSI complaint. You can also sue for breach of contract, and Montana recognizes bad-faith claims against insurers that handle claims unfairly.",
+  "bad_faith": "Yes. Montana recognizes bad-faith claims against insurers, and the Unfair Trade Practices Act (MCA \u00a7 33-18-201) bans unfair claim handling such as refusing to pay without a reasonable investigation; a beneficiary must show the insurer acted unreasonably and without a fair basis for the denial.",
+  "insurance_dept_name": "Montana Commissioner of Securities and Insurance",
+  "insurance_dept_url": "https://csimt.gov/insurance-complaints-fraud/",
+  "legal_aid_name": "Montana Legal Services Association",
+  "legal_aid_url": "https://www.mtlsa.org/",
+  "sources": [
+   "https://law.justia.com/codes/montana/2021/title-33/chapter-20/part-12/section-33-20-1203/",
+   "https://mca.legmt.gov/bills/2016/mca/title_0330/chapter_0200/part_0010/section_0040/0330-0200-0010-0040.html",
+   "https://csimt.gov/insurance-complaints-fraud/",
+   "https://www.mtlsa.org/legal-information/"
+  ]
+ },
+ {
+  "state": "Nebraska",
+  "slug": "nebraska",
+  "contestability_period": "Two years from the policy's date, while it is in force during the insured's lifetime. After two years the insurer cannot contest the policy over application statements, except for nonpayment of premiums and listed war and aviation limits (Neb. Rev. Stat. \u00a7 44-502(5)).",
+  "common_denial_reasons": "The most common lawful reasons are a material misstatement on the application found within the two-year contestability period, the policy having lapsed for nonpayment of premiums, and suicide within two years of issue (a policy may not exclude suicide that occurs more than two years after the policy date, Neb. Rev. Stat. \u00a7 44-503(2)).",
+  "grace_period": "One month for the payment of any premium after the first year, during which the policy stays in force; if the insured dies during the grace period, the overdue premium (with interest) is deducted from the settlement (Neb. Rev. Stat. \u00a7 44-502(2)).",
+  "complaint_process": "File a complaint with the Nebraska Department of Insurance, Insurance Complaints Division, online or by calling the Consumer Hotline to request a paper form, giving the insurer's name, policy and claim numbers, and a clear summary of the problem. The Division investigates, asks the insurer to respond, and can refer violations to its Legal Division, but it cannot decide disputed facts, give legal advice, or order the insurer to pay.",
+  "appeal_rights": "Ask the insurer in writing to reconsider and explain the denial, then file a Department of Insurance complaint. You can also sue for breach of contract; if you win, Nebraska law requires the court to award reasonable attorney's fees on top of the amount recovered (Neb. Rev. Stat. \u00a7 44-359).",
+  "bad_faith": "Yes. Nebraska recognizes a first-party bad-faith tort (Braesch v. Union Insurance Co., 237 Neb. 44 (1991)): the beneficiary must prove the insurer had no reasonable basis for denying benefits and knew of, or recklessly disregarded, that lack of basis.",
+  "insurance_dept_name": "Nebraska Department of Insurance",
+  "insurance_dept_url": "https://doi.nebraska.gov/filing-insurance-complaint",
+  "legal_aid_name": "Legal Aid of Nebraska",
+  "legal_aid_url": "https://legalaidofnebraska.org/",
+  "sources": [
+   "https://nebraskalegislature.gov/laws/statutes.php?statute=44-502",
+   "https://doi.nebraska.gov/filing-insurance-complaint",
+   "https://www.propertyinsurancecoveragelaw.com/blog/nebraska-recognizes-insurance-first-party-bad-faith-actions/",
+   "https://www.womenslaw.org/node/44378/L"
+  ]
+ },
+ {
+  "state": "Nevada",
+  "slug": "nevada",
+  "contestability_period": "Not more than two years after the date of issue, while the policy is in force during the insured's lifetime. After that the policy is incontestable except for nonpayment of premiums (NRS 688A.080).",
+  "common_denial_reasons": "The most common lawful reasons are a material misstatement on the application found within the two-year contestability period, the policy having lapsed for nonpayment of premiums, and suicide within two years of issue (NRS 688A.260). Policy exclusions written into the contract can still be enforced after the contestability period ends.",
+  "grace_period": "30 days, or one month of at least 30 days at the insurer's option, for payment of any premium after the first, during which the policy stays in full force; any premium due is deducted from the proceeds if a claim arises during the grace period (NRS 688A.060).",
+  "complaint_process": "Try to resolve the problem with the insurer first, then file a complaint with the Nevada Division of Insurance through its online Consumer Portal or by mailing a printed form, giving the policy and claim numbers, the denial letter, and what resolution you want. The Division sends the complaint to the insurer, which has about 28 days to respond, then reviews whether Nevada law was violated and can sanction the company, but it cannot act as your lawyer or order the insurer to pay.",
+  "appeal_rights": "Ask the insurer in writing to reconsider and explain the denial, then file a Division of Insurance complaint. You can also sue for breach of contract, and Nevada law allows a bad-faith claim if the insurer handled the claim unfairly.",
+  "bad_faith": "Yes. Nevada bans unfair claim settlement practices under NRS 686A.310 (for example, misrepresenting policy provisions or refusing to pay without a reasonable investigation) and also recognizes a common-law bad-faith claim against an insurer that denies a claim without a reasonable basis.",
+  "insurance_dept_name": "Nevada Division of Insurance",
+  "insurance_dept_url": "https://doi.nv.gov/consumers/file-a-complaint/",
+  "legal_aid_name": "Nevada Legal Services",
+  "legal_aid_url": "https://nevadalegalservices.org/",
+  "sources": [
+   "https://www.leg.state.nv.us/NRS/NRS-688A.html",
+   "https://law.justia.com/codes/nevada/chapter-688a/statute-688a-080/",
+   "https://www.propertyinsurancecoveragelaw.com/blog/how-to-file-a-complaint-with-the-nevada-division-of-insurance/",
+   "https://www.womenslaw.org/find-help/nv/finding-lawyer/legal-assistance"
+  ]
+ },
+ {
+  "state": "New Hampshire",
+  "slug": "new-hampshire",
+  "contestability_period": "Two years, while the policy is in force during the insured's lifetime. After two years the insurer cannot contest the policy, and any later increase in death benefits made on a new application gets its own two-year period from the date of the increase (RSA 408:13(IV)).",
+  "common_denial_reasons": "The most common lawful reasons are a material misstatement on the application found within the two-year contestability period, the policy having lapsed for nonpayment of premiums, and suicide within two years of the policy's effective date (a suicide exclusion may not apply after the second anniversary, RSA 408:13(VI)).",
+  "grace_period": "31 days for payment of any premium after the first, during which the death benefit coverage stays in force; any premium in arrears plus interest is deducted from a claim arising during the grace period (N.H. Admin. Code \u00a7 Ins 401.05(2); RSA 408:13(II) leaves the length to the Commissioner's rules).",
+  "complaint_process": "File a complaint with the New Hampshire Insurance Department's Consumer Services Division online, by phone, or by mail, giving the insurer's name, policy and claim numbers, and copies of the denial letter and correspondence. The Department forwards the complaint to the insurer, which must respond within ten business days, and tries to mediate a resolution, but it cannot give legal advice or order the insurer to pay.",
+  "appeal_rights": "Ask the insurer in writing to reconsider and explain the denial, then file an Insurance Department complaint. You can also sue for breach of contract, and New Hampshire recognizes bad-faith claims against insurers that handle claims unfairly.",
+  "bad_faith": "Yes. New Hampshire bans unfair claim settlement practices under RSA 417 and recognizes common-law bad-faith claims; a beneficiary must show the insurer denied the claim without a reasonable basis, failed to investigate promptly, or otherwise handled the claim unfairly.",
+  "insurance_dept_name": "New Hampshire Insurance Department",
+  "insurance_dept_url": "http://insurance.nh.gov/",
+  "legal_aid_name": "New Hampshire Legal Assistance",
+  "legal_aid_url": "https://www.nhla.org/",
+  "sources": [
+   "https://law.justia.com/codes/new-hampshire/title-xxxvii/chapter-408/section-408-13/",
+   "https://www.law.cornell.edu/regulations/new-hampshire/N-H-Admin-Code-SS-Ins-401.05",
+   "https://www.courts.nh.gov/self-help/getting-started/legal-assistance",
+   "http://www.nhla.org/"
+  ]
+ },
+ {
+  "state": "New Jersey",
+  "slug": "new-jersey",
+  "contestability_period": "Two years from the date of issue, while the policy is in force during the insured's lifetime. After two years the policy is incontestable except for nonpayment of premiums (N.J.S.A. 17B:25-4); disability and accidental-death provisions are outside the clause.",
+  "common_denial_reasons": "The most common lawful reasons are a material misstatement on the application found within the two-year contestability period, the policy having lapsed for nonpayment of premiums, and death from a cause the policy specifically excludes. A reinstated policy can be contested again for fraud or misrepresentation about the reinstatement for the same two-year period (N.J.S.A. 17B:25-17).",
+  "grace_period": "30 days, or one month of at least 30 days at the insurer's option, for payment of a premium after the first, during which the policy stays in force (N.J.S.A. 17B:25-3; N.J.A.C. 11:4-41.3).",
+  "complaint_process": "File a complaint with the New Jersey Department of Banking and Insurance, Consumer Inquiry and Response Center, online or by mailing or faxing the insurance complaint form, with the policy and claim numbers and copies of the denial letter and correspondence. The Department acknowledges the complaint, contacts the insurer, and can also connect you with the Office of the Insurance Ombudsman, but it cannot act as your lawyer or order the insurer to pay.",
+  "appeal_rights": "Every life insurer in New Jersey must have an internal appeals process (N.J.S.A. 17:29E-9): a panel of company employees not involved in day-to-day claims reviews the dispute, generally within 10 business days. If that fails, file a Department of Banking and Insurance complaint or ask the Insurance Ombudsman to review it, and you can also sue for breach of contract.",
+  "bad_faith": "Yes. New Jersey recognizes a common-law bad-faith claim (Pickett v. Lloyd's, 131 N.J. 457 (1993)): the beneficiary must show the insurer had no fairly debatable reason to deny or delay benefits and knew of, or recklessly disregarded, that fact; punitive damages may be available for especially egregious conduct.",
+  "insurance_dept_name": "New Jersey Department of Banking and Insurance",
+  "insurance_dept_url": "https://www.nj.gov/dobi/consumer.htm",
+  "legal_aid_name": "Legal Services of New Jersey",
+  "legal_aid_url": "https://lsnjlawhotline.org/",
+  "sources": [
+   "https://law.justia.com/codes/new-jersey/title-17b/section-17b-25-4/",
+   "https://www.law.cornell.edu/regulations/new-jersey/N-J-A-C-11-4-41-3",
+   "https://www.nj.gov/dobi/consumer.htm?ld=NSGoogle",
+   "https://www.nj.gov/dobi/ins_ombudsman/ombudsfaq.html",
+   "https://case-law.vlex.com/vid/pickett-v-lloyd-s-889576723",
+   "https://www.Immigrationadvocates.Org/legaldirectory/organization.393113"
+  ]
+ }
+]
