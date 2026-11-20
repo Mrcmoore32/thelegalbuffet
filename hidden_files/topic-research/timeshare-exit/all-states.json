@@ -1,0 +1,928 @@
+{
+ "alabama": {
+  "state": "Alabama",
+  "slug": "alabama",
+  "rescission_period": "5 calendar days after you sign the contract. If the fifth day falls on a Sunday, the deadline moves to Monday (Ala. Code § 34-27-53).",
+  "rescission_how": "Send a written cancellation notice by certified mail, return receipt requested, to the seller at the address listed in the contract. Keep the certified mail receipt and a copy of your letter as proof you cancelled on time.",
+  "exit_options": "After the 5 days end, you can ask the resort about a deed-back (giving the timeshare back), try to sell or give it away, or pay off the loan and keep using it. If you simply stop paying, the resort can foreclose and report the missed payments to the credit bureaus, which can hurt your credit for years.",
+  "resale_scam_warning": "Beware of companies that call or advertise promising a buyer for your timeshare at a high price, then demand a large upfront fee before any sale — once you pay, the buyer never appears and the company disappears. A legitimate resale broker is paid a commission only after a sale actually closes.",
+  "state_law": "Alabama Vacation Time-Sharing Plans, Ala. Code tit. 34, ch. 27, art. 3 (§§ 34-27-50–34-27-63)",
+  "complaint_agency_name": "Alabama Attorney General — Consumer Protection Division",
+  "complaint_agency_url": "https://www.alabamaag.gov/",
+  "legal_aid_name": "Legal Services Alabama",
+  "legal_aid_url": "https://legalservicesalabama.org/",
+  "sources": [
+   "https://law.justia.com/codes/alabama/title-34/chapter-27/article-3/section-34-27-53/",
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://www.alabamaag.gov/alabama-attorney-general-marshall-warns-storm-emergency-declarations-activate-price-gouging-protections/",
+   "https://legalservicesalabama.org/"
+  ]
+ },
+ "alaska": {
+  "state": "Alaska",
+  "slug": "alaska",
+  "rescission_period": "15 days after you receive the public offering statement, if the statement was not given to you more than 15 days before you signed (Alaska Stat. § 34.08.580(a)). If you got the statement well before signing, this cancellation right may not apply.",
+  "rescission_how": "Cancel in writing by hand-delivering the notice to the seller or by mailing it by prepaid U.S. mail to the seller or the seller's agent for service of process. Keep a copy and proof of mailing or delivery.",
+  "exit_options": "After the 15 days end, you can ask the resort about a deed-back, try to resell or transfer the interest, or pay off any loan and keep using it. If you stop paying maintenance fees or the loan, the association can foreclose on the interest and the missed payments can damage your credit.",
+  "resale_scam_warning": "Beware of companies that promise a ready buyer for your timeshare at a high price, then demand a large upfront fee before any sale — once you pay, the buyer never appears and the company disappears. A legitimate resale broker is paid a commission only after a sale actually closes.",
+  "state_law": "Alaska Common Interest Ownership Act, Alaska Stat. §§ 34.08.010–34.08.990 (no dedicated timeshare act; timeshare units are covered as common interest communities, with the cancellation right in § 34.08.580)",
+  "complaint_agency_name": "Alaska Attorney General — Consumer Protection Unit",
+  "complaint_agency_url": "https://law.alaska.gov/DEPARTMENT/civil/consumer/cp_complaint.html",
+  "legal_aid_name": "Alaska Legal Services Corporation",
+  "legal_aid_url": "https://www.alsc-law.org/",
+  "sources": [
+   "https://www.akleg.gov/basis/folioproxy.asp?url=http://wwwjnu03.akleg.org/cgi-bin/folioisa.dll/stattx07/query=[jump!3A!27as3408390!27]/doc/{t14092}/pageitems={body}?",
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://law.alaska.gov/DEPARTMENT/civil/consumer/cp_complaint.html",
+   "https://www.alsc-law.org/"
+  ]
+ },
+ "arizona": {
+  "state": "Arizona",
+  "slug": "arizona",
+  "rescission_period": "10 calendar days after you sign the purchase agreement (A.R.S. § 32-2197.03). Note: older guides still say 7 days — the law was changed in 2019 to extend the period from 7 to 10 days.",
+  "rescission_how": "Send or deliver a written notice of rescission to the seller at the seller's address by midnight of the tenth calendar day after signing; the notice counts from the date you send it. Use certified mail and keep the receipt and a copy of the notice as proof.",
+  "exit_options": "After the 10 days end, you can ask the resort about a deed-back, try to resell or transfer the timeshare, or pay off the loan and keep using it. If you stop paying, the resort can foreclose and report the missed payments to the credit bureaus, which can hurt your credit for years.",
+  "resale_scam_warning": "Beware of companies that promise a ready buyer for your timeshare at a high price, then demand a large upfront fee before any sale — once you pay, the buyer never appears and the company disappears. A legitimate resale broker is paid a commission only after a sale actually closes.",
+  "state_law": "Arizona Timeshare Act, A.R.S. §§ 32-2197–32-2197.24 (Title 32, Chapter 20, Article 9)",
+  "complaint_agency_name": "Arizona Attorney General — Consumer Information and Complaints Unit",
+  "complaint_agency_url": "https://www.azag.gov/complaints/consumer",
+  "legal_aid_name": "Community Legal Services",
+  "legal_aid_url": "https://clsaz.org/",
+  "sources": [
+   "https://www.azleg.gov/viewdocument/?docName=https%3A%2F%2Fwww.azleg.gov%2Fars%2F32%2F02197-03.htm",
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://www.azag.gov/complaints/consumer",
+   "https://clsaz.org/apply-for-services/"
+  ]
+ },
+ "arkansas": {
+  "state": "Arkansas",
+  "slug": "arkansas",
+  "rescission_period": "5 days after you sign the contract, and the contract stays voidable until you receive the public offering statement (Ark. Code § 18-14-409). If the fifth day is a Saturday, Sunday, or legal holiday, the deadline moves to the next business day.",
+  "rescission_how": "Mail or hand-deliver a written notice of cancellation to the developer at the address shown in the contract. Keep a copy of the notice and proof of mailing or delivery, and keep the seller's cancellation form if one was provided with the contract.",
+  "exit_options": "After the 5 days end, you can ask the resort about a deed-back, try to resell or transfer the timeshare, or pay off the loan and keep using it. If you stop paying, the resort can foreclose and report the missed payments to the credit bureaus, which can hurt your credit for years.",
+  "resale_scam_warning": "Beware of companies that promise a ready buyer for your timeshare at a high price, then demand a large upfront fee before any sale — once you pay, the buyer never appears and the company disappears. A legitimate resale broker is paid a commission only after a sale actually closes.",
+  "state_law": "Arkansas Time-Share Act, Ark. Code Ann. tit. 18, ch. 14 (§§ 18-14-101 et seq.)",
+  "complaint_agency_name": "Arkansas Attorney General — Consumer Protection Division",
+  "complaint_agency_url": "https://arkansasag.gov/file-a-complaint/",
+  "legal_aid_name": "Legal Aid of Arkansas",
+  "legal_aid_url": "https://arlegalaid.org/",
+  "sources": [
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://arkansasag.gov/file-a-complaint/",
+   "https://arlegalaid.org/who-we-are/frequent-questions.html"
+  ]
+ },
+ "california": {
+  "state": "California",
+  "slug": "california",
+  "rescission_period": "7 calendar days after the later of receiving the public report or signing the purchase contract (Cal. Bus. & Prof. Code § 11238).",
+  "rescission_how": "Give written notice of cancellation to the developer at the place of business named in the purchase contract. If you mail it, it counts from the postmark date, so use certified mail and keep the receipt and a copy of the notice.",
+  "exit_options": "After the 7 days end, you can ask the resort about a deed-back, try to resell or transfer the timeshare, or pay off the loan and keep using it. If you stop paying, the resort can foreclose, but California law generally bars the lender from chasing you for any remaining balance after a timeshare foreclosure (Cal. Code Civ. Proc. § 580b).",
+  "resale_scam_warning": "Beware of companies that promise a ready buyer for your timeshare at a high price, then demand a large upfront fee before any sale — once you pay, the buyer never appears and the company disappears. A legitimate resale broker is paid a commission only after a sale actually closes, and California's Department of Real Estate regularly warns about timeshare resale and rental schemes.",
+  "state_law": "California Vacation Ownership and Time-Share Act of 2004, Cal. Bus. & Prof. Code §§ 11210–11288",
+  "complaint_agency_name": "California Department of Real Estate",
+  "complaint_agency_url": "https://dre.ca.gov/Consumers/FileComplaint.html",
+  "legal_aid_name": "LawHelp California (LawHelpCA)",
+  "legal_aid_url": "https://www.lawhelpca.org/",
+  "sources": [
+   "https://law.justia.com/codes/california/2020/code-bpc/division-4/part-2/chapter-2/article-2/section-11238/",
+   "https://www.nolo.com/legal-encyclopedia/california-timeshare-foreclosure-right-cancel-laws.html",
+   "https://www.dre.ca.gov/Consumers/ConsumerAlerts/ConsumerAlert_202602_TargetedRealEstateScams.html",
+   "https://www.needhelppayingbills.com/html/california_free_legal_assistan.html"
+  ]
+ },
+ "colorado": {
+  "state": "Colorado",
+  "slug": "colorado",
+  "rescission_period": "5 calendar days after the sale (Colo. Rev. Stat. § 6-1-703(1)(b)).",
+  "rescission_how": "Send a written notice of cancellation to the seller by email, mail, or hand delivery. It counts when postmarked, when sent by email, or when hand-delivered to the seller's place of business, so keep proof of how and when you sent it.",
+  "exit_options": "After the 5 days end, you can ask the resort about a deed-back, try to resell or transfer the timeshare, or pay off the loan and keep using it. If you stop paying, the resort can foreclose and report the missed payments to the credit bureaus, which can hurt your credit for years.",
+  "resale_scam_warning": "Beware of companies that promise a ready buyer for your timeshare at a high price, then demand a large upfront fee before any sale — once you pay, the buyer never appears and the company disappears. Colorado law requires resale and transfer companies to give you a written agreement with their real name, phone number, and physical address, and a legitimate broker is paid only after a sale closes.",
+  "state_law": "Colorado Consumer Protection Act, Colo. Rev. Stat. § 6-1-703 (no standalone timeshare act; timeshare rescission and resale rules sit in the deceptive-trade-practices law)",
+  "complaint_agency_name": "Colorado Attorney General — Consumer Protection Section",
+  "complaint_agency_url": "https://coag.gov/file-complaint/",
+  "legal_aid_name": "Colorado Legal Services",
+  "legal_aid_url": "https://www.coloradolegalservices.org/",
+  "sources": [
+   "https://law.justia.com/codes/colorado/2020/title-6/article-1/section-6-1-703/",
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://coag.gov/file-complaint/",
+   "https://www.coloradolegalservices.org/get-help/"
+  ]
+ },
+ "connecticut": {
+  "state": "Connecticut",
+  "slug": "connecticut",
+  "rescission_period": "5 calendar days after signing and receiving a copy of the contract, or after receiving the timeshare disclosure statement, whichever is later (Conn. Gen. Stat. § 42-103pp(a)).",
+  "rescission_how": "Send written notice of cancellation to the seller as directed in your contract, ideally by certified mail with return receipt requested. Keep a copy of the notice and the mailing receipt as proof you cancelled on time.",
+  "exit_options": "After the 5 days end, you can ask the resort about a deed-back, try to resell or transfer the timeshare, or pay off the loan and keep using it. If you stop paying, the resort can foreclose on the interest and place a lien for unpaid assessments, and missed payments can damage your credit.",
+  "resale_scam_warning": "Beware of companies that promise a ready buyer for your timeshare at a high price, then demand a large upfront fee before any sale — once you pay, the buyer never appears and the company disappears. Connecticut law requires timeshare resale brokers to be licensed real estate brokers and to give you specific written disclosures before you sign anything.",
+  "state_law": "Connecticut Time Share Act, Conn. Gen. Stat. §§ 42-103cc–42-103ddd (Chapter 734b)",
+  "complaint_agency_name": "Connecticut Department of Consumer Protection",
+  "complaint_agency_url": "https://portal.ct.gov/en/DCP/Complaint-Center/Complaint-Forms-and-Procedures",
+  "legal_aid_name": "Connecticut Legal Services",
+  "legal_aid_url": "https://ctlegal.org/",
+  "sources": [
+   "https://www.cga.ct.gov/2021/pub/chap_734b.htm",
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://portal.ct.gov/en/DCP/Complaint-Center/Complaint-Forms-and-Procedures",
+   "https://ctlegal.org/get-help/"
+  ]
+ },
+ "delaware": {
+  "state": "Delaware",
+  "slug": "delaware",
+  "rescission_period": "5 business days after you sign the contract (6 Del. C. § 2824(a)). Saturdays count as business days; Sundays and legal holidays do not.",
+  "rescission_how": "Notify the seller in writing by certified mail sent to the address listed in the contract. The cancellation counts from the date you mail it, so keep the certified mail receipt and a copy of the notice.",
+  "exit_options": "After the 5 business days end, you can ask the resort about a deed-back, try to resell or transfer the timeshare, or pay off the loan and keep using it. If you stop paying, the resort can foreclose and report the missed payments to the credit bureaus, which can hurt your credit for years.",
+  "resale_scam_warning": "Beware of companies that promise a ready buyer for your timeshare at a high price, then demand a large upfront fee before any sale — once you pay, the buyer never appears and the company disappears. A legitimate resale broker is paid a commission only after a sale actually closes.",
+  "state_law": "Campground Resorts Membership and Vacation Time-Sharing Plans Sales Act, 6 Del. C. ch. 28, subch. II (§§ 2821–2831)",
+  "complaint_agency_name": "Delaware Department of Justice — Consumer Protection Unit",
+  "complaint_agency_url": "https://attorneygeneral.delaware.gov/fraud/cmu/complaint/",
+  "legal_aid_name": "Community Legal Aid Society, Inc. (CLASI)",
+  "legal_aid_url": "https://www.declasi.org/",
+  "sources": [
+   "https://law.justia.com/codes/delaware/2023/title-6/chapter-28/subchapter-ii/section-2825/",
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://attorneygeneral.delaware.gov/fraud/cmu/complaint/",
+   "https://www.declasi.org/about-clasi/"
+  ]
+ },
+ "florida": {
+  "state": "Florida",
+  "slug": "florida",
+  "rescission_period": "10 calendar days after the later of signing the contract or receiving the last required document (Fla. Stat. § 721.10). The right cannot be waived.",
+  "rescission_how": "Send written notice of cancellation to the developer or escrow agent. If you mail it, the notice counts from the postmark date as long as the developer or escrow agent actually receives it, so use certified mail and keep the receipt and a copy of the notice.",
+  "exit_options": "After the 10 days end, you can ask the resort about a deed-back, try to resell or transfer the timeshare, or pay off the loan and keep using it. If you stop paying, Florida law allows the resort to foreclose without going to court in many cases (Fla. Stat. §§ 721.855, 721.856), and missed payments can damage your credit.",
+  "resale_scam_warning": "Beware of companies that promise a ready buyer for your timeshare at a high price, then demand a large upfront fee before any sale — once you pay, the buyer never appears and the company disappears. Florida law gives you 10 days to cancel a contract with a timeshare resale advertiser, and a legitimate broker is paid a commission only after a sale actually closes.",
+  "state_law": "Florida Vacation Plan and Timesharing Act, Fla. Stat. ch. 721",
+  "complaint_agency_name": "Florida Department of Business and Professional Regulation — Division of Condominiums, Timeshares, and Mobile Homes",
+  "complaint_agency_url": "https://condos.myfloridalicense.com/services/",
+  "legal_aid_name": "Florida Legal Services",
+  "legal_aid_url": "https://www.floridalegal.org/",
+  "sources": [
+   "https://www.flsenate.gov/Laws/Statutes/2023/721.10",
+   "https://www.nolo.com/legal-encyclopedia/florida-timeshare-foreclosure-right-cancel-laws.html",
+   "https://condos.myfloridalicense.com/services/",
+   "https://www.floridalawhelp.org/find-provider"
+  ]
+ },
+ "georgia": {
+  "state": "Georgia",
+  "slug": "georgia",
+  "rescission_period": "7 days, not counting Sundays and holidays, after the later of signing the contract or receiving the public offering statement (Ga. Code §§ 44-3-172, 44-3-174). The right cannot be waived.",
+  "rescission_how": "Notify the developer in writing by certified mail or statutory overnight delivery, return receipt requested. The cancellation counts from the date you mail it, not the date the developer receives it, so keep the mailing receipt and a copy of the notice.",
+  "exit_options": "After the 7 days end, you can ask the resort about a deed-back, try to resell or transfer the timeshare, or pay off the loan and keep using it. If you stop paying, the resort can foreclose and report the missed payments to the credit bureaus, which can hurt your credit for years.",
+  "resale_scam_warning": "Beware of companies that promise a ready buyer for your timeshare at a high price, then demand a large upfront fee before any sale — once you pay, the buyer never appears and the company disappears. A legitimate resale broker is paid a commission only after a sale actually closes.",
+  "state_law": "Georgia Timeshare Act, Ga. Code Ann. tit. 44, ch. 3, art. 5 (§§ 44-3-160–44-3-195)",
+  "complaint_agency_name": "Georgia Attorney General — Consumer Protection Division",
+  "complaint_agency_url": "https://consumer.georgia.gov/resolve-your-dispute/how-do-i-file-complaint",
+  "legal_aid_name": "Georgia Legal Services Program",
+  "legal_aid_url": "https://www.glsp.org/",
+  "sources": [
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://legalclarity.org/right-to-rescind-a-contract-in-georgia-what-you-need-to-know/",
+   "https://consumer.georgia.gov/resolve-your-dispute/how-do-i-file-complaint",
+   "https://www.womenslaw.org/find-help/ga/finding-lawyer/legal-assistance/all"
+  ]
+ },
+ "hawaii": {
+  "state": "Hawaii",
+  "slug": "hawaii",
+  "rescission_period": "7 calendar days after the later of signing the contract or receiving the timeshare disclosure statement (Haw. Rev. Stat. § 514E-8).",
+  "rescission_how": "Send a written notice of cancellation to the seller, either by hand-delivering it to the address in the contract or by mailing it to that address. The notice counts on the day you hand-deliver or mail it, so keep a copy and proof of mailing.",
+  "exit_options": "After the 7 days pass, ask the resort about a deed-back or surrender program, since many resorts will take the timeshare back if the loan is paid off and fees are current. You can also try to sell it or give it away, but resale values are usually very low, so be realistic about price. If you stop paying, the resort can foreclose, which can hurt your credit and leave you owing unpaid maintenance fees and collection costs.",
+  "resale_scam_warning": "Beware of companies that charge a large upfront fee to sell or transfer your timeshare, especially ones that claim they already have a buyer waiting. A common scam is to take the upfront fee and then do nothing, or to sell you a worthless 'transfer' that never actually moves the deed out of your name.",
+  "state_law": "Hawaii Time Sharing Plans, Haw. Rev. Stat. ch. 514E",
+  "complaint_agency_name": "Hawaii Department of Commerce and Consumer Affairs, Office of Consumer Protection",
+  "complaint_agency_url": "https://cca.hawaii.gov/ocp/consumer-complaint/",
+  "legal_aid_name": "Legal Aid Society of Hawaii",
+  "legal_aid_url": "https://www.legalaidhawaii.org/",
+  "sources": [
+   "https://www.nolo.com/legal-encyclopedia/hawaii-timeshare-foreclosure-right-cancel-laws.html",
+   "https://cca.hawaii.gov/ocp/scam-alert-scammers-are-taking-advantage-of-coronavirus-fears/",
+   "https://www.legalaidhawaii.org/about.html"
+  ]
+ },
+ "idaho": {
+  "state": "Idaho",
+  "slug": "idaho",
+  "rescission_period": "5 calendar days after signing the contract (Idaho Code § 55-1804A).",
+  "rescission_how": "Send a written notice of cancellation to the subdivider (the seller) by personal delivery or certified mail, and make sure it is sent by 11:59 p.m. on the fifth day. Keep a copy of the notice and your mailing receipt as proof.",
+  "exit_options": "After the 5 days pass, ask the resort about a deed-back or surrender, which usually requires the loan to be paid off and fees to be current. You can also try to resell or transfer the timeshare, but resale prices are typically very low. If you stop paying, the resort can foreclose, which can damage your credit and leave you responsible for unpaid fees and collection costs.",
+  "resale_scam_warning": "Beware of companies that demand a large upfront fee to resell or transfer your timeshare, especially ones that promise a guaranteed buyer or a quick sale. A common scam is to collect the fee and then never sell the timeshare, or to charge for a transfer that never actually takes the deed out of your name.",
+  "state_law": "Idaho Subdivided Lands Disposition Act, Idaho Code title 55, chapter 18",
+  "complaint_agency_name": "Idaho Attorney General, Consumer Protection Division",
+  "complaint_agency_url": "https://www.ag.idaho.gov/office-resources/online-forms",
+  "legal_aid_name": "Idaho Legal Aid Services",
+  "legal_aid_url": "https://idaholegalaid.org/",
+  "sources": [
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://www.ag.idaho.gov/consumer-protection/report-scams-idaho/",
+   "https://idaholegalaid.org/about-idaho-legal-aid-services"
+  ]
+ },
+ "illinois": {
+  "state": "Illinois",
+  "slug": "illinois",
+  "rescission_period": "No current Illinois timeshare-specific cooling-off period. The former Real Estate Timeshare Act of 1999 gave buyers 5 calendar days after signing or receiving the public offering statement, whichever was later (765 ILCS 101/10-10), but that Act was repealed (P.A. 100-534), so a new purchase today has no statutory timeshare rescission right — check the cancellation clause in your own contract.",
+  "rescission_how": "Because there is no current timeshare rescission statute, follow whatever cancellation clause your contract contains, and send written notice exactly as the contract directs — the old law required hand delivery or certified mail, return receipt requested, to the address in the contract. Keep a copy of the notice and proof of mailing, and act immediately, since contract deadlines are often only a few days.",
+  "exit_options": "After any contract cancellation window closes, ask the resort about a deed-back or surrender program, which usually requires the loan to be paid off and fees to be current. You can also try to resell or transfer the timeshare, but resale values are usually very low. If you stop paying, the resort can foreclose, which can hurt your credit and leave you owing unpaid maintenance fees and collection costs.",
+  "resale_scam_warning": "Beware of companies that charge a large upfront fee to sell or transfer your timeshare, especially ones that claim they already have a buyer waiting. A common scam is to take the upfront fee and then do nothing, or to charge for a transfer that never actually moves the deed out of your name.",
+  "state_law": null,
+  "complaint_agency_name": "Illinois Attorney General, Consumer Protection Division",
+  "complaint_agency_url": "https://illinoisattorneygeneral.gov/File-A-Complaint/",
+  "legal_aid_name": "Prairie State Legal Services",
+  "legal_aid_url": "https://www.pslegal.org/",
+  "sources": [
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://law.justia.com/codes/illinois/2010/chapter765/076501010HArt_10.html",
+   "https://illinoisattorneygeneral.gov/File-A-Complaint/",
+   "https://www.pslegal.org/"
+  ]
+ },
+ "indiana": {
+  "state": "Indiana",
+  "slug": "indiana",
+  "rescission_period": "72 hours (3 days) after signing the sales contract, not counting Sundays and legal holidays (Ind. Code § 32-32-3-7).",
+  "rescission_how": "Cancel in writing by mail, telegram, or delivery to the developer's place of business, using the cancellation form the developer is required to give you. A mailed notice counts on the date it is postmarked, so keep a copy and your mailing receipt.",
+  "exit_options": "After the 72 hours pass, ask the resort about a deed-back or surrender, which usually requires the loan to be paid off and fees to be current. You can also try to resell or transfer the timeshare, but resale prices are typically very low. If you stop paying, the resort can foreclose, which can damage your credit and leave you responsible for unpaid fees and collection costs.",
+  "resale_scam_warning": "Beware of companies that demand a large upfront fee to resell or transfer your timeshare, especially ones that promise a guaranteed buyer or a quick sale. A common scam is to collect the fee and then never sell the timeshare, or to charge for a transfer that never actually takes the deed out of your name.",
+  "state_law": "Indiana Code Title 32, Article 32, Chapter 3 (Time Shares and Camping Clubs)",
+  "complaint_agency_name": "Indiana Attorney General, Consumer Protection Division",
+  "complaint_agency_url": "https://www.in.gov/attorneygeneral/consumer-protection-division/file-a-complaint/",
+  "legal_aid_name": "Indiana Legal Services, Inc.",
+  "legal_aid_url": "https://www.indianalegalservices.org/",
+  "sources": [
+   "https://law.justia.com/codes/indiana/title-32/article-32/chapter-3/section-32-32-3-7/",
+   "https://www.in.gov/attorneygeneral/consumer-protection-division/files/CPD_Fact_Sheet-timeshares_and_camping1.pdf",
+   "https://www.in.gov/attorneygeneral/consumer-protection-division/file-a-complaint/",
+   "https://www.indianalegalservices.org/about/"
+  ]
+ },
+ "iowa": {
+  "state": "Iowa",
+  "slug": "iowa",
+  "rescission_period": "5 business days after receiving all required disclosure information (Iowa Code § 557A.14).",
+  "rescission_how": "Cancel in writing by hand delivery, personal service, email, or prepaid U.S. mail to the developer or its agent for service of process. A mailed notice counts if it is postmarked by the last day, so keep a copy and proof of mailing.",
+  "exit_options": "After the 5 business days pass, ask the resort about a deed-back or surrender, which usually requires the loan to be paid off and fees to be current. You can also try to resell or transfer the timeshare, but resale prices are typically very low. If you stop paying, the resort can foreclose, which can damage your credit and leave you responsible for unpaid fees and collection costs.",
+  "resale_scam_warning": "Beware of companies that demand a large upfront fee to resell or transfer your timeshare, especially ones that promise a guaranteed buyer or a quick sale. A common scam is to collect the fee and then never sell the timeshare, or to charge for a transfer that never actually takes the deed out of your name.",
+  "state_law": "Iowa Code chapter 557A (Time-Shares)",
+  "complaint_agency_name": "Iowa Attorney General, Consumer Protection Division",
+  "complaint_agency_url": "https://www.iowaattorneygeneral.gov/for-consumers/file-a-consumer-complaint",
+  "legal_aid_name": "Iowa Legal Aid",
+  "legal_aid_url": "https://www.iowalegalaid.org/",
+  "sources": [
+   "https://www.legis.iowa.gov/docs/code/2025/557A.14.pdf",
+   "https://www.iowaattorneygeneral.gov/for-consumers/file-a-consumer-complaint",
+   "https://iowalegalaid.org/who-we-are/"
+  ]
+ },
+ "kansas": {
+  "state": "Kansas",
+  "slug": "kansas",
+  "rescission_period": "No timeshare-specific cooling-off period in Kansas law. Kansas has no dedicated timeshare statute, and the general 3-business-day door-to-door cancellation right (K.S.A. § 50-640) does not cover deeded real-property sales, so a buyer must rely on the cancellation clause in the contract itself.",
+  "rescission_how": "Read your contract for its own cancellation clause and follow it exactly — send written notice to the seller at the address in the contract, by certified mail if the contract requires it, and keep a copy and proof of mailing. Act immediately, since a contract cancellation window is often only a few days.",
+  "exit_options": "With no statutory exit right, ask the resort about a deed-back or surrender, which usually requires the loan to be paid off and fees to be current. You can also try to resell or transfer the timeshare, but resale prices are typically very low. If you stop paying, the resort can foreclose, which can damage your credit and leave you responsible for unpaid fees and collection costs.",
+  "resale_scam_warning": "Beware of companies that demand a large upfront fee to resell or transfer your timeshare, especially ones that promise a guaranteed buyer or a quick sale. A common scam is to collect the fee and then never sell the timeshare, or to charge for a transfer that never actually takes the deed out of your name.",
+  "state_law": null,
+  "complaint_agency_name": "Kansas Attorney General, Consumer Protection Division",
+  "complaint_agency_url": "https://www.ag.ks.gov/file-a-complaint",
+  "legal_aid_name": "Kansas Legal Services",
+  "legal_aid_url": "https://www.kansaslegalservices.org/",
+  "sources": [
+   "https://codes.findlaw.com/ks/chapter-50-unfair-trade-and-consumer-protection/ks-st-sect-50-640/",
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://www.ag.ks.gov/file-a-complaint",
+   "https://www.kansaslegalservices.org/"
+  ]
+ },
+ "kentucky": {
+  "state": "Kentucky",
+  "slug": "kentucky",
+  "rescission_period": "3 business days after signing for a vacation club contract (Ky. Rev. Stat. § 367.397), or 5 business days after signing for a timeshare interest sale (Ky. Rev. Stat. § 367.477). Which period applies depends on how the purchase was structured, so check your contract.",
+  "rescission_how": "Cancel in writing and send the notice to the address given in the contract, using the 'Members' Right to Cancel' format for vacation club contracts. The notice must be sent by midnight of the last day, so keep a copy and proof of mailing.",
+  "exit_options": "After the cancellation window closes, ask the resort about a deed-back or surrender, which usually requires the loan to be paid off and fees to be current. You can also try to resell or transfer the timeshare, but resale prices are typically very low. If you stop paying, the resort can foreclose, which can damage your credit and leave you responsible for unpaid fees and collection costs.",
+  "resale_scam_warning": "Beware of companies that demand a large upfront fee to resell or transfer your timeshare, especially ones that promise a guaranteed buyer or a quick sale. A common scam is to collect the fee and then never sell the timeshare, or to charge for a transfer that never actually takes the deed out of your name.",
+  "state_law": "Kentucky Revised Statutes chapter 367, §§ 367.395 and 367.477 (vacation club and timeshare sales provisions)",
+  "complaint_agency_name": "Kentucky Attorney General, Office of Consumer Protection",
+  "complaint_agency_url": "https://www.ag.ky.gov/Resources/Consumer-Resources/Consumers/Pages/Consumer-Complaints.aspx",
+  "legal_aid_name": "Legal Aid of the Bluegrass",
+  "legal_aid_url": "https://lablaw.org/",
+  "sources": [
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://www.ag.ky.gov/Resources/Consumer-Resources/Consumers/Pages/Consumer-Complaints.aspx",
+   "https://lablaw.org/"
+  ]
+ },
+ "louisiana": {
+  "state": "Louisiana",
+  "slug": "louisiana",
+  "rescission_period": "7 calendar days after the later of signing the contract or receiving the public offering statement (La. Rev. Stat. § 9:1131.13).",
+  "rescission_how": "Cancel in writing by hand-delivering the notice or mailing it by certified mail, return receipt requested, to the developer at the address in the contract, no later than midnight of the seventh calendar day. The notice counts on the date it is postmarked if mailed, so keep a copy and your mailing receipt.",
+  "exit_options": "After the 7 days pass, ask the resort about a deed-back or surrender, which usually requires the loan to be paid off and fees to be current. You can also try to resell or transfer the timeshare, but resale prices are typically very low. If you stop paying, the resort can foreclose, which can damage your credit and leave you responsible for unpaid fees and collection costs.",
+  "resale_scam_warning": "Beware of companies that demand a large upfront fee to resell or transfer your timeshare, especially ones that promise a guaranteed buyer or a quick sale. A common scam is to collect the fee and then never sell the timeshare, or to charge for a transfer that never actually takes the deed out of your name.",
+  "state_law": "Louisiana Timesharing Act, La. Rev. Stat. Title 9, Part II-A (§§ 9:1131.1 et seq.)",
+  "complaint_agency_name": "Louisiana Attorney General, Consumer Protection Section",
+  "complaint_agency_url": "https://ag.state.la.us/ConsumerDispute",
+  "legal_aid_name": "Southeast Louisiana Legal Services",
+  "legal_aid_url": "https://slls.org/",
+  "sources": [
+   "https://legis.la.gov/legis/LawPrint.aspx?d=106602",
+   "https://legis.la.gov/legis/LawPrint.aspx?d=106599",
+   "https://ag.state.la.us/ConsumerDispute"
+  ]
+ },
+ "maine": {
+  "state": "Maine",
+  "slug": "maine",
+  "rescission_period": "10 calendar days after the later of signing the contract (or conveyance) or receiving the written disclosure statement (33 M.R.S. § 592(3)).",
+  "rescission_how": "Cancel by hand-delivering or mailing a postage-paid written notice of your intent to cancel to the developer within the 10 calendar days. The cancellation is without penalty and any deposit must be refunded in full, so keep a copy of the notice and proof of mailing.",
+  "exit_options": "After the 10 days pass, ask the resort about a deed-back or surrender, which usually requires the loan to be paid off and fees to be current. You can also try to resell or transfer the timeshare, but resale prices are typically very low. If you stop paying, the resort can foreclose, which can damage your credit and leave you responsible for unpaid fees and collection costs.",
+  "resale_scam_warning": "Beware of companies that demand a large upfront fee to resell or transfer your timeshare, especially ones that promise a guaranteed buyer or a quick sale. A common scam is to collect the fee and then never sell the timeshare, or to charge for a transfer that never actually takes the deed out of your name.",
+  "state_law": "Maine Real Estate Time-Share Act, 33 M.R.S. § 592",
+  "complaint_agency_name": "Maine Attorney General, Consumer Protection Division",
+  "complaint_agency_url": "https://www.maine.gov/ag/consumer/complaints/",
+  "legal_aid_name": "Pine Tree Legal Assistance",
+  "legal_aid_url": "https://www.ptla.org/",
+  "sources": [
+   "https://legislature.maine.gov/statutes/33/title33sec592.html",
+   "https://www.maine.gov/ag/consumer/complaints/",
+   "https://www.ptla.org/pine-tree-services"
+  ]
+ },
+ "maryland": {
+  "state": "Maryland",
+  "slug": "maryland",
+  "rescission_period": "10 calendar days after the latest of the contract date, receiving all required public offering statement documents, or the unit being ready for occupancy (Md. Code, Real Property § 11A-114(a)).",
+  "rescission_how": "Cancel in writing to the developer by midnight of the tenth calendar day, using the name and address given in the contract for cancellation notices. A mailed notice counts on the postmark date, so keep a copy and proof of mailing.",
+  "exit_options": "After the 10 days pass, ask the resort about a deed-back or surrender, which usually requires the loan to be paid off and fees to be current. You can also try to resell or transfer the timeshare, but resale prices are typically very low. If you stop paying, the resort can foreclose, which can damage your credit and leave you responsible for unpaid fees and collection costs.",
+  "resale_scam_warning": "Beware of companies that demand a large upfront fee to resell or transfer your timeshare, especially ones that promise a guaranteed buyer or a quick sale. A common scam is to collect the fee and then never sell the timeshare, or to charge for a transfer that never actually takes the deed out of your name.",
+  "state_law": "Maryland Real Estate Time-Sharing Act, Md. Code, Real Property Title 11A",
+  "complaint_agency_name": "Maryland Attorney General, Consumer Protection Division",
+  "complaint_agency_url": "https://oag.maryland.gov/i-need-to/Pages/business-complaints.aspx",
+  "legal_aid_name": "Maryland Legal Aid",
+  "legal_aid_url": "https://www.mdlab.org/",
+  "sources": [
+   "https://law.justia.com/codes/maryland/2019/real-property/title-11a/sect-11a-114/",
+   "https://oag.maryland.gov/i-need-to/Pages/business-complaints.aspx",
+   "https://www.mdlab.org/get-help-services/"
+  ]
+ },
+ "massachusetts": {
+  "state": "Massachusetts",
+  "slug": "massachusetts",
+  "rescission_period": "3 business days after receiving the public offering statement (Mass. Gen. Laws ch. 183B, § 38).",
+  "rescission_how": "Send written notice of cancellation to the developer at the address listed in your contract, ideally by certified mail with return receipt requested. Keep a copy of the notice and the mailing receipt as proof of when you sent it.",
+  "exit_options": "After the 3-day window closes, ask the resort in writing about a deed-back or surrender program, and only accept a deal that releases you in writing. You can also try to sell or give away the timeshare, but resale values are usually very low, so first pay off any loan on it if you can. If you stop paying maintenance fees, the resort can foreclose and report the default, which can damage your credit, so get free legal help before you stop paying.",
+  "resale_scam_warning": "Beware of companies that charge a large upfront fee to resell or transfer your timeshare and promise a buyer is already waiting — legitimate agents are paid a commission only after a sale closes. Massachusetts law also gives you 3 business days to cancel a timeshare transfer-services agreement (Mass. Gen. Laws ch. 183B, § 56), so read any exit or transfer contract carefully before you sign or pay.",
+  "state_law": "Massachusetts Real Estate Time-Share Act, Mass. Gen. Laws ch. 183B",
+  "complaint_agency_name": "Massachusetts Attorney General, Consumer Advocacy & Response Division",
+  "complaint_agency_url": "https://www.mass.gov/how-to/file-a-consumer-complaint",
+  "legal_aid_name": "MassLegalHelp",
+  "legal_aid_url": "https://www.masslegalhelp.org",
+  "sources": [
+   "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter183B",
+   "https://codes.findlaw.com/ma/part-ii-real-and-personal-property-and-domestic-relations-ch-183-210/ma-gen-laws-ch-183b-sect-56/",
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://www.mass.gov/how-to/file-a-consumer-complaint"
+  ]
+ },
+ "michigan": {
+  "state": "Michigan",
+  "slug": "michigan",
+  "rescission_period": "9 business days after receiving all required disclosure documents (Mich. Comp. Laws § 559.184(2)). The clock starts when you get the disclosures, not when you sign.",
+  "rescission_how": "Send written notice of cancellation to the address listed in the contract, by certified mail with return receipt requested. Keep a copy of the notice and the mailing receipt as proof.",
+  "exit_options": "After the 9-business-day window closes, ask the resort in writing about a deed-back or surrender program, and only accept a deal that releases you in writing. You can also try to sell or give away the timeshare, but resale values are usually very low, so first pay off any loan on it if you can. If you stop paying maintenance fees, the resort can foreclose and report the default, which can damage your credit, so get free legal help before you stop paying.",
+  "resale_scam_warning": "Beware of companies that charge a large upfront fee to resell or transfer your timeshare and promise a buyer is already waiting — legitimate agents are paid a commission only after a sale closes. Never pay thousands of dollars in advance for a promised sale, and check any company with the Attorney General before you sign or pay.",
+  "state_law": null,
+  "complaint_agency_name": "Michigan Attorney General, Consumer Protection Team",
+  "complaint_agency_url": "https://www.michigan.gov/ag/complaints",
+  "legal_aid_name": "Michigan Legal Help",
+  "legal_aid_url": "https://michiganlegalhelp.org",
+  "sources": [
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://www.michigan.gov/ag/complaints",
+   "https://michiganlegalhelp.org"
+  ]
+ },
+ "minnesota": {
+  "state": "Minnesota",
+  "slug": "minnesota",
+  "rescission_period": "5 days after receiving a copy of the contract and the public offering statement (Minn. Stat. § 83.28).",
+  "rescission_how": "Cancel by hand-delivering written notice to the seller or the seller's agent, or by mailing it by prepaid U.S. mail to the seller or agent. Keep a copy of the notice and proof of delivery or mailing.",
+  "exit_options": "After the 5-day window closes, ask the resort in writing about a deed-back or surrender program, and only accept a deal that releases you in writing. You can also try to sell or give away the timeshare, but resale values are usually very low, so first pay off any loan on it if you can. If you stop paying maintenance fees, the resort can foreclose and report the default, which can damage your credit, so get free legal help before you stop paying.",
+  "resale_scam_warning": "Beware of companies that charge a large upfront fee to resell or transfer your timeshare and promise a buyer is already waiting — legitimate agents are paid a commission only after a sale closes. Minnesota law bars timeshare resellers from taking advance payment for a resale (Minn. Stat. § 83.44(d)), so a company demanding money up front is a red flag.",
+  "state_law": null,
+  "complaint_agency_name": "Minnesota Attorney General, Consumer Action Division",
+  "complaint_agency_url": "https://www.ag.state.mn.us/Office/Complaint.asp",
+  "legal_aid_name": "LawHelpMN.org",
+  "legal_aid_url": "https://www.lawhelpmn.org",
+  "sources": [
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://www.ag.state.mn.us/Office/Complaint.asp",
+   "https://www.lawhelpmn.org"
+  ]
+ },
+ "mississippi": {
+  "state": "Mississippi",
+  "slug": "mississippi",
+  "rescission_period": "7 calendar days after signing the contract or receiving the public offering statement, whichever is later (Mississippi Real Estate Commission Rule 8.7, 30 Miss. Code R. § 1601-8.7).",
+  "rescission_how": "Notify the developer in writing of your intent to cancel, sent to the developer's name and address shown in the contract. The notice is effective on the date sent, so use certified mail and keep the receipt and a copy as proof.",
+  "exit_options": "After the 7-day window closes, ask the resort in writing about a deed-back or surrender program, and only accept a deal that releases you in writing. You can also try to sell or give away the timeshare, but resale values are usually very low, so first pay off any loan on it if you can. If you stop paying maintenance fees, the resort can foreclose and report the default, which can damage your credit, so get free legal help before you stop paying.",
+  "resale_scam_warning": "Beware of companies that charge a large upfront fee to resell or transfer your timeshare and promise a buyer is already waiting — legitimate agents are paid a commission only after a sale closes. Never pay thousands of dollars in advance for a promised sale, and check any company with the Attorney General or the Real Estate Commission before you sign or pay.",
+  "state_law": null,
+  "complaint_agency_name": "Mississippi Attorney General, Consumer Protection Division",
+  "complaint_agency_url": "https://portal.ago.ms.gov/public/?q=node/403",
+  "legal_aid_name": "Mississippi Legal Services",
+  "legal_aid_url": "https://www.mslegalservices.org/",
+  "sources": [
+   "https://www.law.cornell.edu/regulations/mississippi/30-Miss-Code-R-SS-1601-8-7",
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://www.ago.state.ms.us/",
+   "https://www.mslegalservices.org/"
+  ]
+ },
+ "missouri": {
+  "state": "Missouri",
+  "slug": "missouri",
+  "rescission_period": "5 days after the day of purchase (Mo. Rev. Stat. § 407.620).",
+  "rescission_how": "Cancel in writing to the other contracting party at the address shown on the agreement. Cancellation is effective the moment the letter is postmarked, so send it by certified mail with return receipt requested and keep the receipt as proof. This right cannot be waived.",
+  "exit_options": "After the 5-day window closes, ask the resort in writing about a deed-back or surrender program, and only accept a deal that releases you in writing. You can also try to sell or give away the timeshare, but resale values are usually very low, so first pay off any loan on it if you can. If you stop paying maintenance fees, the resort can foreclose and report the default, which can damage your credit, so get free legal help before you stop paying.",
+  "resale_scam_warning": "Beware of companies that charge a large upfront fee to resell or transfer your timeshare and promise a buyer is already waiting — legitimate agents are paid a commission only after a sale closes. Never pay thousands of dollars in advance for a promised sale, and check any company with the Attorney General before you sign or pay.",
+  "state_law": "Missouri Time-Share Act, Mo. Rev. Stat. §§ 407.600–407.644",
+  "complaint_agency_name": "Missouri Attorney General, Consumer Protection Section",
+  "complaint_agency_url": "https://ago.mo.gov/get-help/programs-services-from-a-z/consumer-complaints/",
+  "legal_aid_name": "Legal Services of Missouri",
+  "legal_aid_url": "https://www.lsmo.org",
+  "sources": [
+   "https://revisor.mo.gov/main/OneSection.aspx?section=407.620",
+   "https://www.nolo.com/legal-encyclopedia/missouri-timeshare-foreclosure-right-cancel-laws.html",
+   "https://ago.mo.gov/divisions/consumer/",
+   "https://www.lsmo.org/page/729/about-us"
+  ]
+ },
+ "montana": {
+  "state": "Montana",
+  "slug": "montana",
+  "rescission_period": "No current state timeshare rescission period — the former 7-day right to cancel under Mont. Code Ann. § 37-53-304 was repealed in 2023, so any right to cancel now comes only from your contract, not from state law.",
+  "rescission_how": "Because there is no state rescission law, read your contract for any cancellation clause and follow its written-notice instructions exactly, including the address and deadline. Send notice by certified mail with return receipt requested and keep a copy and the receipt as proof.",
+  "exit_options": "With no state cooling-off law, ask the resort in writing about a deed-back or surrender program, and only accept a deal that releases you in writing. You can also try to sell or give away the timeshare, but resale values are usually very low, so first pay off any loan on it if you can. If you stop paying maintenance fees, the resort can foreclose and report the default, which can damage your credit, so get free legal help before you stop paying.",
+  "resale_scam_warning": "Beware of companies that charge a large upfront fee to resell or transfer your timeshare and promise a buyer is already waiting — legitimate agents are paid a commission only after a sale closes. This risk is higher in Montana because there is no state rescission law to fall back on, so never pay thousands of dollars in advance and check any company with the Department of Justice before you sign or pay.",
+  "state_law": null,
+  "complaint_agency_name": "Montana Department of Justice, Office of Consumer Protection",
+  "complaint_agency_url": "https://dojmt.gov/office-of-consumer-protection/",
+  "legal_aid_name": "Montana Legal Services Association",
+  "legal_aid_url": "https://www.mtlsa.org",
+  "sources": [
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://www.candidyak.com/timeshare-exit/rescission-laws-by-state/",
+   "https://dojmt.gov/wp-content/uploads/2024/10/complaintform31.pdf",
+   "https://www.mtlsa.org/legal-information/"
+  ]
+ },
+ "nebraska": {
+  "state": "Nebraska",
+  "slug": "nebraska",
+  "rescission_period": "3 business days after receiving the public offering statement (Neb. Rev. Stat. § 76-1716(1)).",
+  "rescission_how": "Cancel by hand-delivering written notice to the developer or by mailing it by prepaid U.S. mail to the developer or its agent for service of process. Keep a copy of the notice and proof of delivery or mailing.",
+  "exit_options": "After the 3-business-day window closes, ask the resort in writing about a deed-back or surrender program, and only accept a deal that releases you in writing. You can also try to sell or give away the timeshare, but resale values are usually very low, so first pay off any loan on it if you can. If you stop paying maintenance fees, the resort can foreclose and report the default, which can damage your credit, so get free legal help before you stop paying.",
+  "resale_scam_warning": "Beware of companies that charge a large upfront fee to resell or transfer your timeshare and promise a buyer is already waiting — legitimate agents are paid a commission only after a sale closes. Never pay thousands of dollars in advance for a promised sale, and check any company with the Attorney General before you sign or pay.",
+  "state_law": "Nebraska Time-Share Act, Neb. Rev. Stat. §§ 76-1701–76-1741",
+  "complaint_agency_name": "Nebraska Attorney General, Consumer Affairs Response Team",
+  "complaint_agency_url": "https://www.nebraska.gov/apps-ago-complaints/?preSelect=CP_COMPLAINT",
+  "legal_aid_name": "Legal Aid of Nebraska",
+  "legal_aid_url": "https://legalaidofnebraska.org/",
+  "sources": [
+   "https://nebraskalegislature.gov/laws/statutes.php?statute=76-1716",
+   "https://nebraskalegislature.gov/laws/statutes.php?statute=76-1701&print=true",
+   "https://www.nebraska.gov/apps-ago-complaints/?preSelect=CP_COMPLAINT",
+   "https://www.womenslaw.org/node/44378/L"
+  ]
+ },
+ "nevada": {
+  "state": "Nevada",
+  "slug": "nevada",
+  "rescission_period": "5 calendar days after signing the contract, until midnight of the fifth calendar day (Nev. Rev. Stat. § 119A.410).",
+  "rescission_how": "Cancel by written notice delivered personally to the developer, sent by certified mail with return receipt requested, or sent by express or overnight delivery with proof of service, to the developer's business address. Keep a copy of the notice and your delivery proof. The right cannot be waived.",
+  "exit_options": "After the 5-day window closes, ask the resort in writing about a deed-back or surrender program, and only accept a deal that releases you in writing. You can also try to sell or give away the timeshare through a licensed resale broker, but resale values are usually very low, so first pay off any loan on it if you can. If you stop paying maintenance fees, the resort can foreclose and report the default, which can damage your credit, so get free legal help before you stop paying.",
+  "resale_scam_warning": "Beware of companies that charge a large upfront fee to resell or transfer your timeshare and promise a buyer is already waiting — legitimate agents are paid a commission only after a sale closes. Nevada requires timeshare resale brokers to be licensed, so check any company's license with the Nevada Real Estate Division and never pay thousands of dollars in advance for a promised sale.",
+  "state_law": "Nevada Time Share Act, Nev. Rev. Stat. ch. 119A",
+  "complaint_agency_name": "Nevada Attorney General, Bureau of Consumer Protection",
+  "complaint_agency_url": "https://ag.nv.gov/Complaints/CSU_Complaints___FAQ/",
+  "legal_aid_name": "Nevada Legal Services",
+  "legal_aid_url": "https://www.nlslaw.net",
+  "sources": [
+   "https://codes.findlaw.com/nv/title-10-property-rights-and-transactions/nv-rev-st-119a-410/",
+   "https://www.nolo.com/legal-encyclopedia/nevada-timeshare-foreclosure-right-cancel-laws.html",
+   "https://red.nv.gov/uploadedFiles/rednvgov/Content/Forms/568A.pdf",
+   "https://nevadalawhelp.org/organization/nevada-legal-services-inc"
+  ]
+ },
+ "new-hampshire": {
+  "state": "New Hampshire",
+  "slug": "new-hampshire",
+  "rescission_period": "5 days after the contract date or delivery of the public offering statement, whichever is later (N.H. Rev. Stat. § 356-B:50(II)).",
+  "rescission_how": "Cancel by written notice hand-delivered or mailed by return-receipt-requested mail to the developer or its agent within the 5 days. If you mail the notice, you must also give the developer telephone notice of cancellation within the 5-day period. Keep a copy and your mailing receipt as proof.",
+  "exit_options": "After the 5-day window closes, ask the resort in writing about a deed-back or surrender program, and only accept a deal that releases you in writing. You can also try to sell or give away the timeshare, but resale values are usually very low, so first pay off any loan on it if you can. If you stop paying maintenance fees, the resort can foreclose and report the default, which can damage your credit, so get free legal help before you stop paying.",
+  "resale_scam_warning": "Beware of companies that charge a large upfront fee to resell or transfer your timeshare and promise a buyer is already waiting — legitimate agents are paid a commission only after a sale closes. Never pay thousands of dollars in advance for a promised sale, and check any company with the Department of Justice before you sign or pay.",
+  "state_law": null,
+  "complaint_agency_name": "New Hampshire Department of Justice, Consumer Protection and Antitrust Bureau",
+  "complaint_agency_url": "https://www.doj.nh.gov/citizens/consumer-protection-antitrust-bureau/consumer-complaints",
+  "legal_aid_name": "New Hampshire Legal Assistance",
+  "legal_aid_url": "https://www.nhla.org",
+  "sources": [
+   "https://www.lawserver.com/law/state/new-hampshire/nh-statutes/new_hampshire_revised_statutes_356-b_50",
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://www.doj.nh.gov/citizens/consumer-protection-antitrust-bureau/consumer-complaints",
+   "http://www.nhla.org/"
+  ]
+ },
+ "new-jersey": {
+  "state": "New Jersey",
+  "slug": "new-jersey",
+  "rescission_period": "7 calendar days after signing the contract or receiving the public offering statement, whichever is later (N.J.S.A. 45:15-16.67).",
+  "rescission_how": "Send or deliver written notice of cancellation to the developer or its agent at the name and address shown in the contract, by midnight of the seventh calendar day. Use hand delivery or certified mail with return receipt requested, and keep a copy and the receipt as proof. A mailed notice counts as timely if deposited with the U.S. Postal Service by midnight of the seventh day.",
+  "exit_options": "After the 7-day window closes, ask the resort in writing about a deed-back or surrender program, and only accept a deal that releases you in writing. You can also try to sell or give away the timeshare, but resale values are usually very low, so first pay off any loan on it if you can. If you stop paying maintenance fees, the resort can foreclose and report the default, which can damage your credit, so get free legal help before you stop paying.",
+  "resale_scam_warning": "Beware of companies that charge a large upfront fee to resell or transfer your timeshare and promise a buyer is already waiting — legitimate agents are paid a commission only after a sale closes. Never pay thousands of dollars in advance for a promised sale, and check any company with the Division of Consumer Affairs before you sign or pay.",
+  "state_law": "New Jersey Real Estate Timeshare Act, N.J.S.A. 45:15-16.51 et seq.",
+  "complaint_agency_name": "New Jersey Division of Consumer Affairs",
+  "complaint_agency_url": "https://njconsumeraffairs.nj.gov/file-a-complaint/",
+  "legal_aid_name": "Legal Services of New Jersey",
+  "legal_aid_url": "https://www.lsnj.org",
+  "sources": [
+   "https://www.nj.gov/dobi/division_rec/subdivided/forms/timesharepos_nonspec.pdf",
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://njconsumeraffairs.nj.gov/file-a-complaint/",
+   "https://lsnjlaw.org/represent-yourself/community-resources/%3FmainTopic%3DYouth"
+  ]
+ },
+ "new-mexico": {
+  "state": "New Mexico",
+  "slug": "new-mexico",
+  "rescission_period": "7 days after you sign the contract of sale (N.M. Stat. § 47-11-5).",
+  "rescission_how": "Cancel in writing by hand-delivering or mailing your notice to the developer or the developer's agent for service of process. Keep a copy and proof of delivery; all money you paid must be refunded within 30 days.",
+  "exit_options": "After the 7 days pass, ask the resort about a deed-back or surrender program, or try to sell or give away the timeshare yourself — but expect very low resale value and keep paying maintenance fees until the transfer is complete. If you stop paying, the resort can foreclose on the timeshare and report the unpaid debt, which can damage your credit.",
+  "resale_scam_warning": "Never pay a large upfront fee to a company that promises to resell or transfer your timeshare, especially one that cold-calls you claiming it already has a buyer. Legitimate resellers take a fee only after a sale; upfront-fee companies often take the money and do nothing.",
+  "state_law": "New Mexico Time Share Act, N.M. Stat. §§ 47-11-1 to 47-11-12",
+  "complaint_agency_name": "New Mexico Department of Justice, Consumer Protection Bureau",
+  "complaint_agency_url": "https://nmag.gov/get-help/submit-a-complaint/",
+  "legal_aid_name": "New Mexico Legal Aid",
+  "legal_aid_url": "https://www.newmexicolegalaid.org/",
+  "sources": [
+   "https://law.justia.com/codes/new-mexico/chapter-47/article-11/section-47-11-5/",
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://consumer.ftc.gov/consumer-alerts/2014/05/be-lookout-timeshare-resale-phonies"
+  ]
+ },
+ "new-york": {
+  "state": "New York",
+  "slug": "new-york",
+  "rescission_period": "7 business days after you sign the contract (13 NYCRR § 24.3).",
+  "rescission_how": "Mail a written cancellation notice postmarked within 7 business days to the sponsor or selling agent at the address printed on the cover of the offering plan. This right cannot be waived, and all payments must be refunded within 30 days.",
+  "exit_options": "After the 7 business days pass, ask the resort about a deed-back or surrender program, or try to sell or give away the timeshare yourself — but expect very low resale value and keep paying maintenance fees until the transfer is complete. If you stop paying, the resort can foreclose on the timeshare and report the unpaid debt, which can damage your credit.",
+  "resale_scam_warning": "Never pay a large upfront fee to a company that promises to resell or transfer your timeshare, especially one that cold-calls you claiming it already has a buyer. Legitimate resellers take a fee only after a sale; upfront-fee companies often take the money and do nothing.",
+  "state_law": null,
+  "complaint_agency_name": "New York State Attorney General, Bureau of Consumer Frauds and Protection",
+  "complaint_agency_url": "https://ag.ny.gov/file-complaint/consumer",
+  "legal_aid_name": "The Legal Aid Society",
+  "legal_aid_url": "https://legalaidnyc.org",
+  "sources": [
+   "https://ag.ny.gov/sites/default/files/regulatory-documents/13_nycrr_24.3.pdf",
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://consumer.ftc.gov/consumer-alerts/2014/05/be-lookout-timeshare-resale-phonies"
+  ]
+ },
+ "north-carolina": {
+  "state": "North Carolina",
+  "slug": "north-carolina",
+  "rescission_period": "5 days, until midnight of the fifth day after the later of signing the contract or receiving the public offering statement and required documents (N.C. Gen. Stat. § 93A-45).",
+  "rescission_how": "Send written notice to the developer or the independent escrow agent — by mail (the postmark date counts) or electronically — as long as it is actually received. Keep proof of sending; the right cannot be waived, and your money must be refunded without penalty.",
+  "exit_options": "After the 5 days pass, ask the resort about a deed-back or surrender program, or try to sell or give away the timeshare yourself — but expect very low resale value and keep paying maintenance fees until the transfer is complete. North Carolina law also regulates timeshare transfer companies and bans resale brokers from charging advance listing fees (N.C. Gen. Stat. §§ 93A-65, 93A-67, 93A-68). If you stop paying, the resort can foreclose and report the unpaid debt, which can damage your credit.",
+  "resale_scam_warning": "Never pay a large upfront fee to a company that promises to resell or transfer your timeshare, especially one that cold-calls you claiming it already has a buyer. In North Carolina it is unlawful for a resale broker to collect an advance fee just to list your timeshare — report any company that asks for one.",
+  "state_law": "North Carolina Time Share Act, N.C. Gen. Stat. ch. 93A, art. 4",
+  "complaint_agency_name": "North Carolina Department of Justice, Consumer Protection Division",
+  "complaint_agency_url": "https://ncdoj.gov/file-a-complaint/",
+  "legal_aid_name": "Legal Aid of North Carolina",
+  "legal_aid_url": "https://legalaidnc.org",
+  "sources": [
+   "https://www3.ncleg.gov/EnactedLegislation/Statutes/PDF/BySection/Chapter_93A/GS_93A-45.pdf",
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://consumer.ftc.gov/consumer-alerts/2014/05/be-lookout-timeshare-resale-phonies"
+  ]
+ },
+ "north-dakota": {
+  "state": "North Dakota",
+  "slug": "north-dakota",
+  "rescission_period": "North Dakota has no timeshare-specific cooling-off law, so there is no statutory number of days to cancel — any right to cancel must come from the contract itself.",
+  "rescission_how": "Read your contract carefully for any cancellation clause and its deadline, then follow it exactly — send written notice to the seller by certified mail and keep proof. If the contract gives no right to cancel, talk to a lawyer before you stop paying anything.",
+  "exit_options": "With no statutory exit right, your main options are asking the resort about a deed-back or surrender program, or trying to sell or give away the timeshare yourself — but expect very low resale value and keep paying maintenance fees until the transfer is complete. If you stop paying, the resort can foreclose on the timeshare and report the unpaid debt, which can damage your credit.",
+  "resale_scam_warning": "Never pay a large upfront fee to a company that promises to resell or transfer your timeshare, especially one that cold-calls you claiming it already has a buyer. Legitimate resellers take a fee only after a sale; upfront-fee companies often take the money and do nothing.",
+  "state_law": null,
+  "complaint_agency_name": "North Dakota Office of Attorney General, Consumer Protection Division",
+  "complaint_agency_url": "https://attorneygeneral.nd.gov/consumer-resources/consumer-complaints/",
+  "legal_aid_name": "Legal Services of North Dakota",
+  "legal_aid_url": "https://lsnd.org",
+  "sources": [
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://consumer.ftc.gov/consumer-alerts/2014/05/be-lookout-timeshare-resale-phonies"
+  ]
+ },
+ "ohio": {
+  "state": "Ohio",
+  "slug": "ohio",
+  "rescission_period": "3 business days after signing, if the sale was a home solicitation sale (Ohio Rev. Code § 1345.22). Ohio has no timeshare-specific cooling-off law.",
+  "rescission_how": "Send written notice of cancellation to the seller at the address listed in your purchase paperwork within the 3 business days. The cancellation counts on the date you mail it, so use certified mail and keep the receipt.",
+  "exit_options": "After the 3 business days pass, ask the resort about a deed-back or surrender program, or try to sell or give away the timeshare yourself — but expect very low resale value and keep paying maintenance fees until the transfer is complete. If you stop paying, the resort can foreclose on the timeshare and report the unpaid debt, which can damage your credit.",
+  "resale_scam_warning": "Never pay a large upfront fee to a company that promises to resell or transfer your timeshare, especially one that cold-calls you claiming it already has a buyer. Legitimate resellers take a fee only after a sale; upfront-fee companies often take the money and do nothing.",
+  "state_law": null,
+  "complaint_agency_name": "Ohio Attorney General, Consumer Protection Section",
+  "complaint_agency_url": "https://www.ohioattorneygeneral.gov/SpecialPages/File-Complaints",
+  "legal_aid_name": "Ohio Legal Help",
+  "legal_aid_url": "https://www.ohiolegalhelp.org",
+  "sources": [
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://wesleyfinancialgroup.com/ohio-timeshare-cancellation/",
+   "https://consumer.ftc.gov/consumer-alerts/2014/05/be-lookout-timeshare-resale-phonies"
+  ]
+ },
+ "oklahoma": {
+  "state": "Oklahoma",
+  "slug": "oklahoma",
+  "rescission_period": "5 days after you actually receive a legible copy of the signed agreement (Okla. Stat. tit. 71, § 644). You may also cancel at any time if you never received the public offering statement.",
+  "rescission_how": "Give written notice to the subdivider or agent at the address stated in the contract within the 5 days. Keep a copy and proof of delivery; the right cannot be waived.",
+  "exit_options": "After the 5 days pass, ask the resort about a deed-back or surrender program, or try to sell or give away the timeshare yourself — but expect very low resale value and keep paying maintenance fees until the transfer is complete. If you stop paying, the resort can foreclose on the timeshare and report the unpaid debt, which can damage your credit.",
+  "resale_scam_warning": "Never pay a large upfront fee to a company that promises to resell or transfer your timeshare, especially one that cold-calls you claiming it already has a buyer. Legitimate resellers take a fee only after a sale; upfront-fee companies often take the money and do nothing.",
+  "state_law": null,
+  "complaint_agency_name": "Oklahoma Office of the Attorney General, Consumer Protection Unit",
+  "complaint_agency_url": "https://oklahoma.gov/oag/about/divisions/cpu.html",
+  "legal_aid_name": "Legal Aid Services of Oklahoma",
+  "legal_aid_url": "https://legalaidok.org",
+  "sources": [
+   "https://law.justia.com/codes/oklahoma/title-71/section-71-644/",
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://consumer.ftc.gov/consumer-alerts/2014/05/be-lookout-timeshare-resale-phonies"
+  ]
+ },
+ "oregon": {
+  "state": "Oregon",
+  "slug": "oregon",
+  "rescission_period": "5 calendar days after you sign the first written offer or contract to purchase (Or. Rev. Stat. § 94.836).",
+  "rescission_how": "Send written notice to the developer or the developer's agent at the address in your agreement. If you mail it, use certified mail, return receipt requested — the notice counts on the day you deposit it with the post office. Keep proof; the right cannot be waived.",
+  "exit_options": "After the 5 days pass, ask the resort about a deed-back or surrender program, or try to sell or give away the timeshare yourself — but expect very low resale value and keep paying maintenance fees until the transfer is complete. If you stop paying, the resort can foreclose on the timeshare and report the unpaid debt, which can damage your credit.",
+  "resale_scam_warning": "Never pay a large upfront fee to a company that promises to resell or transfer your timeshare, especially one that cold-calls you claiming it already has a buyer. Legitimate resellers take a fee only after a sale; upfront-fee companies often take the money and do nothing.",
+  "state_law": "Oregon Timeshare Act, Or. Rev. Stat. §§ 94.803 to 94.945",
+  "complaint_agency_name": "Oregon Department of Justice, Consumer Protection",
+  "complaint_agency_url": "https://justice.oregon.gov/consumercomplaints/",
+  "legal_aid_name": "Legal Aid Services of Oregon",
+  "legal_aid_url": "https://lasoregon.org",
+  "sources": [
+   "https://law.justia.com/codes/oregon/2019/volume-03/chapter-094/section-94-839/",
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://consumer.ftc.gov/consumer-alerts/2014/05/be-lookout-timeshare-resale-phonies"
+  ]
+ },
+ "pennsylvania": {
+  "state": "Pennsylvania",
+  "slug": "pennsylvania",
+  "rescission_period": "5 calendar days, until midnight of the fifth day after signing the contract or receiving the disclosure statement, whichever is later (63 P.S. § 455.609). The Vacation Ownership Act also gives 7 days after receiving the public offering statement (68 Pa.C.S. § 4408).",
+  "rescission_how": "Send written notice of cancellation to the developer or seller at the address in your contract before the deadline. Use certified mail and keep the receipt as proof; your money must be refunded within 30 days.",
+  "exit_options": "After the rescission period ends, ask the resort about a deed-back or surrender program, or try to sell or give away the timeshare yourself — but expect very low resale value and keep paying maintenance fees until the transfer is complete. If you stop paying, the resort can foreclose on the timeshare and report the unpaid debt, which can damage your credit.",
+  "resale_scam_warning": "Never pay a large upfront fee to a company that promises to resell or transfer your timeshare, especially one that cold-calls you claiming it already has a buyer. Legitimate resellers take a fee only after a sale; upfront-fee companies often take the money and do nothing.",
+  "state_law": "Pennsylvania Vacation Ownership Act, 68 Pa.C.S. ch. 44",
+  "complaint_agency_name": "Pennsylvania Office of Attorney General, Bureau of Consumer Protection",
+  "complaint_agency_url": "https://www.attorneygeneral.gov/submit-a-complaint/",
+  "legal_aid_name": "Pennsylvania Legal Aid Network",
+  "legal_aid_url": "https://palegalaid.net/",
+  "sources": [
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://wesleyfinancialgroup.com/pennsylvania-timeshare-cancellation/",
+   "https://consumer.ftc.gov/consumer-alerts/2014/05/be-lookout-timeshare-resale-phonies"
+  ]
+ },
+ "rhode-island": {
+  "state": "Rhode Island",
+  "slug": "rhode-island",
+  "rescission_period": "5 business days (not counting Saturdays, Sundays, or legal holidays), until midnight of the fifth business day after the later of signing the contract or receiving the last required document (R.I. Gen. Laws § 34-41-4.06).",
+  "rescission_how": "Send written notice — by mail, fax, email, or hand delivery — to the developer within the 5 business days. Keep proof of sending; the right cannot be waived, and no closing can happen until the period ends.",
+  "exit_options": "After the 5 business days pass, ask the resort about a deed-back or surrender program, or try to sell or give away the timeshare yourself — but expect very low resale value and keep paying maintenance fees until the transfer is complete. If you stop paying, the resort can foreclose on the timeshare and report the unpaid debt, which can damage your credit.",
+  "resale_scam_warning": "Never pay a large upfront fee to a company that promises to resell or transfer your timeshare, especially one that cold-calls you claiming it already has a buyer. Legitimate resellers take a fee only after a sale; upfront-fee companies often take the money and do nothing.",
+  "state_law": "Rhode Island Real Estate Time-Share Act, R.I. Gen. Laws ch. 34-41",
+  "complaint_agency_name": "Rhode Island Office of the Attorney General, Consumer Protection Unit",
+  "complaint_agency_url": "https://riag.ri.gov/forms/consumer-complaint",
+  "legal_aid_name": "Rhode Island Legal Services",
+  "legal_aid_url": "https://www.rils.org/",
+  "sources": [
+   "https://law.justia.com/codes/rhode-island/2020/title-34/chapter-34-41/section-34-41-4-06/",
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://consumer.ftc.gov/consumer-alerts/2014/05/be-lookout-timeshare-resale-phonies"
+  ]
+ },
+ "south-carolina": {
+  "state": "South Carolina",
+  "slug": "south-carolina",
+  "rescission_period": "5 days after the later of signing the contract or receiving the disclosure statement, not counting Sunday if it is the fifth day (S.C. Code § 27-32-40).",
+  "rescission_how": "Notify the seller in writing by certified mail, return receipt requested, or another verifiable method, sent to the seller's address shown on the contract. The notice counts on the postmark date as long as the seller actually receives it; keep your mailing receipt.",
+  "exit_options": "After the 5 days pass, ask the resort about a deed-back or surrender program, or try to sell or give away the timeshare yourself — but expect very low resale value and keep paying maintenance fees until the transfer is complete. South Carolina law also lets you cancel at any time if the promised accommodations are no longer available and no comparable ones are offered (S.C. Code § 27-32-40). If you stop paying, the resort can foreclose and report the unpaid debt, which can damage your credit.",
+  "resale_scam_warning": "Never pay a large upfront fee to a company that promises to resell or transfer your timeshare, especially one that cold-calls you claiming it already has a buyer. Legitimate resellers take a fee only after a sale; upfront-fee companies often take the money and do nothing.",
+  "state_law": "South Carolina Vacation Time Sharing Plans Act, S.C. Code tit. 27, ch. 32",
+  "complaint_agency_name": "South Carolina Department of Consumer Affairs",
+  "complaint_agency_url": "https://consumer.sc.gov/consumer-resources/consumer-complaints",
+  "legal_aid_name": "South Carolina Legal Services",
+  "legal_aid_url": "https://sclegal.org",
+  "sources": [
+   "https://law.justia.com/codes/south-carolina/2019/title-27/chapter-32/section-27-32-40/",
+   "https://www.nolo.com/legal-encyclopedia/south-carolina-timeshare-foreclosure-right-cancel-laws.html",
+   "https://consumer.ftc.gov/consumer-alerts/2014/05/be-lookout-timeshare-resale-phonies"
+  ]
+ },
+ "south-dakota": {
+  "state": "South Dakota",
+  "slug": "south-dakota",
+  "rescission_period": "7 calendar days after you sign the contract or receive the disclosure statement, whichever is later (S.D. Admin. R. 20:69:12:21).",
+  "rescission_how": "Send written notice of cancellation to the developer or seller at the address given in your contract, within the 7 days. Keep a copy of the notice and proof you sent it on time, such as a certified-mail receipt.",
+  "exit_options": "After the 7 days, ask the resort in writing about a deed-back or surrender program, and get any agreement in writing before you stop paying. You can also try to sell or give away the timeshare, but only after the loan is paid off and fees are current, since buyers rarely pay much for a resale. If you simply stop paying, the resort or lender can foreclose and report the missed payments, which can hurt your credit.",
+  "resale_scam_warning": "Be wary of any company that charges a large upfront fee to sell or transfer your timeshare, especially one that claims a buyer is already waiting. A common scam takes the upfront fee and never sells anything, so never pay in advance for a promised sale.",
+  "state_law": "South Dakota Time-Share Estates law, SDCL chapter 43-15B, with cancellation rules in S.D. Admin. Rules chapter 20:69:12",
+  "complaint_agency_name": "South Dakota Attorney General, Division of Consumer Protection",
+  "complaint_agency_url": "https://consumer.sd.gov/complaintform.aspx",
+  "legal_aid_name": "Dakota Plains Legal Services",
+  "legal_aid_url": "https://www.dpls.org/",
+  "sources": [
+   "https://consumer.sd.gov/consumeralerts/timeshare17.aspx",
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://consumer.sd.gov/complaintform.aspx",
+   "https://www.dpls.org/"
+  ]
+ },
+ "tennessee": {
+  "state": "Tennessee",
+  "slug": "tennessee",
+  "rescission_period": "10 days after you sign if you inspected the timeshare on site before signing, or 15 days after you sign if you did not; the contract also stays voidable until you receive the public offering statement (Tenn. Code § 66-32-114(a)).",
+  "rescission_how": "Cancel by hand-delivering written notice to the developer, mailing it by prepaid U.S. mail postmarked within the period, or sending it by email time-stamped within the period, using the address in your contract. Keep proof of delivery or the postmark, and expect a full refund within 30 days.",
+  "exit_options": "After the rescission period, ask the resort in writing about a deed-back or surrender program, and get any release in writing before you stop paying. You can also try to resell or transfer the timeshare once the loan is paid off and fees are current, though resale prices are usually very low. If you stop paying, the lender can foreclose on a deeded timeshare, and unpaid fees can be sent to collections and hurt your credit.",
+  "resale_scam_warning": "Be wary of any company that charges a large upfront fee to sell or transfer your timeshare, especially one that claims a buyer is already waiting. A common scam takes the upfront fee and never sells anything, so never pay in advance for a promised sale.",
+  "state_law": "Tennessee Time-Share Act of 1981, Tenn. Code Title 66, Chapter 32, Part 1",
+  "complaint_agency_name": "Tennessee Attorney General, Division of Consumer Affairs",
+  "complaint_agency_url": "https://www.tn.gov/attorneygeneral/working-for-tennessee/file-a-consumer-complaint.html",
+  "legal_aid_name": "Legal Aid Society of Middle Tennessee and the Cumberlands",
+  "legal_aid_url": "https://www.las.org/",
+  "sources": [
+   "https://law.justia.com/codes/tennessee/title-66/chapter-32/part-1/section-66-32-114/",
+   "https://www.nolo.com/legal-encyclopedia/tennessee-timeshare-foreclosure-right-cancel-laws.html",
+   "https://www.tn.gov/attorneygeneral/working-for-tennessee/file-a-consumer-complaint.html",
+   "https://www.tals.org/page/167/legal-aid-services-tennessee"
+  ]
+ },
+ "texas": {
+  "state": "Texas",
+  "slug": "texas",
+  "rescission_period": "Until midnight of the sixth day after the later of the day you sign and receive a copy of the contract or the day you receive the timeshare disclosure statement (Tex. Prop. Code § 221.041).",
+  "rescission_how": "Cancel by hand-delivering written notice to the developer, or by sending it by prepaid U.S. mail or an overnight carrier to the developer or its agent for service of process, using the address in your contract. Keep proof of mailing or delivery, and expect a refund within 30 days of the developer receiving your notice.",
+  "exit_options": "After the rescission period, Texas law gives no second right to cancel just because of regret or rising fees, so ask the resort in writing about a deed-back or surrender program and get any release in writing. You can also try to resell or transfer the timeshare once the loan is paid off and fees are current, though resale prices are usually very low. If you stop paying, the lender can foreclose and unpaid fees can be sent to collections, which can hurt your credit.",
+  "resale_scam_warning": "Be wary of any company that charges a large upfront fee to sell or transfer your timeshare, especially one that claims a buyer is already waiting. A common scam takes the upfront fee and never sells anything, so never pay in advance for a promised sale.",
+  "state_law": "Texas Timeshare Act, Tex. Prop. Code Chapter 221",
+  "complaint_agency_name": "Texas Attorney General, Consumer Protection Division",
+  "complaint_agency_url": "https://www.texasattorneygeneral.gov/consumer-protection/file-consumer-complaint",
+  "legal_aid_name": "Lone Star Legal Aid",
+  "legal_aid_url": "https://www.lonestarlegal.org/",
+  "sources": [
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://locallawyersonline.com/timeshare/texas/",
+   "https://www.texasattorneygeneral.gov/consumer-protection/file-consumer-complaint",
+   "https://www.lonestarlegal.org/news/2026/08/how-lone-star-legal-aid-can-help-you/"
+  ]
+ },
+ "utah": {
+  "state": "Utah",
+  "slug": "utah",
+  "rescission_period": "Until midnight of the fifth business day after the day you sign the agreement, not counting the signing day (Utah Code § 57-19-12).",
+  "rescission_how": "Deliver written notice of cancellation to the developer at its business address by hand, by certified mail with return receipt requested, or by a delivery service that provides proof of delivery. Keep the receipt or tracking proof, and expect a refund within 30 days after the developer receives your notice.",
+  "exit_options": "After the 5 business days, ask the resort in writing about a deed-back or surrender program, and get any release in writing before you stop paying. You can also try to resell or transfer the timeshare once the loan is paid off and fees are current, though resale prices are usually very low. If you stop paying, the lender can foreclose and unpaid fees can be sent to collections, which can hurt your credit.",
+  "resale_scam_warning": "Be wary of any company that charges a large upfront fee to sell or transfer your timeshare, especially one that claims a buyer is already waiting. A common scam takes the upfront fee and never sells anything, so never pay in advance for a promised sale.",
+  "state_law": "Utah Timeshare and Camp Resort Act, Utah Code Title 57, Chapter 19",
+  "complaint_agency_name": "Utah Division of Consumer Protection, Utah Department of Commerce",
+  "complaint_agency_url": "https://commerce.utah.gov/dcp/complaint/",
+  "legal_aid_name": "Utah Legal Services",
+  "legal_aid_url": "https://www.utahlegalservices.org/",
+  "sources": [
+   "https://le.utah.gov/xcode/Title57/Chapter19/C57-19-S12_2016051020160510.pdf",
+   "https://commerce.utah.gov/dcp/complaint/",
+   "https://www.utahlegalservices.org/node/89/about-utah-legal-services"
+  ]
+ },
+ "vermont": {
+  "state": "Vermont",
+  "slug": "vermont",
+  "rescission_period": "5 days after you sign the contract (27 V.S.A. § 607). This right cannot be waived.",
+  "rescission_how": "Cancel by written notice hand-delivered to the seller, or mailed by certified mail to the developer or its agent for service of process, dated on or before the fifth day. Keep the certified-mail receipt, and expect a full refund within 15 days after the seller receives your notice.",
+  "exit_options": "After the 5 days, ask the resort in writing about a deed-back or surrender program, and get any release in writing before you stop paying. You can also try to resell or transfer the timeshare once the loan is paid off and fees are current, though resale prices are usually very low. If you stop paying, the lender can foreclose and unpaid fees can be sent to collections, which can hurt your credit.",
+  "resale_scam_warning": "Be wary of any company that charges a large upfront fee to sell or transfer your timeshare, especially one that claims a buyer is already waiting. A common scam takes the upfront fee and never sells anything, so never pay in advance for a promised sale.",
+  "state_law": "Vermont Real Estate Time-Share Act, 27 V.S.A. chapter 17, with the right to cancel at 27 V.S.A. § 607",
+  "complaint_agency_name": "Vermont Attorney General, Consumer Assistance Program",
+  "complaint_agency_url": "https://ago.vermont.gov/consumer-assistance-program-complaint-form",
+  "legal_aid_name": "Vermont Legal Aid",
+  "legal_aid_url": "https://www.vtlegalaid.org/",
+  "sources": [
+   "https://legislature.vermont.gov/statutes/section/27/005/00607",
+   "https://ago.vermont.gov/consumer-assistance-program-complaint-form",
+   "https://vtlegalaid.org/about-vla"
+  ]
+ },
+ "virginia": {
+  "state": "Virginia",
+  "slug": "virginia",
+  "rescission_period": "Until midnight of the seventh calendar day after you sign the contract; if the seventh day falls on a Sunday or legal holiday, the deadline moves to the next day (Va. Code § 55.1-2221).",
+  "rescission_how": "Cancel in writing by hand-delivering the notice to the developer at its principal office or at the project, or by mailing it by certified U.S. mail, return receipt requested, to the developer or the agent named in your contract. Keep the receipt, and expect a full refund within 45 days after the developer receives your notice.",
+  "exit_options": "After the 7 days, ask the resort in writing about a deed-back or surrender program, and get any release in writing before you stop paying. You can also try to resell or transfer the timeshare once the loan is paid off and fees are current, though resale prices are usually very low. If you stop paying, the lender can foreclose and unpaid fees can be sent to collections, which can hurt your credit.",
+  "resale_scam_warning": "Be wary of any company that charges a large upfront fee to sell or transfer your timeshare, especially one that claims a buyer is already waiting. A common scam takes the upfront fee and never sells anything, so never pay in advance for a promised sale.",
+  "state_law": "Virginia Real Estate Time-Share Act, Va. Code § 55.1-2200 et seq.",
+  "complaint_agency_name": "Virginia Attorney General, Consumer Protection Section",
+  "complaint_agency_url": "https://oag.state.va.us/consumer-protection/index.php/file-a-complaint",
+  "legal_aid_name": "Virginia Legal Aid Society",
+  "legal_aid_url": "https://www.vlas.org/",
+  "sources": [
+   "https://law.lis.virginia.gov/vacode/55.1-2221/",
+   "https://www.law.cornell.edu/regulations/virginia/18VAC48-45-160",
+   "https://oag.state.va.us/consumer-protection/index.php/file-a-complaint",
+   "https://www.vlas.org/public-benefits"
+  ]
+ },
+ "washington": {
+  "state": "Washington",
+  "slug": "washington",
+  "rescission_period": "7 days after you sign the purchase agreement or receive the disclosure document, whichever is later; if you never received the disclosure document, the agreement stays voidable until you receive it and for 7 days after that (RCW 64.36.150).",
+  "rescission_how": "Cancel by giving written notice to the promoter or the promoter's agent, either by mail or by hand delivery, using the address in your agreement. Keep a copy and proof of mailing or delivery, and expect a refund of what you paid.",
+  "exit_options": "After the 7 days, ask the resort in writing about a deed-back or surrender program, and get any release in writing before you stop paying. You can also try to resell or transfer the timeshare once the loan is paid off and fees are current, though resale prices are usually very low. If you stop paying, the lender can foreclose and unpaid fees can be sent to collections, which can hurt your credit.",
+  "resale_scam_warning": "Be wary of any company that charges a large upfront fee to sell or transfer your timeshare, especially one that claims a buyer is already waiting. A common scam takes the upfront fee and never sells anything, so never pay in advance for a promised sale.",
+  "state_law": "Washington Timeshare Act, RCW Chapter 64.36",
+  "complaint_agency_name": "Washington State Attorney General, Consumer Protection Division",
+  "complaint_agency_url": "http://www.atg.wa.gov/file-complaint",
+  "legal_aid_name": "Northwest Justice Project",
+  "legal_aid_url": "https://www.nwjustice.org/",
+  "sources": [
+   "https://app.leg.wa.gov/rcw/default.aspx?cite=64.36.150",
+   "http://app.leg.wa.gov/RCW/default.aspx?cite=64.36.140",
+   "http://www.atg.wa.gov/file-complaint",
+   "https://www.nwjustice.org/"
+  ]
+ },
+ "west-virginia": {
+  "state": "West Virginia",
+  "slug": "west-virginia",
+  "rescission_period": "10 days after you sign the contract, and until 10 days after you receive the public offering statement (W. Va. Code § 36-9-5).",
+  "rescission_how": "Notify the seller in writing of your intent to cancel, sent to the seller's name and address as shown in your contract; the notice is effective on the date it is sent. Keep a copy and proof of when you sent it, and expect a full refund within 20 days after the developer receives your notice.",
+  "exit_options": "After the 10 days, ask the resort in writing about a deed-back or surrender program, and get any release in writing before you stop paying. You can also try to resell or transfer the timeshare once the loan is paid off and fees are current, though resale prices are usually very low. If you stop paying, the lender can foreclose on a deeded timeshare and unpaid fees can be sent to collections, which can hurt your credit.",
+  "resale_scam_warning": "Be wary of any company that charges a large upfront fee to sell or transfer your timeshare, especially one that claims a buyer is already waiting. A common scam takes the upfront fee and never sells anything, so never pay in advance for a promised sale.",
+  "state_law": "West Virginia Real Estate Time-Sharing Act, W. Va. Code Chapter 36, Article 9",
+  "complaint_agency_name": "West Virginia Attorney General, Consumer Protection Division",
+  "complaint_agency_url": "https://ago.wv.gov/consumer-protection/file-complaint-consumer-protection-division",
+  "legal_aid_name": "Legal Aid of West Virginia",
+  "legal_aid_url": "https://legalaidwv.org/",
+  "sources": [
+   "https://code.wvlegislature.gov/email/36-9-5/",
+   "https://ago.wv.gov/consumer-protection/file-complaint-consumer-protection-division",
+   "https://legalaidwv.org/other-resources-legal-services/"
+  ]
+ },
+ "wisconsin": {
+  "state": "Wisconsin",
+  "slug": "wisconsin",
+  "rescission_period": "Until midnight of the fifth business day after the later of the day you sign the contract or the day you receive the time-share disclosure statement (Wis. Stat. § 707.47). This right cannot be waived.",
+  "rescission_how": "Cancel in writing by personally delivering the notice to the seller, or by mailing it to the developer or the developer's agent for service of process; if mailed, the notice counts as given on the postmark date. Keep a copy and the postmark proof, and expect a refund within 20 days.",
+  "exit_options": "After the 5 business days, ask the resort in writing about a deed-back or surrender program, and get any release in writing before you stop paying. You can also try to resell or transfer the timeshare once the loan is paid off and fees are current, though resale prices are usually very low, and Wisconsin law requires certain disclosures when a time share is resold. If you stop paying, the lender can foreclose and unpaid fees can be sent to collections, which can hurt your credit.",
+  "resale_scam_warning": "Be wary of any company that charges a large upfront fee to sell or transfer your timeshare, especially one that claims a buyer is already waiting. A common scam takes the upfront fee and never sells anything, so never pay in advance for a promised sale.",
+  "state_law": "Wisconsin Time-Share Ownership Act, Wis. Stat. Chapter 707",
+  "complaint_agency_name": "Wisconsin Department of Agriculture, Trade and Consumer Protection, Bureau of Consumer Protection",
+  "complaint_agency_url": "https://datcp.wi.gov/Pages/Programs_Services/FileConsumerComplaint.aspx",
+  "legal_aid_name": "Legal Action of Wisconsin",
+  "legal_aid_url": "https://legalaction.org/",
+  "sources": [
+   "https://docs.legis.wisconsin.gov/document/statutes/1995/707.41(4)(r)",
+   "https://docs.legis.wisconsin.gov:443/scroll/up/624/1997/statutes/statutes/707",
+   "https://datcp.wi.gov/Pages/Programs_Services/FileConsumerComplaint.aspx",
+   "https://legalaction.org/merger-announcement/"
+  ]
+ },
+ "wyoming": {
+  "state": "Wyoming",
+  "slug": "wyoming",
+  "rescission_period": "Wyoming has no general timeshare rescission period. A 3-business-day right to cancel applies only if the sale qualifies as a home solicitation sale under Wyoming's home solicitation law (Wyo. Stat. § 40-12-104), which most resort sales do not.",
+  "rescission_how": "Check your contract first: if a home-solicitation right applies, cancel in writing to the seller at the address in the contract within 3 business days and keep proof you sent it on time. If no cooling-off right applies, your contract's own cancellation terms are what control, so read them before you sign anything else.",
+  "exit_options": "With no general rescission law, ask the resort in writing about a deed-back or surrender program, and get any release in writing before you stop paying. You can also try to resell or transfer the timeshare once the loan is paid off and fees are current, though resale prices are usually very low. If you stop paying, the lender can foreclose on a deeded timeshare and unpaid fees can be sent to collections, which can hurt your credit.",
+  "resale_scam_warning": "Be wary of any company that charges a large upfront fee to sell or transfer your timeshare, especially one that claims a buyer is already waiting. A common scam takes the upfront fee and never sells anything, so never pay in advance for a promised sale — and in Wyoming, where there is no general rescission safety net, an upfront-fee exit pitch deserves extra skepticism.",
+  "state_law": null,
+  "complaint_agency_name": "Wyoming Attorney General, Consumer Protection and Antitrust Unit",
+  "complaint_agency_url": "https://attorneygeneral.wyo.gov/law-office-division/consumer-protection-and-antitrust-unit/consumer-complaints",
+  "legal_aid_name": "Legal Aid of Wyoming",
+  "legal_aid_url": "https://www.lawyoming.org/",
+  "sources": [
+   "https://www.nolo.com/legal-encyclopedia/timeshare-cancellation-rights-special-protections-50-state-chart.html",
+   "https://wesleyfinancialgroup.com/wyoming-timeshare-cancellation/",
+   "https://attorneygeneral.wyo.gov/law-office-division/consumer-protection-and-antitrust-unit/consumer-complaints",
+   "https://www.lawyoming.org/get-involved"
+  ]
+ }
+}
