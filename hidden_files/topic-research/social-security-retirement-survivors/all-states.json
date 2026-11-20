@@ -1,0 +1,793 @@
+{
+ "states": {
+  "alabama": {
+   "legal_aid_name": "Legal Services Alabama",
+   "legal_aid_url": "https://legalservicesalabama.org/",
+   "ship_name": "Alabama SHIP",
+   "ship_phone": "1-800-243-5463",
+   "ship_url": "https://www.alabamaageline.gov/ship/",
+   "sources": [
+    "https://www.revenue.alabama.gov/individual-corporate/income-exempt-from-alabama-income-taxation/",
+    "https://www.alabamaageline.gov/ship/",
+    "https://www.cms.gov/CCIIO/Resources/Consumer-Assistance-Grants/al",
+    "https://legalservicesalabama.org/"
+   ],
+   "state_note": "Alabama also fully exempts government pensions, military retirement pay, and Railroad Retirement benefits from state income tax.",
+   "tax_note": "Alabama fully exempts federal Social Security benefits from state income tax, with no income limit or age test.",
+   "taxes_benefits": "no"
+  },
+  "alaska": {
+   "legal_aid_name": "Alaska Legal Services Corporation",
+   "legal_aid_url": "https://www.alsc-law.org/",
+   "ship_name": "Medicare Information Office",
+   "ship_phone": "1-800-478-6065",
+   "ship_url": "https://medicare.alaska.gov",
+   "sources": [
+    "https://tax.alaska.gov/programs/programs/index.aspx?10001",
+    "https://medicare.alaska.gov",
+    "https://www.cms.gov/CCIIO/Resources/Consumer-Assistance-Grants/AK",
+    "https://www.alsc-law.org/"
+   ],
+   "state_note": "Alaska's SHIP is a single statewide office in Anchorage, reachable toll-free from anywhere in the state.",
+   "tax_note": "Alaska has no state income tax at all, so Social Security benefits are not taxed by the state.",
+   "taxes_benefits": "no"
+  },
+  "arizona": {
+   "legal_aid_name": "Community Legal Services",
+   "legal_aid_url": "https://clsaz.org/",
+   "ship_name": "Arizona State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "1-800-432-4040",
+   "ship_url": "https://des.az.gov/medicare-assistance",
+   "sources": [
+    "https://azdor.gov/individuals",
+    "https://des.az.gov/medicare-assistance",
+    "https://www.cms.gov/about-cms/contact/directory/arizona-state-health-insurance-assistance-program-ship/1562011",
+    "https://clsaz.org/"
+   ],
+   "state_note": "Arizona still taxes pensions and 401(k) withdrawals at its flat 2.5% rate, so remember to claim the Social Security subtraction on Form 140 or you will pay state tax on it unnecessarily.",
+   "tax_note": "Arizona fully exempts Social Security benefits; any amount taxed federally is subtracted back out on the Arizona return (Form 140).",
+   "taxes_benefits": "no"
+  },
+  "arkansas": {
+   "legal_aid_name": "Legal Aid of Arkansas",
+   "legal_aid_url": "https://arlegalaid.org/",
+   "ship_name": "Senior Health Insurance Information Program (AR SHIIP)",
+   "ship_phone": "1-800-224-6330",
+   "ship_url": "https://insurance.arkansas.gov/consumer-assistance/medicare-resources/shiip/",
+   "sources": [
+    "https://www.dfa.arkansas.gov/wp-content/uploads/209-NontaxableIncome.pdf",
+    "https://insurance.arkansas.gov/consumer-assistance/medicare-resources/shiip/",
+    "https://insurance.arkansas.gov/free-medicare-counseling-and-information-available/",
+    "https://www.cms.gov/cciio/Resources/Consumer-Assistance-Grants/ar",
+    "https://arlegalaid.org/"
+   ],
+   "state_note": "Arkansas also allows a $6,000 per-person exclusion on other retirement income such as pensions and IRA withdrawals.",
+   "tax_note": "Arkansas fully exempts Social Security and Railroad Retirement benefits from state income tax, regardless of income.",
+   "taxes_benefits": "no"
+  },
+  "california": {
+   "legal_aid_name": "Legal Aid Foundation of Los Angeles",
+   "legal_aid_url": "https://www.lafla.org/",
+   "ship_name": "Health Insurance Counseling & Advocacy Program (HICAP)",
+   "ship_phone": "1-800-434-0222",
+   "ship_url": "https://www.aging.ca.gov/Programs_and_Services/Medicare_Counseling/",
+   "sources": [
+    "https://www.ftb.ca.gov/help/free-tax-help/5130.pdf",
+    "https://www.aging.ca.gov/Programs_and_Services/Medicare_Counseling/",
+    "https://www.cms.gov/cciio/Resources/consumer-assistance-grants/ca",
+    "https://www.lafla.org/"
+   ],
+   "state_note": "California taxes most other retirement income at rates up to 13.3%, but Social Security is fully excluded; LAFLA serves Los Angeles County, and residents elsewhere can find their local program through the statewide LawHelp California directory.",
+   "tax_note": "California fully excludes Social Security benefits from state income tax; any federally taxed portion is subtracted on Schedule CA (540).",
+   "taxes_benefits": "no"
+  },
+  "colorado": {
+   "legal_aid_name": "Colorado Legal Services",
+   "legal_aid_url": "https://www.coloradolegalservices.org/",
+   "ship_name": "Colorado SHIP",
+   "ship_phone": "1-888-696-7213",
+   "ship_url": "https://doi.colorado.gov/insurance-products/health-insurance/senior-health-care-medicare",
+   "sources": [
+    "https://tax.colorado.gov/retirees",
+    "https://tax.colorado.gov/income-tax-topics-social-security-pensions-and-annuities",
+    "https://doi.colorado.gov/insurance-products/health-insurance/senior-health-care-medicare",
+    "https://www.cms.gov/CCIIO/Resources/Consumer-Assistance-Grants/co",
+    "https://www.coloradolegalservices.org/"
+   ],
+   "state_note": "The subtraction is shared across all retirement income, so Social Security can use up the cap and leave pension or IRA withdrawals taxable.",
+   "tax_note": "Colorado taxes the federally taxable part of Social Security, but at 65 or older you may subtract the full amount, and at 55 to 64 the pension and annuity subtraction (which includes Social Security) is capped at $20,000 per person.",
+   "taxes_benefits": "partial"
+  },
+  "connecticut": {
+   "legal_aid_name": "Connecticut Legal Services",
+   "legal_aid_url": "https://ctlegal.org/",
+   "ship_name": "CHOICES (Connecticut's State Health Insurance Assistance Program)",
+   "ship_phone": "1-800-994-9422",
+   "ship_url": "https://portal.ct.gov/ads/programs-and-services/choices",
+   "sources": [
+    "https://portal.ct.gov/drs/individuals/connecticut-tax-tips-for-senior-citizens",
+    "https://portal.ct.gov/ads/programs-and-services/choices",
+    "https://portal.ct.gov/-/media/aginganddisability/agingservices/choices/choices-2025/2025-choices-enrollment-guide---rev-111224.pdf?rev=a17cd77d555e41e99b77dd0e0057cb14&hash=7908DC9FBF52F7012C5DD70A1B03C730",
+    "https://ctlegal.org/"
+   ],
+   "state_note": "Connecticut also exempts pension and IRA income at the same income thresholds, and the state hotline routes callers to their local Area Agency on Aging.",
+   "tax_note": "Connecticut fully exempts Social Security if federal adjusted gross income is under $75,000 (single or married filing separately) or under $100,000 (joint, head of household, or surviving spouse); above those levels, no more than 25% of benefits is taxed.",
+   "taxes_benefits": "partial"
+  },
+  "delaware": {
+   "legal_aid_name": "Community Legal Aid Society, Inc. (CLASI)",
+   "legal_aid_url": "https://www.declasi.org/",
+   "ship_name": "Delaware Medicare Assistance Bureau (DMAB)",
+   "ship_phone": "1-800-336-9500",
+   "ship_url": "https://insurance.delaware.gov/divisions/dmab/",
+   "sources": [
+    "https://revenue.delaware.gov/frequently-asked-questions/personal-income-tax-faqs/",
+    "https://insurance.delaware.gov/divisions/dmab/",
+    "https://www.cms.gov/cciio/resources/consumer-assistance-grants/de",
+    "https://www.declasi.org/"
+   ],
+   "state_note": "Delaware residents age 60 and older can also exclude up to $12,500 of pension and other retirement income from state tax, and DMAB is Delaware's SHIP as well as its Medigap counseling office.",
+   "tax_note": "Delaware does not tax Social Security or Railroad Retirement benefits, and they are left out of Delaware taxable income entirely.",
+   "taxes_benefits": "no"
+  },
+  "florida": {
+   "legal_aid_name": "Florida Legal Services",
+   "legal_aid_url": "https://www.floridalegal.org/",
+   "ship_name": "SHINE (Serving Health Insurance Needs of Elders)",
+   "ship_phone": "1-800-963-5337",
+   "ship_url": "https://www.floridashine.org/",
+   "sources": [
+    "https://floridarevenue.com/faq/Pages/FAQDetails.aspx?FAQID=1466",
+    "https://www.floridashine.org/",
+    "https://www.cms.gov/CCIIO/Resources/Consumer-Assistance-Grants/fl",
+    "https://www.floridalegal.org/"
+   ],
+   "state_note": "SHINE counseling is reached through the statewide Elder Helpline, and Florida's lack of a state income tax also means pensions and IRA withdrawals go untaxed at the state level.",
+   "tax_note": "Florida has no state income tax, so Social Security benefits are not taxed by the state and no state return is filed.",
+   "taxes_benefits": "no"
+  },
+  "georgia": {
+   "legal_aid_name": "Georgia Legal Services Program",
+   "legal_aid_url": "https://www.glsp.org/",
+   "ship_name": "Georgia SHIP (GeorgiaCares)",
+   "ship_phone": "1-866-552-4464",
+   "ship_url": "http://www.aging.ga.gov/georgia-ship",
+   "sources": [
+    "https://dor.georgia.gov/retirees-faq",
+    "http://www.aging.ga.gov/georgia-ship",
+    "https://dhs.georgia.gov/press-releases/2023-10-13/prepare-medicare-open-enrollment-free-guidance-georgia-ship",
+    "https://www.glsp.org/"
+   ],
+   "state_note": "Georgia's retirement income exclusion shelters up to $65,000 per person at 65 ($35,000 at 62 to 64) on top of the Social Security exemption, rising to $70,000 in 2027; GLSP serves 154 counties outside metro Atlanta, where Atlanta Legal Aid Society covers the five metro counties.",
+   "tax_note": "Georgia fully exempts Social Security benefits from state income tax, with no age or income limit, and they do not count against the retirement income exclusion.",
+   "taxes_benefits": "no"
+  },
+  "hawaii": {
+   "legal_aid_name": "Legal Aid Society of Hawaii",
+   "legal_aid_url": "https://www.legalaidhawaii.org/",
+   "ship_name": "Hawai'i State Health Insurance Assistance Program (Hawai'i SHIP)",
+   "ship_phone": "1-888-875-9229",
+   "ship_url": "https://hawaiiship.org/",
+   "sources": [
+    "https://files.hawaii.gov/tax/legal/tir/1990_09/tir96-5.pdf",
+    "https://hawaiiship.org/",
+    "https://health.hawaii.gov/eoa/",
+    "https://www.legalaidhawaii.org/"
+   ],
+   "state_note": "Hawaii SHIP is run by the Executive Office on Aging, and the Legal Aid Society of Hawaii also runs the statewide Hawaii Legal Services Portal for referrals.",
+   "tax_note": "Hawaii does not tax Social Security benefits at all, regardless of income.",
+   "taxes_benefits": "no"
+  },
+  "idaho": {
+   "legal_aid_name": "Idaho Legal Aid Services",
+   "legal_aid_url": "https://idaholegalaid.org/",
+   "ship_name": "Senior Health Insurance Benefits Advisors (SHIBA)",
+   "ship_phone": "1-800-247-4422",
+   "ship_url": "https://doi.idaho.gov/shiba/",
+   "sources": [
+    "https://tax.idaho.gov/taxes/income-tax/individual-income/specific-guidance-for-individual-income-tax/specific-guidance-for-individuals-seniors-and-retirees/",
+    "https://doi.idaho.gov/shiba/",
+    "https://idaholegalaid.org/"
+   ],
+   "state_note": "Idaho Legal Aid Services has a dedicated Senior and Public Benefits advice line for people age 60 and older.",
+   "tax_note": "Idaho does not tax Social Security benefits, even if part of them is taxed on your federal return.",
+   "taxes_benefits": "no"
+  },
+  "illinois": {
+   "legal_aid_name": "Prairie State Legal Services",
+   "legal_aid_url": "https://pslegal.org/",
+   "ship_name": "Senior Health Insurance Program (SHIP)",
+   "ship_phone": "1-800-252-8966",
+   "ship_url": "https://ilaging.illinois.gov/ship.html",
+   "sources": [
+    "https://tax.illinois.gov/research/publications/pubs/retirement-income.html",
+    "https://ilaging.illinois.gov/ship.html",
+    "https://pslegal.org/"
+   ],
+   "state_note": "Illinois has no single statewide legal-aid program: Prairie State serves 36 northern and central counties, Land of Lincoln serves 65 central and southern counties, and Legal Aid Chicago serves Cook County.",
+   "tax_note": "Illinois does not tax Social Security benefits; you subtract the federally taxed portion on your state return.",
+   "taxes_benefits": "no"
+  },
+  "indiana": {
+   "legal_aid_name": "Indiana Legal Services",
+   "legal_aid_url": "https://www.indianalegalservices.org/",
+   "ship_name": "State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "1-800-452-4800",
+   "ship_url": "https://www.in.gov/ship/",
+   "sources": [
+    "http://www.in.gov/dor/i-am-a/individual/deductions/",
+    "https://www.in.gov/ship/",
+    "https://www.indianalegalservices.org/"
+   ],
+   "state_note": "Indiana Legal Services serves all 92 counties and has a Senior Law Project for people age 60 and over.",
+   "tax_note": "Indiana does not tax Social Security benefits, and county income tax does not apply to them either.",
+   "taxes_benefits": "no"
+  },
+  "iowa": {
+   "legal_aid_name": "Iowa Legal Aid",
+   "legal_aid_url": "https://iowalegalaid.org/",
+   "ship_name": "Senior Health Insurance Information Program (SHIIP)",
+   "ship_phone": "1-800-351-4664",
+   "ship_url": "https://shiip.iowa.gov/",
+   "sources": [
+    "https://www.aarp.org/states/iowa/state-tax-guide/",
+    "https://legalclarity.org/are-social-security-benefits-taxable-in-iowa/",
+    "https://shiip.iowa.gov/",
+    "https://www.cms.gov/about-cms/contact/directory/senior-health-insurance-information-program-shiip/1562071",
+    "https://iowalegalaid.org/"
+   ],
+   "state_note": "Iowa Legal Aid runs a Legal Hotline for Older Iowans for people age 60 and over, and serves all 99 counties.",
+   "tax_note": "Iowa does not tax Social Security benefits, and has not since 2014.",
+   "taxes_benefits": "no"
+  },
+  "kansas": {
+   "legal_aid_name": "Kansas Legal Services",
+   "legal_aid_url": "https://www.kansaslegalservices.org/",
+   "ship_name": "Senior Health Insurance Counseling for Kansas (SHICK)",
+   "ship_phone": "1-800-860-5260",
+   "ship_url": "https://www.kdads.ks.gov/services-programs/aging/medicare-programs/senior-health-insurance-counseling-for-kansas-shick",
+   "sources": [
+    "https://ksrevenue.gov/taxnotices/notice24-08.pdf",
+    "https://www.kdads.ks.gov/services-programs/aging/medicare-programs/senior-health-insurance-counseling-for-kansas-shick",
+    "https://www.cms.gov/about-cms/contact/directory/senior-health-insurance-counseling-kansas-shick/1562076",
+    "https://www.kansaslegalservices.org/"
+   ],
+   "state_note": "Kansas Legal Services has an Elder Law Hotline for Kansans over age 60.",
+   "tax_note": "Kansas does not tax Social Security benefits; the full exemption has applied at all income levels since tax year 2024 (before that, only if federal adjusted gross income was $75,000 or less).",
+   "taxes_benefits": "no"
+  },
+  "kentucky": {
+   "legal_aid_name": "Kentucky Justice Online (Kentucky's four regional legal-aid programs)",
+   "legal_aid_url": "https://www.kyjustice.org/",
+   "ship_name": "Kentucky State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "1-877-293-7447",
+   "ship_url": "https://www.chfs.ky.gov/agencies/dail/dql/Pages/ship.aspx",
+   "sources": [
+    "https://revenue.ky.gov/Forms/2015_3a_fedstatedifferences.pdf",
+    "https://www.chfs.ky.gov/agencies/dail/dql/Pages/ship.aspx",
+    "https://www.cms.gov/CCIIO/Resources/Consumer-Assistance-Grants/ky",
+    "https://www.kyjustice.org/"
+   ],
+   "state_note": "Four regional legal-aid programs cover all 120 counties; Kentucky Justice Online routes you to the one for your county, and Kentucky SHIP counselors serve all 120 counties too.",
+   "tax_note": "Kentucky does not tax Social Security benefits at all, regardless of income.",
+   "taxes_benefits": "no"
+  },
+  "louisiana": {
+   "legal_aid_name": "Southeast Louisiana Legal Services",
+   "legal_aid_url": "https://slls.org/",
+   "ship_name": "Louisiana Senior Health Information Program (LaSHIP)",
+   "ship_phone": "1-800-259-5300",
+   "ship_url": "https://ldi.la.gov/consumers/senior-health-shiip",
+   "sources": [
+    "https://revenue.louisiana.gov/tax-education-and-faqs/faqs/individual-income-tax/is-there-a-list-of-retirement-system-benefits-that-may-be-excluded-from-louisiana-income-tax/",
+    "https://ldi.la.gov/consumers/senior-health-shiip",
+    "https://www.cms.gov/cciio/resources/Consumer-Assistance-Grants/la",
+    "https://slls.org/"
+   ],
+   "state_note": "Louisiana's SHIP program is now called LaSHIP, and legal aid is regional: Southeast Louisiana Legal Services covers 22 southeast parishes, while Acadiana Legal Service Corporation serves the rest of the state.",
+   "tax_note": "Louisiana does not tax Social Security benefits at all.",
+   "taxes_benefits": "no"
+  },
+  "maine": {
+   "legal_aid_name": "Pine Tree Legal Assistance",
+   "legal_aid_url": "https://www.ptla.org/",
+   "ship_name": "Maine State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": null,
+   "ship_url": "https://www.maine.gov/dhhs/oads/get-support/older-adults-disabilities/older-adult-services/ship-medicare-assistance",
+   "sources": [
+    "https://www.maine.gov/REVENUE/faq/income_faq.html",
+    "https://www.maine.gov/dhhs/oads/get-support/older-adults-disabilities/older-adult-services/ship-medicare-assistance",
+    "https://www.ptla.org/"
+   ],
+   "state_note": "Maine SHIP is sponsored by the Office of Aging and Disability Services with Legal Services for Maine Elders, which also runs a free Medicare Part D appeals unit.",
+   "tax_note": "Maine does not tax Social Security benefits; the amount taxed federally is subtracted on the Maine return.",
+   "taxes_benefits": "no"
+  },
+  "maryland": {
+   "legal_aid_name": "Maryland Legal Aid",
+   "legal_aid_url": "https://www.mdlab.org/",
+   "ship_name": "State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "1-800-243-3425",
+   "ship_url": "https://aging.maryland.gov/Pages/state-health-insurance-program.aspx",
+   "sources": [
+    "https://services.marylandcomptroller.gov/taxes?id=kb_article_view&sysparm_article=KB0010205",
+    "https://aging.maryland.gov/Pages/state-health-insurance-program.aspx",
+    "https://www.cms.gov/about-cms/contact/directory/state-health-insurance-assistance-program-ship/1562096",
+    "https://www.mdlab.org/"
+   ],
+   "state_note": "Maryland has a SHIP office in every county, and Maryland Legal Aid has a Benefits Justice initiative for problems with SNAP, Medicaid, and Medicare.",
+   "tax_note": "Maryland does not tax Social Security benefits, at either the state or local level.",
+   "taxes_benefits": "no"
+  },
+  "massachusetts": {
+   "legal_aid_name": "Greater Boston Legal Services",
+   "legal_aid_url": "https://www.gbls.org/",
+   "ship_name": "SHINE (Serving the Health Insurance Needs of Everyone)",
+   "ship_phone": "1-800-243-4636",
+   "ship_url": "https://www.mass.gov/info-details/serving-the-health-insurance-needs-of-everyone-shine-program",
+   "sources": [
+    "https://budget.digital.mass.gov/govbudget/fy25/tax-expenditure-budget/personal-income-tax/exclusions-from-gross-income/1-009/",
+    "https://www.mass.gov/info-details/serving-the-health-insurance-needs-of-everyone-shine-program",
+    "https://www.gbls.org/",
+    "https://www.cms.gov/CCIIO/Resources/Consumer-Assistance-Grants/MA"
+   ],
+   "state_note": "SHINE is Massachusetts' name for the federal SHIP program; Greater Boston Legal Services covers Boston and nearby cities, not the whole state.",
+   "tax_note": "Massachusetts does not tax Social Security benefits at all, for retirement, survivor, or disability benefits.",
+   "taxes_benefits": "no"
+  },
+  "michigan": {
+   "legal_aid_name": "Michigan Legal Help",
+   "legal_aid_url": "https://michiganlegalhelp.org/",
+   "ship_name": "Michigan State Health Insurance Assistance Program (SHIP), locally known as MMAP (Medicare/Medicaid Assistance Program)",
+   "ship_phone": "1-800-803-7174",
+   "ship_url": "https://www.michigan.gov/mdhhs/adult-child-serv/adults-and-seniors/acls/state-health-insurance-assistance-program",
+   "sources": [
+    "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-206-30",
+    "https://www.michigan.gov/mdhhs/adult-child-serv/adults-and-seniors/acls/state-health-insurance-assistance-program",
+    "https://michiganlegalhelp.org/",
+    "https://www.cms.gov/cciio/resources/Consumer-Assistance-Grants/mi"
+   ],
+   "state_note": "Michigan Legal Help is the statewide front door for legal help and connects you to local legal-aid offices; the state's SHIP counselors are also known locally as MMAP.",
+   "tax_note": "Michigan lets you subtract all of your Social Security benefits from state taxable income, with no age or income limit.",
+   "taxes_benefits": "no"
+  },
+  "minnesota": {
+   "legal_aid_name": "LawHelp Minnesota",
+   "legal_aid_url": "https://lawhelpmn.org/",
+   "ship_name": "Minnesota Aging Pathways (formerly Senior LinkAge Line)",
+   "ship_phone": "1-800-333-2433",
+   "ship_url": "https://mn.gov/board-on-aging/direct-services/aging-pathways/",
+   "sources": [
+    "https://www.revenue.state.mn.us/social-security-benefit-subtraction",
+    "https://mn.gov/board-on-aging/direct-services/aging-pathways/",
+    "https://lawhelpmn.org/",
+    "https://www.cms.gov/cciio/Resources/consumer-assistance-grants/mn"
+   ],
+   "state_note": "The Senior LinkAge Line was renamed Minnesota Aging Pathways in 2025; the phone number is unchanged, and it is Minnesota's designated SHIP.",
+   "tax_note": "Minnesota taxes Social Security benefits but lets you subtract all of them if your adjusted gross income is below $110,780 (married filing jointly) or $86,410 (single or head of household) for 2026, with the subtraction shrinking as income rises above those levels.",
+   "taxes_benefits": "partial"
+  },
+  "mississippi": {
+   "legal_aid_name": "Mississippi Center for Legal Services",
+   "legal_aid_url": "https://mscenterforlegalservices.org/",
+   "ship_name": "Mississippi State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "1-844-822-4622",
+   "ship_url": "https://www.mdhs.ms.gov/aging/finding-services-for-older-adults/",
+   "sources": [
+    "https://www.dor.ms.gov/sites/default/files/Forms/Individual/80100241.pdf",
+    "https://www.mdhs.ms.gov/aging/finding-services-for-older-adults/",
+    "https://mscenterforlegalservices.org/",
+    "https://www.cms.gov/cciio/resources/consumer-assistance-grants/ms"
+   ],
+   "state_note": "Legal aid is split by region: Mississippi Center for Legal Services covers 43 central and southern counties, while North Mississippi Rural Legal Services covers the northern counties.",
+   "tax_note": "Mississippi does not tax Social Security benefits at all.",
+   "taxes_benefits": "no"
+  },
+  "missouri": {
+   "legal_aid_name": "Legal Services of Eastern Missouri",
+   "legal_aid_url": "https://lsem.org/",
+   "ship_name": "Missouri SHIP (formerly CLAIM)",
+   "ship_phone": "1-800-390-3330",
+   "ship_url": "https://www.missouriship.org/",
+   "sources": [
+    "https://revisor.mo.gov/main/OneSection.aspx?section=143.125&bid=53802&hl=",
+    "https://www.missouriship.org/",
+    "https://lsem.org/",
+    "https://www.cms.gov/cciio/resources/consumer-assistance-grants/mo"
+   ],
+   "state_note": "Missouri SHIP was called CLAIM until 2023; Missouri has four regional legal-aid programs, and Legal Services of Eastern Missouri serves the 21 eastern counties.",
+   "tax_note": "Since tax year 2024, Missouri exempts the full amount of Social Security benefits included in federal income, with no income limit, for people age 62 or older and for disability benefits.",
+   "taxes_benefits": "no"
+  },
+  "montana": {
+   "legal_aid_name": "Montana Legal Services Association",
+   "legal_aid_url": "https://www.mtlsa.org/",
+   "ship_name": "Montana State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "1-800-551-3191",
+   "ship_url": "https://dphhs.mt.gov/sltc/aging/ship",
+   "sources": [
+    "https://revenue.mt.gov/montana-tax-simplification-resource-hub",
+    "https://dphhs.mt.gov/sltc/aging/ship",
+    "https://www.mtlsa.org/",
+    "https://www.cms.gov/cciio/resources/consumer-assistance-grants/mt"
+   ],
+   "state_note": "Montana law exempts Social Security benefits entirely starting in tax year 2030 (HB 148); until then only the federally taxable part is taxed.",
+   "tax_note": "Montana taxes the same part of your Social Security benefits that the federal government taxes, though people 65 or older get a $5,660 subtraction from taxable income for 2026.",
+   "taxes_benefits": "partial"
+  },
+  "nebraska": {
+   "legal_aid_name": "Legal Aid of Nebraska",
+   "legal_aid_url": "https://www.legalaidofnebraska.org/",
+   "ship_name": "Nebraska SHIP & SMP (Nebraska Senior Health Insurance Information Program)",
+   "ship_phone": "1-800-234-7119",
+   "ship_url": "https://doi.nebraska.gov/nebraska-ship-smp",
+   "sources": [
+    "https://revenue.nebraska.gov/about/2022-nebraska-legislative-changes",
+    "https://doi.nebraska.gov/nebraska-ship-smp",
+    "https://legalaidofnebraska.org/",
+    "https://www.cms.gov/CCIIO/resources/Consumer-Assistance-Grants/ne"
+   ],
+   "state_note": "Nebraska's SHIP shares an office with the Senior Medicare Patrol, which helps with Medicare fraud; Legal Aid of Nebraska has a separate Elder AccessLine for people 60 and older.",
+   "tax_note": "Nebraska does not tax Social Security benefits at all — the full amount included in federal income is subtracted, with no income limit, since tax year 2025.",
+   "taxes_benefits": "no"
+  },
+  "nevada": {
+   "legal_aid_name": "Nevada Legal Services",
+   "legal_aid_url": "https://nevadalegalservices.org/",
+   "ship_name": "Nevada Medicare Assistance Program (MAP)",
+   "ship_phone": "1-800-307-4444",
+   "ship_url": "https://adsd.nv.gov/Programs/Seniors/Medicare_Assistance_Program_(MAP)/MAP_Prog/",
+   "sources": [
+    "https://tax.nv.gov/about-nevada-department-of-taxation/income-tax-in-nevada/",
+    "https://adsd.nv.gov/Programs/Seniors/Medicare_Assistance_Program_(MAP)/MAP_Prog/",
+    "https://nevadalegalservices.org/",
+    "https://www.cms.gov/cciio/resources/consumer-assistance-grants/nv"
+   ],
+   "state_note": "Nevada's SHIP is called the Medicare Assistance Program (MAP); Nevada Legal Services is the only statewide legal-aid firm and runs a Senior Law Project for people 60 and older.",
+   "tax_note": "Nevada has no state income tax, so Social Security benefits are not taxed by the state.",
+   "taxes_benefits": "no"
+  },
+  "new hampshire": {
+   "legal_aid_name": "New Hampshire Legal Assistance",
+   "legal_aid_url": "https://www.nhla.org/",
+   "ship_name": "NH SHIP — ServiceLink Resource Center",
+   "ship_phone": "1-866-634-9412",
+   "ship_url": "https://www.servicelink.nh.gov/",
+   "sources": [
+    "https://www.revenue.nh.gov/news-and-media/repeal-nh-interest-and-dividends-tax-now-effect",
+    "https://www.servicelink.nh.gov/",
+    "https://www.nhla.org/",
+    "https://www.cms.gov/cciio/resources/Consumer-Assistance-Grants/nh"
+   ],
+   "state_note": "New Hampshire's SHIP counseling runs through ServiceLink Resource Centers; New Hampshire Legal Assistance handles SSDI and SSI denials as public-benefits cases.",
+   "tax_note": "New Hampshire has no state income tax — its only income tax, on interest and dividends, was repealed effective January 1, 2025 — so Social Security benefits are not taxed by the state.",
+   "taxes_benefits": "no"
+  },
+  "new jersey": {
+   "legal_aid_name": "Legal Services of New Jersey (LSNJ)",
+   "legal_aid_url": "https://lsnjlaw.org/",
+   "ship_name": "New Jersey State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "1-800-792-8820",
+   "ship_url": "https://www.nj.gov/humanservices/doas/services/q-z/ship/",
+   "sources": [
+    "https://www.nj.gov/treasury/taxation/njit12.shtml",
+    "https://www.nj.gov/humanservices/doas/services/q-z/ship/",
+    "https://lsnjlaw.org/",
+    "https://www.cms.gov/CCIIO/Resources/Consumer-Assistance-Grants/NJ"
+   ],
+   "state_note": "New Jersey's pension exclusion does not apply to Social Security, which is exempt on its own; LSNJ runs the statewide legal hotline and five regional programs cover all 21 counties.",
+   "tax_note": "New Jersey lists Social Security benefits as exempt (nontaxable) income, so they are not taxed by the state.",
+   "taxes_benefits": "no"
+  },
+  "new mexico": {
+   "legal_aid_name": "New Mexico Legal Aid",
+   "legal_aid_url": "https://newmexicolegalaid.org",
+   "ship_name": "New Mexico State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "1-800-432-2080",
+   "ship_url": "https://www.aging.nm.gov/medicare",
+   "sources": [
+    "https://www.tax.newmexico.gov/social-security-income-tax-exemption/",
+    "https://www.aging.nm.gov/medicare",
+    "https://newmexicolegalaid.org"
+   ],
+   "state_note": "New Mexico Legal Aid runs a Senior Law Program that gives free legal help to seniors statewide regardless of income.",
+   "tax_note": "New Mexico exempts Social Security benefits from state tax if your adjusted gross income is under $100,000 filing single or $150,000 married filing jointly ($75,000 married filing separately); above those limits, the federally taxable part of your benefits is taxed.",
+   "taxes_benefits": "partial"
+  },
+  "new york": {
+   "legal_aid_name": "The Legal Aid Society",
+   "legal_aid_url": "https://legalaidnyc.org",
+   "ship_name": "HIICAP — Health Insurance Information, Counseling, and Assistance Program",
+   "ship_phone": "1-800-701-0501",
+   "ship_url": "https://aging.ny.gov/health-insurance-information-counseling-and-assistance-programs",
+   "sources": [
+    "https://apps.cio.ny.gov/apps/mediacontact/public/view.cfm?parm=FCBBD644-5056-9076-649FC8D50A90A873",
+    "https://aging.ny.gov/health-insurance-information-counseling-and-assistance-programs",
+    "https://legalaidnyc.org"
+   ],
+   "state_note": "The Legal Aid Society listed here serves New York City; elsewhere in the state, LawHelpNY lists the local free legal aid program for each county.",
+   "tax_note": "New York does not tax Social Security benefits at all — any amount taxed on your federal return is subtracted back out on your state return.",
+   "taxes_benefits": "no"
+  },
+  "north carolina": {
+   "legal_aid_name": "Legal Aid of North Carolina",
+   "legal_aid_url": "https://legalaidnc.org",
+   "ship_name": "Seniors' Health Insurance Information Program (SHIIP)",
+   "ship_phone": "1-855-408-1212",
+   "ship_url": "https://www.ncdoi.gov/consumers/medicare-and-seniors-health-insurance-information-program-shiip/contact-seniors-health-insurance-information-program-shiip",
+   "sources": [
+    "https://www.NCDOR.gov/taxes-forms/individual-income-tax/social-security-and-railroad-retirement-benefits",
+    "https://www.ncdoi.gov/consumers/medicare-and-seniors-health-insurance-information-program-shiip/contact-seniors-health-insurance-information-program-shiip",
+    "https://legalaidnc.org"
+   ],
+   "state_note": "SHIIP has trained volunteer counselors in all 100 North Carolina counties.",
+   "tax_note": "North Carolina does not tax Social Security benefits — any amount taxed on your federal return is subtracted on your state return.",
+   "taxes_benefits": "no"
+  },
+  "north dakota": {
+   "legal_aid_name": "Legal Services of North Dakota",
+   "legal_aid_url": "https://lsnd.org",
+   "ship_name": "North Dakota State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "1-888-575-6611",
+   "ship_url": "https://www.insurance.nd.gov/consumers/medicare",
+   "sources": [
+    "https://www.tax.nd.gov/sites/www/files/documents/forms/individual/2024-iit/28702-form-nd-1-2024.pdf",
+    "https://www.insurance.nd.gov/consumers/medicare",
+    "https://lsnd.org"
+   ],
+   "state_note": "North Dakota's SHIP program is also known locally as SHIC, the State Health Insurance Counseling program.",
+   "tax_note": "North Dakota does not tax Social Security benefits — the federally taxable part is excluded on your state return, with no income limit since tax year 2021.",
+   "taxes_benefits": "no"
+  },
+  "ohio": {
+   "legal_aid_name": "Ohio Legal Help",
+   "legal_aid_url": "https://www.ohiolegalhelp.org",
+   "ship_name": "Ohio Senior Health Insurance Information Program (OSHIIP)",
+   "ship_phone": "1-800-686-1578",
+   "ship_url": "https://insurance.ohio.gov/consumers/medicare/oshiip-coordinators-list",
+   "sources": [
+    "https://www.aarp.org/states/ohio/state-tax-guide/",
+    "https://insurance.ohio.gov/consumers/medicare/oshiip-coordinators-list",
+    "https://www.ohiolegalhelp.org"
+   ],
+   "state_note": "Ohio has no single statewide legal-aid law firm; Ohio Legal Help is the statewide gateway that connects residents to their regional legal aid program.",
+   "tax_note": "Ohio does not tax Social Security benefits — you subtract the federally taxable amount on the Ohio Schedule of Adjustments so it never enters your Ohio taxable income.",
+   "taxes_benefits": "no"
+  },
+  "oklahoma": {
+   "legal_aid_name": "Legal Aid Services of Oklahoma",
+   "legal_aid_url": "https://legalaidok.org",
+   "ship_name": "Senior Health Insurance Counseling Program (SHIP)",
+   "ship_phone": "1-800-763-2828",
+   "ship_url": "https://www.oid.ok.gov/consumers/information-for-seniors/senior-health-insurance-counseling-program-ship/",
+   "sources": [
+    "https://oklahoma.gov/content/dam/ok/en/tax/documents/resources/reports/tax-expenditure/TaxExpenditureReport-2025-2026.pdf",
+    "https://www.oid.ok.gov/consumers/information-for-seniors/senior-health-insurance-counseling-program-ship/",
+    "https://legalaidok.org"
+   ],
+   "state_note": "Oklahoma's SHIP program is also called MAP, the Medicare Assistance Program.",
+   "tax_note": "Oklahoma does not tax Social Security benefits — the full amount included in your federal income is subtracted on your Oklahoma return.",
+   "taxes_benefits": "no"
+  },
+  "oregon": {
+   "legal_aid_name": "Legal Aid Services of Oregon",
+   "legal_aid_url": "https://lasoregon.org",
+   "ship_name": "Senior Health Insurance Benefits Assistance (SHIBA)",
+   "ship_phone": "1-800-722-4134",
+   "ship_url": "https://www.shiba.oregon.gov",
+   "sources": [
+    "https://www.oregon.gov/dor/programs/individuals/Pages/PIT.aspx",
+    "https://www.shiba.oregon.gov",
+    "https://lasoregon.org"
+   ],
+   "state_note": "Oregon has no sales tax, but it taxes most other retirement income, such as pensions and IRA withdrawals, at rates up to 9.9%.",
+   "tax_note": "Oregon does not tax Social Security or Railroad Retirement benefits — any amount taxed federally is subtracted on your Oregon return.",
+   "taxes_benefits": "no"
+  },
+  "pennsylvania": {
+   "legal_aid_name": "Pennsylvania Legal Aid Network",
+   "legal_aid_url": "https://palegalaid.net",
+   "ship_name": "PA MEDI — Pennsylvania Medicare Education and Decision Insight (formerly APPRISE)",
+   "ship_phone": "1-800-783-7067",
+   "ship_url": "https://www.pa.gov/agencies/aging/aging-programs-and-services/pa-medi-medicare-counseling.htmlx",
+   "sources": [
+    "https://www.pa.gov/content/dam/copapwp-pagov/en/revenue/documents/formsandpublications/formsforindividuals/pit/documents/rev-581.pdf",
+    "https://www.pa.gov/agencies/aging/aging-programs-and-services/pa-medi-medicare-counseling.htmlx",
+    "https://palegalaid.net"
+   ],
+   "state_note": "The Pennsylvania Legal Aid Network itself does not take cases — it coordinates eight regional legal aid programs covering all 67 counties, and PALawHelp.org points you to the one for your county.",
+   "tax_note": "Pennsylvania does not tax Social Security benefits — they are not one of the eight classes of income Pennsylvania taxes.",
+   "taxes_benefits": "no"
+  },
+  "rhode island": {
+   "legal_aid_name": "Rhode Island Legal Services",
+   "legal_aid_url": "https://www.rils.org",
+   "ship_name": "Senior Health Insurance Program (SHIP)",
+   "ship_phone": "1-888-884-8721",
+   "ship_url": "https://oha.ri.gov/medicare",
+   "sources": [
+    "https://tax.ri.gov/sites/g/files/xkgbur541/files/Advisory/ADV_2020_59.pdf",
+    "https://oha.ri.gov/medicare",
+    "https://www.rils.org"
+   ],
+   "state_note": "Rhode Island's exemption is all-or-nothing: if your federal adjusted gross income is even $1 over the limit, you lose the entire exemption.",
+   "tax_note": "Rhode Island taxes Social Security benefits unless you have reached full retirement age and your federal adjusted gross income is under $107,000 filing single or $133,750 married filing jointly (2025 tax year), in which case your benefits are fully exempt.",
+   "taxes_benefits": "partial"
+  },
+  "south carolina": {
+   "legal_aid_name": "South Carolina Legal Services",
+   "legal_aid_url": "https://sclegal.org",
+   "ship_name": "South Carolina State Health Insurance Assistance Program (SC SHIP), also known as I-CARE",
+   "ship_phone": "1-800-868-9095",
+   "ship_url": "https://aging.sc.gov/programs-initiatives/medicare-and-medicare-fraud",
+   "sources": [
+    "https://dor.sc.gov/tax-tips/retirees-lower-your-individual-income-tax-bill-these-five-tips",
+    "https://aging.sc.gov/programs-initiatives/medicare-and-medicare-fraud",
+    "https://sclegal.org"
+   ],
+   "state_note": "South Carolina's SHIP program is also called I-CARE, short for Insurance Counseling Assistance and Referrals for Elders.",
+   "tax_note": "South Carolina does not tax Social Security benefits — the federally taxed amount is subtracted on your state return.",
+   "taxes_benefits": "no"
+  },
+  "south dakota": {
+   "legal_aid_name": "East River Legal Services",
+   "legal_aid_url": "https://erlservices.org/",
+   "ship_name": "Senior Health Information & Insurance Education (SHIINE)",
+   "ship_phone": "800-536-8197",
+   "ship_url": "https://dhs.sd.gov/en/ltss/shiine",
+   "sources": [
+    "https://dor.sd.gov/individuals/taxes",
+    "https://dhs.sd.gov/en/ltss/shiine",
+    "https://www.shiine.net",
+    "https://www.cms.gov/about-cms/contact/directory/senior-health-information-insurance-education-shiine/1562206",
+    "https://erlservices.org/"
+   ],
+   "state_note": "South Dakota has two regional legal-aid programs: East River Legal Services covers the eastern 33 counties, and Dakota Plains Legal Services covers western South Dakota.",
+   "tax_note": "South Dakota has no state income tax at all, so Social Security benefits are not taxed by the state (federal tax on benefits may still apply).",
+   "taxes_benefits": "no"
+  },
+  "tennessee": {
+   "legal_aid_name": "Legal Aid Society of Middle Tennessee and the Cumberlands",
+   "legal_aid_url": "https://las.org/",
+   "ship_name": "Tennessee State Health Insurance Assistance Program (TN SHIP)",
+   "ship_phone": "877-801-0044",
+   "ship_url": "https://www.tn.gov/disability-and-aging/disability-aging-programs/tn-ship.html",
+   "sources": [
+    "https://www.tn.gov/disability-and-aging/disability-aging-programs/tn-ship.html",
+    "https://www.cms.gov/ccIIO/Resources/Consumer-Assistance-Grants/tn",
+    "https://las.org/",
+    "https://www.supermoney.com/encyclopedia/states-with-no-income-tax"
+   ],
+   "state_note": "Tennessee's largest legal-aid provider serves 48 counties in Middle Tennessee and the Cumberland Plateau; East and West Tennessee have separate legal-aid programs.",
+   "tax_note": "Tennessee has no personal income tax (the Hall tax on interest and dividends was fully repealed January 1, 2021), so Social Security benefits are not taxed by the state.",
+   "taxes_benefits": "no"
+  },
+  "texas": {
+   "legal_aid_name": "Lone Star Legal Aid",
+   "legal_aid_url": "https://www.lonestarlegal.org/",
+   "ship_name": "Texas Health Information, Counseling and Advocacy Program (HICAP)",
+   "ship_phone": "800-252-9240",
+   "ship_url": "https://www.hhs.texas.gov/services/health/medicare",
+   "sources": [
+    "https://www.hhs.texas.gov/services/health/medicare",
+    "https://www.cms.gov/cciio/Resources/consumer-assistance-grants/tx",
+    "https://www.lonestarlegal.org/",
+    "https://www.supermoney.com/encyclopedia/states-with-no-income-tax"
+   ],
+   "state_note": "Texas has three regional legal-aid providers; Lone Star Legal Aid serves 72 counties in East and Southeast Texas, while Legal Aid of NorthWest Texas and Texas RioGrande Legal Aid cover the rest of the state.",
+   "tax_note": "Texas has no state personal income tax, so Social Security benefits are not taxed by the state (federal tax on benefits may still apply).",
+   "taxes_benefits": "no"
+  },
+  "utah": {
+   "legal_aid_name": "Utah Legal Services",
+   "legal_aid_url": "https://www.utahlegalservices.org/",
+   "ship_name": "Senior Health Insurance Information Program (SHIP)",
+   "ship_phone": "800-541-7735",
+   "ship_url": "http://daas.utah.gov/seniors/",
+   "sources": [
+    "https://le.utah.gov/interim/2025/pdf/00002698.pdf",
+    "http://daas.utah.gov/seniors/",
+    "https://www.cms.gov/about-cms/contact/directory/senior-health-insurance-information-program-ship/1565301",
+    "https://www.utahlegalservices.org/"
+   ],
+   "state_note": "Utah Legal Services serves the whole state from offices in Ogden, Salt Lake City, Provo, and St. George, and handles public-benefits cases including Social Security.",
+   "tax_note": "Utah taxes the part of your Social Security benefits that is taxable on your federal return, but a state tax credit wipes out that tax if your income is below $54,000 (single) or $90,000 (married filing jointly); the credit shrinks as income rises above those levels.",
+   "taxes_benefits": "partial"
+  },
+  "vermont": {
+   "legal_aid_name": "Vermont Legal Aid",
+   "legal_aid_url": "https://www.vtlegalaid.org/",
+   "ship_name": "State Health Insurance Program (SHIP)",
+   "ship_phone": "800-642-5119",
+   "ship_url": "https://asd.vermont.gov/services/ship",
+   "sources": [
+    "http://tax.vermont.gov/individuals/income-tax-returns/social-security-exemption",
+    "https://asd.vermont.gov/services/ship",
+    "https://www.cms.gov/cciio/resources/consumer-assistance-grants/vt",
+    "https://www.vtlegalaid.org/"
+   ],
+   "state_note": "Vermont Legal Aid's Elder Law Project helps people over 60 with Social Security and other benefits issues, and its Health Care Advocate helps with Medicare problems.",
+   "tax_note": "Vermont exempts all federally taxable Social Security benefits if your income is $55,000 or less (single) or $70,000 or less (married filing jointly); the exemption phases out and ends at $65,000 single or $80,000 joint.",
+   "taxes_benefits": "partial"
+  },
+  "virginia": {
+   "legal_aid_name": "Virginia Legal Aid Society",
+   "legal_aid_url": "https://www.vlas.org/",
+   "ship_name": "Virginia Insurance Counseling and Assistance Program (VICAP)",
+   "ship_phone": "800-552-3402",
+   "ship_url": "https://www.vda.virginia.gov/vicap.htm",
+   "sources": [
+    "https://www.tax.virginia.gov/news/virginia-taxes-and-your-retirement",
+    "https://www.vda.virginia.gov/vicap.htm",
+    "https://www.cms.gov/CCIIO/resources/Consumer-Assistance-Grants/va",
+    "https://www.vlas.org/"
+   ],
+   "state_note": "Virginia has several regional legal-aid programs; Virginia Legal Aid Society serves 20 counties and 6 cities in Central, Southside, and Western Tidewater Virginia, and the statewide VALegalAid.org site can point you to the program for your area.",
+   "tax_note": "Virginia does not tax Social Security benefits — any part taxed on your federal return can be subtracted on your Virginia return.",
+   "taxes_benefits": "no"
+  },
+  "washington": {
+   "legal_aid_name": "Northwest Justice Project",
+   "legal_aid_url": "https://www.nwjustice.org/",
+   "ship_name": "Statewide Health Insurance Benefits Advisors (SHIBA)",
+   "ship_phone": "800-562-6900",
+   "ship_url": "https://www.insurance.wa.gov/insurance-resources/medicare/get-free-medicare-help-shiba",
+   "sources": [
+    "https://www.insurance.wa.gov/insurance-resources/medicare/get-free-medicare-help-shiba",
+    "https://www.cms.gov/cciio/resources/consumer-assistance-grants/wa",
+    "https://www.nwjustice.org/",
+    "https://www.supermoney.com/encyclopedia/states-with-no-income-tax"
+   ],
+   "state_note": "Northwest Justice Project has 19 offices statewide, and people 60 and over use its dedicated CLEAR*Sr intake line for free civil legal help.",
+   "tax_note": "Washington has no state personal income tax, so Social Security benefits are not taxed by the state (its separate 7% tax on large long-term capital gains does not touch benefits).",
+   "taxes_benefits": "no"
+  },
+  "west virginia": {
+   "legal_aid_name": "Legal Aid of West Virginia",
+   "legal_aid_url": "https://www.lawv.net/",
+   "ship_name": "West Virginia State Health Insurance Assistance Program (WV SHIP)",
+   "ship_phone": "877-987-4463",
+   "ship_url": "https://www.wvship.org",
+   "sources": [
+    "https://tax.wv.gov/Individuals/SeniorCitizens/Pages/SeniorCitizenSocialSecurityModification.aspx",
+    "https://www.wvship.org",
+    "https://www.cms.gov/CCIIO/Resources/Consumer-Assistance-Grants/WV",
+    "https://www.lawv.net/"
+   ],
+   "state_note": "Legal Aid of West Virginia is the state's main civil legal-aid provider with 12 offices; West Virginia Senior Legal Aid separately offers free civil legal help to residents 60 and over.",
+   "tax_note": "Starting with the 2026 tax year, West Virginia fully exempts Social Security benefits from state income tax for everyone, after a phase-out (35% exempt in 2024, 65% in 2025).",
+   "taxes_benefits": "no"
+  },
+  "wisconsin": {
+   "legal_aid_name": "Legal Action of Wisconsin",
+   "legal_aid_url": "https://legalaction.org/",
+   "ship_name": "Wisconsin State Health Insurance Assistance Program (SHIP)",
+   "ship_phone": "800-242-1060",
+   "ship_url": "https://www.dhs.wisconsin.gov/benefit-specialists/medicare-counseling.htm",
+   "sources": [
+    "https://www.revenue.wi.gov/Pages/FAQS/pcs-retired.aspx",
+    "https://www.dhs.wisconsin.gov/benefit-specialists/medicare-counseling.htm",
+    "https://legalaction.org/"
+   ],
+   "state_note": "Legal Action of Wisconsin merged with Judicare Legal Aid on January 1, 2026, creating one statewide civil legal-aid firm; it also runs a SeniorLAW program for people 60 and over.",
+   "tax_note": "Wisconsin does not tax Social Security benefits at all, no matter your income or age.",
+   "taxes_benefits": "no"
+  },
+  "wyoming": {
+   "legal_aid_name": "Legal Aid of Wyoming",
+   "legal_aid_url": "https://www.lawyoming.org/",
+   "ship_name": "Wyoming State Health Insurance Information Program (WSHIIP)",
+   "ship_phone": "800-856-4398",
+   "ship_url": "https://www.wyomingseniors.com/services/wyoming-state-health-insurance-information-program",
+   "sources": [
+    "https://www.wyomingseniors.com/services/wyoming-state-health-insurance-information-program",
+    "https://www.cms.gov/CCIIO/Resources/Consumer-Assistance-Grants/wy.html",
+    "https://www.lawyoming.org/",
+    "https://www.supermoney.com/encyclopedia/states-with-no-income-tax"
+   ],
+   "state_note": "Legal Aid of Wyoming is the statewide nonprofit legal-aid firm; it runs a free Legal Aid Hotline staffed by licensed attorneys on weekdays.",
+   "tax_note": "Wyoming has no state personal income tax, so Social Security benefits are not taxed by the state (federal tax on benefits may still apply).",
+   "taxes_benefits": "no"
+  }
+ }
+}
