@@ -1,0 +1,911 @@
+{
+ "states": {
+  "alabama": {
+   "castle_doctrine": "yes",
+   "castle_note": "The law presumes reasonable fear of death or serious injury when someone unlawfully and forcefully enters a dwelling, residence, business property, or occupied vehicle.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Legal Services Alabama",
+   "legal_aid_url": "https://legalservicesalabama.org/",
+   "retreat_note": "There is no duty to retreat anywhere you have a legal right to be, as long as you are not the initial aggressor and are not engaged in unlawful activity.",
+   "sources": [
+    "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB192-eng.pdf",
+    "https://legalclarity.org/is-alabama-a-stand-your-ground-state/",
+    "https://legalservicesalabama.org/"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "Deadly force is still limited to situations where you reasonably believe it is necessary against unlawful deadly force or certain serious felonies, so call a lawyer and do not talk to police about the facts without one.",
+   "statute_cite": "Ala. Code § 13A-3-23",
+   "statute_name": "Use of force in defense of a person",
+   "syg_note": "A person who is lawfully present and not engaged in unlawful activity has no duty to retreat before using force, including deadly force, in self-defense."
+  },
+  "alaska": {
+   "castle_doctrine": "yes",
+   "castle_note": "There is no duty to retreat on premises you own, lease, or reside in, as a guest there, at your workplace, or while protecting a child or household member.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Alaska Legal Services Corporation",
+   "legal_aid_url": "https://www.alsc-law.org/",
+   "retreat_note": "Deadly force is barred only if you know you can avoid it with complete safety by leaving, and that bar does not apply in any place where you have a right to be.",
+   "sources": [
+    "https://codes.findlaw.com/ak/title-11-criminal-law/ak-st-sect-11-81-335/",
+    "https://www.akleg.gov/basis/folioproxy.asp?url=http://wwwjnu03.akleg.org/cgi-bin/folioisa.dll/stattx07/query=[jump!3A!27as1176100!27]/doc/{t4746}/pageitems={body}?",
+    "https://www.alsc-law.org/wp-content/uploads/2013/11/2016-App-Nome.pdf"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "Deadly force still requires a reasonable belief it is necessary against death, serious physical injury, kidnapping, sexual assault, or robbery, so get legal help immediately after any incident.",
+   "statute_cite": "Alaska Stat. § 11.81.335",
+   "statute_name": "Justification: Use of deadly force in defense of self",
+   "syg_note": "There is no duty to leave the area before using deadly force if you are in any place where you have a right to be and are not the initial aggressor."
+  },
+  "arizona": {
+   "castle_doctrine": "yes",
+   "castle_note": "Force, including deadly force, may be used to prevent burglary of an occupied structure and other listed serious crimes, with no duty to retreat and a presumption of reasonableness.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Community Legal Services",
+   "legal_aid_url": "https://clsaz.org/",
+   "retreat_note": "Arizona law states no duty to retreat before using deadly force when you are lawfully present and not engaged in an unlawful act.",
+   "sources": [
+    "https://www.findlaw.com/state/arizona-law/arizona-stand-your-ground-and-self-defense-laws.html",
+    "https://www.azleg.gov/legtext/56leg/2R/bills/HB2235P.htm",
+    "https://clsaz.org/apply-for-services/"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "Once you raise self-defense, the state must disprove it beyond a reasonable doubt, but you still need a lawyer right away because the force must have been immediately necessary and reasonable.",
+   "statute_cite": "Ariz. Rev. Stat. § 13-405",
+   "statute_name": "Justification; use of deadly physical force",
+   "syg_note": "A person has no duty to retreat before threatening or using deadly force if in a place where they may legally be and not engaged in an unlawful act."
+  },
+  "arkansas": {
+   "castle_doctrine": "yes",
+   "castle_note": "A separate home-defense statute creates a presumption in favor of an occupant who uses force against an unlawful entry into a dwelling.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Legal Aid of Arkansas",
+   "legal_aid_url": "https://arlegalaid.org/",
+   "retreat_note": "There is no duty to retreat if you are lawfully present, reasonably believe deadly force is necessary against an imminent threat of death or serious injury, and meet the other statutory conditions.",
+   "sources": [
+    "https://codes.findlaw.com/ar/title-5-criminal-offenses/ar-code-sect-5-2-607/",
+    "https://legalclarity.org/arkansas-castle-law-when-can-you-use-deadly-force/",
+    "https://arlegalaid.org/"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "Stand-your-ground protection is lost if you provoked the fight, are committing a felony firearm-possession offense, or are using force to further criminal activity, so get a criminal defense lawyer immediately after an incident.",
+   "statute_cite": "Ark. Code Ann. § 5-2-607",
+   "statute_name": "Use of deadly physical force in defense of a person",
+   "syg_note": "Since Act 250 of 2021, a lawfully present person who is not the initial aggressor has no duty to retreat before using deadly force in self-defense."
+  },
+  "california": {
+   "castle_doctrine": "yes",
+   "castle_note": "Inside a residence, a person using deadly force against someone who unlawfully and forcibly entered is presumed to have held a reasonable fear of imminent death or great bodily injury.",
+   "duty_to_retreat": "limited",
+   "legal_aid_name": "LawHelpCA",
+   "legal_aid_url": "https://www.lawhelpca.org/",
+   "retreat_note": "No statute imposes a duty to retreat, and jury instructions say you may stand your ground, but that protection comes from case law and jury instructions rather than a stand-your-ground statute.",
+   "sources": [
+    "https://www.shouselaw.com/ca/defense/legal-defenses/self-defense/",
+    "https://www.esfandilawfirm.com/stand-your-ground",
+    "https://www.esfandilawfirm.com/castle-doctrine",
+    "https://www.lawhelpca.org/issues/consumer-small-claims/all-consumer-resources?lang=EN"
+   ],
+   "stand_your_ground": "limited",
+   "state_note": "Force must still be reasonable and proportionate to an imminent threat, and chasing or shooting a fleeing intruder is not protected, so call 911 and a lawyer and say nothing about the facts without one.",
+   "statute_cite": "Cal. Penal Code § 198.5",
+   "statute_name": "Use of force within residence; presumption of reasonable fear (Castle Doctrine)",
+   "syg_note": "California has no stand-your-ground statute, but the official jury instructions (CALCRIM 505 and 3470) say a person is not required to retreat before defending themselves."
+  },
+  "colorado": {
+   "castle_doctrine": "yes",
+   "castle_note": "Under the Make My Day law, an occupant of a dwelling may use any degree of force, including deadly force, against a person who unlawfully enters and is believed to have committed or intend a crime there.",
+   "duty_to_retreat": "limited",
+   "legal_aid_name": "Colorado Legal Services",
+   "legal_aid_url": "https://www.coloradolegalservices.org/",
+   "retreat_note": "No Colorado statute requires retreat before using force, but there is no explicit stand-your-ground statute, so the no-retreat rule rests on the general self-defense statute and case law.",
+   "sources": [
+    "https://law.justia.com/codes/colorado/title-18/article-1/part-7/section-18-1-704/",
+    "https://jbakerlawgroup.com/is-colorado-a-stand-your-ground-state/",
+    "https://www.weedenlaw.com/what-is-the-make-my-day-law/",
+    "http://www.coloradolegalservices.org/"
+   ],
+   "stand_your_ground": "limited",
+   "state_note": "Make My Day protection applies only inside the dwelling itself, not on a porch, yard, or common area, and deadly force still requires a reasonable belief that lesser force is inadequate and death or great bodily injury is imminent.",
+   "statute_cite": "Colo. Rev. Stat. § 18-1-704",
+   "statute_name": "Use of physical force in defense of a person",
+   "syg_note": "Colorado has no statute called stand your ground, but its self-defense statute imposes no duty to retreat, so in practice you may defend yourself without retreating."
+  },
+  "connecticut": {
+   "castle_doctrine": "yes",
+   "castle_note": "You are not required to retreat before using deadly force in your own dwelling or place of work if you were not the initial aggressor.",
+   "duty_to_retreat": "yes",
+   "legal_aid_name": "Connecticut Legal Services",
+   "legal_aid_url": "https://ctlegal.org/",
+   "retreat_note": "Outside your dwelling or workplace, you may not use deadly force if you know you can avoid it with complete safety by retreating, surrendering property, or complying with a demand.",
+   "sources": [
+    "https://law.justia.com/codes/connecticut/2019/title-53a/chapter-951/section-53a-19/",
+    "https://www.cga.ct.gov/2012/rpt/2012-r-0172.htm",
+    "https://ctlegal.org/get-help/"
+   ],
+   "stand_your_ground": "no",
+   "state_note": "Deadly force is a last resort in Connecticut, so if you could have safely walked away in public, a self-defense claim will likely fail and you need a criminal defense lawyer at once.",
+   "statute_cite": "Conn. Gen. Stat. § 53a-19",
+   "statute_name": "Use of physical force in defense of person",
+   "syg_note": "Connecticut has no stand-your-ground law and requires retreat before using deadly force outside the home or workplace when retreat is possible with complete safety."
+  },
+  "delaware": {
+   "castle_doctrine": "yes",
+   "castle_note": "You are not obliged to retreat in or from your own dwelling, or in or from your place of work unless you were the initial aggressor, before using force including deadly force.",
+   "duty_to_retreat": "yes",
+   "legal_aid_name": "Community Legal Aid Society, Inc. (CLASI)",
+   "legal_aid_url": "https://www.declasi.org/",
+   "retreat_note": "Before using deadly force in public, you must retreat if you know you can do so with complete safety, and Delaware has no statutory presumption that a home defender's fear was reasonable.",
+   "sources": [
+    "https://legis.delaware.gov/SessionLaws/Chapter/GetPdfDocument?fileAttachmentId=402247",
+    "https://www.recordinglaw.com/us-laws/self-defense-laws/delaware-self-defense-laws/",
+    "http://www.declasi.org"
+   ],
+   "stand_your_ground": "no",
+   "state_note": "Deadly force is justified only on a reasonable belief it is necessary against death, serious physical injury, kidnapping, or forcible sexual intercourse, so do not assume a break-in alone justifies it and get a lawyer immediately.",
+   "statute_cite": "11 Del. C. § 464",
+   "statute_name": "Justification — Use of force in self-protection",
+   "syg_note": "Delaware has no stand-your-ground statute and deadly force is not justifiable if you know you can avoid it with complete safety by retreating."
+  },
+  "florida": {
+   "castle_doctrine": "yes",
+   "castle_note": "A person in a dwelling or residence has no duty to retreat, and the law presumes reasonable fear of death or great bodily harm when someone unlawfully and forcefully enters a dwelling, residence, or occupied vehicle.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Florida Legal Services",
+   "legal_aid_url": "https://www.floridalegal.org/",
+   "retreat_note": "Florida law expressly states there is no duty to retreat before using or threatening force, including deadly force, when the use of force is otherwise justified.",
+   "sources": [
+    "https://www.leg.state.fl.us/statutes/index.cfm?app_mode=display_statute&url=0700-0799/0776/0776.html",
+    "https://panamacityattorney.com/blog/2025/february-2025/self-defense-when-this-applies-to-criminal-cases/",
+    "https://www.floridalawhelp.org/find-provider"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "Stand-your-ground protection does not apply if you were the initial aggressor or engaged in criminal activity, and justified force can still lead to an immunity hearing, so get a lawyer before giving a statement.",
+   "statute_cite": "Fla. Stat. § 776.012",
+   "statute_name": "Use or threatened use of force in defense of person",
+   "syg_note": "A person who is not engaged in criminal activity and is in a place where they have a right to be has no duty to retreat and has the right to stand their ground."
+  },
+  "georgia": {
+   "castle_doctrine": "yes",
+   "castle_note": "Force, including deadly force, may be used to prevent or stop an unlawful entry into or attack on a habitation when reasonably necessary, including against a violent entry.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Georgia Legal Services Program",
+   "legal_aid_url": "https://www.glsp.org/",
+   "retreat_note": "Georgia's no-duty-to-retreat statute applies anywhere the force is otherwise justified, not only inside the home.",
+   "sources": [
+    "https://www.recordinglaw.com/us-laws/self-defense-laws/georgia-self-defense-laws/",
+    "https://legalclarity.org/georgias-castle-doctrine-laws-boundaries-and-case-studies/",
+    "https://www.glsp.org/need-help/"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "Georgia gives no statutory presumption that a home defender's fear was reasonable, and the defense is lost if you provoked the fight or were committing a felony, so call a lawyer immediately after any use of force.",
+   "statute_cite": "O.C.G.A. § 16-3-23.1",
+   "statute_name": "No duty to retreat prior to use of force in self-defense",
+   "syg_note": "A person using force in accordance with Georgia's self-defense, habitation, or property statutes has no duty to retreat and has the right to stand their ground, including with deadly force."
+  },
+  "hawaii": {
+   "castle_doctrine": "yes",
+   "castle_note": "You are not required to retreat from your own dwelling or place of work before using deadly force, unless you were the initial aggressor.",
+   "duty_to_retreat": "yes",
+   "legal_aid_name": "Legal Aid Society of Hawaii",
+   "legal_aid_url": "https://www.legalaidhawaii.org/",
+   "retreat_note": "Deadly force is not justified if you know you can avoid it with complete safety by retreating, surrendering property, or complying with a demand.",
+   "sources": [
+    "https://law.justia.com/codes/hawaii/title-37/chapter-703/section-703-304/",
+    "https://giffords.org/lawcenter/state-laws/stand-your-ground-in-hawaii/",
+    "https://www.legalaidhawaii.org/get-legal-assistance.html"
+   ],
+   "stand_your_ground": "no",
+   "state_note": "Deadly force is allowed only against death, serious bodily injury, kidnapping, rape, or forcible sodomy, so call 911 and get a lawyer promptly after any incident.",
+   "statute_cite": "Haw. Rev. Stat. § 703-304",
+   "statute_name": "Use of force in self-protection",
+   "syg_note": "Hawaii has no stand-your-ground law and requires retreat before deadly force outside the home when retreat can be done with complete safety."
+  },
+  "idaho": {
+   "castle_doctrine": "yes",
+   "castle_note": "Force used against a person who unlawfully and forcibly enters a habitation, business, or occupied vehicle is presumed reasonable, with a presumption the intruder intended a felony.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Idaho Legal Aid Services",
+   "legal_aid_url": "https://idaholegalaid.org",
+   "retreat_note": "There is no duty to retreat anywhere you have a legal right to be, including in public.",
+   "sources": [
+    "https://legislature.idaho.gov/statutesrules/idstat/Title19/T19CH2/SECT19-202A/",
+    "https://legalclarity.org/does-idaho-have-a-castle-doctrine-law/",
+    "https://idaholegalaid.org/apply-for-help"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "Your force must still be what a reasonable person would find necessary, and an initial aggressor must genuinely try to stop the fight before claiming self-defense.",
+   "statute_cite": "Idaho Code § 19-202A",
+   "statute_name": "Defense of self, others and certain places",
+   "syg_note": "Idaho law says a person need not retreat from any place they have a right to be and may stand their ground in self-defense."
+  },
+  "illinois": {
+   "castle_doctrine": "yes",
+   "castle_note": "You may use force, including deadly force in limited circumstances, to prevent or stop an unlawful entry into or attack on your dwelling, with no duty to retreat from home.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Prairie State Legal Services",
+   "legal_aid_url": "https://pslegal.org/",
+   "retreat_note": "A non-aggressor has no duty to retreat in Illinois, though someone who provoked the fight generally loses self-defense protection.",
+   "sources": [
+    "https://legalclarity.org/is-illinois-a-stand-your-ground-state/",
+    "https://www.hankenlaw.com/blog/can-you-use-a-weapon-in-self-defense/",
+    "https://www.illinoislegalaid.org/organizations/locations/services/waukegan-office-legal-help-seniors"
+   ],
+   "stand_your_ground": "limited",
+   "state_note": "Deadly force is justified only if you reasonably believe it is necessary to prevent imminent death, great bodily harm, or a forcible felony, so the threat and your belief must both be reasonable.",
+   "statute_cite": "720 ILCS 5/7-1",
+   "statute_name": "Use of force in defense of person",
+   "syg_note": "Illinois has no stand-your-ground statute, but its courts hold that a person who did not start the fight has no duty to retreat before using force in public."
+  },
+  "indiana": {
+   "castle_doctrine": "yes",
+   "castle_note": "You may use reasonable force, including deadly force, to prevent or stop an unlawful entry into or attack on your dwelling, curtilage, or occupied vehicle, with no duty to retreat.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Indiana Legal Services",
+   "legal_aid_url": "https://www.indianalegalservices.org/",
+   "retreat_note": "There is no duty to retreat before using justified force, including deadly force, anywhere you have a right to be.",
+   "sources": [
+    "https://www.recordinglaw.com/us-laws/self-defense-laws/indiana-self-defense-laws/",
+    "https://www.doganlaw.com/when-can-you-claim-self-defense-in-indiana",
+    "https://www.indianalegalservices.org/about/"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "The protection does not apply if you were committing a crime, provoked the other person intending injury, or were the initial aggressor who did not withdraw.",
+   "statute_cite": "Ind. Code § 35-41-3-2",
+   "statute_name": "Use of force to protect person or property",
+   "syg_note": "Indiana law expressly says a person justified in using deadly force does not have a duty to retreat."
+  },
+  "iowa": {
+   "castle_doctrine": "yes",
+   "castle_note": "Deadly force is presumed reasonably necessary when someone unlawfully enters by force or stealth, and you have no duty to retreat from your dwelling or place of business.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Iowa Legal Aid",
+   "legal_aid_url": "https://www.iowalegalaid.org",
+   "retreat_note": "There is no duty to retreat anywhere you are lawfully present, as long as you are not engaged in illegal activity.",
+   "sources": [
+    "https://www.legis.iowa.gov/docs/code/2025/704.pdf",
+    "https://legalclarity.org/iowas-stand-your-ground-law-key-aspects-and-limitations/",
+    "https://iowalegalaid.org/resource/eviction-diversion-help-desks/"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "After using deadly force you must notify law enforcement within a reasonable time if you or someone nearby is physically able to do so.",
+   "statute_cite": "Iowa Code § 704.1",
+   "statute_name": "Reasonable force",
+   "syg_note": "Since 2017, Iowa law says a person not engaged in illegal activity has no duty to retreat from any place where they are lawfully present before using force."
+  },
+  "kansas": {
+   "castle_doctrine": "yes",
+   "castle_note": "You may use force, including deadly force, to stop an unlawful entry into or attack on your dwelling, place of work, or occupied vehicle, and a forcible entry creates a presumption that deadly force was reasonably believed necessary.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Kansas Legal Services",
+   "legal_aid_url": "https://www.kansaslegalservices.org/",
+   "retreat_note": "There is no duty to retreat before using force to protect yourself or another person, in public or at home.",
+   "sources": [
+    "https://www.kslegislature.gov/li_2018/m/statute/021_000_0000_chapter/021_052_0000_article/021_052_0030_section/021_052_0030_k.pdf",
+    "https://legalclarity.org/kansas-stand-your-ground-law-criteria-protections-and-impacts/",
+    "https://www.kansaslegalservices.org/about-us"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "Deadly force is justified only when you reasonably believe it is necessary to prevent imminent death or great bodily harm, and justified force carries immunity from criminal prosecution and civil lawsuits.",
+   "statute_cite": "Kan. Stat. Ann. § 21-5230",
+   "statute_name": "No duty to retreat",
+   "syg_note": "Kansas law says a person not engaged in unlawful activity who is attacked where they have a right to be has no duty to retreat and may stand their ground."
+  },
+  "kentucky": {
+   "castle_doctrine": "yes",
+   "castle_note": "If someone unlawfully and forcibly enters your dwelling, residence, or occupied vehicle, the law presumes you reasonably feared imminent death or serious physical injury.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Kentucky Justice Online",
+   "legal_aid_url": "https://www.kyjustice.org",
+   "retreat_note": "There is no duty to retreat before using deadly force when you are in a place you have a right to be and are not engaged in unlawful activity.",
+   "sources": [
+    "http://legalclarity.org/kentuckys-stand-your-ground-law-criteria-protections-limits/",
+    "https://clarkharris.com/federal-courts/can-i-be-charged-with-a-crime-for-self-defense-in-kentucky/",
+    "https://www.kyjustice.org/about-us"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "The home-entry presumption does not apply if the person entering has a legal right to be there, the person is a child in a lawful resident's custody, or you were engaged in unlawful activity.",
+   "statute_cite": "Ky. Rev. Stat. § 503.055",
+   "statute_name": "Use of defensive force regarding dwelling, residence, or occupied vehicle",
+   "syg_note": "Kentucky law says a person has no duty to retreat before using deadly force, and a person lawfully present who is attacked may stand their ground."
+  },
+  "louisiana": {
+   "castle_doctrine": "yes",
+   "castle_note": "A person lawfully inside a dwelling, place of business, or motor vehicle is presumed to reasonably believe force was necessary against an unlawful and forcible entry.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Acadiana Legal Service Corporation",
+   "legal_aid_url": "https://www.la-law.org",
+   "retreat_note": "There is no duty to retreat before using force or deadly force, and a jury may not consider the possibility of retreat when judging whether your belief was reasonable.",
+   "sources": [
+    "https://legis.la.gov/Legis/Law.aspx?p=y&d=78338",
+    "https://law.justia.com/codes/louisiana/2006/146/78336.html",
+    "https://www.lsba.org/documents/ATJ/LiLResourcesReferralsList.pdf"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "Force must still be reasonable and apparently necessary, and the protection is lost if you were engaged in unlawful activity such as a drug transaction.",
+   "statute_cite": "La. Rev. Stat. § 14:19",
+   "statute_name": "Use of force or violence in defense",
+   "syg_note": "Louisiana law says a person not engaged in unlawful activity who is in a place where they have a right to be has no duty to retreat and may stand their ground and meet force with force."
+  },
+  "maine": {
+   "castle_doctrine": "yes",
+   "castle_note": "You are not required to retreat from your own dwelling place if you were not the initial aggressor, and deadly force may be used against an unpermitted entry when you reasonably believe it is necessary to prevent bodily injury.",
+   "duty_to_retreat": "yes",
+   "legal_aid_name": "Pine Tree Legal Assistance",
+   "legal_aid_url": "https://www.ptla.org",
+   "retreat_note": "Outside your dwelling, deadly force is not justified if you know you can retreat with complete safety, surrender property, or comply with a demand to stop an act you are not obliged to perform.",
+   "sources": [
+    "https://legislature.maine.gov/legis/bills/bills_129th/billtexts/HP039001.asp",
+    "http://legalclarity.org/maines-self-defense-laws-stand-your-ground-explained/",
+    "https://www.ptla.org/pine-tree-services"
+   ],
+   "stand_your_ground": "no",
+   "state_note": "Deadly force is allowed only against imminent unlawful deadly force, kidnapping, robbery, or gross sexual assault, so a safe escape outside the home must be taken first.",
+   "statute_cite": "Me. Rev. Stat. tit. 17-A, § 108",
+   "statute_name": "Physical force in defense of a person",
+   "syg_note": "Maine has no stand-your-ground law and generally requires retreat before using deadly force when retreat can be done with complete safety."
+  },
+  "maryland": {
+   "castle_doctrine": "yes",
+   "castle_note": "Under Maryland common law you have no duty to retreat inside your own home and may use deadly force there if it is necessary to prevent a felony involving force, violence, or surprise.",
+   "duty_to_retreat": "yes",
+   "legal_aid_name": "Maryland Legal Aid",
+   "legal_aid_url": "https://www.mdlab.org/",
+   "retreat_note": "Outside the home you must make a reasonable effort to retreat or avoid danger before using deadly force, if retreat is within your power and consistent with your safety.",
+   "sources": [
+    "https://www.recordinglaw.com/us-laws/self-defense-laws/maryland-self-defense-laws/",
+    "https://www.findlaw.com/state/maryland-law/maryland-self-defense-laws.html",
+    "https://www.mdlab.org/get-help-services/"
+   ],
+   "stand_your_ground": "no",
+   "state_note": "Maryland self-defense is governed by court decisions rather than a statute, so after any incident say nothing beyond asking for a lawyer and calling 911, because you must prove each element of self-defense.",
+   "statute_cite": null,
+   "statute_name": null,
+   "syg_note": "Maryland has no stand-your-ground law, and its courts require a reasonable effort to retreat before using deadly force outside the home."
+  },
+  "massachusetts": {
+   "castle_doctrine": "yes",
+   "castle_note": "Under the castle law you have no duty to retreat inside your dwelling against a person unlawfully there if you reasonably believe that person is about to inflict death or great bodily injury.",
+   "duty_to_retreat": "yes",
+   "legal_aid_name": "Greater Boston Legal Services",
+   "legal_aid_url": "https://www.gbls.org/",
+   "retreat_note": "Outside the home you must retreat if there is a safe and reasonable way to avoid the confrontation.",
+   "sources": [
+    "https://giffords.org/lawcenter/state-laws/stand-your-ground-in-massachusetts/",
+    "https://www.serpalaw.com/criminal-defense-practice-areas/rights-legal-concepts/self-defense-massachusetts/",
+    "https://stage.mass.gov/info-details/model-jury-instructions-on-homicide-iii-self-defense-and-defense-of-another",
+    "https://www.gbls.org/get-legal-help/our-services"
+   ],
+   "stand_your_ground": "no",
+   "state_note": "After any use of force, call 911, do not leave the scene if it is safe to stay, and get a lawyer before giving a detailed statement to police.",
+   "statute_cite": "Mass. Gen. Laws ch. 278, § 8A",
+   "statute_name": "Castle Law",
+   "syg_note": "Massachusetts has no stand-your-ground law, and outside the home you must use all proper and reasonable means to avoid combat before using deadly force."
+  },
+  "michigan": {
+   "castle_doctrine": "yes",
+   "castle_note": "Inside your home, business, or occupied vehicle, the law presumes your fear was reasonable when someone is breaking in or has broken in.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Michigan Legal Help",
+   "legal_aid_url": "https://michiganlegalhelp.org/",
+   "retreat_note": "You have no duty to retreat in Michigan when the stand-your-ground conditions are met.",
+   "sources": [
+    "https://legalsolv.com/blog/michigan-self-defense-law-castle-doctrine-stand-your-ground/",
+    "https://legalclarity.org/michigans-stand-your-ground-law-criteria-and-comparisons/",
+    "https://michiganlegalhelp.org/news/ayuda-legal-de-michigan-website-online-now-get-free-accurate-legal-information-and-forms"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "Deadly force is still limited to preventing imminent death, great bodily harm, or sexual assault, so call 911 and get a lawyer before explaining what happened.",
+   "statute_cite": "Mich. Comp. Laws § 780.972",
+   "statute_name": "Self-Defense Act",
+   "syg_note": "Michigan has no duty to retreat anywhere you have a legal right to be, if you are not committing a crime and honestly and reasonably believe force is necessary to stop an imminent unlawful attack."
+  },
+  "minnesota": {
+   "castle_doctrine": "yes",
+   "castle_note": "Inside your own home you have no duty to retreat before using reasonable force in self-defense, even if the attacker also lives there.",
+   "duty_to_retreat": "yes",
+   "legal_aid_name": "LawHelpMN.org",
+   "legal_aid_url": "https://www.lawhelpmn.org/",
+   "retreat_note": "Outside the home you must retreat if it is reasonably possible to do so safely before using force, including before displaying a deadly weapon in a threatening way.",
+   "sources": [
+    "https://www.recordinglaw.com/us-laws/self-defense-laws/minnesota-self-defense-laws/",
+    "https://legalclarity.org/is-minnesota-a-stand-your-ground-state/",
+    "https://lprb.mncourts.gov/about/resources-for-the-public/"
+   ],
+   "stand_your_ground": "no",
+   "state_note": "Because the duty to retreat is judge-made and fact-specific, call 911, preserve any evidence that escape was not safely possible, and get a lawyer promptly.",
+   "statute_cite": "Minn. Stat. § 609.06",
+   "statute_name": "Authorized Use of Force",
+   "syg_note": "Minnesota is not a stand-your-ground state, and the state supreme court reaffirmed in 2024 that there is no inherent right to stand your ground."
+  },
+  "mississippi": {
+   "castle_doctrine": "yes",
+   "castle_note": "The law presumes you reasonably feared death or great bodily harm if someone unlawfully and forcibly enters your dwelling, occupied vehicle, business, or place of employment.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Mississippi Center for Legal Services",
+   "legal_aid_url": "https://mscenterforlegalservices.org/",
+   "retreat_note": "You have no duty to retreat in Mississippi when those stand-your-ground conditions are met.",
+   "sources": [
+    "https://syfert.com/mississippi/sections/97-3-15.html",
+    "https://www.coxwelllaw.com/blog/2025/may/mississippis-self-defense-laws-castle-doctrine-a/",
+    "https://www.womenslaw.org/find-help/ms/finding-lawyer/legal-assistance?ref=blog.counselstack.com"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "The protection does not apply if you started the fight or were engaged in unlawful activity, so call 911 and get a lawyer before giving a detailed statement.",
+   "statute_cite": "Miss. Code Ann. § 97-3-15",
+   "statute_name": "Justifiable Homicide; Use of Defensive Force; Duty to Retreat",
+   "syg_note": "Mississippi has a stand-your-ground law, so a person who is not the initial aggressor and is not engaged in unlawful activity has no duty to retreat where they have a right to be."
+  },
+  "missouri": {
+   "castle_doctrine": "yes",
+   "castle_note": "Deadly force is justified against a person who unlawfully enters, remains after unlawfully entering, or attempts to unlawfully enter a dwelling, residence, or vehicle you lawfully occupy.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Legal Services of Eastern Missouri",
+   "legal_aid_url": "https://lsem.org/",
+   "retreat_note": "You have no duty to retreat in Missouri when you are lawfully present and not the initial aggressor.",
+   "sources": [
+    "https://revisor.mo.gov/main/OneSection.aspx?section=563.31",
+    "https://www.recordinglaw.com/us-laws/self-defense-laws/missouri-self-defense-laws/",
+    "https://lsem.org/about/faq/"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "Force must still be reasonably believed necessary, and initial aggressors and people committing a forcible felony lose the justification, so call 911 and get a lawyer promptly.",
+   "statute_cite": "Mo. Rev. Stat. § 563.031",
+   "statute_name": "Use of Force in Defense of Persons",
+   "syg_note": "Missouri is a stand-your-ground state by statute, with no duty to retreat from a dwelling, residence, vehicle, private property you own or lease, or any other place you have a right to be."
+  },
+  "montana": {
+   "castle_doctrine": "yes",
+   "castle_note": "You may use force, including deadly force, to defend an occupied structure against unlawful entry when you reasonably believe it is needed to prevent an assault inside or a forcible felony there.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Montana Legal Services Association",
+   "legal_aid_url": "https://www.mtlsa.org/",
+   "retreat_note": "You have no duty to retreat in Montana when you are lawfully present and threatened.",
+   "sources": [
+    "https://law.justia.com/codes/montana/2019/title-45/chapter-3/part-1/section-45-3-110/",
+    "https://legaldowntown.com/blog/does-montana-have-stand-your-ground-law/",
+    "https://www.mtlsa.org/legal-information/"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "The protection is lost if you provoked the attack or were committing or escaping from a forcible felony, so call 911 and get a lawyer before giving a detailed statement.",
+   "statute_cite": "Mont. Code Ann. § 45-3-110",
+   "statute_name": "No Duty to Summon Help or Flee",
+   "syg_note": "Montana has a stand-your-ground law, and a person lawfully present who is threatened with bodily injury or loss of life has no duty to retreat or summon help before using force."
+  },
+  "nebraska": {
+   "castle_doctrine": "yes",
+   "castle_note": "You have no duty to retreat in your dwelling or place of work, unless you were the initial aggressor.",
+   "duty_to_retreat": "yes",
+   "legal_aid_name": "Legal Aid of Nebraska",
+   "legal_aid_url": "https://legalaidofnebraska.org/",
+   "retreat_note": "Outside your dwelling or workplace you must retreat before using deadly force when you know you can avoid it with complete safety.",
+   "sources": [
+    "https://legaldowntown.com/blog/does-nebraska-have-stand-your-ground-law/",
+    "https://www.vestfirstresponder.com/legal-guides/vest-nebraska-self-defense-law-guide.pdf",
+    "https://www.womenslaw.org/node/44378/L"
+   ],
+   "stand_your_ground": "no",
+   "state_note": "Because the line turns on whether retreat was safely possible and whether the place was your dwelling or workplace, call 911 and get a lawyer promptly.",
+   "statute_cite": "Neb. Rev. Stat. § 28-1409",
+   "statute_name": "Use of Force in Self-Protection",
+   "syg_note": "Nebraska has no stand-your-ground law, and outside the home or workplace you must retreat before using deadly force if you know you can do so with complete safety."
+  },
+  "nevada": {
+   "castle_doctrine": "yes",
+   "castle_note": "Killing is justifiable in defense of an occupied habitation or occupied motor vehicle against a person who manifestly intends to enter it violently to assault someone inside.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Nevada Legal Services",
+   "legal_aid_url": "https://nevadalegalservices.org/",
+   "retreat_note": "You have no duty to retreat in Nevada when those three stand-your-ground conditions are met.",
+   "sources": [
+    "https://www.richardpdavieslaw.com/criminal-defense/is-nevada-a-stand-your-ground-state/",
+    "https://702defense.com/nrs/200-120-justifiable-homicide/",
+    "https://nevadalegalservices.org/"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "Bare fear alone is not enough to justify a killing, so call 911, do not discuss the details beyond reporting the incident, and get a lawyer promptly.",
+   "statute_cite": "Nev. Rev. Stat. § 200.120",
+   "statute_name": "Justifiable Homicide",
+   "syg_note": "Nevada is a stand-your-ground state, and you need not retreat before using deadly force if you are not the original aggressor, have a right to be present, and are not engaged in criminal activity."
+  },
+  "new hampshire": {
+   "castle_doctrine": "yes",
+   "castle_note": "You may use force, including deadly force, to defend your dwelling and its curtilage when you reasonably believe someone committing a felony there is likely to use unlawful force.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "New Hampshire Legal Assistance",
+   "legal_aid_url": "https://www.nhla.org/",
+   "retreat_note": "You have no duty to retreat in New Hampshire when you are lawfully present and were not the initial aggressor.",
+   "sources": [
+    "https://legalclarity.org/new-hampshire-stand-your-ground-law-what-you-need-to-know/",
+    "https://www.usa-gun-shop.com/new-hampshire-gun-laws/",
+    "http://www.nhla.org/"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "Deadly force still requires a reasonable belief that it is necessary to prevent death or serious bodily injury, so call 911 and get a lawyer before giving a detailed statement.",
+   "statute_cite": "N.H. Rev. Stat. Ann. § 627:4",
+   "statute_name": "Physical Force in Defense of a Person",
+   "syg_note": "New Hampshire is a stand-your-ground state, and since a 2011 amendment you have no duty to retreat anywhere you have a right to be if you were not the initial aggressor."
+  },
+  "new jersey": {
+   "castle_doctrine": "yes",
+   "castle_note": "You are not obliged to retreat from your dwelling unless you were the initial aggressor, and separate rules protect against a person unlawfully entering your home.",
+   "duty_to_retreat": "yes",
+   "legal_aid_name": "Legal Services of New Jersey",
+   "legal_aid_url": "https://lsnjlaw.org/",
+   "retreat_note": "Outside your dwelling you must retreat before using deadly force if you know you can do so with complete safety.",
+   "sources": [
+    "https://www.Njcourts.gov/system/files/court-opinions/2025/a_13_24.pdf",
+    "https://www.newjerseycriminallawfirm.com/new-jersey-gun-laws-guide/self-defense/",
+    "https://lsnjlaw.org/represent-yourself/community-resources"
+   ],
+   "stand_your_ground": "no",
+   "state_note": "New Jersey also treats purposely firing a firearm at another person as deadly force, so call 911 and get a lawyer before giving a detailed statement.",
+   "statute_cite": "N.J. Stat. Ann. § 2C:3-4",
+   "statute_name": "Use of Force in Self-Protection",
+   "syg_note": "New Jersey has no stand-your-ground law, and deadly force is not justified if you know you can avoid it with complete safety by retreating."
+  },
+  "new mexico": {
+   "castle_doctrine": "yes",
+   "castle_note": "Case law (State v. Couch, 1946) holds that a person's home is their castle, so a homeowner need not retreat from an attack inside the home.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "New Mexico Legal Aid",
+   "legal_aid_url": "https://www.newmexicolegalaid.org/",
+   "retreat_note": "There is no duty to retreat before using force in self-defense, though deadly force still requires a reasonable fear of death or great bodily harm.",
+   "sources": [
+    "https://www.recordinglaw.com/us-laws/self-defense-laws/new-mexico-self-defense-laws/",
+    "https://en.wikipedia.org/wiki/Gun_laws_in_New_Mexico",
+    "https://www.sbnm.org/Portals/NMBAR/forPublic/LegalServiceProviders.pdf?ver=OmBcmBmG2GAjsRvYNFWH-w="
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "Because the no-retreat rule lives in jury instructions rather than a statute, you can still be charged and must prove self-defense in court, so call a lawyer immediately after any incident.",
+   "statute_cite": "N.M. Stat. Ann. § 30-2-7",
+   "statute_name": "Justifiable Homicide by Citizen",
+   "syg_note": "New Mexico has no stand-your-ground statute, but its Supreme Court jury instruction (UJI 14-5190) tells jurors a person defending against an attack need not retreat, even if retreat would be safe."
+  },
+  "new york": {
+   "castle_doctrine": "yes",
+   "castle_note": "Inside your own dwelling you have no duty to retreat before using deadly force, under the home exception in Penal Law § 35.15(2)(a)(i).",
+   "duty_to_retreat": "yes",
+   "legal_aid_name": "The Legal Aid Society",
+   "legal_aid_url": "https://legalaidnyc.org/",
+   "retreat_note": "Outside the home you may not use deadly force if you know you can avoid it with complete safety by retreating.",
+   "sources": [
+    "https://www.nycourts.gov/reporter/3DSERIES/2005/2005_02562.htm",
+    "https://www.law.cornell.edu/nyctap/I05_0039.htm",
+    "https://legalaidnyc.org/en/"
+   ],
+   "stand_your_ground": "no",
+   "state_note": "The castle exception is narrow: in People v. Aiken the Court of Appeals held a person in the doorway between an apartment and a common hallway still had a duty to retreat into the home.",
+   "statute_cite": "N.Y. Penal Law § 35.15",
+   "statute_name": "Justification; use of physical force in defense of a person",
+   "syg_note": "New York has no stand-your-ground law and requires retreat before using deadly force in public when it can be done with complete safety."
+  },
+  "north carolina": {
+   "castle_doctrine": "yes",
+   "castle_note": "A lawful occupant of a home, motor vehicle, or workplace is presumed to have a reasonable fear of death or serious bodily harm when using deadly force against someone unlawfully and forcibly entering.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Legal Aid of North Carolina",
+   "legal_aid_url": "https://legalaidnc.org/",
+   "retreat_note": "The 2011 Castle Doctrine law eliminated the common-law duty to retreat for a person lawfully present who is not the aggressor.",
+   "sources": [
+    "https://www.ncleg.gov/Sessions/2011/Bills/House/HTML/H650v2.html",
+    "https://www.greenvillecriminaldefenselaw.com/defensive-force-in-nc/",
+    "https://legalaidnc.org/get-help/?wfea_page_no_1=2"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "The castle presumption in § 14-51.2 does not apply if the person you use force against has a right to be there, such as a lawful resident, so get a lawyer before relying on it in a household dispute.",
+   "statute_cite": "N.C. Gen. Stat. § 14-51.3",
+   "statute_name": "Use of force in defense of person; relief from criminal or civil liability",
+   "syg_note": "A person who is not engaged in unlawful activity and is attacked in any place where they have a lawful right to be has no duty to retreat."
+  },
+  "north dakota": {
+   "castle_doctrine": "yes",
+   "castle_note": "There is no duty to retreat within or from your dwelling, place of work, or occupied motor home or travel trailer.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Legal Services of North Dakota",
+   "legal_aid_url": "https://lsnd.org/",
+   "retreat_note": "The 2021 law removed the old rule that deadly force was unjustified if it could be avoided by safe retreat, as long as the defender was lawfully present and not the aggressor.",
+   "sources": [
+    "https://www.justia.com/criminal/defenses/stand-your-ground-laws-50-state-survey/",
+    "https://ndlegis.gov/assembly/66-2019/regular/documents/19-1049-03000.pdf",
+    "https://lsnd.org/about/"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "Protection only applies if you were not engaged in unlawful activity and did not provoke the confrontation, and justified force also carries immunity from civil lawsuits.",
+   "statute_cite": "N.D. Cent. Code § 12.1-05-07",
+   "statute_name": "Limits on the use of force — Excessive force — Deadly force",
+   "syg_note": "Since August 1, 2021, a person who is lawfully present, not engaged in unlawful activity, and did not provoke the attack has no duty to retreat before using deadly force."
+  },
+  "ohio": {
+   "castle_doctrine": "yes",
+   "castle_note": "A person lawfully in their residence or vehicle has no duty to retreat, and a person who uses deadly force against someone unlawfully entering their residence or vehicle is presumed to have acted in self-defense.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Ohio Legal Help",
+   "legal_aid_url": "https://www.ohiolegalhelp.org/",
+   "retreat_note": "The 2021 amendment to ORC 2901.09 removed the duty to retreat anywhere you lawfully have a right to be, and the jury may not even consider the possibility of retreat.",
+   "sources": [
+    "https://codes.ohio.gov/ohio-revised-code/section-2901.09/9-9-2008",
+    "https://law.justia.com/codes/ohio/title-29/chapter-2901/section-2901-09/",
+    "https://www.recordinglaw.com/us-laws/self-defense-laws/ohio-self-defense-laws/",
+    "https://www.ohiolegalhelp.org/ohio-legal-help-launches-public"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "The stand-your-ground rule applies only to conduct on or after April 6, 2021, and removing the duty to retreat does not by itself make any use of force justified.",
+   "statute_cite": "Ohio Rev. Code § 2901.09",
+   "statute_name": "No duty to retreat in residence or vehicle",
+   "syg_note": "Since April 6, 2021, a person in any place where they lawfully have a right to be has no duty to retreat before using force in self-defense."
+  },
+  "oklahoma": {
+   "castle_doctrine": "yes",
+   "castle_note": "A person in a home, place of business, or place of worship is presumed to have a reasonable fear of death or great bodily harm when using defensive force against someone unlawfully and forcibly entering.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Legal Aid Services of Oklahoma",
+   "legal_aid_url": "https://legalaidok.org/",
+   "retreat_note": "The statute expressly says there is no duty to retreat, but deadly force is only justified to prevent death, great bodily harm, or a forcible felony.",
+   "sources": [
+    "https://www.oklegislature.gov/cf_pdf/2015-16 ENR/SB/SB41 ENR.PDF",
+    "https://overmanlegal.com/blog/the-truth-on-self-defense-laws-in-oklahoma/",
+    "https://legalaidok.org/programs/tulsa-rtc-program/"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "Deadly force is never justified to protect property alone, and it is not justified once the threat has been neutralized or the attacker is fleeing.",
+   "statute_cite": "Okla. Stat. tit. 21, § 1289.25",
+   "statute_name": "Physical or deadly force against intruder",
+   "syg_note": "A person who is not engaged in an unlawful activity and is attacked in any place where they have a right to be has no duty to retreat and may stand their ground, including with deadly force."
+  },
+  "oregon": {
+   "castle_doctrine": "yes",
+   "castle_note": "There is no standalone castle doctrine statute, but deadly force is allowed against someone reasonably believed to be committing burglary in a dwelling, and there is no duty to retreat at home.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Legal Aid Services of Oregon",
+   "legal_aid_url": "https://lasoregon.org/",
+   "retreat_note": "The no-retreat rule applies anywhere you have a legal right to be, not just at home, though a jury may still weigh whether your force was reasonable and proportionate.",
+   "sources": [
+    "https://caselaw.findlaw.com/court/or-supreme-court/1221783.html",
+    "https://legalclarity.org/is-oregon-a-stand-your-ground-state/",
+    "https://romanolawpc.com/gun-rights/castle-doctrine/",
+    "https://lasoregon.org/"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "Deadly force is limited by ORS 161.219 to three situations — imminent deadly force, a felony involving force, or burglary of a dwelling — so the no-retreat rule does not make every use of deadly force lawful.",
+   "statute_cite": "Or. Rev. Stat. § 161.209",
+   "statute_name": "Use of physical force in defense of a person",
+   "syg_note": "Oregon has no stand-your-ground statute, but the Oregon Supreme Court held in State v. Sandoval (2007) that the self-defense statutes impose no duty to retreat before using deadly force."
+  },
+  "pennsylvania": {
+   "castle_doctrine": "yes",
+   "castle_note": "A person in their dwelling, residence, or occupied vehicle is presumed to reasonably believe deadly force is immediately necessary against someone unlawfully and forcibly entering.",
+   "duty_to_retreat": "limited",
+   "legal_aid_name": "Pennsylvania Legal Aid Network",
+   "legal_aid_url": "https://palegalaid.net/",
+   "retreat_note": "The general rule still requires retreat before using deadly force if you know you can avoid it with complete safety, except in your home or when the stand-your-ground conditions in § 505(b)(2.3) are met.",
+   "sources": [
+    "https://www.pacourts.us/assets/opinions/Supreme/out/J-31-2016mo - 1027388488381079.pdf",
+    "https://www.pa.gov/content/dam/copapwp-pagov/en/mpoetc/documents/rleia/certified-le-firearms-instructors/title%2018%20chapter%205%20general%20priniciples%20of%20justification.pdf",
+    "https://palegalaid.net/"
+   ],
+   "stand_your_ground": "limited",
+   "state_note": "Do not assume you can stand your ground in a street confrontation: if the other person has no weapon, the duty to retreat still applies, so leave if you safely can.",
+   "statute_cite": "18 Pa. Cons. Stat. § 505",
+   "statute_name": "Use of force in self-protection",
+   "syg_note": "Outside the home there is no duty to retreat only if you are not engaged in criminal activity, are not illegally possessing a firearm, and the attacker displays or uses a firearm or other lethal weapon."
+  },
+  "rhode island": {
+   "castle_doctrine": "yes",
+   "castle_note": "An owner, tenant, or occupier has no duty to retreat from a person committing burglary or breaking and entering, and is presumed to have acted in reasonable self-defense.",
+   "duty_to_retreat": "yes",
+   "legal_aid_name": "Rhode Island Legal Services",
+   "legal_aid_url": "https://www.rils.org/",
+   "retreat_note": "Outside the home you must retreat if you are consciously aware of an open, safe, and available avenue of escape before using deadly force.",
+   "sources": [
+    "https://giffords.org/lawcenter/state-laws/stand-your-ground-in-rhode-island/",
+    "https://law.justia.com/codes/rhode-island/title-11/chapter-11-8/section-11-8-8/",
+    "https://www.ncsl.org/civil-and-criminal-justice/self-defense-and-stand-your-ground?__cf_chl_tk=RX8k2r9xd4v7w2LaUREyF3QuHxWv9D1ncnjPyI0CT8w-1731374691-1.0.1.1-qUgw1atW9ECZEprHltu18qOhrsRgrcyu_IJmFtpMNM4",
+    "http://www.rils.org/"
+   ],
+   "stand_your_ground": "no",
+   "state_note": "The castle presumption only covers someone committing a burglary or breaking-and-entering offense, so it does not protect you against a co-occupant or a lawful visitor in your home.",
+   "statute_cite": "R.I. Gen. Laws § 11-8-8",
+   "statute_name": "Injury or death — Defense",
+   "syg_note": "Rhode Island has no stand-your-ground law, and its Supreme Court has held that a person must retreat before using deadly force outside the home when retreat is safe."
+  },
+  "south carolina": {
+   "castle_doctrine": "yes",
+   "castle_note": "The Protection of Persons and Property Act codifies the castle doctrine and presumes reasonable fear of death or great bodily injury when deadly force is used against someone unlawfully and forcibly entering a dwelling, residence, or occupied vehicle.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "South Carolina Legal Services",
+   "legal_aid_url": "https://sclegal.org/",
+   "retreat_note": "The Act expressly states that no person should be required to needlessly retreat in the face of intrusion or attack.",
+   "sources": [
+    "https://www.scstatehouse.gov/sess116_2005-2006/prever/1131_20060208.htm",
+    "https://sccid.sc.gov/resource_bank/uploads/conferences-and-cles/2019-annual-public-defender-conference-092019/Ehrlich-Ford_Immunity-Hearings-Handout-and-Samples_PDCON2019.pdf",
+    "https://sclegal.org/services/"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "A person who lawfully uses deadly force under the Act is immune from criminal prosecution and civil action, but the protection does not apply if you were engaged in unlawful activity at the time.",
+   "statute_cite": "S.C. Code Ann. § 16-11-440",
+   "statute_name": "Protection of Persons and Property Act",
+   "syg_note": "A person who is not engaged in an unlawful activity and is attacked in any place where they have a right to be has no duty to retreat and may stand their ground with deadly force."
+  },
+  "south dakota": {
+   "castle_doctrine": "yes",
+   "castle_note": "A person in a dwelling or residence where they have a right to be has no duty to retreat and may stand their ground and use force, including deadly force, against an imminent threat of death, great bodily harm, or a forcible felony.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "East River Legal Services",
+   "legal_aid_url": "https://erlservices.org/",
+   "retreat_note": "There is no duty to retreat before using justified force or deadly force anywhere the person has a right to be.",
+   "sources": [
+    "https://law.justia.com/codes/south-dakota/title-22/chapter-18/section-22-18-4/",
+    "https://mylrc.sdlegislature.gov/api/Documents/Bill/218373.html?Year=2021",
+    "https://erlservices.org/"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "Deadly force is justified only against imminent death, great bodily harm, or a forcible felony, so call 911 and a lawyer right away after any incident and do not use force to protect property alone.",
+   "statute_cite": "S.D. Codified Laws § 22-18-4",
+   "statute_name": "Force--Defense of person",
+   "syg_note": "South Dakota law expressly says a person using justified force, including deadly force, has no duty to retreat if they are in a place where they have a right to be and are not engaged in criminal activity."
+  },
+  "tennessee": {
+   "castle_doctrine": "yes",
+   "castle_note": "A person using deadly force inside a residence, business, dwelling, or occupied vehicle against someone unlawfully and forcibly entering is presumed to have reasonably feared imminent death or serious bodily injury.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Legal Aid Society of Middle Tennessee and the Cumberlands",
+   "legal_aid_url": "https://las.org/",
+   "retreat_note": "There is no duty to retreat before using justified force in any place the person has a right to be, as long as they are not engaged in a felony or Class A misdemeanor.",
+   "sources": [
+    "https://www.casemine.com/act/us/64467e815c99507fa3b9b194/amp",
+    "https://www.patriotlawtn.com/blog/tennessee-self-defense-laws/",
+    "https://las.org/get-help/cases-we-take/?ref=pamphleteer.co"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "The castle presumption does not apply if the other person also has a right to be there, is a lawful resident, or is a law enforcement officer on duty, so get legal advice before assuming you are protected.",
+   "statute_cite": "Tenn. Code Ann. § 39-11-611",
+   "statute_name": "Self-defense",
+   "syg_note": "A person who is not engaged in conduct that would be a felony or Class A misdemeanor and is in a place where they have a right to be has no duty to retreat before using force, including deadly force, against imminent unlawful force."
+  },
+  "texas": {
+   "castle_doctrine": "yes",
+   "castle_note": "A person's belief that deadly force was immediately necessary is presumed reasonable if the other person unlawfully and forcibly entered or tried to enter their occupied habitation, vehicle, or place of business or employment, or was forcibly removing them from one.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Lone Star Legal Aid",
+   "legal_aid_url": "https://www.lonestarlegal.org/",
+   "retreat_note": "Texas removed the general duty to retreat in 2007, and a jury may not consider a failure to retreat when deciding whether a qualifying person's belief that deadly force was necessary was reasonable.",
+   "sources": [
+    "https://law.justia.com/codes/texas/2022/penal-code/title-2/chapter-9/subchapter-c/section-9-32/",
+    "https://capitol.texas.gov/tlodocs/80R/billtext/html/SB00378F.htm",
+    "https://www.lonestarlegal.org/news/2026/08/how-lone-star-legal-aid-can-help-you/"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "Deadly force is still limited to stopping unlawful deadly force or preventing aggravated kidnapping, murder, sexual assault, aggravated sexual assault, robbery, or aggravated robbery, so do not use it over property or an insult alone.",
+   "statute_cite": "Tex. Penal Code §§ 9.31–9.32",
+   "statute_name": "Self-Defense",
+   "syg_note": "A person who has a right to be present, has not provoked the other person, and is not engaged in criminal activity is not required to retreat before using force or deadly force."
+  },
+  "utah": {
+   "castle_doctrine": "yes",
+   "castle_note": "Force, including deadly force, is justified to stop an unlawful entry into or attack on a habitation, vehicle, or place of business or employment, and the defender is presumed to have acted reasonably if the entry was unlawful and forceful, violent and tumultuous, surreptitious, or for a felony.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Utah Legal Services",
+   "legal_aid_url": "https://www.utahlegalservices.org/",
+   "retreat_note": "There is no duty to retreat, and the fact that a person did not retreat is not relevant to whether they acted reasonably.",
+   "sources": [
+    "https://le.utah.gov/~2019/bills/hbillint/HB0114.htm",
+    "https://le.utah.gov/xcode/Title76/Chapter2/C76-2-S405_2024050120240501.pdf",
+    "https://www.utahlegalservices.org/node/89/about-utah-legal-services"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "Self-defense is lost if you provoked the fight to use force as an excuse, are committing or fleeing a felony, or were the aggressor and did not withdraw and communicate that, so do not start or escalate a confrontation and expect the law to protect you.",
+   "statute_cite": "Utah Code § 76-2-402",
+   "statute_name": "Force in defense of person -- Forcible felony defined",
+   "syg_note": "Utah law says a person does not have a duty to retreat from force or threatened force in a place where they have lawfully entered or remained, even if a safe place to retreat exists."
+  },
+  "vermont": {
+   "castle_doctrine": "yes",
+   "castle_note": "Under Vermont common law and jury instructions, a person attacked inside their own home has no duty to retreat and may use force, including deadly force, against an intruder they reasonably believe threatens death or serious bodily harm.",
+   "duty_to_retreat": "limited",
+   "legal_aid_name": "Vermont Legal Aid",
+   "legal_aid_url": "https://vtlegalaid.org/",
+   "retreat_note": "Outside the home, Vermont is generally treated as a duty-to-retreat state if a perfectly safe escape exists, but that duty is not clearly settled in the case law, so get a lawyer before relying on either rule.",
+   "sources": [
+    "https://giffords.org/lawcenter/state-laws/stand-your-ground-in-vermont/",
+    "https://legislature.vermont.gov/statutes/fullchapter/13/053",
+    "https://vtlegalaid.org/about-vla"
+   ],
+   "stand_your_ground": "limited",
+   "state_note": "Deadly force is allowed only in just and necessary defense of life or to stop a violent felony such as murder, sexual assault, burglary, or robbery, never to protect property alone.",
+   "statute_cite": "Vt. Stat. Ann. tit. 13, § 2305",
+   "statute_name": "Justifiable homicide",
+   "syg_note": "Vermont has no stand-your-ground statute, and the rule is unsettled: the state supreme court has been read as holding there is no duty to retreat when deadly force is immediately necessary, while other current guidance says a safe escape outside the home is still expected."
+  },
+  "virginia": {
+   "castle_doctrine": "yes",
+   "castle_note": "Under Virginia common law, a person assaulted in their own home or its curtilage who did not provoke the conflict may stand their ground and use whatever force is necessary, including deadly force, to repel the attacker.",
+   "duty_to_retreat": "limited",
+   "legal_aid_name": "Virginia Legal Aid Society",
+   "legal_aid_url": "https://www.vlas.org/",
+   "retreat_note": "There is no duty to retreat if you were without fault, but if you were partly at fault in starting the fight you must retreat as far as safely possible and make your desire for peace known before using force.",
+   "sources": [
+    "https://giffords.org/lawcenter/state-laws/stand-your-ground-in-virginia/",
+    "https://www.findlaw.com/state/virginia-law/virginia-self-defense-laws.html",
+    "https://www.vlas.org/"
+   ],
+   "stand_your_ground": "limited",
+   "state_note": "Because Virginia's self-defense rules come only from court decisions and turn on whether you were at fault, do not talk to police about what happened without a lawyer after any use of force.",
+   "statute_cite": null,
+   "statute_name": null,
+   "syg_note": "Virginia has no stand-your-ground statute, but its courts have held that a person who is completely without fault in bringing on the confrontation has no duty to retreat and may stand their ground in public."
+  },
+  "washington": {
+   "castle_doctrine": "yes",
+   "castle_note": "Washington has no separate castle-doctrine statute, but the self-defense statutes cover the home and property, and a person attacked in their home has no duty to retreat before using necessary force, including deadly force under the justifiable-homicide statute.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Northwest Justice Project",
+   "legal_aid_url": "https://www.nwjustice.org/",
+   "retreat_note": "Washington imposes no duty to retreat, although whether a safe retreat was available can still affect whether the force used was reasonable and no more than necessary.",
+   "sources": [
+    "https://app.leg.wa.gov/rcw/default.aspx?cite=9A.16.020&pdf=true",
+    "https://www.findlaw.com/state/washington-law/washington-self-defense-laws.html",
+    "https://www.maptheblock.com/data/stand-your-ground-states/",
+    "https://www.nwjustice.org/"
+   ],
+   "stand_your_ground": "limited",
+   "state_note": "Force must be no more than necessary to stop the threat, so use the least force that will keep you safe and call 911 and a lawyer immediately afterward.",
+   "statute_cite": "Wash. Rev. Code § 9A.16.020",
+   "statute_name": "Use of force—When lawful",
+   "syg_note": "Washington has no stand-your-ground statute, but its courts have held there is no duty to retreat before using force when attacked in a place where the person has a right to be."
+  },
+  "west virginia": {
+   "castle_doctrine": "yes",
+   "castle_note": "A lawful occupant of a home or other place of residence is justified in using reasonable and proportionate force, including deadly force, against an intruder or attacker to prevent a forcible entry or end an unlawful entry, with no duty to retreat.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Legal Aid of West Virginia",
+   "legal_aid_url": "https://legalaidwv.org/",
+   "retreat_note": "There is no duty to retreat either inside the home or in any other place the person has a legal right to be, as long as they are not engaged in unlawful activity.",
+   "sources": [
+    "https://ammosight.com/gun-laws/west-virginia",
+    "https://legaldowntown.com/blog/does-west-virginia-have-stand-your-ground-law/",
+    "https://legalaidwv.org/about-us/our-locations/"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "The force used must still be reasonable and proportionate to the threat, and the law also gives civil and criminal relief to people who lawfully resist, so keep any evidence and get legal advice before giving a statement.",
+   "statute_cite": "W. Va. Code § 55-7-22",
+   "statute_name": "Civil and criminal relief for persons resisting certain criminal activities",
+   "syg_note": "A person not engaged in unlawful activity who is attacked in any place they have a legal right to be outside their home may use reasonable and proportionate force, including deadly force without retreating, if they reasonably believe they or another faces imminent death or serious bodily harm."
+  },
+  "wisconsin": {
+   "castle_doctrine": "yes",
+   "castle_note": "If a person unlawfully and forcibly enters or is inside the actor's dwelling, motor vehicle, or place of business, the court may not consider whether the actor could have fled and must presume the actor reasonably believed deadly force was necessary to prevent imminent death or great bodily harm.",
+   "duty_to_retreat": "limited",
+   "legal_aid_name": "Legal Action of Wisconsin",
+   "legal_aid_url": "https://legalaction.org/",
+   "retreat_note": "There is no statutory duty to retreat, but whether the person had an opportunity to retreat can still be considered by a jury when deciding whether the force used was reasonably necessary outside the home.",
+   "sources": [
+    "https://docs.legis.wisconsin.gov/statutes/statutes/939/iii/48?view=section",
+    "https://law.justia.com/codes/wisconsin/chapter-939/section-939-48/",
+    "https://legalaction.org/merger-announcement/"
+   ],
+   "stand_your_ground": "limited",
+   "state_note": "Deadly force is allowed only when the person reasonably believes it is necessary to prevent imminent death or great bodily harm, and provoking the attack can take away the self-defense privilege, so avoid escalating a confrontation.",
+   "statute_cite": "Wis. Stat. § 939.48",
+   "statute_name": "Self-defense and defense of others",
+   "syg_note": "Wisconsin has no stand-your-ground statute, but there is no statutory duty to retreat, and court decisions hold that a person need not retreat before using justified force in a place where they have a right to be."
+  },
+  "wyoming": {
+   "castle_doctrine": "yes",
+   "castle_note": "A person is presumed to have reasonably feared imminent death or serious bodily injury when using deadly force against an intruder unlawfully and forcibly entering, or who has entered, their home or habitation, or who is removing someone from it against their will.",
+   "duty_to_retreat": "no",
+   "legal_aid_name": "Legal Aid of Wyoming",
+   "legal_aid_url": "https://www.lawyoming.org/",
+   "retreat_note": "The statute is titled 'no duty to retreat,' and a person who uses reasonable defensive force under it shall not be criminally prosecuted for that use of force.",
+   "sources": [
+    "https://law.justia.com/codes/wyoming/title-6/chapter-2/article-6/section-6-2-602/",
+    "https://www.wyoleg.gov/Legislation/2008/HB0137",
+    "https://www.lawyoming.org/"
+   ],
+   "stand_your_ground": "yes",
+   "state_note": "The castle presumption does not apply against a lawful resident of the home, a person removing their own child or grandchild in lawful custody, or a peace officer or corrections employee on duty, so the facts of who the other person is matter a great deal.",
+   "statute_cite": "Wyo. Stat. Ann. § 6-2-602",
+   "statute_name": "Use of force in self defense; no duty to retreat",
+   "syg_note": "A person attacked in any place where they are lawfully present has no duty to retreat before using reasonable defensive force, including deadly force, as long as they are not the initial aggressor and are not engaged in illegal activity."
+  }
+ }
+}
