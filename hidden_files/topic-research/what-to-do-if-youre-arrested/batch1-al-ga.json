@@ -1,0 +1,178 @@
+{
+  "states": {
+    "alabama": {
+      "pd_name": "Alabama Office of Indigent Defense Services",
+      "pd_url": "https://finance.alabama.gov/indigent-defense",
+      "pd_phone": null,
+      "bail_note": "Alabama law provides four kinds of bail \u2014 judicial public bail (release without security), cash bail, property bail, and professional surety bail (Ala. Code \u00a7 15-13-111). Most defendants are entitled to bail, but a judge may deny it for capital offenses and certain violent charges after an Aniah's Law hearing.",
+      "diversion_note": "Each district attorney may run a pretrial diversion program under Ala. Code \u00a7\u00a7 12-17-226 to 12-17-226.18; admission is in the district attorney's discretion, and a person who completes the agreed conditions can have the charge reduced or dismissed.",
+      "legal_aid_name": "Legal Services Alabama",
+      "legal_aid_url": "https://legalservicesalabama.org/",
+      "sources": [
+        "https://admincode.legislature.state.al.us/api/rule/355-9-1-.01",
+        "https://www.justice.gov/olp/media/1410086/dl?inline",
+        "https://legalservicesalabama.org/",
+        "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2023RS/SB213-enr.pdf",
+        "https://law.justia.com/codes/alabama/title-12/chapter-17/article-6/division-5/section-12-17-226-3/",
+        "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2012RS/PrintFiles/HB198-Int.pdf"
+      ]
+    },
+    "alaska": {
+      "pd_name": "Alaska Public Defender Agency",
+      "pd_url": "https://pda.doa.alaska.gov/contact-us/",
+      "pd_phone": "(907) 334-4400",
+      "bail_note": "Alaska's default is release on personal recognizance or an unsecured appearance or performance bond, with the court required to impose the least restrictive conditions that will reasonably assure appearance and safety (AS 12.30.011). A Department of Corrections pretrial services officer assesses each detained defendant's risk before the first court appearance, and cash or secured bail is used only when nonmonetary conditions are not enough.",
+      "diversion_note": null,
+      "legal_aid_name": "Alaska Legal Services Corporation",
+      "legal_aid_url": "https://www.alsc-law.org/",
+      "sources": [
+        "https://pda.doa.alaska.gov/contact-us/",
+        "https://pda.doa.alaska.gov/employment/attorneys/",
+        "http://www.alsc-law.org/contact-us/",
+        "https://www.akleg.gov/basis/Bill/Text/30?hsid=SB0150A",
+        "https://law.justia.com/codes/alaska/title-12/chapter-30/section-12-30-011/",
+        "https://www.akleg.gov/basis/get_documents.asp?session=33&docid=33582"
+      ]
+    },
+    "arizona": {
+      "pd_name": "Maricopa County Office of the Public Defender",
+      "pd_url": null,
+      "pd_phone": null,
+      "bail_note": "Under A.R.S. \u00a7 13-3967, a person charged with a bailable offense must be released on personal recognizance or on bail set by a judicial officer, who weighs factors including the victim's views, the nature of the offense, prior serious or violent convictions, and danger to the community. Bail may be denied only for the limited categories in A.R.S. \u00a7 13-3961, such as capital offenses and certain serious felonies, when the proof is evident or the presumption great.",
+      "diversion_note": "Under A.R.S. \u00a7 11-361, a county attorney may divert or defer prosecution of a person accused of a crime, before a guilty plea or trial, through a special supervision program; the county attorney has sole discretion over who is diverted. State guidelines recommend against diverting serious offenses, offenses requiring sex-offender registration, and dangerous crimes against children, and prosecution is suspended while the person completes the program's conditions.",
+      "legal_aid_name": "Community Legal Services",
+      "legal_aid_url": "https://clsaz.org/",
+      "sources": [
+        "https://6ac.org/us-territory/arizona/",
+        "https://clsaz.org/history/",
+        "https://www.countyoffice.org/az-public-defenders/",
+        "https://www.azleg.gov/ars/13/03967.htm",
+        "https://apaac.az.gov/deferred-prosecution-reports-and-guidelines/deferred-prosecution-guidelines?download=1083:deferred-prosecution-guidelines"
+      ]
+    },
+    "arkansas": {
+      "pd_name": "Arkansas Public Defender Commission",
+      "pd_url": "https://apdc.arkansasadmin.net/news/",
+      "pd_phone": null,
+      "bail_note": "Under Arkansas Rule of Criminal Procedure 9.2, a judge may set money bail only after finding that no other conditions will reasonably ensure the defendant's appearance in court. If money bail is set, it takes the form of an unsecured bond, a bond with a 10 percent cash deposit (90 percent of the deposit returned if the defendant appears), or a bond secured by full cash, property, or a surety.",
+      "diversion_note": "Under Arkansas's First Offender Act (Ark. Code \u00a7 16-93-303), a person with no prior felony conviction who pleads guilty or no contest may be placed on probation without a judgment of guilt, and the case can be dismissed after successful completion. Arkansas also authorizes a separate pre-adjudication probation program for felony cases (Ark. Code \u00a7\u00a7 5-4-901\u20135-4-913) that requires agreement from both the prosecutor and the court.",
+      "legal_aid_name": "Legal Aid of Arkansas",
+      "legal_aid_url": "http://arlegalaid.org",
+      "sources": [
+        "https://apdc.arkansasadmin.net/news/",
+        "http://arlegalaid.org",
+        "https://arlegalaid.org/who-we-are/",
+        "https://norma-us.lexum.com/ark/supremecourt/en/item/522280/index.do?iframe=true",
+        "https://webftp.blr.arkansas.gov/Home/FTPDocument?path=Assembly%2F%2F%2F%2F%2F%2F%2FInterim+Study+Proposal+and+Resolution%2FISP-2023-081.pdf",
+        "https://webftp.blr.arkansas.gov/Home/FTPDocument?path=Bills%2F2003%2FPDF%2FHB2233.pdf",
+        "https://www.rhodescriminallaw.com/diversion-programs-deferred-disposition/"
+      ]
+    },
+    "california": {
+      "pd_name": "Los Angeles County Public Defender's Office",
+      "pd_url": "https://pubdef.lacounty.gov/",
+      "pd_phone": null,
+      "bail_note": "Cash bail still exists in California \u2014 voters rejected SB 10, the law that would have abolished it, in the 2020 Proposition 25 referendum. Under the California Supreme Court's 2021 decision in In re Humphrey, a court may not keep a person jailed before trial solely because they cannot afford bail; it must consider ability to pay and use the least restrictive nonmonetary conditions, and may order detention only on clear and convincing evidence that no condition short of detention will suffice.",
+      "diversion_note": "California offers several pretrial diversion programs: mental health diversion (Penal Code \u00a7 1001.36) lets a court suspend prosecution for up to two years of treatment when a diagnosed mental disorder was a significant factor in a misdemeanor or most felony charges, and drug diversion (Penal Code \u00a7 1000) covers first-time nonviolent simple drug possession. In each program, charges are dismissed if the person successfully completes the program.",
+      "legal_aid_name": "Legal Aid Association of California",
+      "legal_aid_url": "https://www.laaconline.org/",
+      "sources": [
+        "https://www.calbar.ca.gov/sites/default/files/portals/0/documents/publicComment/2004/2004-09-15_COPRAC_97-0007.pdf",
+        "https://en.wikipedia.org/wiki/Los_Angeles_County_Public_Defender",
+        "https://www.laaconline.org/about/",
+        "https://www.laaconline.org/",
+        "https://courts.ca.gov/opinions/documents/S247278.PDF",
+        "https://courts.ca.gov/sites/default/files/courts/default/2024-12/btb25-1l-01.pdf",
+        "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260AB2273"
+      ]
+    },
+    "colorado": {
+      "pd_name": "Office of the Colorado State Public Defender",
+      "pd_url": "https://coloradodefenders.state.co.us/",
+      "pd_phone": "303-764-1400",
+      "bail_note": "Colorado law presumes every person in custody is eligible for release on bond with the least restrictive conditions consistent with assuring appearance and public safety, and a monetary condition must be reasonable and account for the person's financial condition (C.R.S. \u00a7 16-4-103). Courts start with a personal recognizance bond \u2014 release on a written promise to appear with no money up front \u2014 and move to a secured monetary bond only when less restrictive options will not work.",
+      "diversion_note": "Under C.R.S. \u00a7 18-1.3-101, a district attorney may suspend prosecution for up to two years (plus up to one more year for unpaid restitution) while the defendant completes a diversion agreement under probation or program supervision. If the defendant successfully completes the agreement, the court dismisses the charges with prejudice, meaning they cannot be refiled.",
+      "legal_aid_name": "Colorado Legal Services",
+      "legal_aid_url": "https://www.coloradolegalservices.org/",
+      "sources": [
+        "https://coloradodefenders.state.co.us/",
+        "https://www.coloradodefenders.us/contact-us/",
+        "https://www.coloradolegalservices.org/about/",
+        "https://codes.findlaw.com/co/title-16-criminal-proceedings/co-rev-st-sect-16-4-103/",
+        "https://hermes.cde.state.co.us/islandora/object/co:20977/datastream/OBJ/view",
+        "https://cjpu.colorado.gov/sites/cjpu/files/documents/Diversion-Statute-Before-2022-Session.pdf",
+        "http://www.leg.state.co.us/clics/clics2013a/csl.nsf/6c20d8b3dc54a67485256d6d000d18d6/a7818ba15edad09b87257aee00572be1/$FILE/1156_eng.pdf"
+      ]
+    },
+    "connecticut": {
+      "pd_name": "Connecticut Division of Public Defender Services",
+      "pd_url": "https://portal.ct.gov/ocpd",
+      "pd_phone": null,
+      "bail_note": "Connecticut courts must release an arrested person on the first condition sufficient to reasonably ensure appearance: a written promise to appear, a promise with nonfinancial conditions, a bond without surety, or a bond with surety (Conn. Gen. Stat. \u00a7 54-64a). For misdemeanors, the court may not impose financial conditions unless the charge is a family violence crime, the defendant requests them, or the court finds a likely risk of nonappearance, obstruction, or danger \u2014 and a 10 percent cash option is automatically available for bail of $20,000 or less.",
+      "diversion_note": "Connecticut's Accelerated Rehabilitation program (Conn. Gen. Stat. \u00a7 54-56e) is a court-run pretrial diversion program for defendants charged with certain nonserious crimes or motor vehicle violations who have no prior convictions and have not used the program before (no more than twice total). The court supervises the person for up to two years, and successful completion results in dismissal of the charges and erasure of the records.",
+      "legal_aid_name": "Connecticut Legal Services, Inc.",
+      "legal_aid_url": "https://ctlegal.org/",
+      "sources": [
+        "https://portal.ct.gov/ocpd",
+        "https://www.ctd.uscourts.gov/sites/default/files/Legal-Assistance-Organizations-Revised-8-26-25-2.pdf",
+        "https://ctlegal.org/wp-content/uploads/2019/12/2020-Internships_CLS.pdf",
+        "http://www.jud.ct.gov/CSSD/bail_faq.htm",
+        "https://www.cga.ct.gov/2017/FC/2017HB-07044-R000695-FC.htm",
+        "https://www.jud.ct.gov/Publications/CR137D.pdf",
+        "https://prdext2.cga.ct.gov/2011/SUM/2011SUM00158-R02HB-06639-SUM.htm"
+      ]
+    },
+    "delaware": {
+      "pd_name": "Delaware Office of Defense Services",
+      "pd_url": "https://ods.delaware.gov",
+      "pd_phone": "302-577-5200",
+      "bail_note": "Delaware law presumes release on nonmonetary conditions; a court may add financial conditions only if nonmonetary conditions cannot reasonably assure appearance, safety, and the integrity of the process, and must then set the lowest amount it deems reasonably necessary after considering the person's financial resources and ability to pay (11 Del. C. \u00a7 2105). Bail is a conditions-of-release bond, which may be unsecured, guaranteed by financial terms, or guaranteed by cash only.",
+      "diversion_note": "Delaware's First Offenders Controlled Substances Diversion Program (16 Del. C. \u00a7 4767) is for a person with no prior drug conviction who is charged with simple possession or consumption of a controlled substance and has not previously received first-offender treatment. At arraignment the person may elect first-offender treatment, entering a guilty plea as a first offender while the court defers judgment and places the person on probation with conditions including community service and drug education.",
+      "legal_aid_name": "Community Legal Aid Society, Inc.",
+      "legal_aid_url": "http://www.declasi.org/",
+      "sources": [
+        "https://ods.delaware.gov",
+        "https://courts.delaware.gov/help/legalassistance.aspx",
+        "http://www.declasi.org/",
+        "https://www.declasi.org/about-clasi/",
+        "http://delcode.delaware.gov/title11/c021/index.html",
+        "https://legis.delaware.gov/SessionLaws/Chapter?id=22142"
+      ]
+    },
+    "florida": {
+      "pd_name": "Florida Public Defender Association",
+      "pd_url": "https://www.flpda.org/public-defender-offices",
+      "pd_phone": null,
+      "bail_note": "Since January 1, 2024, the Florida Supreme Court adopts a uniform statewide bond schedule each year, and a person may be released on the scheduled bond before a first appearance hearing; only a judge may set, reduce, or otherwise alter bail (Fla. Stat. \u00a7 903.011). Certain people \u2014 including those arrested for a felony while on pretrial release, probation, or community control, and those arrested three or more times in the prior six months \u2014 may not be released until a judge sets bail at a first appearance hearing based on the criteria in \u00a7 903.046.",
+      "diversion_note": "Florida's pretrial intervention program (Fla. Stat. \u00a7 948.08) is open to a first offender, or a person with no more than one prior nonviolent misdemeanor conviction, charged with a misdemeanor or third-degree felony, with approval of the program administrator and consent of the victim, the state attorney, and the judge. Charges are held without final disposition while the person completes counseling, education, supervision, or treatment, and successful completion leads to a recommendation that the charges be dismissed.",
+      "legal_aid_name": "Florida Legal Services",
+      "legal_aid_url": "https://www.floridalegal.org/",
+      "sources": [
+        "https://www.flpda.org/public-defender-offices",
+        "https://www.floridalawhelp.org/print/pdf/node/6",
+        "https://clearinghouse.lac.org/florida",
+        "https://www.flsenate.gov/laws/statutes/2024/903.011",
+        "https://leg.state.fl.us/statutes/index.cfm?App_Mode=Display_Statute&Search_String=&StatuteYear=2001&URL=Ch0948/Sec08.htm",
+        "https://codes.findlaw.com/fl/title-xlvii-criminal-procedure-and-corrections/fl-st-sect-948-08/"
+      ]
+    },
+    "georgia": {
+      "pd_name": "Georgia Public Defender Council",
+      "pd_url": "https://gapubdef.org/",
+      "pd_phone": "(800) 676-4432",
+      "bail_note": "All misdemeanor defendants in Georgia have a right to pretrial bail or unsecured judicial release, and courts may not impose excessive bail \u2014 only the conditions reasonably necessary to ensure court appearances and protect public safety (O.C.G.A. \u00a7 17-6-1). A person arrested on a misdemeanor must be brought before a judge for a bail determination within 48 hours of a warrantless arrest or 72 hours of an arrest on a warrant, and a bail schedule may not be used as the sole basis for setting bail.",
+      "diversion_note": "Under O.C.G.A. \u00a7 15-18-80, the prosecuting attorney for each judicial circuit may create and run a Pretrial Intervention and Diversion Program, and entry is at the prosecutor's discretion under written guidelines considering the offense, prior record, and the victim's response. A person may not be accepted for an offense carrying a mandatory minimum sentence that cannot be suspended, probated, or deferred, and a person who satisfactorily completes the program has the charges dismissed.",
+      "legal_aid_name": "Georgia Legal Services Program",
+      "legal_aid_url": "https://www.glsp.org/",
+      "sources": [
+        "https://gapubdef.org/about",
+        "https://gapubdef.org/find-defender",
+        "https://www.glsp.org/who-we-are/",
+        "https://www.glsp.org/need-help/",
+        "https://jcaoc.georgiacourts.gov/wp-content/uploads/2024/09/Misdemeanor-Bail-Practices-Bench-Card-July-2024.pdf",
+        "https://www.gwinnettcounty.com/government/departments/district-attorney/pre-trial-intervention-diversion",
+        "https://www.coweta.ga.us/233/Pre-Trial-Diversion-Program"
+      ]
+    }
+  }
+}

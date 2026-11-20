@@ -1,0 +1,167 @@
+{
+  "states": {
+    "massachusetts": {
+      "pd_name": "Committee for Public Counsel Services (CPCS)",
+      "pd_url": "https://www.mass.gov/cpcs/",
+      "pd_phone": "(617) 482-6212",
+      "bail_note": "Massachusetts starts from release on personal recognizance: a bail magistrate or judge must release a person on their promise to appear unless that will not reasonably assure appearance, and any cash bail must be no higher than needed after considering the person's financial resources (G.L. c. 276, \u00a7 58). A person arrested when courts are closed can ask police to call a bail magistrate for release that same night.",
+      "diversion_note": "Diversion in Massachusetts is run county by county by district attorneys: for example, the Essex County District Attorney offers diversion to first-time, non-violent offenders under 21 and drug treatment on demand for drug-addicted offenders of any age, and successful completion results in dismissal of the criminal complaint.",
+      "legal_aid_name": "Massachusetts Legal Help",
+      "legal_aid_url": "https://www.masslegalhelp.org/",
+      "sources": [
+        "https://budget.digital.mass.gov/bb/h1/fy12h1/prnt_12/brec_12/dpt_12/pnpcs.htm",
+        "https://malegislature.gov/Bills/194/SD3827.pdf",
+        "https://www.mass.gov/info-details/learn-how-bail-is-set",
+        "https://www.mass.gov/essex-diversion-programs",
+        "https://www.masslegalhelp.org/about/about-us"
+      ]
+    },
+    "michigan": {
+      "pd_name": "State Appellate Defender Office (SADO)",
+      "pd_url": "http://www.sado.org/",
+      "pd_phone": "(313) 256-9833",
+      "bail_note": "Michigan courts must release a defendant on personal recognizance or an unsecured appearance bond unless the court finds that will not reasonably ensure appearance or public safety (MCR 6.106(C)); money bail is allowed only after the court states on the record why appearance or safety cannot otherwise be assured, and it can be cash, a surety bond, or a 10% deposit.",
+      "diversion_note": "Michigan prosecutors can agree to place a defendant in a pretrial diversion program, and before finalizing a diversion agreement the prosecutor must offer the crime victim a chance to consult about the disposition, including pretrial diversion (MCL 780.756(3)).",
+      "legal_aid_name": "Michigan Legal Help",
+      "legal_aid_url": "https://www.michiganlegalhelp.org",
+      "sources": [
+        "http://www.sado.org/Office/Detroit",
+        "https://www.courts.michigan.gov/4aac92/siteassets/publications/benchbooks/dcmm/dcmmresponsivehtml5.zip/DCMM/Ch_3_Pretrial_Release/Types_of_Pretrial_Release.htm",
+        "https://www.courts.michigan.gov/4a815c/siteassets/publications/benchbooks/cvrb/cvrbresponsivehtml5.zip/CVRB/Ch_4_Rights_During_Prosecution_of_Case/Statutory_Right_of_Crime_Victim_to_Consult_With_Prosecuting_Attorney.htm",
+        "https://courts.michigan.gov/49324f/siteassets/reports/mlh/mlh-2024-annual-report.pdf"
+      ]
+    },
+    "minnesota": {
+      "pd_name": "Minnesota Board of Public Defense",
+      "pd_url": "https://www.pubdef.state.mn.us",
+      "pd_phone": "(612) 349-2565",
+      "bail_note": "Under Minn. R. Crim. P. 6.02, a person must be released on personal recognizance or an unsecured appearance bond unless the court finds release would endanger public safety or not reasonably assure appearance; if conditions are needed, the court must use the least restrictive one, and must also set a money-only bail option.",
+      "diversion_note": "Under Minn. Stat. \u00a7 401.065, every county attorney in a county participating in the Community Corrections Act must run a pretrial diversion program for adult offenders, designed as an alternative to confinement and a criminal conviction; a person who has already completed a Minnesota pretrial diversion program as an adult generally cannot do so again.",
+      "legal_aid_name": "LawHelp Minnesota (LawHelpMN)",
+      "legal_aid_url": "https://www.lawhelpmn.org",
+      "sources": [
+        "https://www.pubdef.state.mn.us/public-defense-corporations",
+        "https://www.revisor.mn.gov/data/revisor/court_rules/cr/cr-6_2015-06-30_04-14-59/cr-6.pdf",
+        "https://www.revisor.mn.gov/statutes/cite/401.065",
+        "https://lprb.mncourts.gov/about/resources-for-the-public/",
+        "https://www.lawhelpmn.org/loon/services/minnesota-legal-advice-online"
+      ]
+    },
+    "mississippi": {
+      "pd_name": "Office of State Public Defender",
+      "pd_url": "https://www.ospd.ms.gov",
+      "pd_phone": "(601) 576-4290",
+      "bail_note": "Under Mississippi Code section 99-5-11, a judge or other conservator of the peace may take a recognizance or bond for a person charged with a non-capital offense for which bail is allowed, and may release a misdemeanor defendant on their own recognizance. Financial conditions of bail must not be set for the sole purpose of detaining the defendant, the amount is presumed necessary to assure safety and appearance and presumed attainable, and a defendant who cannot afford it may move to reduce or set aside the bail, which the court must rule on within 48 hours. No misdemeanor defendant may be incarcerated solely because the defendant cannot afford to post bail.",
+      "diversion_note": "Under the Pretrial Intervention Act (Miss. Code \u00a7 99-15-105), each district attorney, with a circuit court judge's consent, may establish a pretrial intervention program run under the district attorney's supervision; the program lasts up to three years, and successful completion leads to a noncriminal disposition.",
+      "legal_aid_name": "Mississippi Center for Legal Services",
+      "legal_aid_url": "https://www.mslegalservices.org/",
+      "sources": [
+        "http://www.ospd.ms.gov/about-us",
+        "https://www.sos.ms.gov/content/documents/ed_pubs/pubs/BlueBook24-28/13%20%E2%80%93%20State%20Agencies.pdf",
+        "https://www.osa.ms.gov/sites/default/files/Resources/Local%20Governments/da-audit-program.pdf",
+        "https://www.mslegalservices.org/help",
+        "https://billstatus.ls.state.ms.us/documents/2019/pdf/SB/2700-2799/SB2701IN.pdf"
+      ]
+    },
+    "missouri": {
+      "pd_name": "Missouri State Public Defender",
+      "pd_url": "https://publicdefender.mo.gov/",
+      "pd_phone": "(573) 777-9977",
+      "bail_note": "Under Missouri Supreme Court Rule 33.01, a defendant charged with a bailable offense is entitled to release, starting with release on their own recognizance; the court must impose the least restrictive conditions, consider non-monetary conditions first, and may set a monetary condition only after considering the defendant's ability to pay.",
+      "diversion_note": "Under RSMo \u00a7 557.014, each prosecuting attorney may divert a criminal case to a prosecution diversion program for six months to two years, for nonviolent, nonsexual offenses that do not involve a child victim or an unlawful weapon; the accused must agree to the plan's conditions, and the prosecutor decides who is offered diversion.",
+      "legal_aid_name": "Missouri Legal Services",
+      "legal_aid_url": "https://www.lsmo.org/",
+      "sources": [
+        "https://publicdefender.mo.gov/",
+        "https://publicdefender.mo.gov/contact-us/",
+        "https://veteranbenefits.mo.gov/legal-help/",
+        "https://www.courts.mo.gov/page.jsp?id=200636&up=199416",
+        "https://revisor.mo.gov/main/OneSection.aspx?section=557.014&bid=35513&hl=",
+        "https://www.lsmo.org/"
+      ]
+    },
+    "montana": {
+      "pd_name": "Office of State Public Defender",
+      "pd_url": "https://opd.mt.gov",
+      "pd_phone": "(406) 496-6080",
+      "bail_note": "Under Montana Code Annotated Title 46, chapter 9, the court decides release or detention at the defendant's initial appearance, weighing the nature of the offense, the defendant's history, character, ties, and financial resources, and public safety, and must impose the least restrictive condition or combination of conditions that will ensure appearance and safety (MCA sections 46-9-108 and 46-9-109). When bail is required it must be reasonable in amount and sufficient to ensure the defendant's presence (section 46-9-301). A judge may also set a bail schedule a peace officer can accept, but a person charged with partner or family assault, stalking, violating a protection order, or violating a no-contact order must first appear before a judge (section 46-9-302).",
+      "diversion_note": "Under MCA \u00a7 46-16-130, a prosecutor and a defendant (with counsel or after waiving counsel) may agree in writing to defer prosecution for a set period on conditions such as no new offenses, treatment or counseling, or restitution; if the terms are met, the prosecution is automatically dismissed with prejudice. DUI and aggravated DUI prosecutions cannot be deferred.",
+      "legal_aid_name": "Montana Legal Services Association",
+      "legal_aid_url": "https://www.mtlsa.org/",
+      "sources": [
+        "https://directory.mt.gov/govt/state-dir/agency/publicdefender",
+        "https://publicdefender.mt.gov/_docs/Forms/AllContractors/Contractor-FAQ.pdf",
+        "https://mca.legmt.gov/bills/mca/title_0460/chapter_0160/part_0010/section_0300/0460-0160-0010-0300.html",
+        "https://www.mtlsa.org/apply-for-services/",
+        "https://mca.legmt.gov/bills/2016/mca/title_0460/chapter_0090/part_0030/section_0020/0460-0090-0030-0020.html",
+        "https://billtexts.s3.amazonaws.com/_data/mt/https-api-legmt-gov-docs-v1-documents-shortPdfUrl-documentId-278631-bill-id-HB-396.pdf"
+      ]
+    },
+    "nebraska": {
+      "pd_name": "Nebraska Commission on Public Advocacy",
+      "pd_url": "https://ncpa.nebraska.gov",
+      "pd_phone": null,
+      "bail_note": "Under Nebraska Revised Statutes section 29-901, any bailable defendant must be ordered released on personal recognizance unless the judge finds that release will not reasonably assure appearance or could jeopardize the safety of victims, witnesses, or others or the maintenance of evidence. For Class IIIA, IV, or V misdemeanors and city or county ordinance violations, release must be on personal recognizance or under other non-monetary conditions unless an exception applies, such as a recent failure to appear. If the judge does require money, the court must consider the defendant's financial ability and impose the least onerous condition that will assure appearance and safety, including a cash deposit of no more than 10 percent of the bond.",
+      "diversion_note": "Under Neb. Rev. Stat. \u00a7\u00a7 29-3601 to 29-3603, a county attorney may establish a pretrial diversion program with the county board's concurrence; participation is voluntary, the accused has access to counsel before deciding, and successful completion results in dismissal of the charges. Enrollment cannot be conditioned on a guilty plea.",
+      "legal_aid_name": "Legal Aid of Nebraska",
+      "legal_aid_url": "https://www.legalaidofnebraska.org/",
+      "sources": [
+        "https://ncpa.nebraska.gov/what-we-do",
+        "https://ncpa.nebraska.gov/staff-and-board",
+        "https://www.NebraskaLegislature.gov/FloorDocs/97/PDF/Slip/LB1303.pdf",
+        "https://legalaidofnebraska.org/call-for-help.html",
+        "https://nebraskalegislature.gov/laws/statutes.php?statute=29-901&print=true"
+      ]
+    },
+    "nevada": {
+      "pd_name": "Office of the Nevada State Public Defender",
+      "pd_url": "https://www.dids.nv.gov/contact-us/attorney-contact-information/nevada-state-public-defender-s-office/",
+      "pd_phone": "(775) 684-1080",
+      "bail_note": "Under Nevada Revised Statutes section 178.484, a person arrested for an offense other than murder of the first degree must be admitted to bail, and a person arrested for first-degree murder may be admitted to bail unless the proof is evident or the presumption great. A court must hold a pretrial release hearing within 48 hours after a person is taken into custody under NRS 178.4849. Under NRS 178.4851, the court may release a person without bail on conditions, and may impose bail or conditions only as the least restrictive means necessary to protect the safety of the community or to ensure the person will appear, considering the factors in NRS 178.4853 and 178.498.",
+      "diversion_note": "Under NRS 174.031-174.033, a justice court or municipal court may assign an eligible first-time misdemeanor defendant to a preprosecution diversion program before a plea is entered; successful completion means the court must discharge the defendant and dismiss the charge, with no adjudication of guilt.",
+      "legal_aid_name": "Nevada Legal Services",
+      "legal_aid_url": "https://www.nevadalegalservices.org",
+      "sources": [
+        "https://www.dids.nv.gov/contact-us/attorney-contact-information/nevada-state-public-defender-s-office/",
+        "https://www.leg.state.nv.us/Nrs/NRS-174.html",
+        "https://nvbar.org/for-the-public/pro-bono-for-the-public/",
+        "https://archive.leg.state.nv.us/Session/82nd2023/Exhibits/Assembly/JUD/AJUD1035F.pdf"
+      ]
+    },
+    "new hampshire": {
+      "pd_name": "New Hampshire Public Defender",
+      "pd_url": "https://www.nhpd.org/",
+      "pd_phone": "1-800-464-0652",
+      "bail_note": "Under New Hampshire RSA chapter 597, all persons arrested for an offense are eligible for release pending judicial proceedings, except for offenses punishable by death or life without parole, offenses punishable by up to life where the proof is evident or the presumption great, and certain probationers and parolees (RSA 597:1, 597:1-a, 597:1-c, and 597:1-d). Under RSA 597:2, the court must order the person released on personal recognizance or an unsecured appearance bond, released on conditions, detained, or temporarily detained to permit revocation of conditional release. Release on personal recognizance is the default unless the court determines it will not reasonably assure appearance or will endanger the person or the community.",
+      "diversion_note": "New Hampshire has no single statewide diversion statute; pretrial diversion is run county by county through county attorneys \u2014 for example, Strafford County's program, run with the County Attorney's Office, is for people with no prior criminal dealings who the County Attorney does not expect to return to the system. Ask the county attorney's office whether diversion is available in the county where the case is charged.",
+      "legal_aid_name": "New Hampshire Legal Assistance",
+      "legal_aid_url": "https://www.nhla.org/",
+      "sources": [
+        "https://www.nhpd.org/about-us/",
+        "https://www.nhpd.org/offices/",
+        "https://courts-state-nh-us.libguides.com/c.php?g=893904&p=8484719",
+        "https://straffordcounty.gov/images/UploadedFiles/Jail/downloads/annualreports/SCDOC_Annual_Report_2014.pdf",
+        "https://www.courts.nh.gov/self-help/getting-started/legal-assistance",
+        "http://www.nhla.org/",
+        "https://gc.nh.gov/rsa/html/LIX/597/597-mrg.htm"
+      ]
+    },
+    "new jersey": {
+      "pd_name": "New Jersey Office of the Public Defender",
+      "pd_url": "https://www.nj.gov/defender/index.shtml",
+      "pd_phone": "(609) 292-7087",
+      "bail_note": "Since January 1, 2017, New Jersey has largely replaced cash bail with a risk-based system: most defendants are released on their own recognizance or with non-monetary conditions and pretrial services monitoring, while prosecutors can ask a judge to detain someone who poses a substantial risk of danger or flight; a judge may still set monetary bail but not to keep someone in jail.",
+      "diversion_note": "New Jersey's Pretrial Intervention (PTI) program, under N.J.S.A. 2C:43-12 and Court Rule 3:28, lets eligible first-time offenders \u2014 generally those charged with third- or fourth-degree crimes with no prior diversion \u2014 postpone prosecution for up to 36 months of supervision; successful completion results in dismissal of the charges. Apply as early as possible, and no later than 28 days after indictment.",
+      "legal_aid_name": "Legal Services of New Jersey",
+      "legal_aid_url": "https://www.lsnj.org",
+      "sources": [
+        "https://www.nj.gov/defender/index.shtml",
+        "https://www.nj.gov/defender/about/contact/",
+        "https://www.nj.gov/defender/documents/Pool Attorney Guidelines Rev.  2-2024.pdf",
+        "https://www.njcourts.gov/sites/default/files/forms/12221_cjr_stepbystep.pdf",
+        "https://njcourts.gov/sites/default/files/notices/2017/08/n170816a.pdf",
+        "https://www.nj.gov/basicneeds/legal-aid/find-legal-aid.shtml"
+      ]
+    }
+  }
+}

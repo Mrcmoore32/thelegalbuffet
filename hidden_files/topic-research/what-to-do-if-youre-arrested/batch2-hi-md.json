@@ -1,0 +1,167 @@
+{
+  "states": {
+    "hawaii": {
+      "pd_name": "Office of the Public Defender",
+      "pd_url": "https://publicdefender.hawaii.gov/",
+      "pd_phone": null,
+      "bail_note": "In Hawaii, bail can take the form of release on one's own recognizance, supervised release, conditional release, or unsecured bail, and a defendant is presumed entitled to bail unless the court finds a risk to appearance, public or witness safety, property, or a prior breach of bail conditions.",
+      "diversion_note": "Hawaii's route is deferred acceptance of a guilty or nolo contendere plea under HRS chapter 853, section 853-1: before trial, a defendant who pleads guilty or no contest may ask the court to defer proceedings without entering a judgment of guilt if the court finds the defendant is unlikely to reoffend and the ends of justice do not require immediate punishment. The court sets conditions, and on successful completion it must discharge the defendant and dismiss the charge, with no adjudication of guilt; expungement may be sought at least one year after discharge under HRS 831-3.2. Certain offenses, including killings, serious-injury felonies, and cases involving a firearm, are excluded under HRS 853-4.",
+      "legal_aid_name": "Legal Aid Society of Hawaii",
+      "legal_aid_url": "https://www.legalaidhawaii.org/",
+      "sources": [
+        "https://publicdefender.hawaii.gov/",
+        "https://publicdefender.hawaii.gov/contact-us/",
+        "https://data.capitol.hawaii.gov/sessions/session2026/Bills/SB2762_.HTM",
+        "https://www.legalaidhawaii.org/",
+        "https://data.capitol.hawaii.gov/sessions/session2017/HRS-Chapter-PDF's/HRS_0853.pdf"
+      ]
+    },
+    "idaho": {
+      "pd_name": "Idaho State Public Defender",
+      "pd_url": "https://spd.idaho.gov/about/",
+      "pd_phone": "208-605-4575",
+      "bail_note": "In Idaho, a person charged with a non-capital offense must be admitted to bail or released on their own recognizance before a guilty plea or verdict, and bail may be posted as a cash deposit, property bond, or surety bond; the court may not require bail to be posted only in cash.",
+      "diversion_note": "Idaho's statutory diversion program is prosecutor-run under Idaho Code sections 19-3508 and 19-3509, and it is written for first-time DUI: the person must have no commercial license, no injury to another person, and no DUI conviction or prior diversion in the past 10 years. The prosecutor may refer the defendant within 30 days of the citation or charge, and the written agreement lasts at least 12 months and requires an ignition interlock, drug testing, at least 32 hours of community service, and at least 24 hours of drug and alcohol counseling or education. If the defendant completes the agreement, the prosecutor moves to dismiss the case.",
+      "legal_aid_name": "Idaho Legal Aid Services",
+      "legal_aid_url": "https://idaholegalaid.org/apply-for-help",
+      "sources": [
+        "https://spd.idaho.gov/about/",
+        "https://spd.idaho.gov/contact/",
+        "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2018/legislation/S1300SOP.pdf",
+        "https://idaholegalaid.org/apply-for-help",
+        "https://idaholegalaid.org/about-idaho-legal-aid-services",
+        "https://legislature.idaho.gov/statutesrules/idstat/title19/t19ch35/sect19-3509/"
+      ]
+    },
+    "illinois": {
+      "pd_name": "Office of the State Appellate Defender",
+      "pd_url": "https://osad.illinois.gov/aboutus.html",
+      "pd_phone": null,
+      "bail_note": "Illinois abolished cash bail under the Pretrial Fairness Act, effective September 18, 2023; release is now decided on an in-or-out basis, with a judge deciding release or detention, generally within 48 hours of arrest, based on risk rather than ability to pay.",
+      "diversion_note": "The Cook County State's Attorney's Deferred Prosecution Program offers first-time, non-violent offenders a 12-month program, and a newer Misdemeanor Deferred Prosecution Program refers low-level, nonviolent misdemeanor cases to diversion tracks; successful completion can lead to dismissal and avoidance of a conviction.",
+      "legal_aid_name": "Prairie State Legal Services",
+      "legal_aid_url": "https://www.pslegal.org/",
+      "sources": [
+        "https://osad.illinois.gov/aboutus.html",
+        "https://www.illinoiscourts.gov/News/1057/Pretrial-services-in-Illinois-The-long-road-from-19862023/news-detail/",
+        "https://gov.illinois.gov/news/press-release.26729.html",
+        "https://www.cookcountystatesattorney.org/news/cook-county-states-attorney-eileen-burke-expands-deferred-prosecution-misdemeanor-cases",
+        "https://www.pslegal.org/"
+      ]
+    },
+    "indiana": {
+      "pd_name": "Indiana State Public Defender",
+      "pd_url": "http://www.in.gov/courts/defender/",
+      "pd_phone": null,
+      "bail_note": "Under Indiana Criminal Rule 26, if an arrestee does not present a substantial risk of flight or danger, the court should release the arrestee without money bail or surety, using an evidence-based risk assessment; if money bail is set, it may be satisfied by surety bond, cash deposit, or a 10 percent cash deposit.",
+      "diversion_note": "Under Indiana Code 33-39-1-8, a prosecuting attorney may withhold prosecution for a misdemeanor, Level 6 felony, or Level 5 felony if the person agrees to pretrial diversion conditions in a signed agreement filed with the court; murder and Level 1-4 felonies are excluded, and successful completion can lead to dismissal.",
+      "legal_aid_name": "Indiana Legal Services, Inc.",
+      "legal_aid_url": "https://www.indianalegalservices.org/about/",
+      "sources": [
+        "http://www.in.gov/courts/defender/",
+        "https://www.in.gov/ipdc/about-us/",
+        "http://secure.in.gov/counties/monroe/files/1531251675_94268.pdf",
+        "https://secure.in.gov/ipac/files/Diversion-and-Deferral-Guidelines.8.19.22.pdf",
+        "https://www.indianalegalservices.org/about/"
+      ]
+    },
+    "iowa": {
+      "pd_name": "Office of the State Public Defender",
+      "pd_url": "https://spd.iowa.gov/about-us/current-state-public-defender",
+      "pd_phone": null,
+      "bail_note": "Under Iowa Code 811.2, all bailable defendants shall be ordered released on personal recognizance or an unsecured appearance bond unless the magistrate finds that release will not reasonably assure appearance or will jeopardize another person's safety, in which case the least restrictive conditions, including a cash deposit of up to 10 percent of the bond, may be imposed.",
+      "diversion_note": "Iowa has no statewide pretrial diversion statute, so pretrial diversion is offered locally by individual county attorneys on a case-by-case basis (for example, county marijuana-diversion programs for first-time offenders). Iowa's statewide deferred route is deferred judgment under Iowa Code section 907.3: after a guilty plea or verdict, the court may defer judgment and place the defendant on probation, and on fulfillment of the conditions the defendant is discharged without entry of judgment. Deferred judgment is barred for a prior felony conviction, two or more prior deferred judgments, a forcible felony, and other listed offenses.",
+      "legal_aid_name": "Iowa Legal Aid",
+      "legal_aid_url": "https://www.iowalegalaid.org",
+      "sources": [
+        "https://spd.iowa.gov/about-us/current-state-public-defender",
+        "https://www.legis.iowa.gov/docs/code/811.2.pdf",
+        "https://www.legis.iowa.gov:443/docs/iac/rule/08-21-2024.493.1.4.pdf",
+        "https://search.211iowa.org/search/8b681320-3ef5-5fbf-a015-7e3c1071c087",
+        "https://www.legis.iowa.gov/docs/code/2021/907.3.pdf",
+        "https://ilr.law.uiowa.edu/online/volume-112-bulletin/data-disparity-problem"
+      ]
+    },
+    "kansas": {
+      "pd_name": "Kansas State Board of Indigents' Defense Services",
+      "pd_url": "https://www.ksbids.gov/",
+      "pd_phone": "785-296-6631",
+      "bail_note": "Under K.S.A. 22-2802, a person charged with a crime shall, at first appearance, be ordered released pending trial on an appearance bond in an amount sufficient to assure appearance and public safety, and the magistrate may add conditions such as supervision, travel restrictions, or house arrest.",
+      "diversion_note": "Kansas allows pretrial diversion by agreement under K.S.A. 22-2907 through 22-2909: after a complaint is filed and before conviction, the district attorney may propose a diversion agreement if, after weighing the factors in K.S.A. 22-2908, diversion appears to be in the interests of justice and of benefit to the defendant and the community. Each district attorney must adopt written diversion policies and guidelines, and the agreement sets the terms and stays the criminal proceedings; successful completion results in dismissal of the charges. Diversion is barred for some offenses, including a repeat DUI diversion or a DUI involving injury or death.",
+      "legal_aid_name": "Kansas Legal Services",
+      "legal_aid_url": "https://www.kansaslegalservices.org/",
+      "sources": [
+        "https://www.ksbids.gov/jobopenings",
+        "https://www.kslegislature.org/li_2014/m/statute/022_000_0000_chapter/022_028_0000_article/022_028_0002_section/022_028_0002_k.pdf",
+        "https://www.kslegislature.gov/b2025_26/committees/testimony/pdf/?apn=b2025_26/year2/house/committees/ctte_h_jud_1/testimony/published/ctte_h_jud_1_20260204_13_testimony.html",
+        "https://www.kansaslegalservices.org/",
+        "https://kslegislature.gov/li_2022/b2021_22/statute/022_000_0000_chapter/022_029_0000_article/022_029_0007_section/022_029_0007_k/"
+      ]
+    },
+    "kentucky": {
+      "pd_name": "Kentucky Department of Public Advocacy",
+      "pd_url": "http://dpa.ky.gov/kentucky-department-of-public-advocacy/about-dpa/offices-and-branches/trial/",
+      "pd_phone": "502-564-8006",
+      "bail_note": "Under KRS 431.066, the court considers a pretrial risk assessment and flight and danger risk; a verified, eligible low-risk defendant shall be released on unsecured bond or on their own recognizance, and a defendant generally earns a $100-per-day credit toward bail for each day in jail before trial.",
+      "diversion_note": "Kentucky runs a pretrial diversion program in every judicial circuit under KRS 533.250, aimed mainly at Class D felonies and other offenses for which probation is not barred. A person is eligible if they have had no felony conviction, felony probation or parole, or release from a felony sentence in the 10 years before the offense, have not used diversion in the past five years, and have not committed a sex crime as defined in KRS 17.500. The defendant must enter a guilty or Alford plea, and the court may then postpone imposition of sentence for up to five years on conditions set by the court; successful completion leads to dismissal.",
+      "legal_aid_name": "Kentucky Justice Online (Legal Aid Network of Kentucky)",
+      "legal_aid_url": "https://www.kyjustice.org/about-us",
+      "sources": [
+        "http://dpa.ky.gov/kentucky-department-of-public-advocacy/about-dpa/offices-and-branches/trial/",
+        "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=40904",
+        "https://www.kyjustice.org/about-us",
+        "https://www.kyjustice.org/frequently-asked-questions",
+        "https://kycourts.gov/Courts/Rules%20of%20Practice/C17PRETRIALDIVERSIONPROGRAM.pdf"
+      ]
+    },
+    "louisiana": {
+      "pd_name": "Louisiana Office of the State Public Defender",
+      "pd_url": "http://www.statepublicdefender.la.gov/",
+      "pd_phone": "225-219-9305",
+      "bail_note": "Under Louisiana Code of Criminal Procedure Article 312, a person in custody charged with an offense is entitled to bail before conviction, except as provided in Articles 312, 312.1, 313, or 313.1, and the amount is set under Article 316 based on appearance, safety, and other statutory factors.",
+      "diversion_note": "Louisiana has no single statewide pretrial diversion statute; district attorneys run their own local diversion programs, and the statewide deferred route is post-conviction. Under Code of Criminal Procedure Article 893(E), after a first-offense noncapital felony conviction the court may defer imposition of sentence and place the defendant on probation, and on satisfactory completion it may set aside the conviction and dismiss the prosecution (no more than twice per person). Article 894 provides a similar deferred-sentence and dismissal route for misdemeanors.",
+      "legal_aid_name": "Acadiana Legal Service Corporation",
+      "legal_aid_url": "https://www.la-law.org/",
+      "sources": [
+        "http://www.statepublicdefender.la.gov/",
+        "http://www.statepublicdefender.la.gov/contact/",
+        "https://www.legis.la.gov/legis/Law.aspx?d=112430",
+        "https://dcfs.louisiana.gov/child-welfare/kinship-navigator/kinship-navigator-related-legal-resources/",
+        "https://www.legis.la.gov/legis/Law.aspx?d=112882"
+      ]
+    },
+    "maine": {
+      "pd_name": "Maine Commission on Public Defense Services",
+      "pd_url": "https://www.maine.gov/mcils/home",
+      "pd_phone": null,
+      "bail_note": "Under Maine Revised Statutes Title 15, section 1026, a judicial officer shall order pretrial release on personal recognizance or an unsecured appearance bond unless that will not reasonably ensure appearance, refraining from new criminal conduct, integrity of the judicial process, or community safety, in which case the least restrictive further conditions apply.",
+      "diversion_note": "Maine's route is deferred disposition under 17-A M.R.S. sections 1901 to 1904 (formerly section 1348, repealed in the 2019 sentencing reorganization). A person who has pleaded guilty to a Class B drug crime under chapter 45 or a Class C, D, or E crime and who consents in writing is eligible. The court defers sentencing to a set date and imposes conditions, including refraining from criminal conduct, and at the end of the deferment the prosecutor may move to let the defendant withdraw the guilty plea, after which the charge must be dismissed with prejudice.",
+      "legal_aid_name": "Pine Tree Legal Assistance",
+      "legal_aid_url": "https://www.ptla.org/",
+      "sources": [
+        "https://www.maine.gov/mcils/home",
+        "https://maine.gov/pds/about",
+        "https://codes.findlaw.com/me/title-15-court-procedure-criminal/me-rev-st-tit-15-sect-1026/",
+        "https://www.ptla.org/fair-housing",
+        "https://legislature.maine.gov/statutes/17-A/title17-Asec1901.html"
+      ]
+    },
+    "maryland": {
+      "pd_name": "Maryland Office of the Public Defender",
+      "pd_url": "https://opd.state.md.us/",
+      "pd_phone": "1-877-430-5187",
+      "bail_note": "Under Maryland Rule 4-216.1, a judicial officer must impose the least onerous release conditions reasonably needed to assure appearance and safety, and must not detain a defendant solely because they cannot afford money bail; a commissioner first sets conditions, followed by a District Court judge's bail review, usually within 24 hours.",
+      "diversion_note": "Maryland has no statewide pretrial diversion statute; diversion is run locally by each county State's Attorney's office for first-time, low-level misdemeanors, with the State's Attorney deciding who is referred. The statewide deferred route is probation before judgment under Criminal Procedure section 6-220: after a guilty or nolo contendere plea, or a finding of guilt, the court may stay entry of judgment, defer proceedings, and place the defendant on probation if that serves the best interests of the defendant and the public and the defendant consents in writing. A not-guilty plea variant is also available with the State's consent, where the court finds facts justifying guilt but defers any conviction; successful completion ends the case without a judgment of conviction.",
+      "legal_aid_name": "Maryland Legal Aid",
+      "legal_aid_url": "https://www.mdlab.org/get-help-services/",
+      "sources": [
+        "https://msa.maryland.gov/msa/mdmanual/25ind/html/61pubd.html",
+        "https://www.courts.state.md.us/sites/default/files/court-forms/dc099br.pdf",
+        "http://mgaleg.maryland.gov/2017RS/fnotes/bil_0000/hb1280.pdf",
+        "https://www.mdlab.org/get-help-services/",
+        "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gcp&section=6-220&enactments=false",
+        "https://assets.montgomerycountymd.gov/files/ACSBrochure.pdf"
+      ]
+    }
+  }
+}
