@@ -1,0 +1,153 @@
+{
+  "states": {
+    "new mexico": {
+      "pd_name": "Law Offices of the Public Defender",
+      "pd_url": "https://www.lopdnm.us/offices/",
+      "pd_phone": null,
+      "bail_note": "Under the 2016 voter-approved amendment to N.M. Const. art. II, \u00a7 13, no one may be held before trial solely because they cannot afford a bond; the default is release on personal recognizance or an unsecured appearance bond, with secured bond only on written findings (N.M. Rule 8-401). Prosecutors can ask a district judge to hold a felony defendant with no bail at all if clear and convincing evidence shows no release conditions will protect the public.",
+      "diversion_note": "New Mexico's Preprosecution Diversion Act (NMSA 1978, \u00a7\u00a7 31-16A-1 to -8) requires each district attorney to run a pre-prosecution diversion program. A defendant with no prior violent felony conviction charged with a non-violent offense may be diverted for 6 to 24 months; successful completion means the case is not prosecuted.",
+      "legal_aid_name": "New Mexico Legal Aid",
+      "legal_aid_url": "https://newmexicolegalaid.org/",
+      "sources": [
+        "https://www.lopdnm.us/offices/",
+        "https://supremecourt.nmcourts.gov/wp-content/uploads/sites/2/2025/10/Rule-8-401-NMRA.pdf",
+        "https://da2nd.nm.gov/wp-content/uploads/2021/08/PPD-Guidelines-and-Instructions-1.pdf",
+        "https://newmexicolegalaid.org/who-we-are/mission-vision.html"
+      ]
+    },
+    "new york": {
+      "pd_name": "New York State Office of Indigent Legal Services (state oversight agency; public defense itself is county-based, delivered by county public defender offices, legal aid societies, and assigned counsel programs)",
+      "pd_url": null,
+      "bail_note": "Under the 2019 bail reform law (CPL \u00a7 510.10, as amended 2020, 2022, and 2023), judges may not set cash bail for most misdemeanors and non-violent felonies and must release the defendant on recognizance or under non-monetary conditions. Cash bail is available only for 'qualifying offenses' (mostly violent felonies and certain sex, domestic-violence, and repeat offenses), and judges may consider only risk of flight, not dangerousness.",
+      "diversion_note": "New York has no single statewide diversion program. The main route is an adjournment in contemplation of dismissal (ACD) under CPL \u00a7 170.55 (local courts) or \u00a7 210.47 (superior courts): the case is adjourned for six months (one year for family offenses) and then dismissed and sealed if the defendant stays out of trouble. Judicial Diversion under CPL Article 216 offers court-supervised drug treatment for eligible felony drug cases, and district attorneys run local diversion programs that vary by county.",
+      "legal_aid_name": "The Legal Aid Society",
+      "legal_aid_url": "https://legalaidnyc.org/",
+      "sources": [
+        "https://www.nysda.org/page/LawStudentResources",
+        "https://www.nycourts.gov/legacyMembersOnly/courts/9jd/tv-members-only/pdfs_forms/QuickReference_CriminalSealing.pdf",
+        "https://legalaidnyc.org/"
+      ],
+      "pd_phone": null
+    },
+    "north carolina": {
+      "pd_name": "North Carolina Indigent Defense Services",
+      "pd_url": "https://www.ncids.org/north-carolina-defender-directories/",
+      "pd_phone": null,
+      "bail_note": "Under N.C.G.S. Chapter 15A, Article 26, every defendant charged with a noncapital offense has a statutory right to pretrial release, and the court must impose the least restrictive conditions that will reasonably assure appearance. Release can be on an unsecured bond, in the custody of a designated person or organization, on a secured bond (cash deposit, mortgage, or surety), or on house arrest with electronic monitoring; each judicial district publishes its own pretrial release policies.",
+      "diversion_note": "Deferred prosecution under N.C.G.S. \u00a7 15A-1341(a1) lets a prosecutor, with court approval, defer prosecution of a Class H or I felony or a misdemeanor by written agreement and place the defendant on probation (up to two years) to demonstrate good conduct; successful completion leads to dismissal. Conditional discharge under \u00a7 15A-1341(a4) works similarly after a guilty plea or finding, without entering a judgment of guilt.",
+      "legal_aid_name": "Legal Aid of North Carolina",
+      "legal_aid_url": "https://legalaidnc.org/",
+      "sources": [
+        "https://www.ncids.org/north-carolina-defender-directories/",
+        "https://www.NCcourts.gov/assets/documents/local-rules-forms/Amended Official Policies on Pretrial Release- Remediated.pdf",
+        "https://NCLEG.gov/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_15A/Article_82.pdf",
+        "https://legalaidnc.org/our-services/"
+      ]
+    },
+    "north dakota": {
+      "pd_name": "North Dakota Commission on Legal Counsel for Indigents",
+      "pd_url": null,
+      "bail_note": "Under N.D.R.Crim.P. 46, a magistrate must order release on a written promise to appear or an unsecured bond unless that will not reasonably assure the defendant's return to court. Only then may the court set a secured amount or add conditions such as no-contact orders, travel limits, or check-ins; the statutory framework is in N.D.C.C. Chapter 29-08.",
+      "diversion_note": "House Bill 1425 (2025) authorizes each county state's attorney to create a prosecution-led diversion program: with court approval, the prosecutor and defendant may agree to suspend prosecution, and the case is dismissed under N.D.R.Crim.P. 32.2 if the defendant commits no new offense during the agreement period. Each county that establishes a program must adopt written guidelines and minimum eligibility criteria.",
+      "legal_aid_name": "Legal Services of North Dakota",
+      "legal_aid_url": "https://www.legalassist.org/",
+      "sources": [
+        "https://www.ndcourts.gov/news/north-dakota/legal-news/general-news/job-announcement-attorney-public-defender-legal-counsel-for-indigents",
+        "https://legis.nd.gov/assembly/69-2025/regular/documents/25-1149-02000.pdf",
+        "https://www.ndcourts.gov/Media/Default/district-courts/North-Central/nccasemanage.pdf",
+        "https://www.ndcourts.gov/Media/Default/Legal%20Resources/Legal%20Self%20Help/Expungement%20Commitment%20Records%20Research%20Guide.pdf"
+      ],
+      "pd_phone": null
+    },
+    "ohio": {
+      "pd_name": "Office of the Ohio Public Defender",
+      "pd_url": "https://opd.ohio.gov/",
+      "pd_phone": null,
+      "bail_note": "Under Ohio Rev. Code \u00a7 2937.011, a court must release a defendant on the least restrictive conditions that will reasonably assure appearance, public safety, and no obstruction of the process, and any financial conditions must be the least costly to the defendant while still assuring appearance. Bail can be an unsecured bond, a 10% cash deposit, or a surety bond, and a person who is arrested must get an initial bail hearing no later than the second court day after arrest.",
+      "diversion_note": "Ohio courts may require participation in a diversion program as a condition of pretrial release (ORC \u00a7 2937.011(D)(8)). Ask the prosecutor or the court whether a pretrial diversion option is available for the specific charge, since programs and eligibility vary by county and prosecutor.",
+      "legal_aid_name": "Ohio Legal Help",
+      "legal_aid_url": "https://www.ohiolegalhelp.org/",
+      "sources": [
+        "https://codes.ohio.gov/ohio-revised-code/chapter-2937",
+        "https://www.registerofohio.state.oh.us/pdfs/phn/120_NO_278479_20150622_1345.pdf",
+        "https://www.ohiojusticefoundation.org/ohio-legal-help-launches-to-the-public/"
+      ]
+    },
+    "oklahoma": {
+      "pd_name": "Oklahoma Indigent Defense System",
+      "pd_url": "https://oklahoma.gov/oids/about.html",
+      "pd_phone": "(405) 801-2601",
+      "bail_note": "Under Oklahoma's Pretrial Release Act (22 O.S. \u00a7 1105.2), bail is set by the court after arrest, the court must set the least restrictive conditions necessary to reasonably assure appearance, and a bond hearing must occur within 48 hours of arrest. A defendant who cannot obtain a surety or deposit the bond amount may be released on an own-recognizance bond (except for listed offenses), and larger counties may operate pretrial release programs that evaluate defendants and supervise release.",
+      "diversion_note": "Oklahoma has two deferred tracks. Under 22 O.S. \u00a7 305.1, a district attorney may agree not to file charges for up to three years under a written deferred prosecution agreement with conditions, and each DA's office must adopt guidelines weighing factors such as the evidence, whether the offense was nonviolent, and the victim's views. Under 22 O.S. \u00a7 991c, a court may also defer sentence after a guilty or no-contest plea without entering a judgment of guilt, dismissing the case if all conditions are completed.",
+      "legal_aid_name": "Legal Aid Services of Oklahoma",
+      "legal_aid_url": "https://legalaidok.org/",
+      "sources": [
+        "https://oklahoma.gov/oids/about.html",
+        "https://oklahoma.gov/oids.html?refPageViewId=89893fbce3fc571c",
+        "https://oklegislature.gov/cf_pdf/2023-24%20int/hb/HB2465%20int.pdf",
+        "https://www.oklegislature.gov/cf_pdf/2015-16 FLR/HFLR/HB1855 HFLR.PDF",
+        "https://legalaidok.org/about-us/"
+      ]
+    },
+    "oregon": {
+      "pd_name": "Oregon Public Defense Commission (formerly the Office of Public Defense Services)",
+      "pd_url": "https://www.oregon.gov/opds/general/Pages/roster.aspx",
+      "pd_phone": null,
+      "bail_note": "Under SB 48 (2021), ORS 135.230 to 135.290, a magistrate must first consider release on personal recognizance, then conditional release, and only then security release, and must set the lowest security amount that will reasonably assure appearance. There is no fixed bail schedule: release follows the Chief Justice's statewide guidelines and each judicial district's standing pretrial release order, and when security is set the deposit is usually 10% of the amount (minimum $25).",
+      "diversion_note": "Oregon's main diversion route is the DUII diversion program under ORS 813.200: an eligible first-time DUII defendant may petition within 30 days of first appearance, and if the court accepts the agreement and the defendant completes treatment and other conditions over one year, the charge is dismissed. General diversion is also authorized under ORS 135.881 to 135.901, with eligibility and terms set by the local district attorney.",
+      "legal_aid_name": "Legal Aid Services of Oregon",
+      "legal_aid_url": "https://lasoregon.org/",
+      "sources": [
+        "https://www.oregon.gov/opds/general/Pages/roster.aspx",
+        "https://olis.oregonlegislature.gov/liz/2021R1/Downloads/MeasureDocument/SB0048/B-Engrossed",
+        "https://www.courts.oregon.gov/courts/hood_river/programs-services/pages/duii-diversion.aspx",
+        "https://lasoregon.org/"
+      ]
+    },
+    "pennsylvania": {
+      "pd_name": "County public defender offices (Pennsylvania has no statewide public defender office; state funding and standards are handled through the Pennsylvania Commission on Crime and Delinquency's Indigent Defense Advisory Committee)",
+      "pd_url": null,
+      "bail_note": "Under Pa.R.Crim.P. 524, there are five types of release on bail: release on recognizance, release on nonmonetary conditions, an unsecured bail bond, nominal bail (such as $1), and release on a monetary condition. The judge must consider release on recognizance first, and any monetary condition must be no greater than necessary to reasonably assure appearance and compliance; a deposit of up to 10% of the amount may be allowed.",
+      "diversion_note": "Pennsylvania's Accelerated Rehabilitative Disposition (ARD) program (Pa.R.Crim.P. 310-320) is a pretrial diversion program for first-time, non-violent offenders. Admission is entirely at the district attorney's discretion; participants complete supervision, community service, and program costs, and on successful completion the charges are dismissed and the defendant may seek expungement.",
+      "legal_aid_name": "Pennsylvania Legal Aid Network",
+      "legal_aid_url": "https://palegalaid.net/",
+      "sources": [
+        "https://www.pa.gov/agencies/pccd/newsroom/first-time-in-pennsylvania-history-shapiro-davis-administration-secures-75-million-in-funding-for-indigent-defense",
+        "https://regulations.justia.com/states/pennsylvania/title-234/chapter-5/part-c-1/rule-524/",
+        "https://www.buckscounty.gov/740/Accelerated-Rehabilitative-Disposition-A",
+        "https://palegalaid.net/"
+      ],
+      "pd_phone": null
+    },
+    "rhode island": {
+      "pd_name": "Rhode Island Office of the Public Defender",
+      "pd_url": "https://www.ripd.org/",
+      "pd_phone": null,
+      "bail_note": "Under R.I.G.L. \u00a7 12-13-1.3, pretrial release means release without bail on non-monetary conditions set by the court, and there is a presumption of release on personal recognizance. The only monetary conditions allowed are giving surety or depositing 10% of the bail amount (\u00a7 12-13-10); cash-only bail is barred except in cases where the defendant owes court-ordered restitution.",
+      "diversion_note": "Rhode Island runs an Adult Diversion Program through the Attorney General's Office (established 1976) for first-time, non-violent felony offenders, and a Superior Court Diversion Program under R.I.G.L. \u00a7 8-2-39.3 for eligible felony and certain misdemeanor defendants. Both offer supervision and services instead of conviction, and successful completion leads to dismissal of the charge.",
+      "legal_aid_name": "Rhode Island Legal Services",
+      "legal_aid_url": "http://www.rils.org/",
+      "sources": [
+        "https://rilegislature.gov/senators/SenateComDocs/Judiciary/S0292%20RI%20Office%20of%20the%20Public%20Defender.pdf",
+        "https://www.courts.ri.gov/Courts/superiorcourt/Documents/DiversionProgramInformation.pdf",
+        "http://riag.ri.gov/sites/g/files/xkgbur496/files/CriminalUnit/eligibility.pdf",
+        "http://www.rils.org/"
+      ]
+    },
+    "south carolina": {
+      "pd_name": "South Carolina Commission on Indigent Defense",
+      "pd_url": "https://sccid.sc.gov/",
+      "pd_phone": null,
+      "bail_note": "Under S.C. Code \u00a7 22-5-510, a person charged with a bailable offense must have a bond hearing within 24 hours of arrest. Under \u00a7 17-15-10, release on a personal recognizance bond is the default for noncapital offenses unless the court finds it will not reasonably assure appearance or would create an unreasonable danger; otherwise the court may require a surety bond, a cash bond, or a cash deposit of up to 10% of the bond.",
+      "diversion_note": "South Carolina's Pretrial Intervention (PTI) program, under S.C. Code \u00a7\u00a7 17-22-10 to -170, is run by the solicitor in each judicial circuit for first-time, non-violent offenders with no significant criminal history. It typically lasts 90 days to one year and requires community service, counseling, restitution, and fees (a $100 application fee and $250 participation fee); successful completion means the charge is dismissed and the arrest record can be expunged. DUI and crimes of violence are excluded.",
+      "legal_aid_name": "South Carolina Legal Services",
+      "legal_aid_url": "https://sclegal.org/",
+      "sources": [
+        "https://sccid.sc.gov/about-us/county-public-defenders/horry",
+        "https://sclegal.org/services/",
+        "https://charlestonlaw.net/pretrial-intervention-sc/",
+        "https://toumalawgroup.com/greenville-county-bond-court-guide/"
+      ]
+    }
+  }
+}

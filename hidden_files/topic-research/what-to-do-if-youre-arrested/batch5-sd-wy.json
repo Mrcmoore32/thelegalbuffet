@@ -1,0 +1,164 @@
+{
+  "states": {
+    "south dakota": {
+      "pd_name": "Office of Indigent Legal Services (overseen by the Commission on Indigent Legal Services)",
+      "pd_url": null,
+      "pd_phone": null,
+      "bail_note": "South Dakota law starts with release on personal recognizance (a signed promise to appear) and only adds cash or other conditions if that will not reasonably assure appearance (SDCL 23A-43-2 and 23A-43-3); an appearance bond can be satisfied by depositing up to 10 percent of the bond amount in cash with the court clerk. Almost everyone is entitled to bail except in capital cases with strong proof of guilt.",
+      "diversion_note": "South Dakota law allows each state's attorney to create a deferred prosecution program for general misdemeanor offenses other than driving while intoxicated. The state's attorney decides whether a case is appropriate, mails the defendant notice of the alleged offense and the proposed restitution or community service, and may enter a written agreement deferring prosecution for up to 180 days while the defendant completes the agreed community service, restitution, and costs. A fee of no more than $50 may be charged if the state's attorney's office administers the case, and successful completion means the defendant is not prosecuted for the offense in the agreement.",
+      "legal_aid_name": "East River Legal Services",
+      "legal_aid_url": "https://erlservices.org/",
+      "sources": [
+        "https://ujs.sd.gov/media/gf1pta3j/6ac-south-dakota-report-2024-linked-footnotes.pdf",
+        "https://law.justia.com/codes/south-dakota/2006/23a/23a-43-3.html",
+        "https://www.sdnewswatch.org/south-dakota-crime-reporting-guide/",
+        "https://www.womenslaw.org/find-help/sd/finding-lawyer/legal-assistance",
+        "https://mylrc.sdlegislature.gov/api/Documents/80664.pdf"
+      ]
+    },
+    "tennessee": {
+      "pd_name": "Tennessee District Public Defenders Conference",
+      "pd_url": null,
+      "pd_phone": null,
+      "bail_note": "Tennessee's constitution makes all prisoners bailable except in capital cases where the proof is evident, and state law (Tenn. Code Ann. 40-11-115) requires the magistrate to consider release on personal recognizance or an unsecured bond first and impose the least restrictive conditions that will reasonably ensure appearance and community safety.",
+      "diversion_note": "Tennessee pretrial diversion, governed by TCA 40-15-105 and also called suspended prosecution, is available only to a narrow class of qualified defendants: the defendant must not have previously received pretrial or judicial diversion, must not have a disqualifying prior conviction, and must not be charged with a felony or certain excluded misdemeanors such as DUI or a sex offense. The defendant enters a memorandum of understanding with the district attorney, prosecution is suspended for up to two years while the defendant meets its terms, and if the terms are not met prosecution resumes; on successful completion the defendant may ask the court for an order of expungement.",
+      "legal_aid_name": "Legal Aid Society of Middle Tennessee and the Cumberlands",
+      "legal_aid_url": "https://www.las.org/",
+      "sources": [
+        "https://6ac.org/us-territory/tennessee/",
+        "https://publications.tnsosfiles.com/pub/blue_book/07-08/36-District%20Public%20Defenders%20Conference.pdf",
+        "https://law.justia.com/codes/tennessee/2023/title-40/chapter-11/part-1/section-40-11-115/",
+        "https://www.tn.gov/content/tn/humanservices/division-ofappeals-and-hearings/dhs-appeals-legal-aid.html",
+        "https://www.tn.gov/content/dam/tn/tbi/documents/Diversion.pdf?ref=archive.pamphleteer.co"
+      ]
+    },
+    "texas": {
+      "pd_name": "Texas Indigent Defense Commission",
+      "pd_url": null,
+      "pd_phone": null,
+      "bail_note": "Texas has no statewide public defender office; each county appoints counsel under the Fair Defense Act, overseen by the Texas Indigent Defense Commission. Under Senate Bill 9 (2025), a person charged with a felony must appear before a magistrate who considers a public safety report before bail is set, and personal (no-cash) bonds are barred for a longer list of offenses, including unlawful possession of a firearm and violation of a family-violence protective order.",
+      "diversion_note": "Texas prosecutors operate pretrial intervention programs, and Senate Bill 9 (2025) requires the state to enter the conditions of a defendant's pretrial intervention program into the statewide law-enforcement database within 10 business days of the defendant entering the program.",
+      "legal_aid_name": "Lone Star Legal Aid",
+      "legal_aid_url": "https://www.lonestarlegal.org/",
+      "sources": [
+        "https://ocfw.texas.gov/about",
+        "https://capitol.texas.gov/tlodocs/89R/analysis/html/SB00009I.htm",
+        "http://capitol.texas.gov/tlodocs/89R/billtext/html/SB00009F.HTM",
+        "https://dev.sll.texas.gov/legal-help/"
+      ]
+    },
+    "utah": {
+      "pd_name": "Utah Indigent Defense Commission",
+      "pd_url": null,
+      "pd_phone": null,
+      "bail_note": "Utah judges may release a defendant on personal recognizance, an unsecured bond, cash bail, or a commercial surety bond, and must impose only conditions that are reasonably available and necessary to ensure appearance and safety; when a financial condition is imposed, the judge must consider the person's ability to pay (Utah Code 77-20-205). Bail amounts start from a statewide financial-condition schedule tied to the offense class.",
+      "diversion_note": "Utah's route is a plea in abeyance under Utah Code Title 77, chapter 2a, section 77-2a-3: with the consent of both the prosecuting attorney and the defendant, the court accepts a plea but holds it in abeyance under an agreement that may require a fee, restitution, treatment, and other probation-like conditions. On successful completion the court may reduce the degree of the offense, allow the defendant to withdraw the plea and dismiss the case, or, after a certified problem-solving court program, order expungement. A plea may not be held in abeyance without the prosecutor's consent.",
+      "legal_aid_name": "Utah Legal Services",
+      "legal_aid_url": "https://www.utahlegalservices.org/",
+      "sources": [
+        "https://idc.utah.gov/wp-content/uploads/IDC-2022-Annual-Report.pdf",
+        "https://law.justia.com/codes/utah/title-77/chapter-20/part-2/section-205/",
+        "https://le.utah.gov/interim/2026/pdf/00002424.pdf",
+        "https://www.utahlegalhelp.org/free-legal-resources.html",
+        "https://le.utah.gov/xcode/Title77/Chapter2A/C77-2a-S3_2026050620260701.pdf"
+      ]
+    },
+    "vermont": {
+      "pd_name": "Office of the Defender General",
+      "pd_url": "https://defgen.vermont.gov/",
+      "pd_phone": "802-828-3168",
+      "bail_note": "Vermont law presumes release on personal recognizance or an unsecured appearance bond, and cash bail may be used only to address flight risk, not to punish (13 V.S.A. 7554). No bail, secured bond, or appearance bond may be imposed at the initial appearance for a cited misdemeanor, and bail for a misdemeanor eligible for sealing is capped at $200.",
+      "diversion_note": "Vermont runs a statewide adult court diversion program administered by the Attorney General under 3 V.S.A. section 164, available in all counties for both pre-charge and post-charge referrals. Post-charge diversion is for people charged with a first or second misdemeanor or a first nonviolent felony, or other offenses the prosecutor deems appropriate, and for people with substance-use or mental-health treatment needs regardless of criminal history (except listed felonies). It is a restorative program in which the person takes responsibility and works to repair the harm, and the prosecutor dismisses the charge of a person who successfully completes it.",
+      "legal_aid_name": "Vermont Legal Aid",
+      "legal_aid_url": "https://vtlegalaid.org/about-vla",
+      "sources": [
+        "https://defgen.vermont.gov/",
+        "https://vodgsearch.org/Staff%20%20PD%20Contractor%20List%207-8-24.pdf",
+        "https://legislature.vermont.gov/statutes/fullchapter/13/229",
+        "https://vtlegalaid.org/about-vla",
+        "https://legislature.vermont.gov/statutes/section/03/007/00164"
+      ]
+    },
+    "virginia": {
+      "pd_name": "Virginia Indigent Defense Commission",
+      "pd_url": "https://www.virginia.gov/agencies/indigent-defense-commission/",
+      "pd_phone": "(804) 662-7249",
+      "bail_note": "Under Virginia Code 19.2-123, a judicial officer may release an arrested person on a promise to appear, an unsecured bond, a secured bond (surety or cash deposit), or under pretrial-services supervision, with conditions such as no contact with the victim, curfew, or drug testing. A person arrested for a felony who has a prior felony conviction, is already on bond, or is on probation or parole may be released only on a secured bond.",
+      "diversion_note": "Virginia has no general statewide pretrial diversion program; instead it uses deferred disposition, which requires the agreement of both the defendant and the prosecutor under Virginia Code section 19.2-298.02. A dedicated first-offender route exists under section 19.2-303.2 for certain misdemeanor property crimes: a person with no prior felony conviction and no prior dismissal under that section may have proceedings deferred without entry of a judgment of guilt and be placed on probation, including restitution, and on fulfillment of the terms the court discharges the person and dismisses the proceedings without an adjudication of guilt.",
+      "legal_aid_name": "Legal Aid Justice Center",
+      "legal_aid_url": "https://www.justice4all.org/",
+      "sources": [
+        "https://www.virginia.gov/agencies/indigent-defense-commission/",
+        "https://law.lis.virginia.gov/vacode/19.2-123/",
+        "https://rga.lis.virginia.gov/Published/2019/RD368/PDF",
+        "https://rvalibrary.org/wp-content/uploads/2025/08/Legal-Resource-Guide-1.3.pdf",
+        "https://law.lis.virginia.gov/vacode/title19.2/chapter18/section19.2-303.2/"
+      ]
+    },
+    "washington": {
+      "pd_name": "Washington State Office of Public Defense",
+      "pd_url": "http://opd.wa.gov/public-defender-offices",
+      "pd_phone": "360-586-3164",
+      "bail_note": "Washington court rule CrR 3.2 presumes release on personal recognizance in noncapital cases; the court may impose conditions, including monetary conditions, only after finding that recognizance will not reasonably assure appearance or that the person is likely to commit a violent crime or intimidate witnesses. If no probable cause is found, the person must be released without conditions.",
+      "diversion_note": "Washington's route is deferred prosecution under RCW chapter 10.05, available in a court of limited jurisdiction to a person charged with a misdemeanor or gross misdemeanor. The person must petition at least seven days before trial and allege under oath that the conduct was caused by a substance-use disorder, mental-health disorder, or domestic-violence behavior problem needing treatment, with a case history and assessment from an approved provider, and the court must make the findings required by RCW 10.05.020. If the court approves a treatment plan and the person completes it, the charges are dismissed under RCW 10.05.120; a second deferred prosecution for DUI is allowed only on the terms of RCW 10.05.010.",
+      "legal_aid_name": "Northwest Justice Project",
+      "legal_aid_url": "https://www.nwjustice.org/",
+      "sources": [
+        "https://opd.wa.gov/contact-us",
+        "http://opd.wa.gov/public-defender-offices",
+        "https://lawfilesext.leg.wa.gov/law/wsrpdf/2025/18/25-18-011.pdf",
+        "https://www.nwjustice.org/",
+        "https://ocla.wa.gov/programs/core-legal-services",
+        "https://apps.leg.wa.gov/rcw/default.aspx?cite=10.05&full=true"
+      ]
+    },
+    "west virginia": {
+      "pd_name": "West Virginia Public Defender Services",
+      "pd_url": "https://pds.wv.gov",
+      "pd_phone": "304-558-3905",
+      "bail_note": "Under West Virginia Code 62-1C-1a, a person charged with a misdemeanor must be released on personal recognizance at first appearance unless charged with a listed offense (such as a violent misdemeanor, a drug offense, or one involving a minor victim); for all other jailable offenses the person is entitled to bail under the least restrictive conditions reasonably necessary to assure appearance and safety.",
+      "diversion_note": "West Virginia allows a prosecuting attorney to enter a written pretrial diversion agreement under W. Va. Code section 61-11-22 when the prosecutor considers it in the interests of justice. The agreement lasts no more than 24 months, its terms may be similar to probation conditions, and a person who successfully complies is not subject to prosecution for the offense or offenses set out in the agreement. Separately, section 61-11-22a provides deferred adjudication, in which the court may defer acceptance of a guilty plea and further adjudication on terms set by the court.",
+      "legal_aid_name": "Legal Aid of West Virginia",
+      "legal_aid_url": "https://legalaidwv.org/",
+      "sources": [
+        "https://pds.wv.gov",
+        "https://www.wv.gov/agencies/public-defender-services",
+        "https://code.wvlegislature.gov/62-1C-1A/",
+        "https://legalaidwv.org/our-programs/legal-services/",
+        "https://code.wvlegislature.gov/62-11C-9/"
+      ]
+    },
+    "wisconsin": {
+      "pd_name": "Wisconsin State Public Defender",
+      "pd_url": "https://www.wispd.gov",
+      "pd_phone": "608-266-0087",
+      "bail_note": "Under Wisconsin Statutes 969.02, a judge may release a person charged with a misdemeanor without bail or on an unsecured appearance bond, or may require a surety bond or cash deposit instead; a signature bond means release with no money paid up front, while a cash bond must be paid before release. Wisconsin does not use commercial bail bondsmen.",
+      "diversion_note": "Wisconsin uses deferred prosecution agreements under Wis. Stat. sections 971.37 to 971.39, run by the district attorney. Under section 971.37, for domestic-abuse crimes, and section 971.39, in counties under 100,000 people, the district attorney, the department, and the defendant may enter a written agreement under which the defendant admits the elements of the crime and meets conditions such as treatment or programs, with the department monitoring compliance. If the agreement is completed, the court dismisses the charges with prejudice; if it is terminated or the defendant fails to comply, prosecution may resume. The district attorney may also require community service as a condition under section 971.38.",
+      "legal_aid_name": "Legal Action of Wisconsin",
+      "legal_aid_url": "https://legalaction.org/",
+      "sources": [
+        "https://www.wispd.gov/wp-content/uploads/2026/02/SPD-ADA-Policy.pdf",
+        "https://docs.legis.wisconsin.gov/statutes/statutes/969/03/1/b",
+        "https://legalaction.org/merger-announcement/",
+        "https://www.judicare.org/legal-services/how-to-apply/",
+        "https://docs.legis.wisconsin.gov/scroll/up/966/2011/statutes/statutes/971"
+      ]
+    },
+    "wyoming": {
+      "pd_name": "Office of the State Public Defender",
+      "pd_url": "http://wyodefender.state.wy.us",
+      "pd_phone": null,
+      "bail_note": "Wyoming's constitution makes all non-capital defendants bailable, and court rule 46.1 requires a judge to release a defendant on an unsecured bond unless that will not reasonably assure appearance, weighing the nature of the offense, the evidence, family and community ties, and any danger to others. Release can also be on recognizance or a cash or surety bond, with conditions such as no contact with an alleged victim.",
+      "diversion_note": "Wyoming's first-offender deferred route is Wyo. Stat. section 7-13-301: a person with no prior felony conviction who is charged with, found guilty of, or pleads guilty or no contest to a qualifying misdemeanor or felony (excluding murder, first- or second-degree sexual assault, aggravated assault and battery, and first- or second-degree arson) may, with the consent of the defendant and the state, have proceedings deferred without entry of a judgment of guilt and be placed on probation on court-set terms. If the court finds the terms fulfilled and rehabilitation attained, it may discharge the person and dismiss the proceedings without an adjudication of guilt; only one discharge and dismissal under this section is allowed.",
+      "legal_aid_name": "Legal Aid of Wyoming",
+      "legal_aid_url": "https://www.lawyoming.org/",
+      "sources": [
+        "https://wyoleg.gov/InterimCommittee/2020/SMA-202010139.0StatePublicDefender.pdf",
+        "https://www.wyocourts.gov/app/uploads/2025/01/Order-Crim-Rule-46.1-1.pdf",
+        "https://www.lawyoming.org/blog/legal-aid-hotline-helps-wyoming-citizens-in-need-of-free-legal-advice.amp",
+        "https://www.wyocourts.gov/legal-service/legal-aid-of-wyoming-inc-cheyenne-administrative-office/",
+        "https://wyoleg.gov/2002/Engross/HB0106.PDF"
+      ]
+    }
+  }
+}
