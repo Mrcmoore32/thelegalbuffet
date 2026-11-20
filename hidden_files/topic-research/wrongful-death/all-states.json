@@ -1,0 +1,895 @@
+{
+ "states": {
+  "new mexico": {
+   "damages_note": "The jury may award compensatory and exemplary (punitive) damages it deems fair and just, based on the financial loss to the survivors, including medical and funeral expenses, lost earnings and benefits, household services, loss of guidance and counsel, the value of the life itself, and the decedent's pain and suffering before death. There is no damages cap in the Wrongful Death Act itself. Proceeds are not subject to the decedent's debts and are divided in a fixed order set by the statute.",
+   "deadline_note": "3 years from the date of death (N.M. Stat. Ann. § 41-2-2). Claims against a government body are different: written notice is generally due within 6 months of the injury that caused the death, and suit within 2 years under the Tort Claims Act.",
+   "legal_aid_name": "New Mexico Legal Aid",
+   "legal_aid_url": "https://www.newmexicolegalaid.org/",
+   "phone": "1-833-545-4357",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://www.nmlegis.gov/Sessions/01%20Regular/FinalVersions/house/HB0216FV.html",
+    "https://law.justia.com/codes/new-mexico/2018/chapter-41/article-2/section-41-2-1/",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-new-mexico.html",
+    "https://www.newmexicolegalaid.org/",
+    "https://www.sbnm.org/Portals/NMBAR/forPublic/LegalServiceProviders.pdf?ver=OmBcmBmG2GAjsRvYNFWH-w="
+   ],
+   "state_note": "New Mexico is unusual in letting the jury award damages for the value of the deceased person's life itself, not just measurable financial losses; and family members can never file in their own names — only the personal representative can.",
+   "statute_cite": "N.M. Stat. Ann. § 41-2-1",
+   "statute_name": "New Mexico Wrongful Death Act",
+   "who_can_file": "Only the personal representative (executor or administrator) of the deceased person's estate may bring the claim, and it is brought in the representative's name for the benefit of the statutory beneficiaries: the surviving spouse, children and grandchildren, then the parents of a deceased minor, then siblings (N.M. Stat. Ann. § 41-2-3)."
+  },
+  "new york": {
+   "damages_note": "Only pecuniary (financial) losses may be recovered: lost financial support, lost services, loss of parental guidance, lost inheritance, plus medical expenses and funeral costs, with interest from the date of death. Grief, sorrow and loss of companionship are NOT recoverable. Punitive damages are allowed where the decedent could have recovered them (EPTL § 5-4.3). No cap on compensatory damages.",
+   "deadline_note": "2 years from the date of death; 2 years and 6 months for deaths caused by the September 11, 2001 terrorist attacks. If a criminal case was filed over the same event, the personal representative gets at least 1 year from the end of the criminal case. Claims against a city, town or county need a notice of claim within 90 days.",
+   "legal_aid_name": "The Legal Aid Society",
+   "legal_aid_url": "https://legalaidnyc.org/",
+   "phone": "212-577-3300",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://www.nysenate.gov/legislation/laws/EPT/5-4.1",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-new-york.html",
+    "https://legalaidnyc.org/",
+    "http://nyassembly.gov/write/upload/publichearing/001401/005089.pdf"
+   ],
+   "state_note": "New York is one of the few states that bars grief and loss-of-companionship damages entirely; the Grieving Families Act that would have allowed them was vetoed on December 5, 2025, and a 2026 bill remains in committee. Note the Legal Aid Society serves New York City; upstate residents should use LawHelpNY to find their local program.",
+   "statute_cite": "N.Y. Est. Powers & Trusts Law § 5-4.1",
+   "statute_name": "New York Wrongful Death Statute",
+   "who_can_file": "Only the duly appointed personal representative of the deceased person's estate may bring the claim, for the benefit of the distributees — the surviving spouse, children, parents, siblings and other heirs in the order set by inheritance law (N.Y. Est. Powers & Trusts Law § 5-4.1)."
+  },
+  "north carolina": {
+   "damages_note": "Medical and hospital expenses, the decedent's pain and suffering before death, funeral expenses, and the present monetary value of the decedent to the family — lost net income, services, protection, care, society, companionship, comfort, guidance and advice. Punitive damages are allowed for malice or willful or wanton conduct, capped at the greater of 3 times compensatory damages or $250,000. No general cap on compensatory damages. The recovery is generally not liable for the decedent's debts, except burial expenses and up to $4,500 in medical expenses.",
+   "deadline_note": "2 years from the date of death (N.C. Gen. Stat. § 1-53) — shorter than North Carolina's 3-year deadline for most personal-injury claims. Exceptions are rare, such as tolling while a beneficiary is a minor or fraudulent concealment of the cause of death.",
+   "legal_aid_name": "Legal Aid of North Carolina",
+   "legal_aid_url": "https://legalaidnc.org/",
+   "phone": "1-866-219-5262",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/ByArticle/Chapter_28A/Article_18.pdf",
+    "https://legalaidnc.org/get-help/",
+    "https://www.NCcourts.gov/assets/inline-files/LANC-After-Natural-Disaster-100418_0.pdf?X1Zw0X7_ALY88q3faZopolDvmDgHf3ut="
+   ],
+   "state_note": "North Carolina is one of the few states with pure contributory negligence: if the person who died was even 1% at fault for the accident, the family may recover nothing.",
+   "statute_cite": "N.C. Gen. Stat. § 28A-18-2",
+   "statute_name": "North Carolina Wrongful Death Act",
+   "who_can_file": "Only the personal representative (or collector) of the deceased person's estate may bring the claim, for the benefit of the surviving spouse, children, parents and other heirs under intestacy law (N.C. Gen. Stat. § 28A-18-2)."
+  },
+  "north dakota": {
+   "damages_note": "Damages proportionate to the injury to those entitled to recover, including lost income and financial support, household services, medical and funeral expenses, and loss of society and companionship. No general cap on damages; a $500,000 cap on non-economic damages applies only to medical-malpractice cases, and punitive damages are capped at the greater of 2 times compensatory damages or $250,000. The recovery is exempt from the decedent's debts and goes to the heirs at law.",
+   "deadline_note": "2 years from the date of death (N.D. Cent. Code § 28-01-18(4)). If the death resulted from medical malpractice, the deadline is 2 years from when the malpractice was discovered, but no more than 6 years from when it happened.",
+   "legal_aid_name": "Legal Services of North Dakota",
+   "legal_aid_url": "https://lsnd.org/",
+   "phone": "1-800-634-5263",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://ndlegis.gov/prod/cencode/t32.html",
+    "https://law.justia.com/codes/north-dakota/2018/title-32/chapter-32-21/",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-north-dakota.html",
+    "https://lsnd.org/get-help/",
+    "https://www.ndcourts.gov/legal-self-help/other-resources"
+   ],
+   "state_note": "Unlike most states, North Dakota lets surviving family members file the claim themselves in a fixed priority order, rather than only through the estate's personal representative — and the recovery is protected from the decedent's creditors.",
+   "statute_cite": "N.D. Cent. Code § 32-21-01",
+   "statute_name": "North Dakota Death by Wrongful Act",
+   "who_can_file": "The claim must be brought by the following people, in this order: the surviving spouse, then the surviving children, then the surviving mother or father, then a surviving grandparent, then the personal representative of the estate, then a person who had primary physical custody of the decedent. If the person first in line refuses or neglects to file for 30 days after a demand from the next person in line, that next person may file (N.D. Cent. Code § 32-21-03)."
+  },
+  "ohio": {
+   "damages_note": "Loss of financial support, loss of services, loss of society, companionship, care, guidance and counsel, loss of prospective inheritance, mental anguish suffered by surviving family members, and funeral and burial expenses. There is no cap on compensatory damages. Punitive damages are not listed among wrongful-death damages in the statute.",
+   "deadline_note": "2 years from the date of death (Ohio Rev. Code § 2125.02(D)(1)). Product-liability wrongful-death claims have a 10-year statute of repose with exceptions, and deaths from prolonged exposure to a product must be filed within 2 years of learning the cause of death.",
+   "legal_aid_name": "Ohio Legal Help",
+   "legal_aid_url": "https://www.ohiolegalhelp.org/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://codes.ohio.gov/assets/laws/revised-code/authenticated/21/2125/2125.02/4-4-2023/2125.02-4-4-2023.pdf",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-ohio.html",
+    "https://www.ohiolegalhelp.org/",
+    "https://libguides.uakron.edu/ohiolaw/legalhelp"
+   ],
+   "state_note": "Ohio is one of the few states that expressly lets surviving family members recover for their own mental anguish, and since a 2023 amendment, other next of kin who want a share must file a notice of claim with the probate court within 2 years of the death.",
+   "statute_cite": "Ohio Rev. Code § 2125.02",
+   "statute_name": "Ohio Wrongful Death Statute",
+   "who_can_file": "The personal representative of the deceased person's estate must bring the claim, for the exclusive benefit of the surviving spouse, children and parents (who are presumed to have suffered damages) and other next of kin (Ohio Rev. Code § 2125.02)."
+  },
+  "oklahoma": {
+   "damages_note": "Medical and burial expenses; loss of consortium and grief of the surviving spouse; the decedent's mental pain and anguish before death; pecuniary loss to the survivors; and grief and loss of companionship of the decedent's children and parents. Punitive (exemplary) damages may be recovered in proper cases. For the death of an unmarried, unemancipated minor child, damages also include loss of companionship and love, destruction of the parent-child relationship, and support and education costs (§ 1055).",
+   "deadline_note": "2 years from the death. Claims against a government entity need a written notice of claim within 1 year of the death under the Governmental Tort Claims Act.",
+   "legal_aid_name": "Legal Aid Services of Oklahoma",
+   "legal_aid_url": "https://legalaidok.org/",
+   "phone": "1-888-534-5243",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://law.justia.com/codes/oklahoma/2022/title-12/section-12-1053/",
+    "https://www.oscn.net/applications/oscn/DeliverDocument.asp?CiteID=37374",
+    "https://legalaidok.org/",
+    "https://www.okbar.org/legal-aid-services-of-oklahoma-they-cant-do-it-all/"
+   ],
+   "state_note": "Oklahoma's statute is unusual in two ways: it spells out damages beneficiary by beneficiary in the statute itself, and it also covers the death of an unborn person (§ 1053(F)).",
+   "statute_cite": "Okla. Stat. tit. 12, § 1053",
+   "statute_name": "Oklahoma Wrongful Death Statute",
+   "who_can_file": "The personal representative of the deceased person's estate brings the claim. If the decedent was a nonresident, or a resident with no personal representative appointed, the widow — or, if there is no widow, the next of kin — may bring it instead (Okla. Stat. tit. 12, §§ 1053–1054)."
+  },
+  "oregon": {
+   "damages_note": "Reasonable medical, hospital, nursing, burial and memorial expenses; the decedent's pain, suffering, disability and lost income between injury and death; pecuniary loss to the estate; and loss of society, companionship and services for the spouse, children, stepchildren, stepparents and parents. Punitive damages are allowed where the decedent could have recovered them. Non-economic damages are generally capped at $500,000 (ORS 31.710), with exceptions; economic damages are uncapped.",
+   "deadline_note": "3 years after the injury that caused the death is discovered or reasonably should have been discovered, but never later than 3 years after the death (or the longest applicable statute of ultimate repose).",
+   "legal_aid_name": "Legal Aid Services of Oregon",
+   "legal_aid_url": "https://lasoregon.org/",
+   "phone": "503-224-4086",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://www.oregonlegislature.gov/bills_laws/ors/ors030.html",
+    "https://oregon.public.law/statutes/ors_30.020",
+    "https://lasoregon.org/",
+    "https://www.portland.gov/ro/media/20644/download"
+   ],
+   "state_note": "Oregon's clock runs from discovery of the injury, not just from the death, but is capped at 3 years after death — and stepchildren and stepparents are expressly included as beneficiaries even if they would not inherit under intestacy law.",
+   "statute_cite": "Or. Rev. Stat. § 30.020",
+   "statute_name": "Oregon Wrongful Death Statute",
+   "who_can_file": "Only the personal representative of the deceased person's estate may bring the claim, for the benefit of the surviving spouse, surviving children, surviving parents, stepchildren and stepparents, and anyone else who would inherit the decedent's personal property under intestacy law (Or. Rev. Stat. § 30.020)."
+  },
+  "pennsylvania": {
+   "damages_note": "Reasonable hospital, nursing, medical and funeral expenses and estate administration expenses, plus lost financial support, household services, society, comfort and guidance. No cap on compensatory damages. Punitive damages are generally not available in the wrongful-death action itself, though they may be available in a companion survival action (42 Pa. Cons. Stat. § 8302). Only a spouse, child or parent can benefit; if none survive, only special damages may be recovered.",
+   "deadline_note": "2 years from the date of death (42 Pa. Cons. Stat. § 5524(2)). Claims against a government entity require notice within 6 months of the death.",
+   "legal_aid_name": "Pennsylvania Legal Aid Network",
+   "legal_aid_url": "https://palegalaid.net/",
+   "phone": "1-800-322-7572",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/42/00.083..HTM",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-pennsylvania.html",
+    "https://palegalaid.net/contact-us",
+    "https://members.ccbh.com/member-information/complaints"
+   ],
+   "state_note": "Only a spouse, child or parent can recover under the Wrongful Death Act — siblings and unmarried partners cannot. Also, the separate survival action (for the decedent's own pre-death pain and suffering) runs on a different clock, from the date of injury rather than the date of death. Note: the Legal Aid Network is a statewide network that refers callers to the legal-aid program serving their county; it does not represent clients directly.",
+   "statute_cite": "42 Pa. Cons. Stat. § 8301",
+   "statute_name": "Pennsylvania Wrongful Death Act",
+   "who_can_file": "The personal representative of the estate has the exclusive right to file for the first 6 months after the death. If the personal representative does not file within 6 months, any beneficiary — the surviving spouse, child or parent — may file on behalf of all beneficiaries (Pa. R. Civ. P. 2202; 42 Pa. Cons. Stat. § 8301)."
+  },
+  "rhode island": {
+   "damages_note": "Pecuniary losses such as lost future income and household services, medical and funeral expenses, the decedent's pain and suffering before death, and loss of consortium, society and companionship — including emotional distress and grief — for a spouse, children or parents. Punitive damages are available where the decedent could have recovered them (§ 10-7-7.1). Rhode Island guarantees a minimum recovery of $350,000 when liability is found (raised from $250,000 effective January 1, 2024).",
+   "deadline_note": "3 years from the date of death. If the wrongful act that caused the death was not known at the time of death, the deadline is 3 years from when it was discovered or reasonably should have been discovered (R.I. Gen. Laws § 10-7-2(c)).",
+   "legal_aid_name": "Rhode Island Legal Services",
+   "legal_aid_url": "https://rils.org/",
+   "phone": "401-274-2652",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://law.justia.com/codes/rhode-island/2014/title-10/chapter-10-7/section-10-7-1/",
+    "https://webserver.rilegislature.gov/BillText21/SenateText21/S0513.htm",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-rhode-island.html",
+    "https://rils.org/contact.cfm",
+    "https://vets.ri.gov/i-am-find-your-benefits/world-war-ii-korean-war-veteran/rhode-island-legal-services"
+   ],
+   "state_note": "Rhode Island is rare in guaranteeing a minimum $350,000 recovery in a successful wrongful-death case, and it expressly lets a spouse, child or parent sue separately for loss of companionship and emotional distress.",
+   "statute_cite": "R.I. Gen. Laws § 10-7-1",
+   "statute_name": "Rhode Island Death by Wrongful Act",
+   "who_can_file": "The executor or administrator of the deceased person's estate has the exclusive right to file for the first 6 months after the death. If no executor or administrator files within 6 months (or there is none), the beneficiaries may file on behalf of all beneficiaries (R.I. Gen. Laws §§ 10-7-2, 10-7-3). Separately, a surviving spouse, child or parent may bring their own claim for loss of consortium, society and companionship (§ 10-7-1.2)."
+  },
+  "south carolina": {
+   "damages_note": "The jury may award damages proportioned to the injury to the beneficiaries: lost income and benefits, household services, medical and funeral expenses, loss of companionship, guidance, care and protection, and mental anguish. Exemplary (punitive) damages are allowed for recklessness, wilfulness or malice, capped at the greater of 3 times compensatory damages or $500,000 (up to 4 times or $2,000,000 in defined cases). Any settlement of a wrongful-death or survival action must be approved by a probate, circuit or federal court.",
+   "deadline_note": "3 years from the date of death (S.C. Code Ann. § 15-3-530(6)). Claims against government entities have much shorter deadlines, often measured in months.",
+   "legal_aid_name": "South Carolina Legal Services",
+   "legal_aid_url": "https://sclegal.org/",
+   "phone": "1-888-346-5592",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://www.scstatehouse.gov/Archives/CodeofLaws2001/t15c051.php",
+    "https://law.justia.com/codes/south-carolina/title-15/chapter-51/section-15-51-10/",
+    "https://sclegal.org/",
+    "https://www.lawhelp.org/files/B1196C12-D35A-072C-1CE6-1152819EF2BE/attachments/2A23FB82-9AE8-4511-B9BD-57CD4308BD6D/carrepo-ppt.pdf"
+   ],
+   "state_note": "A child's right to benefit is not affected by the parents' marital status (§ 15-51-30), and every settlement of a wrongful-death claim needs court approval — families cannot settle privately without a judge signing off.",
+   "statute_cite": "S.C. Code Ann. § 15-51-10",
+   "statute_name": "South Carolina Death by Wrongful Act Statute",
+   "who_can_file": "Only the executor or administrator of the deceased person's estate may bring the claim, for the benefit of the surviving spouse and children first, then the parents, then the heirs (S.C. Code Ann. §§ 15-51-10, 15-51-20)."
+  },
+  "alabama": {
+   "damages_note": "Alabama is unique: only punitive damages may be recovered — money meant to punish the wrongdoer and deter similar conduct, based on the seriousness of the conduct. No compensatory damages are allowed, so families cannot recover funeral costs, medical bills, lost wages, or loss of companionship as separate items. There is no cap on punitive damages in wrongful-death cases. Any recovery goes to the heirs under Alabama's distribution rules and is not subject to the deceased person's debts.",
+   "deadline_note": "2 years from the date of death. Ala. Code § 6-5-410(d). Alabama courts treat this as a statute of creation, not an ordinary limitations period, so it is generally not tolled — the claim expires after two years.",
+   "legal_aid_name": "Legal Services Alabama",
+   "legal_aid_url": "https://legalservicesalabama.org/",
+   "phone": "1-866-456-4995",
+   "phone_label": "Legal aid",
+   "sources": [
+    "http://acis.alabama.gov/displaydocs.cfm?event=5PX0LFV59&no=1008537",
+    "https://www.bcmlawyers.com/wrongful-death-lawsuit-in-alabama/",
+    "https://legalservicesalabama.org/",
+    "https://www.alabamalegalhelp.org/about-us"
+   ],
+   "state_note": "Alabama is the only state where wrongful-death recovery is punitive damages only — there is no compensation for the family's financial losses or grief, and the award is measured by how bad the defendant's conduct was.",
+   "statute_cite": "Ala. Code § 6-5-410",
+   "statute_name": "Alabama Wrongful Death Act",
+   "who_can_file": "Only the personal representative of the deceased person's estate (the executor or administrator appointed by the probate court) may file a wrongful-death claim. Ala. Code § 6-5-410(a). (Exception: a parent may file for the death of a minor child under 19 within six months of the death. Ala. Code § 6-5-391.)"
+  },
+  "alaska": {
+   "damages_note": "The court or jury awards an amount that is fair and just, considering lost expected financial benefits, lost support, lost services and assistance, loss of consortium, and lost training and education, plus funeral and medical expenses. If the deceased left no spouse, children, or other dependents, recovery is limited to pecuniary (financial) loss and goes to the estate. Noneconomic damages are capped at the greater of $400,000 or the deceased person's life expectancy in years times $8,000 (Alaska Stat. § 09.17.010); the cap does not apply to reckless or intentional conduct. Punitive damages are allowed for outrageous, malicious, or recklessly indifferent conduct, capped at the greater of $500,000 or three times compensatory damages (Alaska Stat. § 09.17.020), with half of any punitive award going to the State.",
+   "deadline_note": "2 years from the date of death. Alaska Stat. § 09.55.580(a). (A separate 120-day written notice applies for claims against a government entity. Alaska Stat. § 09.65.070.)",
+   "legal_aid_name": "Alaska Legal Services Corporation",
+   "legal_aid_url": "https://www.alsc-law.org/",
+   "phone": "1-888-478-2572",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://www.akleg.gov/basis/folioproxy.asp?url=http://wwwjnu03.akleg.org/cgi-bin/folioisa.dll/stattx02/query=[jump!3A!27as0955570!27]/doc/{t2896}/pageitems={body}?",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-alaska.html",
+    "https://www.alsc-law.org/",
+    "https://law.alaska.gov/consumer/cp_resources.html"
+   ],
+   "state_note": "Who benefits depends on whether the deceased left a spouse, children, or other dependents: with dependents, the recovery goes to them; without any, it is treated as estate property and limited to financial loss only.",
+   "statute_cite": "Alaska Stat. § 09.55.580",
+   "statute_name": "Alaska Wrongful Death Act",
+   "who_can_file": "Only the personal representative of the deceased person's estate may file the wrongful-death action, for the benefit of the surviving spouse, children, or other dependents. Alaska Stat. § 09.55.580(a)."
+  },
+  "arizona": {
+   "damages_note": "The jury awards damages it deems fair and just for the injury resulting from the death, including funeral and burial expenses, medical bills, lost wages and benefits the deceased would have earned, loss of love, affection, companionship, consortium, and guidance, and the survivors' grief. Arizona has no cap on compensatory damages in wrongful-death cases. Punitive damages may be awarded for aggravating circumstances under Ariz. Rev. Stat. § 12-613 (the statute's 'aggravating circumstances' language has been read by Arizona courts as allowing punitive damages), but not against the State. A separate survival action (Ariz. Rev. Stat. § 14-3110) can recover the deceased person's pre-death medical expenses and pain and suffering for the estate.",
+   "deadline_note": "2 years from the date of death. Ariz. Rev. Stat. § 12-542. The discovery rule can delay the start of the clock in rare cases where the wrongful cause of death could not reasonably have been discovered. A claim against a government entity requires a notice of claim within 180 days of the death.",
+   "legal_aid_name": "Community Legal Services",
+   "legal_aid_url": "https://clsaz.org/",
+   "phone": "1-800-852-9075",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://www.azleg.gov/viewdocument/?docName=https%3A%2F%2Fwww.azleg.gov%2Fars%2F12%2F00612.htm",
+    "https://www.azleg.gov/viewdocument/?docName=http%3A%2F%2Fwww.azleg.gov%2Fars%2F12%2F00613.htm",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-arizona.html",
+    "https://clsaz.org/",
+    "https://www.azcourts.gov/selfservicecenter/Resources/Obtaining-Legal-Services"
+   ],
+   "state_note": "Arizona sets a priority order for who files — spouse first, then children, then parents, then the personal representative — but only one lawsuit is filed and all beneficiaries' claims are combined into it; a family member who caused the death (for example, by homicide or child abuse) is disqualified from recovering. Ariz. Rev. Stat. § 12-612(D).",
+   "statute_cite": "Ariz. Rev. Stat. §§ 12-611–12-613",
+   "statute_name": "Arizona Wrongful Death Act",
+   "who_can_file": "The surviving spouse, a surviving child, a surviving parent or guardian, or the personal representative of the deceased person (acting for the surviving spouse, children, or parents, or for the estate if none of them survive) may bring the action. Either parent may sue for the death of a child. Ariz. Rev. Stat. § 12-612."
+  },
+  "arkansas": {
+   "damages_note": "Families may recover both compensatory and punitive damages. The estate's claim covers losses between the injury and death (medical expenses, conscious pain and suffering, and loss of life as an independent element), while the family's claim covers grief, loss of companionship, emotional suffering, and loss of financial support. Punitive damages may be awarded for willful, malicious, or reckless conduct. Arkansas has no cap on wrongful-death damages.",
+   "deadline_note": "3 years from the date of death. Ark. Code Ann. § 16-62-102(c)(1). If a nonsuit is suffered, the action must be brought within 1 year of the nonsuit. The 3-year period does not change the deadline for medical-malpractice wrongful-death claims, which is 2 years.",
+   "legal_aid_name": "Legal Aid of Arkansas",
+   "legal_aid_url": "https://arlegalaid.org/",
+   "phone": "1-800-952-9243",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://www.arkleg.state.ar.us/Home/FTPDocument?path=%2FBills%2F1995%2FPDF%2FSB46.pdf",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-arkansas.html",
+    "https://arlegalaid.org/",
+    "https://arkansas.nationalguard.mil/Portals/29/Civilian%20Pro%20Bono%20Legal%20Services%20Referrals.pdf"
+   ],
+   "state_note": "Arkansas has one of the broadest beneficiary lists in the country — siblings and people who stood in the place of a parent (in either direction) can share in the recovery — and its statute expressly covers the death of an unborn child, with exceptions for legal abortion, the pregnant woman's fault, and assisted reproduction.",
+   "statute_cite": "Ark. Code Ann. § 16-62-102",
+   "statute_name": "Arkansas Wrongful Death Act",
+   "who_can_file": "The personal representative of the deceased person's estate must file the action. If there is no personal representative, the heirs at law may file — the surviving spouse, children, parents, siblings, a person who stood in loco parentis to the deceased, or a person to whom the deceased stood in loco parentis. Ark. Code Ann. § 16-62-102(b), (d)."
+  },
+  "california": {
+   "damages_note": "Survivors may recover economic damages (lost financial support, funeral and burial expenses, the value of household services) and noneconomic damages (loss of love, companionship, comfort, care, assistance, protection, affection, society, and moral support). There is no cap on wrongful-death damages. Punitive damages are generally not available in the wrongful-death action itself, but may be available in a related survival action brought by the estate (Cal. Civ. Proc. Code § 377.30).",
+   "deadline_note": "2 years from the date of death. Cal. Civ. Proc. Code § 335.1. The clock may be delayed under the discovery rule if the wrongful cause of death was not reasonably discoverable, and it is tolled (paused) for a minor plaintiff until age 18 under Cal. Civ. Proc. Code § 352. A claim against a government entity requires a written government claim within 6 months of the death (Gov. Code § 911.2), and medical-malpractice wrongful-death claims follow the separate deadline in Cal. Civ. Proc. Code § 340.5.",
+   "legal_aid_name": "LawHelpCA (Legal Aid Association of California)",
+   "legal_aid_url": "https://www.lawhelpca.org/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=377.62.&lawCode=CCP",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-california.html",
+    "https://www.shouselaw.com/ca/personal-injury/ccp-377.60/",
+    "https://www.lawhelpca.org/"
+   ],
+   "state_note": "California is unusually broad about who can sue: registered domestic partners have the same standing as spouses, and financially dependent stepchildren, a putative spouse, and even a dependent minor who lived with the deceased can qualify. Only one wrongful-death lawsuit may be filed per death, and all heirs must join it.",
+   "statute_cite": "Cal. Civ. Proc. Code § 377.60",
+   "statute_name": "California Wrongful Death Act",
+   "who_can_file": "The surviving spouse, registered domestic partner, children, and issue of deceased children may file; if there is no surviving issue, the persons who would inherit by intestate succession (including the spouse or domestic partner) may file. A dependent putative spouse, the putative spouse's children, dependent stepchildren, dependent parents, and legal guardians (if the parents are deceased) may also file, as may a minor who lived in the deceased's household for the previous 180 days and depended on the deceased for at least half of their support. The decedent's personal representative may bring the action on their behalf. Cal. Civ. Proc. Code § 377.60."
+  },
+  "colorado": {
+   "damages_note": "Survivors may recover economic damages (funeral and burial expenses, medical bills before death, lost income and support) with no cap, and noneconomic damages for grief, loss of companionship, and emotional distress. Noneconomic damages in wrongful death are capped at $2,125,000 for claims accruing on or after Jan. 1, 2025 (Colo. Rev. Stat. § 13-21-203, as raised by HB 24-1472, with inflation adjustments starting Jan. 1, 2028); the cap does not apply if the death resulted from a felonious killing. A separate survival action (Colo. Rev. Stat. § 13-20-101) covers the deceased person's own pre-death losses for the estate.",
+   "deadline_note": "2 years from the date of death. Colo. Rev. Stat. §§ 13-80-102, 13-80-108(2). A 4-year period applies when the death involved vehicular homicide combined with leaving the scene of a fatal crash.",
+   "legal_aid_name": "Colorado Legal Services",
+   "legal_aid_url": "https://www.coloradolegalservices.org/",
+   "phone": "303-837-1313",
+   "phone_label": "Legal aid",
+   "sources": [
+    "http://leg.colorado.gov/bill_files/47410/download",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-colorado.html",
+    "https://conduit.law/blog/colorado-wrongful-death-statute-explained",
+    "https://www.coloradolegalservices.org/",
+    "https://oac.colorado.gov/sites/oac/files/documents/Free%20or%20Low%20Cost%20Legal%20Services%20Rev%2012.2025.pdf"
+   ],
+   "state_note": "Colorado's tiered, time-based filing rule is unusual: children generally cannot file in the first year unless the surviving spouse agrees in writing, but gain the right in the second year — and only one wrongful-death action may be brought per death. Siblings were added as eligible filers only in 2025.",
+   "statute_cite": "Colo. Rev. Stat. §§ 13-21-201–13-21-204",
+   "statute_name": "Colorado Wrongful Death Act",
+   "who_can_file": "Who may file depends on timing. In the first year after the death, only the surviving spouse may file (or the spouse together with the heirs, or the heirs alone if the spouse elects in writing); if there is no spouse, the heirs or a designated beneficiary may file. In the second year, the spouse, the heirs, or a designated beneficiary together with the heirs may file. If the deceased was unmarried with no descendants and no designated beneficiary, the parents may file; since Jan. 1, 2025, siblings (or their heirs) may file if there is no spouse, no heirs, no designated beneficiary, and no surviving parent. Colo. Rev. Stat. § 13-21-201."
+  },
+  "connecticut": {
+   "damages_note": "The estate recovers 'just damages' plus the reasonable cost of medical care and funeral expenses, including lost lifetime earning capacity, the deceased person's conscious pain and suffering before death, and the loss of the capacity to carry on and enjoy life's activities — Connecticut measures damages by the value of the life lost, not only by the family's financial loss. Any recovery is paid to the estate and distributed under the will or intestacy law, after debts and expenses. A surviving spouse may separately claim loss of consortium (loss of companionship, care, and support), which must be joined with the wrongful-death action. Conn. Gen. Stat. §§ 52-555a–52-555d.",
+   "deadline_note": "2 years from the date of death, and never more than 5 years from the act or omission that caused the death. Conn. Gen. Stat. § 52-555(a). There is no time limit when the person responsible was convicted of (or found not guilty by reason of mental disease or defect of) murder, felony murder, arson murder, or first-degree manslaughter. Conn. Gen. Stat. § 52-555(b).",
+   "legal_aid_name": "Statewide Legal Services of Connecticut",
+   "legal_aid_url": "https://www.slsct.org/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "http://www.jud.ct.gov/clinics/default.htm",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-connecticut.html",
+    "https://www.slsct.org/",
+    "https://ctlawhelp.org/files/pamphlets/EnglishLSBrochure-tfold.pdf"
+   ],
+   "state_note": "Connecticut's claim belongs to the estate, not the family — so the money is distributed like any other estate asset and can be used to pay the deceased person's debts — and its damages focus on what the deceased person lost, including the enjoyment of life itself. Only a spouse (not children) can claim loss of consortium.",
+   "statute_cite": "Conn. Gen. Stat. § 52-555",
+   "statute_name": "Connecticut Wrongful Death Act",
+   "who_can_file": "Only the executor or administrator of the deceased person's estate may file a wrongful-death claim, on behalf of the estate. Family members cannot file in their own names. Conn. Gen. Stat. § 52-555."
+  },
+  "delaware": {
+   "damages_note": "Damages are set at a sum that fairly compensates for the injury from the death, considering lost expected financial benefits, lost contributions for support, loss of parental, marital, and household services (including the reasonable cost of caring for minor children), reasonable funeral expenses up to $7,000, and the mental anguish of the surviving spouse and next of kin. Del. Code Ann. tit. 10, § 3724(d). Punitive damages may be available for malicious, reckless, willful, or wanton conduct. Delaware has no cap on compensatory damages in wrongful-death cases.",
+   "deadline_note": "2 years from the date the cause of action accrues (the date of death). Del. Code Ann. tit. 10, § 8107. Delaware also tolls the limitations period for minors and people under a mental disability until the disability is removed, plus 3 years after. Del. Code Ann. tit. 10, § 8116.",
+   "legal_aid_name": "Community Legal Aid Society, Inc. (CLASI)",
+   "legal_aid_url": "https://www.declasi.org/",
+   "phone": "302-575-0660",
+   "phone_label": "Legal aid",
+   "sources": [
+    "http://delcode.delaware.gov/title10/c081/index.html",
+    "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocumentSessionLaw?sessionLawId=130197&docTypeId=13&sessionLawName=chp95",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-delaware.html",
+    "https://www.declasi.org/",
+    "https://delegalhelplink.org/organization/community-legal-aid-society-clasi-dover-office"
+   ],
+   "state_note": "Delaware is unusual in two ways: siblings are named beneficiaries alongside spouses, parents, and children, and the statute expressly allows recovery for the family's mental anguish — but funeral expenses are capped at $7,000.",
+   "statute_cite": "Del. Code Ann. tit. 10, §§ 3721–3725",
+   "statute_name": "Delaware Wrongful Death Act",
+   "who_can_file": "The action is brought for the benefit of the deceased person's spouse, parent, child, and siblings; if none of those survive, it may be brought for the benefit of any person related to the deceased by blood or marriage. In practice the personal representative of the estate files the suit on behalf of those beneficiaries. Del. Code Ann. tit. 10, § 3724."
+  },
+  "florida": {
+   "damages_note": "Damages depend on the survivor category under Fla. Stat. § 768.21: all survivors may recover lost support and services; a surviving spouse may recover for loss of companionship and protection and for mental pain and suffering; minor children (defined as under 25) may recover for lost parental companionship, instruction, and guidance and for mental pain and suffering; adult children may recover those noneconomic damages only if there is no surviving spouse; parents of a deceased minor child (and, since 2025, parents of a deceased adult child in medical-negligence cases) may recover for mental pain and suffering. The estate separately recovers lost earnings from injury to death, lost prospective net accumulations, and medical and funeral expenses. There is no cap on compensatory damages. Punitive damages are generally not available under the Wrongful Death Act itself. A separate survival action (Fla. Stat. § 46.021) can recover the deceased person's pre-death pain, suffering, and expenses for the estate.",
+   "deadline_note": "2 years from the date of death for deaths on or after March 24, 2023. Fla. Stat. § 95.11(4)(d) (as shortened by HB 837 in 2023; the prior period was 4 years). Medical-malpractice wrongful death has a 2-year period with a 4-year statute of repose. Fla. Stat. § 95.11(4)(b). Claims against a government entity require pre-suit notice under Fla. Stat. § 768.28.",
+   "legal_aid_name": "Florida Legal Services",
+   "legal_aid_url": "https://www.floridalegal.org/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://thefarberlawfirm.com/blog/florida-wrongful-death-act-guide-2026",
+    "https://ilabacalaw.com/blog/personal-injury/florida-wrongful-death-statute-explained/",
+    "https://www.floridalegal.org/",
+    "https://www.floridalawhelp.org/florida-legal-services"
+   ],
+   "state_note": "Florida defines 'minor children' as under 25 — much broader than the usual 18 — and in 2025 it repealed the so-called 'free kill' loophole, so adult children of decedents 25 and older, and parents of adult children 25 and older, can now recover noneconomic damages in medical-negligence wrongful-death cases (Ch. 2025-107, Laws of Fla.). Grandparents, unadopted stepchildren, and unmarried partners are not survivors under the Act.",
+   "statute_cite": "Fla. Stat. §§ 768.16–768.26",
+   "statute_name": "Florida Wrongful Death Act",
+   "who_can_file": "Only the personal representative of the deceased person's estate may file the wrongful-death lawsuit, in one action on behalf of the estate and all eligible survivors. Individual family members cannot file their own claims. Fla. Stat. § 768.20. Eligible 'survivors' are the surviving spouse, children (including adopted children), parents, and blood relatives or adopted siblings who were partly or wholly dependent on the deceased for support or services. Fla. Stat. § 768.18."
+  },
+  "georgia": {
+   "damages_note": "The family recovers the 'full value of the life of the deceased' — both the economic value (lost wages, benefits, and earning capacity) and the intangible value (loss of companionship, care, guidance, and the deceased person's own enjoyment of life) — calculated without deducting for the personal expenses the deceased would have had if they had lived. O.C.G.A. § 51-4-1(1). There is no cap on compensatory damages. The estate has a separate claim for medical bills, funeral costs, and the deceased person's pre-death pain and suffering, which can be reached by creditors. The surviving spouse is guaranteed at least one-third of the family's recovery. O.C.G.A. § 51-4-2(d).",
+   "deadline_note": "2 years from the date of death. O.C.G.A. § 9-3-33. The clock is suspended while a criminal case over the same events is pending, up to 6 years (O.C.G.A. § 9-3-99), and tolled for up to 5 years if the deceased person's estate has not been probated (O.C.G.A. § 9-3-92).",
+   "legal_aid_name": "Georgia Legal Services Program",
+   "legal_aid_url": "https://www.glsp.org/",
+   "phone": "1-800-498-9469",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-georgia.html",
+    "https://georgiaautolaw.com/georgia-law/wrongful-death",
+    "https://www.glsp.org/",
+    "https://georgiacourts.gov/a2j/self-help-resources/statewide-hotlines-calls-for-assistance/"
+   ],
+   "state_note": "Georgia creates two separate claims from one death: the family's wrongful-death claim for the 'full value of the life' (which belongs to the family, not the estate, and cannot be taken by creditors) and the estate's claim for bills and pre-death suffering. Only one person in the priority order may file, and an estranged surviving spouse still outranks adult children.",
+   "statute_cite": "O.C.G.A. §§ 51-4-1–51-4-6",
+   "statute_name": "Georgia Wrongful Death Act",
+   "who_can_file": "Georgia sets a strict priority order: the surviving spouse files first (and represents any minor children); if there is no surviving spouse, the surviving children file; if there are no spouse or children, the parents file; and if none of those survive, the administrator or executor of the estate files for the benefit of the next of kin. O.C.G.A. §§ 51-4-2, 51-4-4, 51-4-5."
+  },
+  "hawaii": {
+   "damages_note": "Fair and just compensation for pecuniary injury and loss of love and affection, including loss of society, companionship, comfort, consortium or protection; loss of marital, filial or parental care, training, guidance or education; and lost financial support. The estate may recover reasonable expenses of the last illness and burial. The statute provides only compensatory damages; it does not provide for punitive damages.",
+   "deadline_note": "2 years from the date of death. If the defendant concealed responsibility, the clock starts when the concealment is discovered (or should have been), with up to 6 years to file (HRS § 657-20). A person under 18 at the time of death has 2 years from turning 18 (HRS § 657-13).",
+   "legal_aid_name": "Legal Aid Society of Hawaii",
+   "legal_aid_url": "https://www.legalaidhawaii.org",
+   "phone": "(808) 536-4302",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://data.capitol.hawaii.gov/hrscurrent/Vol13_Ch0601-0676/HRS0663/HRS_0663-0003.htm",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-hawaii.html",
+    "https://www.legalaidhawaii.org",
+    "https://dev.hsba.org/HSBA_2020/Public/Legal_Assistance.aspx"
+   ],
+   "state_note": "Reciprocal beneficiaries (Hawaii's registered-partner status) are expressly included as eligible claimants, and damages other than last-illness and burial expenses do not become part of the deceased person's estate.",
+   "statute_cite": "Haw. Rev. Stat. § 663-3",
+   "statute_name": "Hawaii Wrongful Death Statute",
+   "who_can_file": "The deceased person's legal representative (personal representative of the estate) may file, or the surviving spouse, reciprocal beneficiary, children, parents, or any person wholly or partly dependent on the deceased may file for their own losses (Haw. Rev. Stat. § 663-3)."
+  },
+  "idaho": {
+   "damages_note": "Such damages as are just under the circumstances, including lost earnings and support, funeral and burial expenses, medical expenses, and loss of companionship and society. Noneconomic damages are capped at about $538,000 per claimant (Idaho Code § 6-1603, as adjusted effective July 1, 2026); economic losses are not capped.",
+   "deadline_note": "2 years from the date of death (Idaho Code § 5-219(4)). If a government entity is involved, a tort-claim notice must be filed within 180 days (Idaho Code § 6-906).",
+   "legal_aid_name": "Idaho Legal Aid Services",
+   "legal_aid_url": "https://idaholegalaid.org",
+   "phone": "(208) 746-7541",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://legislature.idaho.gov/statutesrules/idstat/Title5/T5CH3/SECT5-311/",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-idaho.html",
+    "https://idaholegalaid.org",
+    "https://annualreport2021-isc.idaho.gov/resources/"
+   ],
+   "state_note": "Idaho defines 'heirs' more broadly than most states: stepchildren qualify without proving dependency, and dependent blood relatives, adoptive siblings and a dependent putative spouse can also qualify. The claim belongs to the heirs, not to the estate.",
+   "statute_cite": "Idaho Code § 5-311",
+   "statute_name": "Idaho Wrongful Death Statute",
+   "who_can_file": "The deceased person's heirs, or the personal representative of the estate on the heirs' behalf, may file (Idaho Code § 5-311). 'Heirs' includes the spouse, children, stepchildren and parents, plus dependent blood relatives and adoptive siblings, and a dependent putative spouse."
+  },
+  "illinois": {
+   "damages_note": "Fair and just compensation for pecuniary injuries, including funeral and burial expenses, lost financial support and earnings, loss of consortium and companionship, loss of instruction and moral training for children, and grief, sorrow and mental suffering. Punitive damages are available when applicable, except in healing-art or legal-malpractice cases and against the State or a unit of local government. There is generally no cap, except for claims against the State in the Court of Claims.",
+   "deadline_note": "2 years from the date of death. A claim based on violent intentional conduct may be filed within 5 years of death, or within 1 year after the final disposition of the criminal case. A beneficiary who was under 18 has 2 years after turning 18.",
+   "legal_aid_name": "Prairie State Legal Services",
+   "legal_aid_url": "https://www.pslegal.org",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://ILGA.GOV/Legislation/publicacts/view/103-0514",
+    "https://law.justia.com/codes/illinois/chapter-740/act-740-ilcs-180/",
+    "http://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-illinois.html",
+    "https://www.pslegal.org"
+   ],
+   "state_note": "Prairie State serves northern and central Illinois outside Cook County; if there is no surviving spouse or next of kin entitled to recover, damages are limited to hospital, medical, funeral and estate-administration costs.",
+   "statute_cite": "740 ILCS 180/1",
+   "statute_name": "Illinois Wrongful Death Act",
+   "who_can_file": "Only the personal representative of the deceased person's estate may file, for the exclusive benefit of the surviving spouse and next of kin (740 ILCS 180/2). If the estate has no personal representative, the court can appoint a special administrator."
+  },
+  "indiana": {
+   "damages_note": "Under the general statute (decedent left a spouse, dependent children or dependent next of kin): reasonable medical, hospital, funeral and burial expenses, lost earnings, value of household services, and loss of love, care, affection, society and companionship, with no general cap. Under the adult statute (unmarried adult with no dependents, Ind. Code § 34-23-1-2): medical, funeral and burial expenses, estate administration costs, and loss of love and companionship capped at $300,000 in total; lost earnings are not recoverable. Under the child statute (Ind. Code § 34-23-2-1): loss of the child's services, love and companionship, and related counseling costs.",
+   "deadline_note": "2 years from the date of death, for both adult and child decedents. The period is a condition of the right to sue rather than an ordinary limitations period, so the usual extensions generally do not apply; fraudulent concealment by the defendant is the main recognized exception. Separate, shorter tort-claim notice deadlines apply against government entities.",
+   "legal_aid_name": "Indiana Legal Services",
+   "legal_aid_url": "https://www.indianalegalservices.org",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://law.justia.com/codes/indiana/2023/title-34/article-23/chapter-1/section-34-23-1-1/",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-indiana.html",
+    "https://www.indianalegalservices.org"
+   ],
+   "state_note": "Indiana has three separate wrongful-death statutes, and which one applies — general, adult, or child — depends on the decedent's age and whether they left a spouse or dependents; the choice sharply changes what can be recovered.",
+   "statute_cite": "Ind. Code § 34-23-1-1",
+   "statute_name": "Indiana General Wrongful Death Act",
+   "who_can_file": "For an adult, only the personal representative of the estate may file (Ind. Code § 34-23-1-1). For a child (under 20, or under 23 if enrolled in school, or a viable fetus), a parent or legal guardian may file directly (Ind. Code § 34-23-2-1)."
+  },
+  "iowa": {
+   "damages_note": "Medical and hospital expenses for the last illness or injury, funeral and burial expenses (with interest from the date of death), lost wages and benefits, the value of the deceased spouse's, parent's or child's services and support, and the deceased person's pain and suffering before death. There is no statutory cap on wrongful-death damages. Damages generally pass as property of the estate, except damages for loss of services and support, which the court apportions among the surviving spouse, children and parents.",
+   "deadline_note": "2 years from the date of death (Iowa Code § 614.1(2)). Against the State, a written claim must be filed within 2 years and suit within 6 months after the claim is decided or denied (Iowa Code § 669.13).",
+   "legal_aid_name": "Iowa Legal Aid",
+   "legal_aid_url": "https://www.iowalegalaid.org",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://www.legis.iowa.gov/docs/publications/iactc/91.2/CH1074.pdf",
+    "https://www.iowacourts.gov/courtcases/15733/embed/CourtAppealsOpinion",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-iowa.html",
+    "https://www.iowalegalaid.org"
+   ],
+   "state_note": "Iowa has no single named Wrongful Death Act: the claim survives to the estate under the survival statutes, and section 633.336 controls how damages are divided. Wrongful-death damages are generally not subject to the estate's debts when the decedent leaves a spouse, child or parent.",
+   "statute_cite": "Iowa Code §§ 611.20, 611.22, 633.336",
+   "statute_name": null,
+   "who_can_file": "The personal representative of the estate must file the claim (Iowa Code §§ 611.20, 611.22). If a minor child has died, the parents or legal guardians may file directly (Iowa Code § 613.15A)."
+  },
+  "kansas": {
+   "damages_note": "Pecuniary (financial) losses, such as lost earnings and support, medical and care expenses, and funeral expenses, are not capped. Nonpecuniary losses — mental anguish, suffering or bereavement; loss of society, companionship, comfort or protection; loss of marital, filial or parental care, training, guidance or education — are capped at $250,000 in total (K.S.A. § 60-1903). Funeral expenses and care expenses are not counted toward that cap (K.S.A. § 60-1904).",
+   "deadline_note": "2 years from the date of death (K.S.A. § 60-513(a)(5)).",
+   "legal_aid_name": "Kansas Legal Services",
+   "legal_aid_url": "https://www.kansaslegalservices.org",
+   "phone": "(316) 267-3975",
+   "phone_label": "Legal aid",
+   "sources": [
+    "http://www.kslegislature.org/li_2022/b2021_22/statute/060_000_0000_chapter/060_019_0000_article/060_019_0003_section/060_019_0003_k/",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-kansas.html",
+    "https://www.kansaslegalservices.org/page/63/get-help"
+   ],
+   "state_note": "Kansas is unusual in letting any heir who suffered a loss start the case, rather than requiring the estate's personal representative to file.",
+   "statute_cite": "K.S.A. § 60-1901",
+   "statute_name": "Kansas Wrongful Death Act",
+   "who_can_file": "Any heir at law of the deceased who suffered a loss because of the death may file (K.S.A. § 60-1902) — typically the surviving spouse, children, parents, grandparents or siblings. Other heirs who suffered a loss may join or intervene, and the recovery benefits all heirs who suffered a loss whether or not they joined."
+  },
+  "kentucky": {
+   "damages_note": "Damages focus on the deceased person's lost earning power, plus funeral expenses, medical expenses, and administration and recovery costs. The deceased person's pain and suffering before death can be recovered through a survival claim joined with the wrongful-death claim. Punitive damages may be recovered if the act was willful or the negligence was gross. There is no statutory cap. A surviving spouse may separately claim loss of consortium (KRS § 411.145), and parents of a minor child may claim loss of the child's affection and companionship (KRS § 411.135).",
+   "deadline_note": "Generally 1 year from the date of death (KRS § 413.140). The personal representative gets 1 year from the date of appointment to file (KRS § 413.180), but the outside limit is ordinarily 2 years from the date of death.",
+   "legal_aid_name": "Kentucky Legal Aid",
+   "legal_aid_url": null,
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://appellatepublic.kycourts.net/api/api/v1/publicaccessdocuments/43631b196b7af6f3cb99f82211d975d4b02eb6c29e12af230fc085fa7114c2e9/download",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-kentucky.html"
+   ],
+   "state_note": "The statute fixes the order in which the recovery is divided: all to the spouse if there are no children; half to the spouse and half to the children if there are children; all to the children if there is no spouse; then to the parents if there is no spouse or child. Kentucky's wrongful-death right comes from the state constitution (Ky. Const. § 241). Note: Kentucky Legal Aid serves south-central and western Kentucky only; other regions have separate legal-aid programs.",
+   "statute_cite": "Ky. Rev. Stat. § 411.130",
+   "statute_name": "Kentucky Wrongful Death Statute",
+   "who_can_file": "Only the personal representative of the deceased person's estate may file; individual family members cannot file on their own (Ky. Rev. Stat. § 411.130). If no estate has been opened, one must be opened and a personal representative appointed first."
+  },
+  "louisiana": {
+   "damages_note": "Loss of love, affection and companionship, grief and mental anguish, loss of financial support and household services, and funeral and burial expenses. There is no general cap, but the statutory medical-malpractice damages limit applies to wrongful-death claims against health-care providers. Medical expenses and the deceased person's pain and suffering between injury and death are recovered through a separate survival action (La. Civ. Code art. 2315.1).",
+   "deadline_note": "The longer of 1 year from the date of death or 2 years from the date the injury or damage was sustained. For medical-malpractice deaths, the period is 1 year from the date of death.",
+   "legal_aid_name": "Southeast Louisiana Legal Services",
+   "legal_aid_url": "https://slls.org",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://www.legis.la.gov/legis/law.aspx?d=109371",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-louisiana.html",
+    "https://slls.org"
+   ],
+   "state_note": "Louisiana is a civil-law state, so the claim comes from the Civil Code rather than a common-law wrongful-death act, and it creates two separate claims from one death: the family's wrongful-death claim and the deceased person's survival claim. Southeast Louisiana Legal Services serves 22 parishes in southeast Louisiana only; other regions have separate legal-aid programs.",
+   "statute_cite": "La. Civ. Code art. 2315.2",
+   "statute_name": "Louisiana Wrongful Death Action",
+   "who_can_file": "Surviving family members file in a strict priority order, and only the highest surviving class may sue: (1) surviving spouse and children; (2) if none, surviving parents; (3) if none, surviving siblings; (4) if none, surviving grandparents (La. Civ. Code art. 2315.2). A parent who abandoned the deceased during minority is treated as not surviving."
+  },
+  "maine": {
+   "damages_note": "Fair and just compensation for pecuniary injuries, including medical, surgical and hospital expenses, funeral expenses, and lost earnings and support — pecuniary damages are not capped. Loss of comfort, society and companionship, including emotional distress, is capped at $1,000,000, adjusted for inflation for deaths after 2023. Punitive damages are capped at $500,000.",
+   "deadline_note": "3 years from the date of death. If the death was caused by a homicide, the action may be filed within 6 years after the personal representative or special administrator discovers there is a just cause of action against the person who caused the homicide.",
+   "legal_aid_name": "Pine Tree Legal Assistance",
+   "legal_aid_url": "https://ptla.org",
+   "phone": "(207) 774-8211",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://legislature.maine.gov/statutes/18-C/title18-Csec2-807.pdf",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-maine.html",
+    "https://ptla.org"
+   ],
+   "state_note": "The recovery goes directly to the heirs in the proportions set by Maine's intestacy laws and does not become part of the probate estate, except for amounts specifically awarded to the estate for medical and funeral expenses — so it is generally not available to the estate's creditors.",
+   "statute_cite": "18-C M.R.S. § 2-807",
+   "statute_name": "Maine Wrongful Death Act",
+   "who_can_file": "Only the personal representative or special administrator of the deceased person's estate may file; a spouse, child or parent cannot file individually (18-C M.R.S. § 2-807). The court can appoint a special administrator to pursue the claim."
+  },
+  "maryland": {
+   "damages_note": "Damages proportioned to each beneficiary's injury, including lost earnings and support, funeral expenses, mental anguish and emotional pain and suffering, and loss of society, companionship, comfort, protection, and marital, parental or filial care, training, guidance or education. Economic damages are not capped. Noneconomic damages are capped at $965,000 for a single beneficiary for claims arising October 1, 2025–September 30, 2026, rising by $15,000 each October 1; with multiple beneficiaries the cap is 150% of the single-beneficiary cap (Md. Code, Cts. & Jud. Proc. § 11-108). Punitive damages are not available under the wrongful-death statute.",
+   "deadline_note": "3 years from the date of death. If an occupational disease caused the death, the deadline is within 10 years of death or within 3 years of discovering the cause of death, whichever is shorter. The period is tolled while a beneficiary is a minor or mentally incompetent (Md. Code, Cts. & Jud. Proc. § 5-201).",
+   "legal_aid_name": "Maryland Legal Aid",
+   "legal_aid_url": "https://www.mdlab.org",
+   "phone": "1-888-465-2468",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://mgaleg.maryland.gov/2024RS/Statute_Web/gcj/3-904.pdf",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-maryland.html",
+    "https://www.mdlab.org/get-help-services/",
+    "https://labor.maryland.gov/finance/consumers/frlegalhelpfincounsel.shtml"
+   ],
+   "state_note": "Maryland is unusual in giving families 3 years to file, and its noneconomic-damages cap rises by $15,000 every October 1, so the cap that applies depends on when the claim arose.",
+   "statute_cite": "Md. Code, Cts. & Jud. Proc. §§ 3-901–3-904",
+   "statute_name": "Maryland Wrongful Death Act",
+   "who_can_file": "The deceased person's spouse, parents and children (primary beneficiaries) may file; if none survive, any person related by blood or marriage who was substantially dependent on the deceased may file (Md. Code, Cts. & Jud. Proc. § 3-904). Only one wrongful-death action may be filed for a death."
+  },
+  "south dakota": {
+   "damages_note": "The family can recover the deceased person's lost future earnings and the value of services they provided to the family, medical expenses before death, and funeral and burial costs. There is no general cap on these damages, but in a medical-malpractice wrongful death case, non-economic damages are capped at $500,000. (SDCL § 21-3-11)",
+   "deadline_note": "3 years from the date of death. (SDCL § 21-5-3) If the death was caused by medical malpractice, the deadline is instead 2 years from the malpractice. If a government agency is involved, written notice must be given within 180 days of the death. (SDCL §§ 15-2-14.1, 3-21-2)",
+   "legal_aid_name": "East River Legal Services",
+   "legal_aid_url": "https://www.erlservices.org",
+   "phone": "1-800-952-3015",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-south-dakota.html",
+    "https://ujs.sd.gov/self-help/get-legal-help/",
+    "https://www.sdhousing.org/ready-to-buy/save-my-home"
+   ],
+   "state_note": "South Dakota has two legal-aid programs that share one application: East River Legal Services covers the eastern part of the state, and Dakota Plains Legal Services (dpls.org) covers central and western South Dakota and tribal lands. Also, the claim must be filed in the personal representative's name — filing in a family member's own name can void the case.",
+   "statute_cite": "S.D. Codified Laws § 21-5-1",
+   "statute_name": "South Dakota Wrongful Death Statute",
+   "who_can_file": "Only the personal representative (executor or administrator) of the deceased person's estate may bring the claim, for the exclusive benefit of the surviving spouse and children, or if there are none, the parents and next of kin. (SDCL § 21-5-5)"
+  },
+  "tennessee": {
+   "damages_note": "Survivors can recover lost income and financial support, medical and funeral expenses, and compensation for sorrow, loss of companionship, and mental anguish. There is no cap on economic damages, but non-economic damages are generally capped at $750,000, rising to $1,000,000 when the person who died was a parent with custody or visitation of a minor child. (Tenn. Code Ann. § 29-39-102) Punitive damages may be available for especially reckless conduct, subject to a separate cap.",
+   "deadline_note": "1 year from the date of death — one of the shortest deadlines in the country. (Tenn. Code Ann. § 28-3-104) The deadline extends to 2 years if criminal charges are brought against the person who caused the death and the prosecution begins within 1 year of the death. If the injury and the death happened on different dates, the clock may run from the date of the injury.",
+   "legal_aid_name": "Legal Aid Society of Middle Tennessee and the Cumberlands",
+   "legal_aid_url": "https://las.org",
+   "phone": "1-800-238-1443",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-tennessee.html",
+    "https://las.org",
+    "https://www.knoxbar.org/?pg=legalresourceguidereducedservices"
+   ],
+   "state_note": "Tennessee's 1-year deadline is the shortest wrongful-death deadline in the country, so families should act quickly. Note this legal-aid program serves 48 counties in Middle Tennessee and the Cumberland Plateau; East and West Tennessee have separate legal-aid programs.",
+   "statute_cite": "Tenn. Code Ann. § 20-5-106",
+   "statute_name": "Tennessee Wrongful Death Act",
+   "who_can_file": "The right to sue passes first to the surviving spouse; if there is no surviving spouse, to the children or next of kin. The case may be brought by the personal representative of the estate, the surviving spouse in their own name, or the children or next of kin. Parents may file if the person who died was a minor. (Tenn. Code Ann. §§ 20-5-106, 20-5-107)"
+  },
+  "texas": {
+   "damages_note": "Survivors can recover lost financial support and earnings, lost household services, loss of companionship and society, mental anguish, loss of inheritance, and funeral and burial costs. There is generally no cap on these compensatory damages. Exemplary (punitive) damages are allowed only for a willful act or omission or gross negligence, proved by clear and convincing evidence, and are capped at the greater of $200,000 or two times the economic damages plus non-economic damages up to $750,000. (Tex. Civ. Prac. & Rem. Code §§ 71.009, 71.010, 41.008)",
+   "deadline_note": "2 years from the date of death. (Tex. Civ. Prac. & Rem. Code § 16.003(b)) The discovery rule does not extend this deadline. The clock can be paused (tolled) if a beneficiary is a minor or of unsound mind, or if the defendant fraudulently concealed the cause of action. Claims against a government entity generally require written notice within 6 months.",
+   "legal_aid_name": "Lone Star Legal Aid",
+   "legal_aid_url": "https://lonestarlegal.org",
+   "phone": "1-800-733-8394",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.71.htm",
+    "https://lonestarlegal.org/wp-content/uploads/2021/09/LSLA-CKTC-General-Flyer-One-Page-ENGL.pdf",
+    "https://www.tlsc.org/locallegalaid"
+   ],
+   "state_note": "Texas also allows a separate 'survival' claim for the estate, covering what the person who died could have recovered had they lived (such as medical bills and pre-death pain and suffering). Note this legal-aid program serves 72 counties in East and Southeast Texas; Legal Aid of NorthWest Texas and Texas RioGrande Legal Aid serve the rest of the state.",
+   "statute_cite": "Tex. Civ. Prac. & Rem. Code § 71.002",
+   "statute_name": "Texas Wrongful Death Act",
+   "who_can_file": "Only the surviving spouse, children (including adopted children), and parents of the person who died may bring the claim; any one of them may file for the benefit of all. If none of them files within 3 months of the death, the executor or administrator of the estate must file instead. Siblings, grandparents, and unmarried partners cannot file. (Tex. Civ. Prac. & Rem. Code § 71.004)"
+  },
+  "utah": {
+   "damages_note": "Heirs can recover economic losses (lost earnings and financial support, medical expenses before death, funeral and burial costs) and non-economic losses, including loss of companionship, society, and comfort. There is no cap on compensatory damages in the wrongful-death statute. Punitive damages may be available for willful or malicious conduct.",
+   "deadline_note": "2 years from the date of death. (Utah Code § 78B-2-304) The discovery rule may delay the start of the clock if the family did not know and could not reasonably have known the death was caused by someone else's wrongful conduct. The deadline is paused for a minor until they turn 18. (Utah Code § 78B-2-108) Claims against a government entity require a written notice of claim within 1 year. (Utah Code § 63G-7-402)",
+   "legal_aid_name": "Utah Legal Services",
+   "legal_aid_url": "https://www.utahlegalservices.org",
+   "phone": "801-328-8891",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://le.utah.gov/xcode/Title78B/Chapter3/78B-3-S106.html",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-utah.html",
+    "https://www.utcourts.gov/en/self-help/legal-help/finding-legal-help/legal-clinics/organizations.html"
+   ],
+   "state_note": "Utah's definition of 'heirs' is broader than most states — it can include dependent stepchildren under 18. But deaths covered by workers' compensation are carved out of the wrongful-death statute and go through the workers' compensation system instead.",
+   "statute_cite": "Utah Code § 78B-3-106",
+   "statute_name": "Utah Wrongful Death Act",
+   "who_can_file": "The deceased person's heirs or the personal representative of the estate may bring the claim for the benefit of the heirs. 'Heirs' means the surviving spouse, children (including adopted children), and parents; certain stepchildren under 18 who were financially dependent on or living with the deceased also count, and if none of those survive, other blood relatives. If the person who died was an adult under guardianship, the guardian may file. (Utah Code §§ 78B-3-105, 78B-3-106)"
+  },
+  "vermont": {
+   "damages_note": "The court or jury may award damages that are 'just, with reference to the pecuniary injuries resulting from the death' — lost earnings and benefits, loss of household services, medical expenses, and funeral and burial costs. There is no cap on compensatory damages. Loss of love and companionship is only recoverable when the person who died was a minor child. Damages are otherwise limited to financial (pecuniary) losses.",
+   "deadline_note": "2 years from the discovery of the death. (14 V.S.A. § 1492(a)) If the death happened under circumstances where there is probable cause to charge someone with homicide, the deadline is 7 years after discovery of the death, or 2 years after the criminal judgment becomes final, whichever is later.",
+   "legal_aid_name": "Vermont Legal Aid",
+   "legal_aid_url": "https://www.vtlegalaid.org",
+   "phone": "1-800-889-2047",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://legislature.vermont.gov/statutes/section/14/071/01492",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-vermont.html",
+    "https://legislature.vermont.gov/Documents/2018/WorkGroups/House%20Judiciary/Vermont%20Bar%20Association/W~Robert%20Paolini~VT%20Free%20Legal%20Answer%20Other%20Resources~1-10-2017.pdf"
+   ],
+   "state_note": "Vermont's clock runs from the discovery of the death, not necessarily the date of death, and homicide cases get a much longer 7-year window. Vermont is also unusual in limiting wrongful-death damages to financial losses for adults — loss of companionship is only compensated when a minor child dies.",
+   "statute_cite": "14 V.S.A. § 1492",
+   "statute_name": "Vermont Wrongful Death Act",
+   "who_can_file": "Only the personal representative (executor or administrator) of the deceased person's estate may bring the claim, for the benefit of the surviving spouse and next of kin. (14 V.S.A. § 1492(a))"
+  },
+  "virginia": {
+   "damages_note": "Damages can include sorrow and mental anguish, loss of the deceased person's comfort, guidance, companionship, society, and advice, lost income and benefits, loss of services, protection, care, and assistance, medical expenses, and reasonable funeral and burial expenses. (Va. Code § 8.01-52) Punitive damages are allowed for willful or wanton conduct, capped at $350,000. (Va. Code § 8.01-38.1)",
+   "deadline_note": "2 years from the date of death. (Va. Code § 8.01-243(A)) Claims against a government agency may have strict, shorter notice requirements.",
+   "legal_aid_name": "Virginia Legal Aid Society",
+   "legal_aid_url": "https://www.vlas.org",
+   "phone": "1-866-534-5243",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-virginia.html",
+    "https://www.vlas.org/contact",
+    "https://OAG.STATE.VA.US/saki/victim-resources"
+   ],
+   "state_note": "Virginia is one of the few states that still uses contributory negligence: if the person who died was even 1% at fault, recovery can be barred entirely. Also, this legal-aid program serves 20 counties and 6 cities in Central, Southside, and Western Tidewater Virginia; other regions have their own legal-aid programs.",
+   "statute_cite": "Va. Code § 8.01-50",
+   "statute_name": "Virginia Wrongful Death Act",
+   "who_can_file": "Only the personal representative (executor or administrator) of the deceased person's estate may file the claim, on behalf of the statutory beneficiaries. Beneficiaries are, in order: the surviving spouse and children; if none, parents, siblings, and other family members who were dependent on the deceased. (Va. Code §§ 8.01-50, 8.01-53)"
+  },
+  "washington": {
+   "damages_note": "Both economic damages (lost income, medical expenses, funeral and burial costs, lost household services) and non-economic damages (loss of companionship, society, guidance, and comfort) are expressly allowed, with no statutory cap on the total award. Washington does not allow punitive damages in wrongful-death cases.",
+   "deadline_note": "3 years from the date of death. (RCW 4.16.080(2)) Washington recognizes a discovery rule that can start the clock when the family discovers, or reasonably should have discovered, that the death was caused by someone else's wrongdoing.",
+   "legal_aid_name": "Northwest Justice Project",
+   "legal_aid_url": "https://nwjustice.org",
+   "phone": "1-888-201-1014",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-washington.html",
+    "https://www.nwjustice.org/get-legal-help/clear-intake-line/",
+    "https://ocla.wa.gov/findlegalhelp"
+   ],
+   "state_note": "A 2019 law expanded who can recover: parents and siblings can now recover even if they were not financially dependent on the person who died and even if they live out of state. Parents of an adult child can file if they had 'significant involvement' in the child's life. The intake number listed is the CLEAR hotline (weekdays 9:15 a.m.–12:15 p.m.); people in King County start with 211, and people 60 and over use the CLEAR*Sr line.",
+   "statute_cite": "RCW 4.20.010",
+   "statute_name": "Washington Wrongful Death Act",
+   "who_can_file": "The personal representative of the deceased person's estate files the claim, for the benefit of the spouse, state-registered domestic partner, and children (including stepchildren) first; if there are none, parents and siblings may recover. A parent or legal guardian may also file for the death of a child under RCW 4.24.010. (RCW 4.20.010, 4.20.020)"
+  },
+  "west virginia": {
+   "damages_note": "A jury may award damages for sorrow, mental anguish, and solace; loss of society, companionship, comfort, guidance, and advice; lost income; loss of the deceased person's services, protection, care, and assistance; medical expenses; and reasonable funeral expenses. There is no cap on these compensatory damages. Punitive damages may be available for especially reckless or intentional conduct, capped at the greater of four times the compensatory damages or $500,000. (W. Va. Code §§ 55-7-6, 55-7-29)",
+   "deadline_note": "2 years from the date of death. (W. Va. Code § 55-7-6(d)) Missing the deadline usually ends the right to recover, though narrow exceptions can apply.",
+   "legal_aid_name": "Legal Aid of West Virginia",
+   "legal_aid_url": "https://legalaidwv.org",
+   "phone": "1-866-255-4370",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-west-virginia.html",
+    "https://code.wvlegislature.gov/signed_bills/1967%5C1967-RS-HB1146-ENR_signed.pdf",
+    "https://wv.freelegalanswers.org/OtherHelp"
+   ],
+   "state_note": "Money recovered in a West Virginia wrongful-death case generally cannot be used to pay the deceased person's debts. The phone number listed is the statewide ATLAS intake line; the organization's website has moved from lawv.net to legalaidwv.org.",
+   "statute_cite": "W. Va. Code § 55-7-6",
+   "statute_name": "West Virginia Wrongful Death Act",
+   "who_can_file": "Only the personal representative of the deceased person's estate may bring the claim. Recovery goes to the surviving spouse, children (including stepchildren and adopted children), parents, siblings, and any family members who were financially dependent on the deceased. The personal representative may have been appointed in another state. (W. Va. Code § 55-7-6)"
+  },
+  "wisconsin": {
+   "damages_note": "Families can recover financial (pecuniary) losses — lost income and support, medical costs, and funeral and burial expenses — with no cap. Loss of society and companionship is capped at $350,000 for the death of an adult and $500,000 for the death of a minor child. (Wis. Stat. § 895.04(4)) Wisconsin does not allow punitive damages in wrongful-death claims.",
+   "deadline_note": "3 years from the date of death for most wrongful-death claims, but only 2 years if the death was caused by a motor vehicle accident. (Wis. Stat. § 893.54) Claims against a government body require written notice within 120 days. (Wis. Stat. § 893.80)",
+   "legal_aid_name": "Legal Action of Wisconsin",
+   "legal_aid_url": "https://legalaction.org",
+   "phone": "855-947-2529",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-wisconsin.html",
+    "https://legalaction.org/get-help/",
+    "https://law.wisc.edu/probono/public.html"
+   ],
+   "state_note": "Wisconsin's deadline depends on the cause of death — 2 years for a car crash, 3 years otherwise — so the shorter deadline can catch families off guard. Also, if the person who died left a surviving spouse and minor children, the court must set aside part of the loss-of-society award (up to 50%) for the children's care. As of January 2026, Legal Action of Wisconsin merged with Judicare Legal Aid into one statewide firm.",
+   "statute_cite": "Wis. Stat. § 895.03",
+   "statute_name": "Wisconsin Wrongful Death Act",
+   "who_can_file": "The personal representative of the estate or the person entitled to the recovery may bring the claim. Recovery goes in priority order to: (1) the surviving spouse or domestic partner; (2) if none, the lineal heirs (children, grandchildren, parents); (3) if none, the siblings. (Wis. Stat. § 895.04)"
+  },
+  "wyoming": {
+   "damages_note": "The court or jury may award pecuniary and exemplary damages that are 'fair and just,' including each beneficiary's own losses — lost future earnings and support, medical expenses before death, funeral and burial costs, and loss of probable future companionship, society, and comfort. There is no cap on compensatory damages. Punitive (exemplary) damages require proof of willful misconduct or gross negligence.",
+   "deadline_note": "2 years from the date of death. (Wyo. Stat. Ann. § 1-38-102(d)) The deadline is strictly enforced. If a government entity contributed to the death, a shorter governmental notice deadline can also apply.",
+   "legal_aid_name": "Legal Aid of Wyoming",
+   "legal_aid_url": "https://www.lawyoming.org",
+   "phone": "1-877-432-9955",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://legalclarity.org/wyoming-wrongful-death-statute-who-can-sue-and-what-damages-apply/",
+    "https://www.lawyoming.org/contact",
+    "https://www.americanbar.org/groups/legal_services/milvets/aba_home_front/directory-programs/wyoming/"
+   ],
+   "state_note": "If the person who died left a spouse, child, or parent, the deceased person's debts cannot be paid out of the wrongful-death recovery. (Wyo. Stat. Ann. § 1-38-102(b)) The phone number listed is the statewide Legal Aid Hotline (weekdays 9 a.m.–4 p.m.); note the hotline cannot help with criminal law, personal injury, or workers' compensation cases. The organization's current website is lawyoming.org.",
+   "statute_cite": "Wyo. Stat. Ann. § 1-38-102",
+   "statute_name": "Wyoming Wrongful Death Act",
+   "who_can_file": "Only the personal representative of the deceased person's estate may bring the claim, acting for the surviving beneficiaries — typically the spouse, children, and parents, and in some cases other dependents or relatives. (Wyo. Stat. Ann. § 1-38-102(a))"
+  },
+  "massachusetts": {
+   "damages_note": "The fair monetary value of the decedent to the beneficiaries, including reasonably expected net income, services, protection, care, assistance, society, companionship, comfort, guidance, counsel, and advice, plus reasonable funeral and burial expenses. Punitive damages of at least $5,000 are available where the death was caused by malicious, willful, wanton, or reckless conduct or gross negligence. The recovery is divided among beneficiaries under ch. 229, § 1 (spouse and children first).",
+   "deadline_note": "3 years from the date of death, or 3 years from the date the executor or administrator knew or should have known of the factual basis for the claim.",
+   "legal_aid_name": "Massachusetts Legal Assistance Corporation",
+   "legal_aid_url": "https://www.mlac.org/",
+   "phone": "617-367-8544",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://malegislature.gov/laws/generallaws/partiii/titleii/chapter229/section2",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-massachusetts.html",
+    "https://mlac.org/about-2/contact/",
+    "https://www.mass.gov/doc/mass-violence-services-by-county-printable-document/download"
+   ],
+   "state_note": "Massachusetts measures damages by the 'fair monetary value of the decedent' to the people who depended on them, and the recovery goes to the family beneficiaries rather than the estate itself. The claim is derivative: it can only be brought if the person who died could have sued for the injury had they lived.",
+   "statute_cite": "Mass. Gen. Laws ch. 229, § 2",
+   "statute_name": "Massachusetts Wrongful Death Act",
+   "who_can_file": "Only the executor or administrator (personal representative) of the deceased person's estate may file the claim, for the benefit of the surviving spouse, children, and other beneficiaries listed in the statute (Mass. Gen. Laws ch. 229, § 2)."
+  },
+  "michigan": {
+   "damages_note": "Reasonable medical, hospital, funeral, and burial expenses; the decedent's pain and suffering before death; loss of financial support and income; loss of society and companionship; and the survivors' mental anguish. There is no general cap on wrongful-death damages in Michigan, and punitive damages are generally not available.",
+   "deadline_note": "3 years from the date of death (Mich. Comp. Laws § 600.5805(2)). The deadline for the underlying claim can control instead (for example, 2 years for a medical-malpractice death), and a saving provision (Mich. Comp. Laws § 600.5852) may add time if the estate was opened within the original period.",
+   "legal_aid_name": "Michigan Legal Help",
+   "legal_aid_url": "https://michiganlegalhelp.org/",
+   "phone": "1-888-783-8190",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://legislature.mi.gov/Home/RenderDoc?objectName=mcl-600-2922",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-michigan.html",
+    "https://michiganlegalhelp.org/find-lawyer/counsel-advocacy-law-line",
+    "https://www.courts.michigan.gov/4aa747/contentassets/ee4113df1d2343ecbdff2073d0560543/approved/2020-08_2022-11-01_commentfromlakeshorelegalaid2.pdf"
+   ],
+   "state_note": "The personal representative must notify all potential beneficiaries within 30 days of filing, and any settlement or distribution of the recovery needs probate court approval.",
+   "statute_cite": "Mich. Comp. Laws § 600.2922",
+   "statute_name": "Michigan Wrongful Death Act",
+   "who_can_file": "Only the personal representative of the deceased person's estate may file the claim, for the benefit of the surviving spouse, children, descendants, parents, grandparents, siblings, stepchildren, and anyone named in the will (Mich. Comp. Laws § 600.2922(2)-(3))."
+  },
+  "minnesota": {
+   "damages_note": "Whatever the jury deems fair and just: the decedent's damages before death, the survivors' pecuniary loss, lost income and financial support, and loss of the decedent's services, protection, care, assistance, advice, comfort, companionship, and guidance. Funeral expenses are paid first out of any recovery. Punitive damages may be awarded under Minn. Stat. § 549.20.",
+   "deadline_note": "3 years from the date of death, and no more than 6 years after the wrongful act or omission. There is no deadline if the death was caused by an intentional act constituting murder. Deaths caused by medical malpractice follow the separate limits in Minn. Stat. § 541.076.",
+   "legal_aid_name": "LawHelpMN",
+   "legal_aid_url": "https://www.lawhelpmn.org/",
+   "phone": "1-877-696-6529",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://www.revisor.mn.gov/statutes/2023/cite/573.02/subd/573.02.1",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-minnesota.html",
+    "https://www.lawhelpmn.org/",
+    "https://mn.gov/ooltc/assets/23_KYR%202026_tcm1168-763132.pdf"
+   ],
+   "state_note": "Minnesota is unusual: family members cannot file directly. A court-appointed trustee brings the single claim for everyone, and the court decides how the recovery is divided among the survivors.",
+   "statute_cite": "Minn. Stat. § 573.02",
+   "statute_name": "Minnesota Wrongful Death Act",
+   "who_can_file": "The surviving spouse or next of kin petitions the court to appoint a trustee, and only that trustee may file the claim, for the exclusive benefit of the surviving spouse and next of kin (Minn. Stat. § 573.02, subds. 1, 3)."
+  },
+  "mississippi": {
+   "damages_note": "Whatever damages the jury determines to be just, considering all damages to the decedent and to every interested party, including lost income, medical and funeral expenses, loss of companionship, and the decedent's pain and suffering. Punitive damages may be available but are capped by state law. Non-economic damages are capped at $500,000 in medical-malpractice cases and $1,000,000 in product-liability cases.",
+   "deadline_note": "The deadline follows the underlying claim: generally 3 years from the date of death for a negligence death (Miss. Code Ann. § 15-1-49), but only 1 year if the death was caused by an intentional act such as assault or battery. Medical-malpractice deaths have shorter limits, and the clock runs from the wrongful act rather than starting fresh at death.",
+   "legal_aid_name": "Mississippi Center for Legal Services",
+   "legal_aid_url": "https://mscenterforlegalservices.org/",
+   "phone": "1-800-498-1804",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://law.justia.com/codes/mississippi/2020/title-11/chapter-7/subchapter-ingeneral/section-11-7-13/",
+    "https://billstatus.ls.state.ms.us/documents/2013/pdf/HB/0400-0499/HB0477SG.pdf",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-mississippi.html",
+    "https://msbar.org/for-the-public/pro-bono-resources/pro-bono-services/",
+    "https://www.mdhs.ms.gov/support/inspector/hearings/"
+   ],
+   "state_note": "Mississippi is one of the few states where close family members can file directly without opening an estate, and the statute also covers the death of an 'unborn quick child.'",
+   "statute_cite": "Miss. Code Ann. § 11-7-13",
+   "statute_name": "Mississippi Wrongful Death Statute",
+   "who_can_file": "The personal representative of the estate, or the surviving spouse, children, parents, or siblings. Any one of them may file for the benefit of all, and there can be only one lawsuit for the same death (Miss. Code Ann. § 11-7-13)."
+  },
+  "missouri": {
+   "damages_note": "Whatever the jury deems fair and just: pecuniary loss, funeral expenses, and the reasonable value of the decedent's services, consortium, companionship, comfort, instruction, guidance, counsel, training, and support, plus the decedent's medical expenses and pain and suffering before death. The jury may also consider aggravating circumstances. There is no general cap, but non-economic damages in medical-malpractice deaths are capped under Mo. Rev. Stat. § 538.210.",
+   "deadline_note": "3 years from the date of death (Mo. Rev. Stat. § 537.100).",
+   "legal_aid_name": "Legal Services of Missouri",
+   "legal_aid_url": "https://www.lsmo.org/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://revisor.mo.gov/main/OneSection.aspx?section=537.080&bid=28468",
+    "https://www.lsmo.org/",
+    "https://www.courts.mo.gov/page.jsp?id=43918",
+    "https://www.duckworthinjurylaw.com/who-claim-family-member-wrongful-death-missouri"
+   ],
+   "state_note": "Missouri ranks who may sue in strict classes: a spouse, child, or parent outranks siblings, and siblings can only sue if no first-class family member is available. The claim belongs to the family, not the estate.",
+   "statute_cite": "Mo. Rev. Stat. § 537.080",
+   "statute_name": "Missouri Wrongful Death Act",
+   "who_can_file": "In strict priority order: first the surviving spouse, children (or descendants of deceased children), and parents; if there are none, the deceased's siblings or their descendants; if there are none, a court-appointed plaintiff ad litem. Only one action may be brought for the same death (Mo. Rev. Stat. § 537.080)."
+  },
+  "montana": {
+   "damages_note": "Economic losses (medical bills, funeral and burial expenses, lost wages and benefits) and non-economic losses (loss of companionship, love, support, and guidance, and grief and sorrow). Punitive damages are allowed only for actual fraud or actual malice and are capped at $10 million or 3% of the defendant's net worth, whichever is less (Mont. Code Ann. § 27-1-220).",
+   "deadline_note": "3 years from the date of death (Mont. Code Ann. § 27-2-204), or 10 years if the death resulted from homicide. Claims against a government entity have shorter notice requirements.",
+   "legal_aid_name": "Montana Legal Services Association",
+   "legal_aid_url": "https://www.mtlsa.org/",
+   "phone": "1-800-666-6899",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://law.justia.com/codes/montana/title-27/chapter-1/part-5/section-27-1-513/",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-montana.html",
+    "https://www.mtlsa.org/apply-for-services/",
+    "https://courts.mt.gov/external/selfhelp/resources/toole.pdf"
+   ],
+   "state_note": "Montana requires the wrongful-death claim and the survival claim (for the decedent's own losses) to be combined into one lawsuit, and each element of damages can be recovered only once (Mont. Code Ann. § 27-1-501).",
+   "statute_cite": "Mont. Code Ann. § 27-1-513",
+   "statute_name": "Montana Wrongful Death Statute",
+   "who_can_file": "The personal representative of the deceased person's estate files the claim for the surviving family. If the person who died was a minor child, the parents (or legal guardian) may file (Mont. Code Ann. § 27-1-513)."
+  },
+  "nebraska": {
+   "damages_note": "Pecuniary (financial) losses only: reasonable funeral and burial expenses, medical bills, lost income and financial support, loss of companionship, care, and comfort, and the value of household services. Compensation for grief or mental anguish as such is not recoverable, and Nebraska's constitution bars punitive damages entirely. Medical-malpractice deaths are subject to a $2.25 million total cap (Neb. Rev. Stat. § 44-2825).",
+   "deadline_note": "2 years from the date of death (Neb. Rev. Stat. § 30-810). The statute has no general discovery extension, so families should not count on extra time if the cause of death only becomes clear later.",
+   "legal_aid_name": "Legal Aid of Nebraska",
+   "legal_aid_url": "https://www.legalaidofnebraska.org/",
+   "phone": "1-877-250-2016",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://nebraskalegislature.gov/laws/statutes.php?statute=30-809",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-nebraska.html",
+    "https://legalaidofnebraska.org/about-us/contact-us/",
+    "https://supremecourt.nebraska.gov/sites/default/files/publication-report-files/Legal_Resources_Brochure.pdf"
+   ],
+   "state_note": "Nebraska's statute covers the death of an unborn child in utero, but no claim can be brought against the mother or against a provider who performed a consented medical procedure.",
+   "statute_cite": "Neb. Rev. Stat. § 30-809",
+   "statute_name": "Nebraska Wrongful Death Act",
+   "who_can_file": "Only the personal representative of the deceased person's estate may file the claim, for the exclusive benefit of the surviving spouse and next of kin (Neb. Rev. Stat. §§ 30-809, 30-810)."
+  },
+  "nevada": {
+   "damages_note": "Heirs may recover for grief or sorrow, loss of probable support, companionship, society, comfort and consortium, and the decedent's pain, suffering, or disfigurement. The estate may recover medical expenses, funeral expenses, and punitive damages the decedent could have recovered. There is no general cap on wrongful-death damages; medical-malpractice non-economic damages are capped under Nev. Rev. Stat. § 41A.035.",
+   "deadline_note": "2 years from the date of death (Nev. Rev. Stat. § 11.190(4)(e)). A claim against a government entity has a separate 2-year claim-filing requirement with the Attorney General.",
+   "legal_aid_name": "Legal Aid Center of Southern Nevada",
+   "legal_aid_url": "https://www.lacsn.org/",
+   "phone": "702-386-1070",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://www.leg.state.nv.us/NRS/NRS-041.html",
+    "https://law.justia.com/codes/nevada/chapter-41/statute-41-085/",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-nevada.html",
+    "https://www.lacsn.org/contact-us",
+    "https://nvcourts.gov/__data/assets/pdf_file/0017/25082/legal_aid_center_of_southern_nevada_-_special_education_brochure.pdf"
+   ],
+   "state_note": "Nevada is unusual in splitting the case in two: the heirs' claim and the estate's claim are separate and can be joined. The heirs' recovery is not liable for the decedent's debts, but the estate's recovery is. Anyone found liable for intentionally killing the person cannot bring or benefit from a claim.",
+   "statute_cite": "Nev. Rev. Stat. § 41.085",
+   "statute_name": "Nevada Wrongful Death Statute",
+   "who_can_file": "The heirs of the person who died and the personal representative of the estate may each bring a claim. Heirs are the people who would inherit the person's separate property if there were no will (Nev. Rev. Stat. § 41.085)."
+  },
+  "new hampshire": {
+   "damages_note": "The decedent's mental and physical pain before death, reasonable medical, funeral and burial expenses, and lost earning capacity over the decedent's probable working life. A surviving spouse may also recover for loss of comfort, society, and companionship, capped at $500,000. Minor children (or parents of a minor child) may recover for loss of familial relationship, capped at $300,000 per claimant. Punitive damages are not available in wrongful-death cases.",
+   "deadline_note": "3 years from the date of death (N.H. Rev. Stat. § 508:4). RSA 556:11 mentions a 6-year window, but it is expressly subject to RSA 508, so families should treat 3 years as the deadline.",
+   "legal_aid_name": "New Hampshire Legal Assistance",
+   "legal_aid_url": "https://www.nhla.org/",
+   "phone": "1-800-639-5290",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://www.gencourt.state.nh.us/bill_status/legacy/bs2016/billText.aspx?sy=2024&id=2106&txtFormat=html",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-new-hampshire.html",
+    "https://www.nhla.org/contact-us",
+    "https://www.nhd.uscourts.gov/alternatives-filing-pro-se"
+   ],
+   "state_note": "New Hampshire has no standalone wrongful-death act: the dead person's own injury claim survives to the estate, with the death added as an element of damages. In 2025 the caps on loss-of-relationship damages were raised sharply (spouse from $150,000 to $500,000; minor child or parent from $50,000 to $300,000).",
+   "statute_cite": "N.H. Rev. Stat. § 556:12",
+   "statute_name": "New Hampshire Wrongful Death Statute (RSA chapter 556)",
+   "who_can_file": "The administrator (or executor) of the deceased person's estate brings the claim. Under N.H. Rev. Stat. § 556:19, any person interested in the estate may start the action, but the administrator must take it over (N.H. Rev. Stat. §§ 556:12, 556:19)."
+  },
+  "new jersey": {
+   "damages_note": "Pecuniary (financial) losses only: loss of financial support, loss of services (including household services, guidance, and counsel), and reasonable medical, hospital, and funeral expenses. Grief, sorrow, and emotional anguish are not recoverable, and punitive damages are not available under the Wrongful Death Act.",
+   "deadline_note": "2 years from the date of death (N.J. Stat. § 2A:31-3). There is no deadline for a claim against the perpetrator if the death was murder or manslaughter and the perpetrator was convicted, found not guilty by reason of insanity, or adjudicated delinquent. If a public entity may be at fault, a Tort Claims Notice is generally due within 90 days.",
+   "legal_aid_name": "Legal Services of New Jersey",
+   "legal_aid_url": "https://www.lsnj.org/",
+   "phone": "1-888-576-5529",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://law.justia.com/codes/new-jersey/title-2a/section-2a-31-1/",
+    "https://www.nolo.com/legal-encyclopedia/wrongful-death-lawsuits-new-jersey.html",
+    "https://lsnjlaw.org/get-legal-help/call-the-hotline",
+    "https://nj.gov/oag/njsp/division/operations/legal-services.shtml"
+   ],
+   "state_note": "New Jersey is one of the strictest states on damages: only money losses count, so the loss of companionship itself has no dollar value except as part of pecuniary loss. A separate Survival Act claim covers the decedent's own pain and suffering before death.",
+   "statute_cite": "N.J. Stat. § 2A:31-1",
+   "statute_name": "New Jersey Wrongful Death Act",
+   "who_can_file": "Only the personal representative (executor or administrator) of the deceased person's estate may file, on behalf of the surviving spouse, children, parents, and others who would inherit under New Jersey's intestacy law (N.J. Stat. §§ 2A:31-1, 2A:31-2)."
+  }
+ }
+}
