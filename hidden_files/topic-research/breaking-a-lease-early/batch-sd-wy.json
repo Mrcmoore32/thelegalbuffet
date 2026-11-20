@@ -1,0 +1,253 @@
+[
+ {
+  "state": "South Dakota",
+  "slug": "south-dakota",
+  "early_break_fee": "No state cap \u2014 any early-termination fee must be in the lease, and in practice leases often set it at 1\u20132 months' rent. No fee may be charged when the tenant leaves for domestic violence, uninhabitable conditions, or military service.",
+  "landlord_mitigation": "yes",
+  "mitigation_cite": null,
+  "break_rights": [
+   "military (SCRA) \u2014 active-duty service members with deployment or permanent-change-of-station orders can end the lease with written notice and a copy of the orders; it ends 30 days after the next rent due date.",
+   "domestic violence \u2014 a tenant or household member who is a victim of domestic abuse, unlawful sexual behavior, or stalking can end the lease without penalty with written notice plus a police report, protection order, or health-care provider note from the last 30 days, and owes no early-termination fee or rent for the month after vacating (SDCL 43-32-19.1).",
+   "uninhabitable conditions \u2014 a tenant may end the lease if the landlord does not, within a reasonable time after a written request, put the home in good condition or make needed repairs (SDCL 43-32-19(1))."
+  ],
+  "roommate_rules": "Roommates who both sign the lease are each responsible for the full rent, so if one leaves the other still owes it all. One roommate cannot end the lease for the others or evict the other \u2014 only the landlord, through court, can remove a tenant. Adding or removing a name needs the landlord's written agreement.",
+  "rent_control": "no",
+  "rent_control_note": "No statewide cap, and SDCL 6-1-13 bars any city or county from controlling the rent charged for private homes.",
+  "legal_aid_name": "East River Legal Services",
+  "legal_aid_url": "https://erlservices.org/",
+  "tenant_help_url": "https://consumer.sd.gov/fastfacts/landlordtenant.aspx",
+  "sources": [
+   "https://sdlegislature.gov/api/Statutes/43-32-19.html?all=true",
+   "https://law.justia.com/codes/south-dakota/title-43/chapter-32/section-43-32-19-1/",
+   "https://www.nolo.com/landlord-tenant/landlords-duty-to-rerent-when-a-tenant-breaks-a-lease.html",
+   "https://law.justia.com/codes/south-dakota/2021/title-6/chapter-01/section-6-1-13/",
+   "https://consumer.sd.gov/fastfacts/landlordtenant.aspx",
+   "https://erlservices.org/"
+  ]
+ },
+ {
+  "state": "Tennessee",
+  "slug": "tennessee",
+  "early_break_fee": "No state cap \u2014 the fee is whatever the lease says, often 1\u20132 months' rent. No fee may be charged when the tenant leaves for military duty, domestic violence, or the landlord's noncompliance.",
+  "landlord_mitigation": "yes",
+  "mitigation_cite": "Tenn. Code \u00a7 66-28-507(c) (URLTA counties with population over 75,000 only)",
+  "break_rights": [
+   "military (SCRA) \u2014 service members entering active duty can end the lease with written notice and a copy of orders; it ends 30 days after the next rent due date.",
+   "domestic violence \u2014 victims of domestic abuse, sexual assault, or stalking can end the lease with written notice, a release date within 30 days, and a protection order or police report/charge, and owe no future rent or early-termination fee (they still pay rent for the month the tenancy ends).",
+   "uninhabitable conditions \u2014 if the landlord fails to keep the home habitable or provide essential services, the tenant may end the lease after written notice and a reasonable time to fix it (Tenn. Code \u00a7\u00a7 66-28-501, 66-28-502).",
+   "landlord harassment \u2014 in URLTA counties, repeated privacy violations such as changing locks, removing doors, or entering without notice may justify breaking the lease (Tenn. Code \u00a7 66-28-403)."
+  ],
+  "roommate_rules": "Roommates who both sign are each responsible for the full rent, and one leaving does not end the others' duty to pay. If one tenant is released under the domestic-violence law, the lease continues for the remaining tenants. A tenant cannot evict a roommate \u2014 only the landlord can, through court \u2014 and adding or removing a name needs the landlord's agreement.",
+  "rent_control": "no",
+  "rent_control_note": "No statewide cap, and Tenn. Code \u00a7 66-35-102 bars local rent control.",
+  "legal_aid_name": "Legal Aid Society of Middle Tennessee and the Cumberlands",
+  "legal_aid_url": "https://las.org/",
+  "tenant_help_url": "https://www.tn.gov/health/cedep/environmental/healthy-homes/hh/renters.html",
+  "sources": [
+   "https://www.nolo.com/landlord-tenant/tenants-right-break-rental-lease-tennessee.html",
+   "https://www.nolo.com/landlord-tenant/landlords-duty-to-rerent-when-a-tenant-breaks-a-lease.html",
+   "https://www.oakclause.com/guides/rent-control-laws",
+   "https://las.org/",
+   "https://www.tn.gov/health/cedep/environmental/healthy-homes/hh/renters.html"
+  ]
+ },
+ {
+  "state": "Texas",
+  "slug": "texas",
+  "early_break_fee": "No state cap \u2014 any early-termination fee must be in the lease. A landlord cannot charge both a fee and the full remaining rent without trying to re-rent the unit.",
+  "landlord_mitigation": "yes",
+  "mitigation_cite": "Tex. Prop. Code \u00a7 91.006",
+  "break_rights": [
+   "military (SCRA) \u2014 active-duty service members can end the lease with written notice and orders under the SCRA and Tex. Prop. Code \u00a7 92.017; it ends 30 days after the next rent due date.",
+   "domestic violence \u2014 victims of family violence can end the lease with a protective order or provider documentation plus 30 days' written notice (no advance notice needed if the abuser is a co-tenant), and victims of sexual assault or stalking have a parallel right (Tex. Prop. Code \u00a7\u00a7 92.016, 92.0161).",
+   "uninhabitable conditions \u2014 if the landlord fails to repair a condition that affects health or safety after proper written notice, the tenant may end the lease (Tex. Prop. Code \u00a7\u00a7 92.052, 92.056)."
+  ],
+  "roommate_rules": "All tenants who sign are jointly responsible for the full rent, and one leaving does not end the others' duty to pay. A tenant may not sublet without the landlord's prior consent (Tex. Prop. Code \u00a7 91.005). Only the landlord can evict a roommate, through court, and changing names on the lease needs the landlord's agreement.",
+  "rent_control": "no",
+  "rent_control_note": "No statewide cap; Tex. Local Gov't Code \u00a7 214.902 bars local rent control except a temporary disaster emergency approved by the governor.",
+  "legal_aid_name": "Lone Star Legal Aid",
+  "legal_aid_url": "https://www.lonestarlegal.org/",
+  "tenant_help_url": "https://oag.state.tx.us/consumer-protection/home-real-estate-and-travel/renters-rights",
+  "sources": [
+   "https://statutes.capitol.texas.gov/docviewer?docName=PR.91.htm",
+   "https://www.womenslaw.org/laws/tx/housing-laws/early-lease-termination-victims-family-violence/what-steps-do-i-have-take-end",
+   "https://oag.state.tx.us/consumer-protection/home-real-estate-and-travel/renters-rights",
+   "https://www.lonestarlegal.org/news/2026/08/how-lone-star-legal-aid-can-help-you/",
+   "https://www.generationadvisory.com/laws/texas-rent-control-laws"
+  ]
+ },
+ {
+  "state": "Utah",
+  "slug": "utah",
+  "early_break_fee": "No state cap \u2014 the fee is whatever the lease says. A domestic-violence exit still costs a termination fee equal to one month's rent (Utah Code \u00a7 57-22-5.1).",
+  "landlord_mitigation": "yes",
+  "mitigation_cite": "Utah Code \u00a7 78B-6-816; Reid v. Mutual of Omaha Ins. Co., 776 P.2d 896 (Utah 1989)",
+  "break_rights": [
+   "military (SCRA) \u2014 active-duty service members with deployment or permanent-change-of-station orders can end the lease with 30 days' written notice; it ends 30 days after the next rent due date.",
+   "domestic violence \u2014 a victim of domestic violence can end all future obligations with a protective order or police report, written notice with a move-out date, and a termination fee of one month's rent, and must move out within 15 days (Utah Code \u00a7 57-22-5.1).",
+   "uninhabitable conditions \u2014 under the Fit Premises Act, if the landlord does not take substantial action on a habitability problem after notice, the tenant can choose rent abatement and the lease ends, with 10 days to move out (Utah Code \u00a7 57-22-6)."
+  ],
+  "roommate_rules": "Co-tenants who sign together are each liable for the full rent, and one leaving does not release the others. A domestic-violence termination by one renter does not end the lease for the other tenants. Adding or removing a name, or subletting, needs the landlord's agreement.",
+  "rent_control": "no",
+  "rent_control_note": "No statewide cap, and Utah Code \u00a7 57-20-1 bars local rent control unless the state legislature approves it.",
+  "legal_aid_name": "Utah Legal Services",
+  "legal_aid_url": "https://www.utahlegalservices.org/",
+  "tenant_help_url": "https://www.utcourts.gov/en/self-help/case-categories/housing/landlord/eviction-tenant.html",
+  "sources": [
+   "https://le.utah.gov/xcode/Title57/Chapter22/C57-22-S5.1_2026050620270101.pdf",
+   "https://www.nolo.com/landlord-tenant/landlords-duty-to-rerent-when-a-tenant-breaks-a-lease.html",
+   "https://www.utahlegalservices.org/node/68/domestic-violence-lease-termination",
+   "https://www.utcourts.gov/en/self-help/case-categories/housing/landlord/eviction-tenant.html",
+   "https://www.turbotenant.com/rental-lease-agreement/utah/laws/breaking-a-lease/"
+  ]
+ },
+ {
+  "state": "Vermont",
+  "slug": "vermont",
+  "early_break_fee": "No state cap \u2014 a fee must be written in the lease and be reasonable. No fee may be charged for a domestic-violence termination (9 V.S.A. \u00a7 4472) or a military termination.",
+  "landlord_mitigation": "no",
+  "mitigation_cite": "Vt. Stat. tit. 9, \u00a7 4462",
+  "break_rights": [
+   "military (SCRA) \u2014 active-duty service members with deployment or permanent-change-of-station orders can end the lease with 30 days' written notice; it ends 30 days after the next rent due date.",
+   "domestic violence \u2014 a victim of domestic violence, sexual assault, or stalking can end the lease with 30 days' written notice and documentation such as a court order, police report, advocate letter, or a self-certification signed under penalty of perjury, with no fee (9 V.S.A. \u00a7 4472).",
+   "uninhabitable conditions \u2014 if the landlord fails to keep the home habitable and does not repair within a reasonable time after written notice, the tenant may end the lease on reasonable notice (9 V.S.A. \u00a7\u00a7 4457\u20134458)."
+  ],
+  "roommate_rules": "Roommates who both sign are each liable for the full rent, so one leaving does not cut the other's bill. Subletting needs the landlord's written consent, which the landlord may not unreasonably refuse (9 V.S.A. \u00a7 4456b). A tenant cannot evict a roommate \u2014 only the landlord can, through court \u2014 and names change only with the landlord's agreement.",
+  "rent_control": "no",
+  "rent_control_note": "No statewide cap and no city has rent control in effect; local governments may set their own rules, and Burlington requires 90 days' notice for rent increases.",
+  "legal_aid_name": "Vermont Legal Aid",
+  "legal_aid_url": "https://vtlegalaid.org/",
+  "tenant_help_url": "https://accd.vermont.gov/housing/resources-rules/renters-landlords",
+  "sources": [
+   "https://tenantrightsinfo.com/vermont-breaking-a-lease/",
+   "https://www.nolo.com/landlord-tenant/landlords-duty-to-rerent-when-a-tenant-breaks-a-lease.html",
+   "https://accd.vermont.gov/housing/resources-rules/renters-landlords",
+   "https://vtlegalaid.org/about-vla",
+   "https://legislature.vermont.gov/statutes/section/09/137/04467"
+  ]
+ },
+ {
+  "state": "Virginia",
+  "slug": "virginia",
+  "early_break_fee": "Capped \u2014 if the tenant gives at least 30 days' written notice, liability is limited to 2 months' rent or actual damages, whichever is less (Va. Code \u00a7 55.1-1253(C)). No liquidated damages may be charged for a domestic-violence termination.",
+  "landlord_mitigation": "yes",
+  "mitigation_cite": "Va. Code \u00a7 55.1-1251",
+  "break_rights": [
+   "military (SCRA) \u2014 service members entering active duty can end the lease under the SCRA and Va. Code \u00a7 55.1-1235 with written notice and verification of orders.",
+   "domestic violence \u2014 a victim of family abuse, sexual abuse, or stalking with a qualifying protective order or criminal charge can end the lease by written notice; it ends 28 days after notice, with no liquidated damages (Va. Code \u00a7 55.1-1236).",
+   "uninhabitable conditions \u2014 if the landlord materially breaches health-and-safety duties and does not fix the problem within 21 days after a 30-day termination notice, the tenant may end the lease; a unit uninhabitable at move-in can be ended within 7 days of possession (Va. Code \u00a7\u00a7 55.1-1234, 55.1-1234.1).",
+   "landlord harassment \u2014 repeated privacy violations or lockouts by the landlord can justify breaking the lease."
+  ],
+  "roommate_rules": "Co-tenants who sign together are each responsible for the full rent, and one moving out does not end the others' obligation. A tenant cannot evict a roommate; only the landlord can remove a tenant, through court. Adding or removing a name needs the landlord's written agreement, and subletting is governed by the lease.",
+  "rent_control": "no",
+  "rent_control_note": "No statewide cap and no city has rent control; state law gives localities no authority to cap rents (Alexandria has voluntary guidelines only).",
+  "legal_aid_name": "Virginia Legal Aid Society",
+  "legal_aid_url": "https://www.vlas.org/",
+  "tenant_help_url": "https://selfhelp.vacourts.gov/page/10/landlord-tenant",
+  "sources": [
+   "https://law.lis.virginia.gov/vacode/title55.1/chapter12/",
+   "https://www.nolo.com/landlord-tenant/tenants-right-break-rental-lease-virginia.html",
+   "https://selfhelp.vacourts.gov/page/10/landlord-tenant",
+   "https://www.vlas.org/",
+   "https://www.oakclause.com/guides/rent-control-laws"
+  ]
+ },
+ {
+  "state": "Washington",
+  "slug": "washington",
+  "early_break_fee": "No state cap \u2014 any fee must be in the lease. Even with a fee, the tenant owes only the loss the landlord could not avoid by re-renting.",
+  "landlord_mitigation": "yes",
+  "mitigation_cite": "Wash. Rev. Code \u00a7\u00a7 59.18.310, 59.18.595",
+  "break_rights": [
+   "military (SCRA) \u2014 service members with permanent-change-of-station or deployment orders can end the lease with written notice under the SCRA and RCW 59.18.200, with less than 20 days' notice if the orders do not allow the standard notice.",
+   "domestic violence \u2014 a victim of domestic violence, sexual assault, unlawful harassment, or stalking can end the lease with written notice plus a protection order or a signed report from a qualified third party, if the request comes within 90 days of the act, and owes no further rent (RCW 59.18.575).",
+   "uninhabitable conditions \u2014 if the landlord fails to remedy a defective condition within a reasonable time after written notice, the tenant may end the lease and move out (RCW 59.18.090; see also RCW 59.18.115, 59.18.120)."
+  ],
+  "roommate_rules": "Roommates who sign together are each liable for the full rent, and one leaving does not release the others. When a victim of domestic violence, sexual assault, or stalking ends the lease, the other tenants on the lease are not released (RCW 59.18.575). A tenant cannot evict a roommate \u2014 only the landlord can, through court \u2014 and changing names needs the landlord's agreement.",
+  "rent_control": "yes",
+  "rent_control_note": "Statewide cap since May 2025 (HB 1217): rent may not rise more than 7% plus inflation or 10%, whichever is less, in any 12 months, and not at all in the first year of a tenancy.",
+  "legal_aid_name": "Northwest Justice Project",
+  "legal_aid_url": "https://www.nwjustice.org/",
+  "tenant_help_url": "https://www.atg.wa.gov/residential-landlord-tenant-resources",
+  "sources": [
+   "https://app.leg.wa.gov/rcw/default.aspx?cite=59.18.310.WA",
+   "https://app.leg.wa.gov/RCW/default.aspx?Cite=59.18.575",
+   "https://www.atg.wa.gov/residential-landlord-tenant-resources",
+   "https://www.nwjustice.org/",
+   "https://nlihc.org/resource/washington-housing-advocates-secure-statewide-rent-stabilization"
+  ]
+ },
+ {
+  "state": "West Virginia",
+  "slug": "west-virginia",
+  "early_break_fee": "No state cap \u2014 any fee must be written in the lease before signing. Without an early-termination clause, the tenant may owe rent until the unit is re-rented.",
+  "landlord_mitigation": "yes",
+  "mitigation_cite": "W. Va. Code \u00a7 37-6-7",
+  "break_rights": [
+   "military (SCRA) \u2014 active-duty service members with deployment or permanent-change-of-station orders can end the lease with 30 days' written notice; it ends 30 days after the next rent due date.",
+   "uninhabitable conditions (limited) \u2014 a substantial breach of the implied warranty of habitability may let the tenant rescind the lease, vacate, and stop paying rent (Teller v. McCoy; W. Va. Code \u00a7 37-6-30). West Virginia has no separate domestic-violence lease-break statute; a protective order can instead grant the victim possession of the home (W. Va. Code \u00a7 48-27-503)."
+  ],
+  "roommate_rules": "Roommates who both sign are each responsible for the full rent, so one leaving does not end the other's duty to pay. A tenant cannot evict a roommate; only the landlord can remove a tenant, through court. Adding or removing a name, or subletting, needs the landlord's written agreement.",
+  "rent_control": "no",
+  "rent_control_note": "No statewide cap and no state law bans local rent control, but no West Virginia city is known to have a rent-control ordinance.",
+  "legal_aid_name": "Legal Aid of West Virginia",
+  "legal_aid_url": "https://www.lawv.net/",
+  "tenant_help_url": "https://www.lawv.net/Resources/Self-Help-Library",
+  "sources": [
+   "https://www.nolo.com/landlord-tenant/landlords-duty-to-rerent-when-a-tenant-breaks-a-lease.html",
+   "https://www.apartments.com/rental-manager/resources/state-laws/west-virginia",
+   "https://www.lawv.net/Resources/Self-Help-Library",
+   "https://wv.freelegalanswers.org/OtherHelp"
+  ]
+ },
+ {
+  "state": "Wisconsin",
+  "slug": "wisconsin",
+  "early_break_fee": "No state cap \u2014 the fee is whatever the lease says. What the tenant owes is reduced by whatever rent the landlord could have collected by re-renting.",
+  "landlord_mitigation": "yes",
+  "mitigation_cite": "Wis. Stat. \u00a7 704.29",
+  "break_rights": [
+   "military (SCRA) \u2014 active-duty service members with deployment or permanent-change-of-station orders can end the lease with 30 days' written notice; it ends 30 days after the next rent due date.",
+   "domestic violence \u2014 a tenant (or the tenant's child) facing an imminent threat of serious physical harm can end the tenancy with notice and a certified injunction, release condition, or criminal complaint, and owes no rent after the end of the month of notice or move-out, whichever is later (Wis. Stat. \u00a7 704.16).",
+   "uninhabitable conditions \u2014 if the home becomes untenantable because of fire, water, or other casualty, a hazardous condition, or a lack of repairs affecting health or safety, the tenant may leave and owes no rent for the period after it became untenantable (Wis. Stat. \u00a7 704.07)."
+  ],
+  "roommate_rules": "Co-tenants who sign together are each liable for the full rent, and one leaving does not release the others. A tenant on a periodic tenancy may not assign or sublet without the landlord's agreement or consent (Wis. Stat. \u00a7 704.09). A tenant cannot evict a roommate \u2014 only the landlord can, through court.",
+  "rent_control": "no",
+  "rent_control_note": "No statewide cap, and state law bars local rent control.",
+  "legal_aid_name": "Legal Action of Wisconsin",
+  "legal_aid_url": "https://www.legalaction.org/",
+  "tenant_help_url": "https://www.tenantresourcecenter.org",
+  "sources": [
+   "https://docs.legis.wisconsin.gov/statutes/statutes/704/29?view=section",
+   "https://docs.legis.wisconsin.gov/document/statutes/704.15",
+   "https://www.legalaction.org/",
+   "https://www.tenantresourcecenter.org",
+   "https://www.nmhc.org/globalassets/advocacy/rent-control/rent-control-by-state-law-chart_2026.pdf"
+  ]
+ },
+ {
+  "state": "Wyoming",
+  "slug": "wyoming",
+  "early_break_fee": "No state cap \u2014 the fee is whatever the lease says. Without an early-termination clause, the tenant may owe rent through the end of the term.",
+  "landlord_mitigation": "yes",
+  "mitigation_cite": "Goodwin v. Upper Crust, Inc., 624 P.2d 1192 (Wyo. 1981)",
+  "break_rights": [
+   "military (SCRA) \u2014 active-duty service members with deployment or permanent-change-of-station orders can end the lease with 30 days' written notice; it ends 30 days after the next rent due date.",
+   "domestic violence \u2014 under the Wyoming Safe Homes Act, a tenant has a defense to rent after moving out if there was a credible imminent threat of domestic abuse or sexual violence, or abuse on the premises within 60 days, with 7 days' written notice and medical, court, or police evidence (Wyo. Stat. \u00a7 1-21-1303).",
+   "uninhabitable conditions (limited) \u2014 if the landlord refuses a costly repair, the rental can end on 10\u201320 days' notice with rent prorated (Wyo. Stat. \u00a7 1-21-1203(d)); a court can also end the rental in a repair suit (\u00a7 1-21-1206(d))."
+  ],
+  "roommate_rules": "Roommates who both sign are each responsible for the full rent, so one leaving does not end the other's duty to pay. A tenant cannot evict a roommate; only the landlord can remove a tenant, through court. Adding or removing a name, or subletting, needs the landlord's written agreement.",
+  "rent_control": "no",
+  "rent_control_note": "No statewide cap and no state law bans local rent control, but no Wyoming city is known to have a rent-control ordinance.",
+  "legal_aid_name": "Legal Aid of Wyoming",
+  "legal_aid_url": "https://www.lawyoming.org/",
+  "tenant_help_url": "https://www.wyocourts.gov/legal-help-by-topic/evictions/",
+  "sources": [
+   "https://wyoleg.gov/NXT/gateway.dll/2024%20Wyoming%20Statutes%2F2024%20Titles%2F1%2F53%2F66",
+   "https://www.nolo.com/landlord-tenant/landlords-duty-to-rerent-when-a-tenant-breaks-a-lease.html",
+   "https://www.wyocourts.gov/legal-help-by-topic/evictions/",
+   "https://www.lawyoming.org/blog/legal-aid-hotline-helps-wyoming-citizens-in-need-of-free-legal-advice.amp",
+   "https://tenantrightsinfo.com/wyoming-breaking-a-lease/"
+  ]
+ }
+]
