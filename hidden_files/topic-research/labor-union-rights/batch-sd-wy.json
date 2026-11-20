@@ -1,0 +1,193 @@
+[
+  {
+    "state": "South Dakota",
+    "right_to_work": "yes",
+    "right_to_work_note": "South Dakota's right-to-work rule is written into the state constitution, so no worker can be made to join a union or pay union dues to keep a job.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "State and local public workers can form unions and bargain over pay, hours, and working conditions under the Public Employees' Unions law.",
+    "public_strike": "no",
+    "public_strike_note": "No public worker in South Dakota may strike against the state, a city or county, or a public school, and strikers face a daily civil fine.",
+    "agency_name": "South Dakota Department of Labor and Regulation",
+    "agency_url": "https://dlr.sd.gov/",
+    "legal_aid_name": "East River Legal Services",
+    "legal_aid_url": "https://erlservices.org/",
+    "state_note": "South Dakota is unusual in giving public workers full bargaining rights while also writing right-to-work into its constitution.",
+    "sources": [
+      "https://sdlegislature.gov/Statutes/60-9A",
+      "https://www.nrtw.org/right-to-work-states-south-dakota/",
+      "https://mylrc.sdlegislature.gov/api/Documents/73427.pdf",
+      "https://law.justia.com/codes/south-dakota/2021/title-3/chapter-18/section-3-18-14/"
+    ]
+  },
+  {
+    "state": "Tennessee",
+    "right_to_work": "yes",
+    "right_to_work_note": "Tennessee law says no worker can be required to join a union or pay union dues as a condition of getting or keeping a job.",
+    "public_bargaining": "limited",
+    "public_bargaining_note": "Most public workers cannot bargain collectively, but teachers can use voluntary collaborative conferencing with their school board, and transit workers bargain under federal law.",
+    "public_strike": "no",
+    "public_strike_note": "Strikes by public workers are prohibited in Tennessee.",
+    "agency_name": "Tennessee Department of Labor and Workforce Development",
+    "agency_url": "https://www.tn.gov/workforce",
+    "legal_aid_name": "Legal Aid Society of Middle Tennessee and the Cumberlands",
+    "legal_aid_url": "https://las.org/",
+    "state_note": "Tennessee ended teacher collective bargaining in 2011 and replaced it with voluntary collaborative conferencing, which is not binding bargaining.",
+    "sources": [
+      "https://comptroller.tn.gov/content/dam/cot/orea/advanced-search/2012/2012_OREA_TchrCollabConf.pdf",
+      "https://www.tba.org/?pg=LawBlog&blAction=showEntry&blogEntry=9594",
+      "https://law.justia.com/codes/tennessee/2020/title-49/chapter-5/part-6/section-49-5-601/"
+    ]
+  },
+  {
+    "state": "Texas",
+    "right_to_work": "yes",
+    "right_to_work_note": "Texas law, backed by the state constitution, says no one can be denied a job because they do or do not belong to a union.",
+    "public_bargaining": "limited",
+    "public_bargaining_note": "Texas generally bans collective bargaining for public workers, but police officers and firefighters in some cities can bargain or meet and confer under separate laws.",
+    "public_strike": "no",
+    "public_strike_note": "Public workers in Texas may not strike or take part in an organized work stoppage, and a striker loses civil service and reemployment rights.",
+    "agency_name": "Texas Workforce Commission",
+    "agency_url": "https://www.twc.texas.gov/",
+    "legal_aid_name": "Lone Star Legal Aid",
+    "legal_aid_url": "https://www.lonestarlegal.org/",
+    "state_note": "Texas bans public-sector bargaining for most government workers, though police and firefighters in some cities are the exception.",
+    "sources": [
+      "https://law.justia.com/codes/texas/government-code/title-6/subtitle-a/chapter-617/section-617-002/",
+      "https://law.justia.com/codes/texas/labor-code/title-3/chapter-101/subchapter-b/section-101-052/"
+    ]
+  },
+  {
+    "state": "Utah",
+    "right_to_work": "yes",
+    "right_to_work_note": "Utah law says no worker can be required to join a union or pay union dues as a condition of getting or keeping a job.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Utah public workers can bargain collectively, because the 2025 law that would have banned it was repealed by the Legislature in December 2025 before it ever took effect.",
+    "public_strike": "no",
+    "public_strike_note": "Public school workers are barred from striking under Utah law, and no Utah law gives other public workers a right to strike.",
+    "agency_name": "Utah Labor Commission",
+    "agency_url": "https://laborcommission.utah.gov/",
+    "legal_aid_name": "Utah Legal Services",
+    "legal_aid_url": "https://www.utahlegalservices.org/",
+    "state_note": "Utah's 2025 ban on public-sector bargaining (HB 267) was repealed by the Legislature in December 2025 after voters collected over 250,000 signatures to put it on the ballot, so bargaining rights stand.",
+    "sources": [
+      "https://le.utah.gov/xcode/Title34/Chapter34/C34-34_1800010118000101.pdf",
+      "https://le.utah.gov/Session/2025S2/bills/introduced/HB2001.pdf",
+      "https://news.ballotpedia.org/2025/12/11/utah-state-legislature-repeals-public-sector-collective-bargaining-ban-which-was-scheduled-for-a-referendum-vote-in-2026/",
+      "https://le.utah.gov/~2001/bills/sbillint/SB0205.pdf"
+    ]
+  },
+  {
+    "state": "Vermont",
+    "right_to_work": "no",
+    "right_to_work_note": "Vermont has no right-to-work law, so a union contract may require workers it covers to pay fees for bargaining and representation.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "State, town, city, and school workers in Vermont can form unions and bargain over pay, hours, and working conditions.",
+    "public_strike": "limited",
+    "public_strike_note": "State workers may not strike, but town and city workers may strike after fact-finding, as long as the strike would not endanger public health, safety, or welfare.",
+    "agency_name": "Vermont Department of Labor",
+    "agency_url": "https://labor.vermont.gov/",
+    "legal_aid_name": "Vermont Legal Aid",
+    "legal_aid_url": "https://vtlegalaid.org/",
+    "state_note": "Vermont is one of the few states where some public workers can legally strike: town and city workers may strike after fact-finding, but state workers may not.",
+    "sources": [
+      "https://legislature.vermont.gov/statutes/section/03/027/00903",
+      "https://codes.findlaw.com/vt/title-21-labor/vt-st-tit-21-sect-1730/",
+      "https://taptalent.ai/glossary/right-to-work-states/"
+    ]
+  },
+  {
+    "state": "Virginia",
+    "right_to_work": "yes",
+    "right_to_work_note": "Virginia law says no worker can be required to join a union or pay union dues as a condition of getting or keeping a job.",
+    "public_bargaining": "limited",
+    "public_bargaining_note": "Since May 1, 2021, Virginia cities, counties, and towns may choose to let their workers bargain collectively, but they are not required to, and state workers still cannot bargain.",
+    "public_strike": "no",
+    "public_strike_note": "Public workers in Virginia still have no right to strike, and a public worker who strikes can be fired.",
+    "agency_name": "Virginia Department of Labor and Industry",
+    "agency_url": "https://doli.virginia.gov/",
+    "legal_aid_name": "Virginia Legal Aid Society",
+    "legal_aid_url": "https://www.vlas.org/",
+    "state_note": "Virginia banned public-sector bargaining for decades, then in 2021 let each city and county decide for itself whether to allow it.",
+    "sources": [
+      "https://law.lis.virginia.gov/vacode/title40.1/chapter4/section40.1-57.2/",
+      "https://www.pwcva.gov/department/board-county-supervisors/collective-bargaining",
+      "https://taptalent.ai/glossary/right-to-work-states/"
+    ]
+  },
+  {
+    "state": "Washington",
+    "right_to_work": "no",
+    "right_to_work_note": "Washington has no right-to-work law, so a union contract may require workers it covers to pay fees for bargaining and representation.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Washington state and local public workers, including teachers, can form unions and bargain over pay, hours, and working conditions.",
+    "public_strike": "no",
+    "public_strike_note": "Washington law gives public workers no right to strike, and a court can order a public-worker strike to stop.",
+    "agency_name": "Washington State Department of Labor & Industries",
+    "agency_url": "https://www.lni.wa.gov/",
+    "legal_aid_name": "Northwest Justice Project",
+    "legal_aid_url": "https://www.nwjustice.org/",
+    "state_note": "Washington public workers can bargain freely, but the law gives them no right to strike, so teacher walkouts have no legal protection.",
+    "sources": [
+      "https://app.leg.wa.gov/rcw/default.aspx?cite=41.56.041",
+      "https://www.atg.wa.gov/ago-opinions/right-teachers-and-other-employees-strike",
+      "https://taptalent.ai/glossary/right-to-work-states/"
+    ]
+  },
+  {
+    "state": "West Virginia",
+    "right_to_work": "yes",
+    "right_to_work_note": "West Virginia's 2016 Workplace Freedom Act says no worker can be required to join a union or pay union dues as a condition of getting or keeping a job.",
+    "public_bargaining": "no",
+    "public_bargaining_note": "West Virginia law gives public workers no right to bargain collectively, mediate, or arbitrate with their government employer.",
+    "public_strike": "no",
+    "public_strike_note": "Any work stoppage or strike by West Virginia public workers is unlawful, and school workers who strike lose pay for each day out.",
+    "agency_name": "West Virginia Division of Labor",
+    "agency_url": "https://labor.wv.gov/",
+    "legal_aid_name": "Legal Aid of West Virginia",
+    "legal_aid_url": "https://legalaidwv.org/",
+    "state_note": "West Virginia law states plainly that public workers have no right to bargain collectively and that any public-employee strike is unlawful.",
+    "sources": [
+      "https://code.wvlegislature.gov/pdf/18-5-45A/",
+      "https://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb2643%20intr.htm&yr=2016&sesstype=RS&i=2643"
+    ]
+  },
+  {
+    "state": "Wisconsin",
+    "right_to_work": "yes",
+    "right_to_work_note": "Wisconsin's 2015 right-to-work law says no worker can be required to join a union or pay union dues as a condition of getting or keeping a job.",
+    "public_bargaining": "limited",
+    "public_bargaining_note": "Under Act 10 from 2011, most Wisconsin public workers can bargain only over base wages, with raises capped at inflation, while police and firefighters are exempt from those limits.",
+    "public_strike": "no",
+    "public_strike_note": "Wisconsin law expressly bans strikes by municipal workers, and a court can order a strike to stop at once.",
+    "agency_name": "Wisconsin Department of Workforce Development",
+    "agency_url": "https://dwd.wisconsin.gov/",
+    "legal_aid_name": "Legal Action of Wisconsin",
+    "legal_aid_url": "https://legalaction.org/",
+    "state_note": "Under Act 10, most Wisconsin public workers can bargain only over base wages, and their unions must win a recertification vote every year.",
+    "sources": [
+      "https://docs.legis.wisconsin.gov/misc/lc/issue_briefs/2024/employment_and_labor/ib_court_decisions_2011_act_10_msk_eh_2024_12_12.pdf",
+      "https://www.wislawnow.com/2026/11/the-future-of-act-10/",
+      "https://docs.legis.wisconsin.gov/2015/related/acts/1",
+      "https://docs.legis.wisconsin.gov/document/statutes/2007/111.70(8)(a)"
+    ]
+  },
+  {
+    "state": "Wyoming",
+    "right_to_work": "yes",
+    "right_to_work_note": "Wyoming has had a right-to-work law since 1963, so no worker can be required to join a union or pay union dues to keep a job.",
+    "public_bargaining": "limited",
+    "public_bargaining_note": "Firefighters are the only Wyoming public workers with a state law giving them the right to bargain collectively; there is no general bargaining law for other public workers.",
+    "public_strike": "no",
+    "public_strike_note": "Wyoming law gives public workers no right to strike.",
+    "agency_name": "Wyoming Department of Workforce Services",
+    "agency_url": "https://dws.wyo.gov/",
+    "legal_aid_name": "Legal Aid of Wyoming",
+    "legal_aid_url": "https://www.lawyoming.org/",
+    "state_note": "Wyoming is a right-to-work state, but firefighters are the only public workers with a state law giving them the right to bargain.",
+    "sources": [
+      "https://law.justia.com/codes/wyoming/2010/Title27/chapter10.html",
+      "https://taptalent.ai/glossary/right-to-work-states/",
+      "https://www.stateregstoday.com/business/labor/collective-bargaining-laws-in-wyoming"
+    ]
+  }
+]

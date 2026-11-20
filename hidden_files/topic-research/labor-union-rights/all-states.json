@@ -1,0 +1,965 @@
+{
+  "Alabama": {
+    "state": "Alabama",
+    "right_to_work": "yes",
+    "right_to_work_note": "Alabama law says no worker can be forced to join a union or pay union dues to keep a job.",
+    "public_bargaining": "limited",
+    "public_bargaining_note": "Alabama has no statewide bargaining law for public workers, but firefighters have a meet-and-confer law and some cities bargain with their workers voluntarily.",
+    "public_strike": "no",
+    "public_strike_note": "Alabama courts have ruled that strikes by public employees are illegal.",
+    "agency_name": "Alabama Department of Workforce",
+    "agency_url": "https://www.labor.alabama.gov/",
+    "legal_aid_name": "Legal Services Alabama",
+    "legal_aid_url": "https://legalservicesalabama.org",
+    "state_note": "Alabama's right-to-work protection is written into the state constitution, added by voters in 2016.",
+    "sources": [
+      "https://www.labor.alabama.gov/",
+      "https://www.endrtw.org/states",
+      "https://www.epi.org/chart/labor-day-paper-2020-map-states-with-comprehensive-public-sector-collective-bargaining-laws/",
+      "https://www.nea.org/legal-landscape-public-sector-strikes"
+    ]
+  },
+  "Alaska": {
+    "state": "Alaska",
+    "right_to_work": "no",
+    "right_to_work_note": "Alaska has no right-to-work law, so a union contract may require workers to pay dues or fees for representation.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "State law gives most public employees, including teachers and state workers, the right to bargain over pay, hours, and working conditions.",
+    "public_strike": "limited",
+    "public_strike_note": "Most public employees may strike only after mediation and a majority vote, and police, firefighters, prison guards, and hospital workers may not strike at all.",
+    "agency_name": "Alaska Labor Relations Agency",
+    "agency_url": "https://labor.alaska.gov/laborr/",
+    "legal_aid_name": "Alaska Legal Services Corporation",
+    "legal_aid_url": "https://alsc-law.org/",
+    "state_note": "Alaska is one of the few states where public employees can legally strike, but only after mediation and a majority vote, and workers who protect public health and safety cannot strike at all.",
+    "sources": [
+      "https://labor.alaska.gov/laborr/",
+      "https://labor.alaska.gov/laborr/forms/24annrptfinal.pdf",
+      "https://www.epi.org/chart/labor-day-paper-2020-map-states-with-comprehensive-public-sector-collective-bargaining-laws/",
+      "https://www.nea.org/legal-landscape-public-sector-strikes"
+    ]
+  },
+  "Arizona": {
+    "state": "Arizona",
+    "right_to_work": "yes",
+    "right_to_work_note": "Right-to-work is in Arizona's constitution, so no worker can be forced to join a union or pay dues to keep a job.",
+    "public_bargaining": "limited",
+    "public_bargaining_note": "Arizona has no statewide bargaining law; public safety workers may join a union, state executive-branch workers have a meet-and-confer policy, and some cities bargain under local rules.",
+    "public_strike": "no",
+    "public_strike_note": "Arizona's attorney general and courts have said public employees do not have the right to strike.",
+    "agency_name": "Industrial Commission of Arizona",
+    "agency_url": "https://www.azica.gov/",
+    "legal_aid_name": "Community Legal Services",
+    "legal_aid_url": "https://clsaz.org",
+    "state_note": "Arizona was one of the first states to adopt right-to-work, writing it into the state constitution in 1946.",
+    "sources": [
+      "https://www.azica.gov/",
+      "https://www.epi.org/chart/labor-day-paper-2020-map-states-with-comprehensive-public-sector-collective-bargaining-laws/",
+      "https://www.nea.org/legal-landscape-public-sector-strikes"
+    ]
+  },
+  "Arkansas": {
+    "state": "Arkansas",
+    "right_to_work": "yes",
+    "right_to_work_note": "Arkansas's constitution says no worker can be forced to join a union or pay dues to keep a job.",
+    "public_bargaining": "no",
+    "public_bargaining_note": "Arkansas has no statewide law giving public employees the right to bargain collectively.",
+    "public_strike": "no",
+    "public_strike_note": "Arkansas courts have ruled that public employees have no right to strike against the government.",
+    "agency_name": "Arkansas Department of Labor and Licensing",
+    "agency_url": "https://www.labor.arkansas.gov/",
+    "legal_aid_name": "Legal Aid of Arkansas",
+    "legal_aid_url": "https://www.arlegalaid.org",
+    "state_note": "In 2023 Arkansas banned public employers from deducting union dues from workers' paychecks.",
+    "sources": [
+      "https://www.labor.arkansas.gov/",
+      "https://www.ncsl.org/state-legislatures-news/details/some-states-strengthened-others-limited-collective-bargaining-in-2023",
+      "https://www.epi.org/chart/labor-day-paper-2020-map-states-with-comprehensive-public-sector-collective-bargaining-laws/",
+      "https://www.nea.org/legal-landscape-public-sector-strikes"
+    ]
+  },
+  "California": {
+    "state": "California",
+    "right_to_work": "no",
+    "right_to_work_note": "California has no right-to-work law, so a union contract may require workers to pay dues or fees for representation.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "State law gives most state and local public employees the right to bargain over pay, hours, and working conditions.",
+    "public_strike": "limited",
+    "public_strike_note": "California courts have said public employees may strike, but only after mediation and fact-finding are finished.",
+    "agency_name": "California Public Employment Relations Board",
+    "agency_url": "https://www.perb.ca.gov/",
+    "legal_aid_name": "Legal Aid at Work",
+    "legal_aid_url": "https://legalaidatwork.org/",
+    "state_note": "California is one of the few states where courts have said public employees may strike, but only after the full dispute process is finished.",
+    "sources": [
+      "https://www.perb.ca.gov/",
+      "https://www.epi.org/chart/labor-day-paper-2020-map-states-with-comprehensive-public-sector-collective-bargaining-laws/",
+      "https://www.nea.org/legal-landscape-public-sector-strikes"
+    ]
+  },
+  "Colorado": {
+    "state": "Colorado",
+    "right_to_work": "no",
+    "right_to_work_note": "Colorado has no right-to-work law, but its Labor Peace Act says a union can require dues only if 75% of the workers vote for it.",
+    "public_bargaining": "limited",
+    "public_bargaining_note": "State employees can bargain since 2020 and county employees since 2022, but most city, school, and special-district workers have no bargaining law.",
+    "public_strike": "limited",
+    "public_strike_note": "Colorado's supreme court recognized a limited right to strike for some public workers, but the county bargaining law bars a union from ordering a strike.",
+    "agency_name": "Colorado Department of Labor and Employment",
+    "agency_url": "https://cdle.colorado.gov/",
+    "legal_aid_name": "Colorado Legal Services",
+    "legal_aid_url": "https://www.coloradolegalservices.org/",
+    "state_note": "Colorado's Labor Peace Act is one of a kind: a union can require dues only if 75% of workers vote for it.",
+    "sources": [
+      "https://cdle.colorado.gov/labor-relations/unions",
+      "https://cdle.colorado.gov/",
+      "https://staging.leg.colorado.gov/bill_files/97946/download",
+      "https://www.nea.org/legal-landscape-public-sector-strikes"
+    ]
+  },
+  "Connecticut": {
+    "state": "Connecticut",
+    "right_to_work": "no",
+    "right_to_work_note": "Connecticut has no right-to-work law, so a union contract may require workers to pay dues or fees for representation.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "State law gives state, city, and public school employees the right to bargain over pay, hours, and working conditions.",
+    "public_strike": "no",
+    "public_strike_note": "Connecticut law bans strikes by public employees, and courts can order workers back to work.",
+    "agency_name": "Connecticut State Board of Labor Relations",
+    "agency_url": "https://portal.ct.gov/dol/divisions/state-board-of-labor-relations",
+    "legal_aid_name": "Connecticut Legal Services",
+    "legal_aid_url": "https://ctlegal.org/",
+    "state_note": "Connecticut bans public-sector strikes, and its labor board hears complaints and can enforce the ban in court.",
+    "sources": [
+      "https://portal.ct.gov/dol/divisions/state-board-of-labor-relations",
+      "https://portal.ct.gov/dol/knowledge-base/articles/state-board-of-labor-relations/general-information",
+      "https://www.epi.org/chart/labor-day-paper-2020-map-states-with-comprehensive-public-sector-collective-bargaining-laws/",
+      "https://www.nea.org/legal-landscape-public-sector-strikes"
+    ]
+  },
+  "Delaware": {
+    "state": "Delaware",
+    "right_to_work": "no",
+    "right_to_work_note": "Delaware has no right-to-work law, so a union contract may require workers to pay dues or fees for representation.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "State law gives public employees, including public school teachers, the right to bargain over pay, hours, and working conditions.",
+    "public_strike": "no",
+    "public_strike_note": "Delaware law bans strikes by public employees.",
+    "agency_name": "Delaware Department of Labor",
+    "agency_url": "https://labor.delaware.gov/",
+    "legal_aid_name": "Community Legal Aid Society, Inc.",
+    "legal_aid_url": "https://www.declasi.org",
+    "state_note": "Delaware public employees can bargain collectively, but public-sector strikes are illegal.",
+    "sources": [
+      "https://labor.delaware.gov/",
+      "https://www.epi.org/chart/labor-day-paper-2020-map-states-with-comprehensive-public-sector-collective-bargaining-laws/",
+      "https://www.nea.org/legal-landscape-public-sector-strikes"
+    ]
+  },
+  "Florida": {
+    "state": "Florida",
+    "right_to_work": "yes",
+    "right_to_work_note": "Right-to-work is in Florida's constitution, so no worker can be forced to join a union or pay dues to keep a job.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Florida's constitution guarantees public employees the right to bargain over pay, hours, and working conditions.",
+    "public_strike": "no",
+    "public_strike_note": "Florida's constitution guarantees bargaining but expressly bans strikes by public employees.",
+    "agency_name": "Florida Public Employees Relations Commission",
+    "agency_url": "https://perc.myflorida.com/",
+    "legal_aid_name": "Florida Legal Services",
+    "legal_aid_url": "https://floridalegal.org",
+    "state_note": "A 2023 Florida law requires public-sector unions to keep at least 60% of workers as dues-paying members or risk losing their certification, and it ended most public-employer dues deductions.",
+    "sources": [
+      "https://perc.myflorida.com/",
+      "https://www.ncsl.org/state-legislatures-news/details/some-states-strengthened-others-limited-collective-bargaining-in-2023",
+      "https://www.epi.org/chart/labor-day-paper-2020-map-states-with-comprehensive-public-sector-collective-bargaining-laws/",
+      "https://www.nea.org/legal-landscape-public-sector-strikes"
+    ]
+  },
+  "Georgia": {
+    "state": "Georgia",
+    "right_to_work": "yes",
+    "right_to_work_note": "Georgia law says no worker can be forced to join a union or pay dues to keep a job.",
+    "public_bargaining": "no",
+    "public_bargaining_note": "Georgia law bans collective bargaining for public employees, except firefighters, and teachers are specifically barred from bargaining.",
+    "public_strike": "no",
+    "public_strike_note": "Public employee strikes are illegal in Georgia.",
+    "agency_name": "Georgia Department of Labor",
+    "agency_url": "https://dol.georgia.gov/",
+    "legal_aid_name": "Georgia Legal Services Program",
+    "legal_aid_url": "https://www.glsp.org/",
+    "state_note": "Georgia is one of the few states that bans public-sector collective bargaining outright — only firefighters are allowed to bargain.",
+    "sources": [
+      "https://dol.georgia.gov/",
+      "https://www.epi.org/chart/labor-day-paper-2020-map-states-with-comprehensive-public-sector-collective-bargaining-laws/",
+      "https://www.nea.org/legal-landscape-public-sector-strikes"
+    ]
+  },
+  "Hawaii": {
+    "right_to_work": "no",
+    "right_to_work_note": "Hawaii has no right-to-work law, so a union contract may require workers to join the union or pay fees as a condition of keeping the job.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Public employees have a constitutional right to organize and bargain collectively over pay, hours, and working conditions under Hawaii law.",
+    "public_strike": "limited",
+    "public_strike_note": "Public employees may strike only after impasse steps are finished, the contract has expired, and 10 days' notice is given, and never if the dispute was sent to arbitration.",
+    "agency_name": "Hawaii Labor Relations Board",
+    "agency_url": "https://labor.hawaii.gov/hlrb/",
+    "legal_aid_name": "Legal Aid Society of Hawaii",
+    "legal_aid_url": "https://www.legalaidhawaii.org/",
+    "state_note": "Hawaii's constitution itself protects public employees' right to organize for collective bargaining, so the legislature cannot take that right away entirely.",
+    "sources": [
+      "https://labor.hawaii.gov/hlrb/",
+      "https://www.legalaidhawaii.org/",
+      "https://instalawyer.io/laws/hawaii-revised-statutes/89-12-strikes-rights-and-prohibitions",
+      "https://www.endrtw.org/states",
+      "https://thelibertytribune.com/trackers/right-to-work-by-state/"
+    ]
+  },
+  "Idaho": {
+    "right_to_work": "yes",
+    "right_to_work_note": "Idaho has been a right-to-work state since 1985, so no worker can be forced to join a union or pay union dues to keep a job.",
+    "public_bargaining": "limited",
+    "public_bargaining_note": "Idaho has no broad public-sector bargaining law; only firefighters and public school professional employees have express bargaining rights in state law.",
+    "public_strike": "no",
+    "public_strike_note": "Public employees have no legal right to strike in Idaho, and firefighters are barred from striking while a contract is in effect.",
+    "agency_name": "Idaho Department of Labor",
+    "agency_url": "https://www.labor.idaho.gov/",
+    "legal_aid_name": "Idaho Legal Aid Services",
+    "legal_aid_url": "https://idaholegalaid.org/",
+    "state_note": "Since 2012, teacher unions in Idaho may bargain only over salaries and benefits, and only if the union can show at least half of the district's teachers are members.",
+    "sources": [
+      "https://www.labor.idaho.gov/",
+      "https://idaholegalaid.org/",
+      "http://business.idaho.gov/employer-issues/union-members/",
+      "https://ag.idaho.gov/content/uploads/2018/04/g122289.pdf",
+      "https://legislature.idaho.gov/statutesrules/idstat/Title44/T44CH18/SECT44-1811",
+      "https://www.nea.org/legal-landscape-public-sector-strikes",
+      "https://www.epi.org/publication/the-impact-of-changes-in-public-sector-bargaining-laws-on-districts-spending-on-teacher-compensation/"
+    ]
+  },
+  "Illinois": {
+    "right_to_work": "no",
+    "right_to_work_note": "Illinois has no right-to-work law, and voters added a 2022 constitutional amendment that bans any future right-to-work law in the state.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Most public employees in Illinois have a broad right to form unions and bargain over pay, hours, and working conditions.",
+    "public_strike": "limited",
+    "public_strike_note": "Most public employees may strike after mediation, an expired contract, and 5 days' notice, but police, firefighters, paramedics, and security employees may not strike at all.",
+    "agency_name": "Illinois Labor Relations Board",
+    "agency_url": "https://ilrb.illinois.gov/",
+    "legal_aid_name": "Prairie State Legal Services",
+    "legal_aid_url": "https://www.pslegal.org/",
+    "state_note": "Illinois was the first state to put a ban on right-to-work laws in its constitution, through the Workers' Rights Amendment approved by voters in November 2022.",
+    "sources": [
+      "https://ilrb.illinois.gov/",
+      "https://www.pslegal.org/",
+      "https://my.ilga.gov/legislation/ilcs/fulltext?DocName=000503150K17",
+      "https://law.justia.com/codes/illinois/chapter-5/act-5-ilcs-315/",
+      "https://www.findlaw.com/state/illinois-law/illinois-right-to-work-laws.html",
+      "https://www.legal500.com/intelligence/united-states/employment-and-hr/labor-friendly-workers%27-rights-amendment-passes-in-illinois"
+    ]
+  },
+  "Indiana": {
+    "right_to_work": "yes",
+    "right_to_work_note": "Indiana has been a right-to-work state since 2012, so no worker can be forced to join a union or pay union dues to keep a job.",
+    "public_bargaining": "limited",
+    "public_bargaining_note": "State employees may not bargain collectively at all under Indiana law, and public school teachers may bargain only over salary and wage-related benefits.",
+    "public_strike": "no",
+    "public_strike_note": "Strikes by public employees are illegal in Indiana, including strikes by teachers and state employees.",
+    "agency_name": "Indiana Department of Labor",
+    "agency_url": "https://www.in.gov/dol/",
+    "legal_aid_name": "Indiana Legal Services",
+    "legal_aid_url": "https://www.indianalegalservices.org/",
+    "state_note": "Indiana law states plainly that collective bargaining between the state and employee organizations, and strikes by state employees, are illegal.",
+    "sources": [
+      "https://www.in.gov/dol/",
+      "https://www.indianalegalservices.org/",
+      "https://www.in.gov/dol/right-to-work/",
+      "https://law.justia.com/codes/indiana/title-4/article-15/chapter-17/section-4-15-17-4/",
+      "http://law.justia.com/codes/indiana/2021/title-20/article-29/chapter-9/section-20-29-9-1/",
+      "https://www.edweek.org/teaching-learning/daniels-signs-collective-bargaining-restrictions-into-law/2011/04"
+    ]
+  },
+  "Iowa": {
+    "right_to_work": "yes",
+    "right_to_work_note": "Iowa is a right-to-work state, so no worker can be forced to join a union or pay union dues to keep a job.",
+    "public_bargaining": "limited",
+    "public_bargaining_note": "Public employees may bargain, but since 2017 most units may bargain only over base pay, while units made up mostly of police and firefighters keep broader bargaining rights.",
+    "public_strike": "no",
+    "public_strike_note": "It is unlawful for any public employee or union in Iowa to take part in a strike against a public employer.",
+    "agency_name": "Iowa Employment Appeal Board",
+    "agency_url": "https://iowaperb.iowa.gov/",
+    "legal_aid_name": "Iowa Legal Aid",
+    "legal_aid_url": "https://www.iowalegalaid.org/",
+    "state_note": "A 2017 Iowa law narrowed public-sector bargaining to base pay for most workers and requires a union to win a vote of a majority of all workers in the unit, not just those who vote, to stay certified.",
+    "sources": [
+      "https://iowaperb.iowa.gov/",
+      "https://www.iowalegalaid.org/",
+      "https://www.legis.iowa.gov/docs/code/20.1.pdf",
+      "https://www.legis.iowa.gov/docs/code/2021/20.12.pdf",
+      "https://www.legis.iowa.gov/docs/publications/LGR/87/attachments/HF291.html",
+      "https://www.endrtw.org/states"
+    ]
+  },
+  "Kansas": {
+    "right_to_work": "yes",
+    "right_to_work_note": "Kansas is a right-to-work state, and the protection is written into the state constitution, so no worker can be denied a job for joining or refusing to join a union.",
+    "public_bargaining": "limited",
+    "public_bargaining_note": "Public employees may organize and negotiate, but local governments are covered only if they vote to join the state's bargaining law, so coverage is not automatic everywhere.",
+    "public_strike": "no",
+    "public_strike_note": "It is a prohibited practice for public employees or their unions to engage in a strike in Kansas.",
+    "agency_name": "Kansas Department of Labor, Labor Relations Division (Public Employee Relations Board)",
+    "agency_url": "https://www.dol.ks.gov/",
+    "legal_aid_name": "Kansas Legal Services",
+    "legal_aid_url": "https://www.kansaslegalservices.org/",
+    "state_note": "Kansas put right-to-work in its constitution in 1958, so changing it would take another statewide vote, not just a new law.",
+    "sources": [
+      "http://www.dol.ks.gov/labor-relations/overview",
+      "https://www.kansaslegalservices.org/",
+      "https://sos.ks.gov/publications/kansas-constitution/kansas-constitution-article-15.html",
+      "https://www.nrtw.org/es/right-to-work-states-kansas/",
+      "https://law.justia.com/codes/kansas/2020/chapter-75/article-43/section-75-4333/",
+      "https://labordecisions.dol.ks.gov/PEERADocumentSearch"
+    ]
+  },
+  "Kentucky": {
+    "right_to_work": "yes",
+    "right_to_work_note": "Kentucky has been a right-to-work state since January 2017, so no worker can be forced to join a union or pay union dues to keep a job.",
+    "public_bargaining": "limited",
+    "public_bargaining_note": "Public employees may join together and choose representatives to speak for them, but Kentucky has no general law requiring public employers to bargain, except for some police and fire groups in certain cities.",
+    "public_strike": "no",
+    "public_strike_note": "No public employee in Kentucky may take part in a strike or work stoppage.",
+    "agency_name": "Kentucky Education and Labor Cabinet",
+    "agency_url": "https://elc.ky.gov/",
+    "legal_aid_name": "Legal Aid of the Bluegrass",
+    "legal_aid_url": "https://lablaw.org/",
+    "state_note": "Kentucky became the 27th right-to-work state in January 2017, and its Supreme Court upheld the law in 2018.",
+    "sources": [
+      "https://elc.ky.gov/",
+      "https://lablaw.org/",
+      "https://apps.legislature.ky.gov/LAW/STATUTES/statute.aspx?id=52423",
+      "https://www.fisherphillips.com/en/insights/insights/kentucky-s-right-to-work-law-upheld-by-state-supreme-court",
+      "https://www.endrtw.org/states"
+    ]
+  },
+  "Louisiana": {
+    "right_to_work": "yes",
+    "right_to_work_note": "Louisiana is a right-to-work state, so no worker can be forced to join a union or pay union dues to keep a job.",
+    "public_bargaining": "limited",
+    "public_bargaining_note": "Louisiana has no statewide law that requires or forbids public-sector bargaining, so whether public workers can bargain depends on their local government.",
+    "public_strike": "no",
+    "public_strike_note": "No Louisiana law gives public employees a right to strike, and Louisiana courts have held that public employees have no right to strike without such a law.",
+    "agency_name": "Louisiana Works (Louisiana Workforce Commission)",
+    "agency_url": "https://www.laworks.net/",
+    "legal_aid_name": "Southeast Louisiana Legal Services",
+    "legal_aid_url": "https://slls.org/",
+    "state_note": "Louisiana has no statewide public-sector bargaining law at all, so a city or parish government decides for itself whether to bargain with its workers.",
+    "sources": [
+      "https://www.laworks.net/",
+      "https://www.findlaw.com/state/louisiana-law/louisiana-right-to-work-laws.html",
+      "https://employment.uslegal.com/labor-unions-and-strikes/state-provisions-regarding-labor-unions-and-strikes/?amp",
+      "https://static.case.law/so2d/369/case-pdfs/0188-01.pdf",
+      "https://www.endrtw.org/states"
+    ]
+  },
+  "Maine": {
+    "right_to_work": "no",
+    "right_to_work_note": "Maine has no right-to-work law, so a union contract may require workers to join the union or pay fees as a condition of keeping the job.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Most public employees in Maine have the right to form or join a union and bargain collectively over pay and working conditions.",
+    "public_strike": "no",
+    "public_strike_note": "Public employees covered by Maine's bargaining laws are prohibited from striking, slowing down, or stopping work.",
+    "agency_name": "Maine Labor Relations Board",
+    "agency_url": "https://www.maine.gov/mlrb/",
+    "legal_aid_name": "Pine Tree Legal Assistance",
+    "legal_aid_url": "https://www.ptla.org/",
+    "state_note": "A Maine union that strikes can lose its right to represent workers and its right to collect dues from paychecks.",
+    "sources": [
+      "https://www.maine.gov/mlrb/",
+      "https://www.maine.gov/mlrb/resources/faq",
+      "https://www.ptla.org/pine-tree-services",
+      "http://lldc.mainelegislature.org/Open/LDs/109/109-LD-0713.pdf",
+      "https://www.endrtw.org/states"
+    ]
+  },
+  "Maryland": {
+    "right_to_work": "no",
+    "right_to_work_note": "Maryland has no right-to-work law, so a union contract may require workers to join the union or pay fees as a condition of keeping the job.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Most state, public school, and higher-education employees in Maryland have the right to bargain collectively over pay, hours, and working conditions.",
+    "public_strike": "no",
+    "public_strike_note": "Public employees in Maryland are prohibited from engaging in a strike.",
+    "agency_name": "Maryland Public Employee Relations Board",
+    "agency_url": "https://laborboards.maryland.gov/",
+    "legal_aid_name": "Maryland Legal Aid",
+    "legal_aid_url": "https://www.mdlab.org/",
+    "state_note": "In July 2023 Maryland replaced its three separate labor boards with a single Public Employee Relations Board covering state, school, and higher-education workers.",
+    "sources": [
+      "https://laborboards.maryland.gov/",
+      "https://www.mdlab.org/get-help-services/",
+      "https://law.justia.com/codes/maryland/state-government/title-22/subtitle-2/section-22-205/",
+      "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/hb0984?ys=2023RS",
+      "https://governor.maryland.gov/news/press-releases/governor-moore-announces-public-employee-relations-board-appointments",
+      "https://www.endrtw.org/states"
+    ]
+  },
+  "Massachusetts": {
+    "right_to_work": "no",
+    "right_to_work_note": "Massachusetts has no right-to-work law, so a union contract can require workers in a union job to pay dues or fees.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Most state, county, and city workers can form a union and bargain over pay, hours, and working conditions under Chapter 150E.",
+    "public_strike": "no",
+    "public_strike_note": "Massachusetts law bars public employees from striking, so contract disputes go to mediation, fact-finding, or arbitration instead.",
+    "agency_name": "Massachusetts Department of Labor Relations",
+    "agency_url": "https://www.mass.gov/orgs/department-of-labor-relations",
+    "legal_aid_name": "Greater Boston Legal Services",
+    "legal_aid_url": "https://www.gbls.org/get-legal-help/our-services/workers-rights",
+    "state_note": "In 2023 lawmakers filed a bill to let some public workers strike after long contract talks, but it did not pass, so the strike ban still stands.",
+    "sources": [
+      "https://www.mass.gov/info-details/evolution-of-public-employee-collective-bargaining-and-faqs",
+      "https://www.findlaw.com/employment/wages-and-benefits/what-are-right-to-work-laws.html",
+      "https://www.mass.gov/orgs/department-of-labor-relations"
+    ]
+  },
+  "Michigan": {
+    "right_to_work": "no",
+    "right_to_work_note": "Michigan repealed its right-to-work law in 2023, and the repeal took effect in March 2024, so union contracts can again require dues or fees.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Michigan public workers can unionize and bargain under the Public Employment Relations Act, which requires employers to bargain in good faith.",
+    "public_strike": "no",
+    "public_strike_note": "Michigan law says a public employee shall not strike, and courts can order striking workers back to work.",
+    "agency_name": "Michigan Employment Relations Commission",
+    "agency_url": "https://www.michigan.gov/leo/bureaus-agencies/ber/michigan-employment-relations-commission",
+    "legal_aid_name": "Michigan Legal Help",
+    "legal_aid_url": "https://michiganlegalhelp.org/resources/employment/workplace-discrimination",
+    "state_note": "Michigan was the first state in nearly 60 years to repeal a right-to-work law, but public workers still cannot be forced to pay union fees because of a Supreme Court decision called Janus.",
+    "sources": [
+      "https://www.legislature.mi.gov/documents/2023-2024/billanalysis/house/pdf/2023-HLA-0034-03FFBB67.pdf",
+      "https://www.shrm.org/topics-tools/employment-law-compliance/michigan-governor-signs-legislation-repealing-right-to-work-law",
+      "https://www.poam.net/app/uploads/2008/10/181-pera_mcl_act_336_of_1947.pdf",
+      "https://www.mackinac.org/7922"
+    ]
+  },
+  "Minnesota": {
+    "right_to_work": "no",
+    "right_to_work_note": "Minnesota has no right-to-work law, so union contracts can require workers to pay dues or fees.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Minnesota public workers can unionize and bargain under the Public Employment Labor Relations Act, which covers state, county, city, and school workers.",
+    "public_strike": "limited",
+    "public_strike_note": "Public workers who are not essential can strike after their contract ends and mediation steps are done, but essential workers such as police and prison guards cannot strike.",
+    "agency_name": "Minnesota Bureau of Mediation Services",
+    "agency_url": "https://mn.gov/bms/",
+    "legal_aid_name": "LawHelpMN",
+    "legal_aid_url": "https://www.lawhelpmn.org/",
+    "state_note": "Minnesota is one of the few states where some public workers can legally strike, but only workers who are not essential and only after mediation steps are finished.",
+    "sources": [
+      "https://www.house.mn.gov/hrd/issinfo/gvst_colbg.aspx?src=14",
+      "https://www.findlaw.com/employment/wages-and-benefits/what-are-right-to-work-laws.html",
+      "https://mn.gov/bms/about/index.jsp"
+    ]
+  },
+  "Mississippi": {
+    "right_to_work": "yes",
+    "right_to_work_note": "Mississippi's constitution and state law say no worker can be required to join a union or pay union dues to keep a job.",
+    "public_bargaining": "no",
+    "public_bargaining_note": "Mississippi has no law giving public workers the right to bargain, so state and local workers cannot negotiate a binding union contract.",
+    "public_strike": "no",
+    "public_strike_note": "Public workers in Mississippi are barred from striking.",
+    "agency_name": "National Labor Relations Board (NLRB)",
+    "agency_url": "https://www.nlrb.gov/about-nlrb/who-we-are/regional-offices/region-15-new-orleans?page=0%2C248",
+    "legal_aid_name": "Mississippi Center for Legal Services",
+    "legal_aid_url": "https://www.mscenterforlegalservices.org",
+    "state_note": "Mississippi is one of the few states with no public-sector bargaining law at all, and it has no state labor-relations board, so private-sector union complaints go to the federal labor board.",
+    "sources": [
+      "https://cwa-union.org/news/entry/organizing_spotlight_mississippi_workers_wield_mase_in_right-to-work_territ",
+      "https://ceafu.org/2021/05/ceafu-state-public-sector-bargaining-laws-research-cited-by-institute/",
+      "https://www.nlrb.gov/about-nlrb/who-we-are/regional-offices/region-15-new-orleans?page=0%2C248"
+    ]
+  },
+  "Missouri": {
+    "right_to_work": "no",
+    "right_to_work_note": "Missouri voters rejected a right-to-work law in 2018, so union contracts can still require dues or fees.",
+    "public_bargaining": "limited",
+    "public_bargaining_note": "Missouri's constitution gives public workers the right to bargain, but the employer can reject parts of a deal and there is no binding arbitration.",
+    "public_strike": "no",
+    "public_strike_note": "Missouri law gives public workers no right to strike, and union contracts must say that striking can mean immediate firing.",
+    "agency_name": "Missouri State Board of Mediation",
+    "agency_url": "https://labor.mo.gov/sbm",
+    "legal_aid_name": "Legal Services of Eastern Missouri",
+    "legal_aid_url": "https://lsem.org",
+    "state_note": "Missouri voters rejected right-to-work by about two to one in August 2018, before the law ever took effect.",
+    "sources": [
+      "https://hrdailyadvisor.hci.org/2018/08/08/missourians-vote-reject-right-work-law/",
+      "https://law.justia.com/constitution/missouri/article-i/section-29/",
+      "https://ogletree.com/insights-resources/blog-posts/missouri-revolutionizes-public-sector-labor-law-part-two-collective-bargaining/",
+      "https://labor.mo.gov/sbm"
+    ]
+  },
+  "Montana": {
+    "right_to_work": "no",
+    "right_to_work_note": "Montana has no right-to-work law, so union contracts can require workers to pay dues or fees.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Montana public workers can form unions and bargain over pay, hours, and working conditions under the Public Employees Collective Bargaining Act.",
+    "public_strike": "limited",
+    "public_strike_note": "Montana courts have read the bargaining law to allow public-worker strikes because no statute bans them, but police officers are barred from striking and use binding arbitration instead.",
+    "agency_name": "Montana Board of Personnel Appeals",
+    "agency_url": "https://erd.dli.mt.gov/labor-standards/collective-bargaining/board-of-personnel-appeals/",
+    "legal_aid_name": "Montana Legal Services Association",
+    "legal_aid_url": "https://mtlsa.org",
+    "state_note": "Montana is unusual because its Supreme Court ruled in 1974 that public workers may strike, since the law protects concerted activities and bans strikes only for police.",
+    "sources": [
+      "https://doa.mt.gov/SHRD/labor-relations/faq",
+      "https://www.findlaw.com/state/montana-law/montana-right-to-work-laws.html",
+      "https://cases.justia.com/montana/supreme-court/1974-12-09-6871B40A-4A40-4195-AD70-44EFBC32479E.pdf?ts=1462385618",
+      "https://erd.dli.mt.gov/labor-standards/collective-bargaining/board-of-personnel-appeals/"
+    ]
+  },
+  "Nebraska": {
+    "right_to_work": "yes",
+    "right_to_work_note": "Nebraska's constitution bans requiring workers to join a union or pay dues to keep a job.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Nebraska public workers can form unions and bargain under the State Employees Collective Bargaining Act and the Industrial Relations Act.",
+    "public_strike": "no",
+    "public_strike_note": "Nebraska law says no one may stop government services by striking, and public workers have no right to strike.",
+    "agency_name": "Nebraska Commission of Industrial Relations",
+    "agency_url": "https://ncir.nebraska.gov/",
+    "legal_aid_name": "Legal Aid of Nebraska",
+    "legal_aid_url": "https://legalaidofnebraska.org/",
+    "state_note": "Nebraska settles public-sector pay disputes through its Commission of Industrial Relations, which can set wages instead of letting workers strike.",
+    "sources": [
+      "https://www.endrtw.org/states",
+      "https://law.justia.com/codes/nebraska/2021/chapter-48/statute-48-837/",
+      "https://nebraskalegislature.gov/laws/statutes.php?statute=48-802&print=true",
+      "https://ncir.nebraska.gov/content/who-we-are"
+    ]
+  },
+  "Nevada": {
+    "right_to_work": "yes",
+    "right_to_work_note": "Nevada law bars contracts that require workers to join a union or pay dues to keep a job.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Nevada local government workers have long had bargaining rights, and a 2019 law extended them to state workers.",
+    "public_strike": "no",
+    "public_strike_note": "Nevada law declares strikes by state and local government workers illegal.",
+    "agency_name": "Government Employee-Management Relations Board (EMRB)",
+    "agency_url": "https://emrb.nv.gov",
+    "legal_aid_name": "Nevada Legal Services",
+    "legal_aid_url": "https://nevadalegalservices.org",
+    "state_note": "Nevada gave state workers the right to bargain only in 2019, and in 2023 a court ruled a coordinated teacher sick-out an illegal strike.",
+    "sources": [
+      "https://law.justia.com/codes/nevada/chapter-613/",
+      "https://www.leg.state.nv.us/Division/Research/Publications/ResearchBriefs/CollectiveBargaining.pdf",
+      "https://archive.leg.state.nv.us/Session/80th2019/Minutes/Senate/GA/Final/804.pdf",
+      "https://emrb.nv.gov/About/What_We_Do/"
+    ]
+  },
+  "New Hampshire": {
+    "right_to_work": "no",
+    "right_to_work_note": "New Hampshire has no right-to-work law, and the latest attempt to pass one was killed by the House in February 2025.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "New Hampshire public workers can organize and bargain under RSA 273-A, which covers state, county, city, school, and university workers.",
+    "public_strike": "no",
+    "public_strike_note": "New Hampshire law says strikes and other job actions by public workers are unlawful.",
+    "agency_name": "New Hampshire Public Employee Labor Relations Board",
+    "agency_url": "https://www.nh.gov/pelrb",
+    "legal_aid_name": "New Hampshire Legal Assistance",
+    "legal_aid_url": "https://www.nhla.org",
+    "state_note": "New Hampshire lawmakers have voted down right-to-work bills repeatedly, most recently in February 2025, even though the governor at the time favored one.",
+    "sources": [
+      "https://catherwood.library.cornell.edu/wit/right-to-work-bill-killed-by-republican-controlled-new-hampshire-house/",
+      "http://www.gencourt.state.nh.us/rsa/html/XXIII/273-A/273-A-mrg.htm",
+      "https://law.justia.com/codes/new-hampshire/2022/title-xxiii/title-273-a/section-273-a-13/",
+      "https://gc.nh.gov/LBA/Budget/Senate_Finance/4-20-21/PELRB_Handout_Senate_Finance.pdf"
+    ]
+  },
+  "New Jersey": {
+    "right_to_work": "no",
+    "right_to_work_note": "New Jersey has no right-to-work law, so union contracts can require workers to pay dues or fees.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "New Jersey public workers can bargain under the Employer-Employee Relations Act, with the Public Employment Relations Commission handling disputes.",
+    "public_strike": "no",
+    "public_strike_note": "New Jersey has no statute giving public workers a right to strike, and its courts have ruled walkouts unlawful and can order workers back.",
+    "agency_name": "New Jersey Public Employment Relations Commission",
+    "agency_url": "https://www.nj.gov/perc/",
+    "legal_aid_name": "Legal Services of New Jersey",
+    "legal_aid_url": "https://lsnj.org",
+    "state_note": "New Jersey's constitution gives public workers the right to organize and present grievances, but it does not grant a right to strike, so courts treat public-worker strikes as unlawful.",
+    "sources": [
+      "https://www.nj.gov/perc/",
+      "http://rutgers-ptlfc.org/frequently-asked-questions-about-strikes-by-public-workers-in-new-jersey/",
+      "https://law.justia.com/cases/new-jersey/appellate-division-published/1987/222-n-j-super-298-0.html",
+      "https://www.findlaw.com/employment/wages-and-benefits/what-are-right-to-work-laws.html"
+    ]
+  },
+  "New Mexico": {
+    "right_to_work": "no",
+    "right_to_work_note": "New Mexico has no statewide right-to-work law, so a union contract can require workers to pay union dues or fees as a condition of keeping a job.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Public employees have the right to join a union and bargain collectively under the Public Employee Bargaining Act, except for managers and confidential employees.",
+    "public_strike": "no",
+    "public_strike_note": "Public employees and their unions may not strike, and an employer may ask a court to order an end to a strike.",
+    "agency_name": "New Mexico Public Employee Labor Relations Board",
+    "agency_url": "https://www.pelrb.nm.gov/",
+    "legal_aid_name": "New Mexico Legal Aid",
+    "legal_aid_url": "https://newmexicolegalaid.org/",
+    "state_note": "In 2019 the state banned local right-to-work ordinances, so no county or city in New Mexico can adopt one.",
+    "sources": [
+      "https://www.NMLegis.gov/sessions/03%20Regular/FinalVersions/SB0046.htm",
+      "https://getpocketlaw.com/law/state_new_mexico/section-10-7e-21-strikes-and-lockouts-prohibited_a835115ed378",
+      "https://www.pelrb.nm.gov/",
+      "https://agendasuite.org/iip/otero/file/getfile/17702"
+    ]
+  },
+  "New York": {
+    "right_to_work": "no",
+    "right_to_work_note": "New York has no right-to-work law, so union contracts can require workers to pay union dues or fees as a condition of employment.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Public employees have the right to organize and bargain collectively with their employer under the Taylor Law.",
+    "public_strike": "no",
+    "public_strike_note": "Public employees may not strike under the Taylor Law, and a worker who strikes can lose two days of pay for each day on strike.",
+    "agency_name": "New York State Public Employment Relations Board",
+    "agency_url": "https://perb.ny.gov/",
+    "legal_aid_name": "Empire Justice Center",
+    "legal_aid_url": "https://empirejustice.org",
+    "state_note": "The Taylor Law, in effect since 1967, gives public workers bargaining rights but bans public strikes, with binding arbitration instead for police and firefighters.",
+    "sources": [
+      "https://oer.ny.gov/new-york-state-public-employees-fair-employment-act-taylor-law",
+      "https://perb.ny.gov/",
+      "https://communicator.pef.org/issue/volume-43-no-3/new-yorks-58-year-old-taylor-law-protects-public-sector-unions/"
+    ]
+  },
+  "North Carolina": {
+    "right_to_work": "yes",
+    "right_to_work_note": "North Carolina has had a right-to-work law since 1947, so no worker can be required to join a union or pay union dues to get or keep a job.",
+    "public_bargaining": "no",
+    "public_bargaining_note": "State law declares any contract between a government body and a union acting as bargaining agent for public employees illegal and void.",
+    "public_strike": "no",
+    "public_strike_note": "Strikes by public employees are illegal under state law, and taking part in one is a Class 1 misdemeanor.",
+    "agency_name": "North Carolina Department of Labor",
+    "agency_url": "https://www.labor.nc.gov/",
+    "legal_aid_name": "Legal Aid of North Carolina",
+    "legal_aid_url": "https://legalaidnc.org/",
+    "state_note": "North Carolina is one of only two states, along with South Carolina, where the law flatly declares public-sector collective bargaining contracts illegal.",
+    "sources": [
+      "https://NCLeg.gov/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_95/Article_12.html",
+      "https://www.ncleg.net/EnactedLegislation/Statutes/PDF/BySection/Chapter_95/GS_95-98.pdf",
+      "https://www.labor.nc.gov/"
+    ]
+  },
+  "North Dakota": {
+    "right_to_work": "yes",
+    "right_to_work_note": "North Dakota has had a right-to-work law since 1947, so no worker can be required to join a union or pay union dues to get or keep a job.",
+    "public_bargaining": "limited",
+    "public_bargaining_note": "North Dakota has no general law giving public employees bargaining rights, but public school teachers can negotiate with their school board under a separate teacher law.",
+    "public_strike": "no",
+    "public_strike_note": "Public employees have no legal right to strike, and the teacher law expressly bars teachers and school administrators from striking.",
+    "agency_name": "North Dakota Department of Labor and Human Rights",
+    "agency_url": "https://www.nd.gov/labor",
+    "legal_aid_name": "Legal Services of North Dakota",
+    "legal_aid_url": "https://lsnd.org",
+    "state_note": "North Dakota's main labor relations law does not cover government employers, so most public workers have no statewide bargaining process at all.",
+    "sources": [
+      "https://law.justia.com/codes/north-dakota/2021/title-34/chapter-34-12/",
+      "https://statecodesfiles.justia.com/north-dakota/2025/title-15-1/chapter-15-1-16/chapter-15-1-16.pdf?ts=1767894808",
+      "https://attorneygeneral.nd.gov/wp-content/uploads/2023/04/49-99.pdf",
+      "https://www.nd.gov/labor"
+    ]
+  },
+  "Ohio": {
+    "right_to_work": "no",
+    "right_to_work_note": "Ohio has no right-to-work law, so union contracts can require workers to pay union dues or fees as a condition of employment.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Public employees have the right to join a union and bargain collectively over pay, hours, and working conditions under state law.",
+    "public_strike": "limited",
+    "public_strike_note": "Most public employees may strike only after finishing the required impasse steps and only when no contract is in effect, while police, firefighters, and other safety workers may never strike.",
+    "agency_name": "Ohio State Employment Relations Board",
+    "agency_url": "https://serb.ohio.gov/",
+    "legal_aid_name": "Legal Aid of Southeast and Central Ohio",
+    "legal_aid_url": "https://www.lasco.org",
+    "state_note": "Ohio is one of the few states where public employees may legally strike at all, but only after impasse procedures and never during a contract term.",
+    "sources": [
+      "https://codes.ohio.gov/ohio-revised-code/section-4117.03",
+      "https://codes.ohio.gov/ohio-revised-code/section-4117.15/10-3-2023",
+      "https://serb.ohio.gov/"
+    ]
+  },
+  "Oklahoma": {
+    "right_to_work": "yes",
+    "right_to_work_note": "Oklahoma's right-to-work rule has been in the state constitution since 2001, so no worker can be required to join a union or pay union dues to get or keep a job.",
+    "public_bargaining": "limited",
+    "public_bargaining_note": "Only some public workers can bargain collectively, such as city employees, police and firefighters, and teachers, while most state employees have no bargaining rights.",
+    "public_strike": "no",
+    "public_strike_note": "Strikes by public employees are unlawful, including strikes by city workers, police, and firefighters.",
+    "agency_name": "Oklahoma Department of Labor",
+    "agency_url": "https://oklahoma.gov/labor.html",
+    "legal_aid_name": "Legal Aid Services of Oklahoma",
+    "legal_aid_url": "https://legalaidok.org",
+    "state_note": "Oklahoma's right-to-work protection is written into the state constitution, so it cannot be changed by an ordinary law passed by the legislature.",
+    "sources": [
+      "https://www.ok.gov/dcs/searchdocs/app/manage_documents.php?att_id=2646",
+      "https://law.justia.com/codes/oklahoma/title-11/section-11-51-102/",
+      "https://oklahoma.gov/labor.html"
+    ]
+  },
+  "Oregon": {
+    "right_to_work": "no",
+    "right_to_work_note": "Oregon has no right-to-work law, so union contracts can require workers to pay union dues or fees as a condition of employment.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Public employees have the right to join a union and bargain collectively under the Public Employee Collective Bargaining Act.",
+    "public_strike": "limited",
+    "public_strike_note": "Most public employees may strike after finishing bargaining, mediation, and a 30-day cooling-off period and giving 10 days' notice, but police, firefighters, and other safety workers may not strike.",
+    "agency_name": "Oregon Employment Relations Board",
+    "agency_url": "https://www.oregon.gov/erb/",
+    "legal_aid_name": "Oregon Law Center",
+    "legal_aid_url": "https://oregonlawcenter.org",
+    "state_note": "Oregon is one of the few states where most public employees may legally strike, as long as they first complete the required bargaining steps.",
+    "sources": [
+      "https://www.oregon.gov/ERB/pages/pecba.aspx",
+      "https://law.onecle.com/oregon/243-public-employee-rights-and-benefits/243.726.html",
+      "https://www.oregon.gov/erb/"
+    ]
+  },
+  "Pennsylvania": {
+    "right_to_work": "no",
+    "right_to_work_note": "Pennsylvania has no right-to-work law, so union contracts can require workers to pay union dues or fees as a condition of employment.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Public employees have the right to organize and bargain collectively under the Public Employe Relations Act of 1970.",
+    "public_strike": "limited",
+    "public_strike_note": "Most public employees may strike only under limited conditions after impasse procedures, while prison guards, police, firefighters, and court workers may not strike at all.",
+    "agency_name": "Pennsylvania Labor Relations Board",
+    "agency_url": "https://www.pa.gov/agencies/dli/programs-services/labor-management-relations/pennsylvania-labor-relations-board",
+    "legal_aid_name": "Pennsylvania Legal Aid Network",
+    "legal_aid_url": "https://palegalaid.net",
+    "state_note": "Pennsylvania is unusual in allowing public-sector strikes under limited conditions, while police and firefighters get binding arbitration instead of the right to strike.",
+    "sources": [
+      "https://www.legis.state.pa.us/WU01/LI/LI/US/htm/1970/0/0195..htm?10",
+      "https://www.pa.gov/agencies/dli/programs-services/labor-management-relations/pennsylvania-labor-relations-board"
+    ]
+  },
+  "Rhode Island": {
+    "right_to_work": "no",
+    "right_to_work_note": "Rhode Island has no right-to-work law, so union contracts can require workers to pay union dues or fees as a condition of employment.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "State, city and town, and public school employees have the right to join a union and bargain collectively under state law.",
+    "public_strike": "no",
+    "public_strike_note": "Public employees may bargain collectively but may not strike or stop work, and courts have ordered striking teachers back to work.",
+    "agency_name": "Rhode Island State Labor Relations Board",
+    "agency_url": "https://dlt.ri.gov/",
+    "legal_aid_name": "Rhode Island Legal Services",
+    "legal_aid_url": "https://rils.org",
+    "state_note": "A bill introduced in 2026 would give public workers, including teachers, the right to strike, but it has not passed, so strikes remain barred.",
+    "sources": [
+      "http://webserver.rilegislature.gov/Statutes/TITLE28/28-9.6/28-9.6-2.htm",
+      "https://law.justia.com/cases/rhode-island/supreme-court/1992/613-a-2d-1273.html",
+      "https://www.billtrack50.com/billdetail/1925132",
+      "https://dlt.ri.gov/"
+    ]
+  },
+  "South Carolina": {
+    "right_to_work": "yes",
+    "right_to_work_note": "South Carolina has had a right-to-work law since 1954, so no worker can be required to join a union or pay union dues to get or keep a job.",
+    "public_bargaining": "no",
+    "public_bargaining_note": "South Carolina has no law giving public employees the right to bargain collectively, and the state attorney general has said public workers have no right to demand bargaining.",
+    "public_strike": "no",
+    "public_strike_note": "Public employees have no right to strike, and there is no bargaining process a strike could support.",
+    "agency_name": "South Carolina Department of Labor, Licensing and Regulation",
+    "agency_url": "http://llr.sc.gov/index.aspx",
+    "legal_aid_name": "South Carolina Legal Services",
+    "legal_aid_url": "https://sclegal.org",
+    "state_note": "South Carolina is one of only two states, along with North Carolina, with no legal path to public-sector bargaining at all, and its courts have held that even the right-to-work law does not apply to public employment.",
+    "sources": [
+      "https://www.sccourts.org/media/opinions/HTMLFiles/SC/25131.htm",
+      "https://www.scag.gov/wp-content/uploads/2021/07/02626694.pdf",
+      "http://llr.sc.gov/index.aspx"
+    ]
+  },
+  "South Dakota": {
+    "state": "South Dakota",
+    "right_to_work": "yes",
+    "right_to_work_note": "South Dakota's right-to-work rule is written into the state constitution, so no worker can be made to join a union or pay union dues to keep a job.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "State and local public workers can form unions and bargain over pay, hours, and working conditions under the Public Employees' Unions law.",
+    "public_strike": "no",
+    "public_strike_note": "No public worker in South Dakota may strike against the state, a city or county, or a public school, and strikers face a daily civil fine.",
+    "agency_name": "South Dakota Department of Labor and Regulation",
+    "agency_url": "https://dlr.sd.gov/",
+    "legal_aid_name": "East River Legal Services",
+    "legal_aid_url": "https://erlservices.org/",
+    "state_note": "South Dakota is unusual in giving public workers full bargaining rights while also writing right-to-work into its constitution.",
+    "sources": [
+      "https://sdlegislature.gov/Statutes/60-9A",
+      "https://www.nrtw.org/right-to-work-states-south-dakota/",
+      "https://mylrc.sdlegislature.gov/api/Documents/73427.pdf",
+      "https://law.justia.com/codes/south-dakota/2021/title-3/chapter-18/section-3-18-14/"
+    ]
+  },
+  "Tennessee": {
+    "state": "Tennessee",
+    "right_to_work": "yes",
+    "right_to_work_note": "Tennessee law says no worker can be required to join a union or pay union dues as a condition of getting or keeping a job.",
+    "public_bargaining": "limited",
+    "public_bargaining_note": "Most public workers cannot bargain collectively, but teachers can use voluntary collaborative conferencing with their school board, and transit workers bargain under federal law.",
+    "public_strike": "no",
+    "public_strike_note": "Strikes by public workers are prohibited in Tennessee.",
+    "agency_name": "Tennessee Department of Labor and Workforce Development",
+    "agency_url": "https://www.tn.gov/workforce",
+    "legal_aid_name": "Legal Aid Society of Middle Tennessee and the Cumberlands",
+    "legal_aid_url": "https://las.org/",
+    "state_note": "Tennessee ended teacher collective bargaining in 2011 and replaced it with voluntary collaborative conferencing, which is not binding bargaining.",
+    "sources": [
+      "https://comptroller.tn.gov/content/dam/cot/orea/advanced-search/2012/2012_OREA_TchrCollabConf.pdf",
+      "https://www.tba.org/?pg=LawBlog&blAction=showEntry&blogEntry=9594",
+      "https://law.justia.com/codes/tennessee/2020/title-49/chapter-5/part-6/section-49-5-601/"
+    ]
+  },
+  "Texas": {
+    "state": "Texas",
+    "right_to_work": "yes",
+    "right_to_work_note": "Texas law, backed by the state constitution, says no one can be denied a job because they do or do not belong to a union.",
+    "public_bargaining": "limited",
+    "public_bargaining_note": "Texas generally bans collective bargaining for public workers, but police officers and firefighters in some cities can bargain or meet and confer under separate laws.",
+    "public_strike": "no",
+    "public_strike_note": "Public workers in Texas may not strike or take part in an organized work stoppage, and a striker loses civil service and reemployment rights.",
+    "agency_name": "Texas Workforce Commission",
+    "agency_url": "https://www.twc.texas.gov/",
+    "legal_aid_name": "Lone Star Legal Aid",
+    "legal_aid_url": "https://www.lonestarlegal.org/",
+    "state_note": "Texas bans public-sector bargaining for most government workers, though police and firefighters in some cities are the exception.",
+    "sources": [
+      "https://law.justia.com/codes/texas/government-code/title-6/subtitle-a/chapter-617/section-617-002/",
+      "https://law.justia.com/codes/texas/labor-code/title-3/chapter-101/subchapter-b/section-101-052/"
+    ]
+  },
+  "Utah": {
+    "state": "Utah",
+    "right_to_work": "yes",
+    "right_to_work_note": "Utah law says no worker can be required to join a union or pay union dues as a condition of getting or keeping a job.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Utah public workers can bargain collectively, because the 2025 law that would have banned it was repealed by the Legislature in December 2025 before it ever took effect.",
+    "public_strike": "no",
+    "public_strike_note": "Public school workers are barred from striking under Utah law, and no Utah law gives other public workers a right to strike.",
+    "agency_name": "Utah Labor Commission",
+    "agency_url": "https://laborcommission.utah.gov/",
+    "legal_aid_name": "Utah Legal Services",
+    "legal_aid_url": "https://www.utahlegalservices.org/",
+    "state_note": "Utah's 2025 ban on public-sector bargaining (HB 267) was repealed by the Legislature in December 2025 after voters collected over 250,000 signatures to put it on the ballot, so bargaining rights stand.",
+    "sources": [
+      "https://le.utah.gov/xcode/Title34/Chapter34/C34-34_1800010118000101.pdf",
+      "https://le.utah.gov/Session/2025S2/bills/introduced/HB2001.pdf",
+      "https://news.ballotpedia.org/2025/12/11/utah-state-legislature-repeals-public-sector-collective-bargaining-ban-which-was-scheduled-for-a-referendum-vote-in-2026/",
+      "https://le.utah.gov/~2001/bills/sbillint/SB0205.pdf"
+    ]
+  },
+  "Vermont": {
+    "state": "Vermont",
+    "right_to_work": "no",
+    "right_to_work_note": "Vermont has no right-to-work law, so a union contract may require workers it covers to pay fees for bargaining and representation.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "State, town, city, and school workers in Vermont can form unions and bargain over pay, hours, and working conditions.",
+    "public_strike": "limited",
+    "public_strike_note": "State workers may not strike, but town and city workers may strike after fact-finding, as long as the strike would not endanger public health, safety, or welfare.",
+    "agency_name": "Vermont Department of Labor",
+    "agency_url": "https://labor.vermont.gov/",
+    "legal_aid_name": "Vermont Legal Aid",
+    "legal_aid_url": "https://vtlegalaid.org/",
+    "state_note": "Vermont is one of the few states where some public workers can legally strike: town and city workers may strike after fact-finding, but state workers may not.",
+    "sources": [
+      "https://legislature.vermont.gov/statutes/section/03/027/00903",
+      "https://codes.findlaw.com/vt/title-21-labor/vt-st-tit-21-sect-1730/",
+      "https://taptalent.ai/glossary/right-to-work-states/"
+    ]
+  },
+  "Virginia": {
+    "state": "Virginia",
+    "right_to_work": "yes",
+    "right_to_work_note": "Virginia law says no worker can be required to join a union or pay union dues as a condition of getting or keeping a job.",
+    "public_bargaining": "limited",
+    "public_bargaining_note": "Since May 1, 2021, Virginia cities, counties, and towns may choose to let their workers bargain collectively, but they are not required to, and state workers still cannot bargain.",
+    "public_strike": "no",
+    "public_strike_note": "Public workers in Virginia still have no right to strike, and a public worker who strikes can be fired.",
+    "agency_name": "Virginia Department of Labor and Industry",
+    "agency_url": "https://doli.virginia.gov/",
+    "legal_aid_name": "Virginia Legal Aid Society",
+    "legal_aid_url": "https://www.vlas.org/",
+    "state_note": "Virginia banned public-sector bargaining for decades, then in 2021 let each city and county decide for itself whether to allow it.",
+    "sources": [
+      "https://law.lis.virginia.gov/vacode/title40.1/chapter4/section40.1-57.2/",
+      "https://www.pwcva.gov/department/board-county-supervisors/collective-bargaining",
+      "https://taptalent.ai/glossary/right-to-work-states/"
+    ]
+  },
+  "Washington": {
+    "state": "Washington",
+    "right_to_work": "no",
+    "right_to_work_note": "Washington has no right-to-work law, so a union contract may require workers it covers to pay fees for bargaining and representation.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Washington state and local public workers, including teachers, can form unions and bargain over pay, hours, and working conditions.",
+    "public_strike": "no",
+    "public_strike_note": "Washington law gives public workers no right to strike, and a court can order a public-worker strike to stop.",
+    "agency_name": "Washington State Department of Labor & Industries",
+    "agency_url": "https://www.lni.wa.gov/",
+    "legal_aid_name": "Northwest Justice Project",
+    "legal_aid_url": "https://www.nwjustice.org/",
+    "state_note": "Washington public workers can bargain freely, but the law gives them no right to strike, so teacher walkouts have no legal protection.",
+    "sources": [
+      "https://app.leg.wa.gov/rcw/default.aspx?cite=41.56.041",
+      "https://www.atg.wa.gov/ago-opinions/right-teachers-and-other-employees-strike",
+      "https://taptalent.ai/glossary/right-to-work-states/"
+    ]
+  },
+  "West Virginia": {
+    "state": "West Virginia",
+    "right_to_work": "yes",
+    "right_to_work_note": "West Virginia's 2016 Workplace Freedom Act says no worker can be required to join a union or pay union dues as a condition of getting or keeping a job.",
+    "public_bargaining": "no",
+    "public_bargaining_note": "West Virginia law gives public workers no right to bargain collectively, mediate, or arbitrate with their government employer.",
+    "public_strike": "no",
+    "public_strike_note": "Any work stoppage or strike by West Virginia public workers is unlawful, and school workers who strike lose pay for each day out.",
+    "agency_name": "West Virginia Division of Labor",
+    "agency_url": "https://labor.wv.gov/",
+    "legal_aid_name": "Legal Aid of West Virginia",
+    "legal_aid_url": "https://legalaidwv.org/",
+    "state_note": "West Virginia law states plainly that public workers have no right to bargain collectively and that any public-employee strike is unlawful.",
+    "sources": [
+      "https://code.wvlegislature.gov/pdf/18-5-45A/",
+      "https://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb2643%20intr.htm&yr=2016&sesstype=RS&i=2643"
+    ]
+  },
+  "Wisconsin": {
+    "state": "Wisconsin",
+    "right_to_work": "yes",
+    "right_to_work_note": "Wisconsin's 2015 right-to-work law says no worker can be required to join a union or pay union dues as a condition of getting or keeping a job.",
+    "public_bargaining": "limited",
+    "public_bargaining_note": "Under Act 10 from 2011, most Wisconsin public workers can bargain only over base wages, with raises capped at inflation, while police and firefighters are exempt from those limits.",
+    "public_strike": "no",
+    "public_strike_note": "Wisconsin law expressly bans strikes by municipal workers, and a court can order a strike to stop at once.",
+    "agency_name": "Wisconsin Department of Workforce Development",
+    "agency_url": "https://dwd.wisconsin.gov/",
+    "legal_aid_name": "Legal Action of Wisconsin",
+    "legal_aid_url": "https://legalaction.org/",
+    "state_note": "Under Act 10, most Wisconsin public workers can bargain only over base wages, and their unions must win a recertification vote every year.",
+    "sources": [
+      "https://docs.legis.wisconsin.gov/misc/lc/issue_briefs/2024/employment_and_labor/ib_court_decisions_2011_act_10_msk_eh_2024_12_12.pdf",
+      "https://www.wislawnow.com/2026/11/the-future-of-act-10/",
+      "https://docs.legis.wisconsin.gov/2015/related/acts/1",
+      "https://docs.legis.wisconsin.gov/document/statutes/2007/111.70(8)(a)"
+    ]
+  },
+  "Wyoming": {
+    "state": "Wyoming",
+    "right_to_work": "yes",
+    "right_to_work_note": "Wyoming has had a right-to-work law since 1963, so no worker can be required to join a union or pay union dues to keep a job.",
+    "public_bargaining": "limited",
+    "public_bargaining_note": "Firefighters are the only Wyoming public workers with a state law giving them the right to bargain collectively; there is no general bargaining law for other public workers.",
+    "public_strike": "no",
+    "public_strike_note": "Wyoming law gives public workers no right to strike.",
+    "agency_name": "Wyoming Department of Workforce Services",
+    "agency_url": "https://dws.wyo.gov/",
+    "legal_aid_name": "Legal Aid of Wyoming",
+    "legal_aid_url": "https://www.lawyoming.org/",
+    "state_note": "Wyoming is a right-to-work state, but firefighters are the only public workers with a state law giving them the right to bargain.",
+    "sources": [
+      "https://law.justia.com/codes/wyoming/2010/Title27/chapter10.html",
+      "https://taptalent.ai/glossary/right-to-work-states/",
+      "https://www.stateregstoday.com/business/labor/collective-bargaining-laws-in-wyoming"
+    ]
+  }
+}
