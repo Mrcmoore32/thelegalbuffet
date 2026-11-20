@@ -1,0 +1,192 @@
+{
+  "alabama": {
+    "rufada_status": "Alabama has adopted RUFADAA as the Revised Uniform Fiduciary Access to Digital Assets Act, Act 2017-316 (HB 138), effective January 1, 2018, codified at Ala. Code §§ 19-1A-1 through 19-1A-18.",
+    "custodian_access": "A fiduciary (personal representative, trustee, agent under a power of attorney, or conservator) can get the catalogue of electronic communications and other digital assets on a lighter showing, but the content of electronic communications only with the user's consent or a court order. The custodian may choose how to disclose: full account access, partial access, or a copy of the assets. It may demand a written request, a certified death certificate, proof of appointment such as letters testamentary, and the will, trust, or power of attorney showing consent, and it must comply within 60 days of a valid request.",
+    "user_direction": "A user can direct disclosure through a custodian's online tool, or in a will, trust, power of attorney, or other record. The priority order is: online tool first, then will, trust, or power of attorney, then the custodian's terms of service.",
+    "terms_of_service": "A direction made through an online tool or in a will, trust, or power of attorney overrides a contrary term in the custodian's terms of service. If the user left no direction at all, the terms of service govern, and the fiduciary then needs the user's consent in an estate document or a court order to reach the content of messages.",
+    "platform_tools": "Google Inactive Account Manager lets a user name a trusted contact and set what happens after inactivity; Apple Legacy Contact lets a named person request access with a death certificate and an access key; Meta (Facebook and Instagram) lets a user name a legacy contact to manage a memorialized account or request removal. Each platform still requires its own form and proof of death, and a legacy-contact designation is treated as an online-tool direction.",
+    "what_to_do": "1. Make an inventory of accounts, devices, and crypto wallets. 2. Check each platform for an online-tool or legacy-contact designation. 3. Gather the will, trust, or power of attorney and the letters from the probate court. 4. Send each custodian a written request with a certified death certificate and proof of appointment. 5. If the custodian refuses or the content of messages is needed without consent, ask the probate court for an order.",
+    "state_statute": "Ala. Code §§ 19-1A-1 through 19-1A-18",
+    "agency_name": "Alabama Attorney General, Consumer Interest Division",
+    "agency_url": "https://www.alabamaag.gov/divisions/",
+    "legal_aid_name": "Legal Services Alabama",
+    "legal_aid_url": "https://legalservicesalabama.org/",
+    "state_note": "Alabama's act sits in Title 19 on fiduciaries rather than as a standalone technology law, and its custodian-disclosure section gives the custodian sole discretion to choose full access, partial access, or a copy of the assets.",
+    "sources": [
+      "Ala. Code §§ 19-1A-1 through 19-1A-18 (Justia, 2025 Code of Alabama)",
+      "Alabama HB 138, Act 2017-316",
+      "Alabama Attorney General Divisions page"
+    ]
+  },
+  "alaska": {
+    "rufada_status": "Alaska has adopted RUFADAA as the Revised Uniform Fiduciary Access to Digital Assets Act, Chapter 18, Session Laws of Alaska 2017 (HB 108), codified at Alaska Statutes §§ 13.63.010 through 13.63.190.",
+    "custodian_access": "A personal representative, trustee, agent, or guardian can get the catalogue of electronic communications and other digital assets on proof of appointment, but the content of electronic communications only with the user's consent through an online tool or estate document, or a court order. The custodian may choose full access, partial access, or a copy of the assets, may demand a written request, a certified death certificate, and proof of fiduciary authority, and must comply within 60 days of a valid request.",
+    "user_direction": "A user can direct disclosure through a custodian's online tool, or in a will, trust, power of attorney, or other record. The priority order is: online tool first, then will, trust, or power of attorney, then the custodian's terms of service.",
+    "terms_of_service": "A direction made through an online tool or in a will, trust, or power of attorney overrides a contrary term in the custodian's terms of service. If the user left no direction at all, the terms of service govern, and the fiduciary then needs a court order to reach the content of messages.",
+    "platform_tools": "Google Inactive Account Manager lets a user name a trusted contact and set what happens after inactivity; Apple Legacy Contact lets a named person request access with a death certificate and an access key; Meta (Facebook and Instagram) lets a user name a legacy contact to manage a memorialized account or request removal. Each platform still requires its own form and proof of death, and a legacy-contact designation is treated as an online-tool direction.",
+    "what_to_do": "1. Make an inventory of accounts, devices, and crypto wallets. 2. Check each platform for an online-tool or legacy-contact designation. 3. Gather the will, trust, or power of attorney and the letters from the probate court. 4. Send each custodian a written request with a certified death certificate and proof of appointment. 5. If the custodian refuses or the content of messages is needed without consent, ask the court for an order.",
+    "state_statute": "Alaska Stat. §§ 13.63.010 through 13.63.190",
+    "agency_name": "Alaska Department of Law, Consumer Protection Unit",
+    "agency_url": "https://law.alaska.gov/consumer/cp_resources.html",
+    "legal_aid_name": "Alaska Legal Services Corporation",
+    "legal_aid_url": "https://www.alsc-law.org/",
+    "state_note": "Alaska's act applies when the user resided in Alaska at death, and its definitions section expressly treats a designated recipient named through an online tool as separate from a fiduciary.",
+    "sources": [
+      "Alaska Stat. Title 13, Chapter 63 (Justia, 2019 and 2023 Alaska Statutes)",
+      "Alaska SB 16 / HB 108, Chapter 18, SLA 2017 (Alaska Legislature)",
+      "Alaska Department of Law Consumer Resources page"
+    ]
+  },
+  "arizona": {
+    "rufada_status": "Arizona has adopted RUFADAA as the Revised Uniform Fiduciary Access to Digital Assets Act in 2016 (SB 1413, Chapter 165; also cited as HB 2467, Chapter 199), codified at Ariz. Rev. Stat. §§ 14-13101 through 14-13118.",
+    "custodian_access": "A personal representative, trustee, agent, or conservator can get the catalogue of electronic communications and other digital assets on proof of appointment, but the content of electronic communications only with the user's consent through an online tool or estate document, or a court order. The custodian may choose full access, partial access, or a copy of the assets, may demand a written request, a certified death certificate, and proof of fiduciary authority, and must comply within 60 days of a valid request.",
+    "user_direction": "A user can direct disclosure through a custodian's online tool, or in a will, trust, power of attorney, or other record. The priority order is: online tool first, then will, trust, or power of attorney, then the custodian's terms of service.",
+    "terms_of_service": "A direction made through an online tool or in a will, trust, or power of attorney overrides a contrary term in the custodian's terms of service. If the user left no direction at all, the terms of service govern, and the fiduciary then needs a court order to reach the content of messages.",
+    "platform_tools": "Google Inactive Account Manager lets a user name a trusted contact and set what happens after inactivity; Apple Legacy Contact lets a named person request access with a death certificate and an access key; Meta (Facebook and Instagram) lets a user name a legacy contact to manage a memorialized account or request removal. Each platform still requires its own form and proof of death, and a legacy-contact designation is treated as an online-tool direction.",
+    "what_to_do": "1. Make an inventory of accounts, devices, and crypto wallets. 2. Check each platform for an online-tool or legacy-contact designation. 3. Gather the will, trust, or power of attorney and the letters from the probate court. 4. Send each custodian a written request with a certified death certificate and proof of appointment. 5. If the custodian refuses or the content of messages is needed without consent, ask the court for an order.",
+    "state_statute": "Ariz. Rev. Stat. §§ 14-13101 through 14-13118",
+    "agency_name": "Arizona Attorney General, Consumer Information and Complaints Unit",
+    "agency_url": "https://www.azag.gov/complaints/consumer",
+    "legal_aid_name": "Community Legal Services",
+    "legal_aid_url": "https://clsaz.org/",
+    "state_note": "Arizona was among the first states to adopt RUFADAA in 2016, and its statute expressly covers cryptocurrency and other blockchain records as digital assets in which a person has a right or interest.",
+    "sources": [
+      "Ariz. Rev. Stat. § 14-13101 (Arizona Legislature)",
+      "Arizona SB 1413, Chapter 165 (2016)",
+      "Arizona Attorney General consumer complaint page"
+    ]
+  },
+  "arkansas": {
+    "rufada_status": "Arkansas has adopted RUFADAA as the Revised Uniform Fiduciary Access to Digital Assets Act, Act 886 of 2017 (HB 2253), codified at Ark. Code Ann. §§ 28-75-101 through 28-75-118.",
+    "custodian_access": "A personal representative, guardian, agent, or trustee can get the catalogue of electronic communications and other digital assets on a written request with a certified death certificate and certified letters testamentary or of administration, a small-estate affidavit, or a court order. The content of electronic communications needs the user's consent or a court order. The custodian may choose full access, partial access, or a copy, and must comply not later than 30 days after receiving the required information.",
+    "user_direction": "A user can direct disclosure through a custodian's online tool, or in a will, trust, power of attorney, or other record. The priority order is: online tool first, then will, trust, or power of attorney, then the custodian's terms of service.",
+    "terms_of_service": "A direction made through an online tool or in a will, trust, or power of attorney overrides a contrary term in the custodian's terms of service. If the user left no direction at all, the terms of service govern, and the fiduciary then needs a court order to reach the content of messages.",
+    "platform_tools": "Google Inactive Account Manager lets a user name a trusted contact and set what happens after inactivity; Apple Legacy Contact lets a named person request access with a death certificate and an access key; Meta (Facebook and Instagram) lets a user name a legacy contact to manage a memorialized account or request removal. Each platform still requires its own form and proof of death, and a legacy-contact designation is treated as an online-tool direction.",
+    "what_to_do": "1. Make an inventory of accounts, devices, and crypto wallets. 2. Check each platform for an online-tool or legacy-contact designation. 3. Gather the will, trust, or power of attorney and the letters from the probate court. 4. Send each custodian a written request with a certified death certificate and certified letters. 5. If the custodian does not comply within 30 days, or the content of messages is needed without consent, ask the circuit court for an order.",
+    "state_statute": "Ark. Code Ann. §§ 28-75-101 through 28-75-118",
+    "agency_name": "Arkansas Attorney General, Consumer Protection Division",
+    "agency_url": "https://arkansasag.gov/divisions/public-protection/consumer-protection/",
+    "legal_aid_name": "Center for Arkansas Legal Services",
+    "legal_aid_url": "https://www.arkansaslegal.org/",
+    "state_note": "Arkansas is distinctive for its short custodian deadline: the custodian must comply within 30 days, not the 60 days used in most RUFADAA states. Arkansas had also passed the earlier, unrevised uniform act in 2015 before replacing it with RUFADAA in 2017.",
+    "sources": [
+      "Ark. Code Ann. §§ 28-75-101 through 28-75-118 (Justia, 2020 Arkansas Code)",
+      "Arkansas HB 2253, Act 886 of 2017",
+      "Arkansas Attorney General Consumer Protection page"
+    ]
+  },
+  "california": {
+    "rufada_status": "California has adopted RUFADAA as the Revised Uniform Fiduciary Access to Digital Assets Act, AB 691, Chapter 551 (2016), effective January 1, 2017, codified at Cal. Prob. Code §§ 870 through 884.",
+    "custodian_access": "A personal representative, trustee, agent, or conservator can get the catalogue of electronic communications and other digital assets on proof of appointment, but the content of electronic communications only with the user's consent through an online tool or estate document, or a court order. The custodian may choose full access, partial access, or a copy of the assets, may demand a written request, a certified death certificate, and proof of fiduciary authority, and must comply within 60 days of receiving the required information.",
+    "user_direction": "A user can direct disclosure through a custodian's online tool, or in a will, trust, power of attorney, or other record. The priority order is: online tool first, then will, trust, or power of attorney, then the custodian's terms of service.",
+    "terms_of_service": "A direction made through an online tool or in a will, trust, or power of attorney overrides a contrary term in the custodian's terms of service. If the user left no direction at all, the terms of service govern, and the fiduciary then needs a court order to reach the content of messages.",
+    "platform_tools": "Google Inactive Account Manager lets a user name a trusted contact and set what happens after inactivity; Apple Legacy Contact lets a named person request access with a death certificate and an access key; Meta (Facebook and Instagram) lets a user name a legacy contact to manage a memorialized account or request removal. Each platform still requires its own form and proof of death, and a legacy-contact designation is treated as an online-tool direction.",
+    "what_to_do": "1. Make an inventory of accounts, devices, and crypto wallets. 2. Check each platform for an online-tool or legacy-contact designation. 3. Gather the will, trust, or power of attorney and the letters from the probate court. 4. Send each custodian a written request with a certified death certificate and proof of appointment. 5. If the custodian refuses or the content of messages is needed without consent, ask the probate court for an order.",
+    "state_statute": "California Probate Code §§ 870 through 884",
+    "agency_name": "California Department of Justice, Office of the Attorney General, Consumer Protection",
+    "agency_url": "https://oag.ca.gov/consumer",
+    "legal_aid_name": "LawHelpCA",
+    "legal_aid_url": "https://www.lawhelpca.org/",
+    "state_note": "California's act was later expanded by SB 1458, effective January 2025, which broadened the definition of fiduciary to expressly reach conservators and agents under a power of attorney in addition to personal representatives and trustees.",
+    "sources": [
+      "Cal. Prob. Code §§ 870 through 884 (California Legislative Information, AB 691, Chapter 551, 2016)",
+      "Cal. Prob. Code § 881 (60-day custodian compliance, SB 873)",
+      "California Attorney General consumer protection page"
+    ]
+  },
+  "colorado": {
+    "rufada_status": "Colorado has adopted RUFADAA as the Revised Uniform Fiduciary Access to Digital Assets Act in 2016 (SB 16-088), codified at Colo. Rev. Stat. §§ 15-1-1501 through 15-1-1518.",
+    "custodian_access": "A personal representative, trustee, agent, or conservator can get the catalogue of electronic communications and other digital assets on proof of appointment, but the content of electronic communications only with the user's consent through an online tool or estate document, or a court order. The custodian may choose full access, partial access, or a copy of the assets, may demand a written request, a certified death certificate, and proof of fiduciary authority, and must comply within 60 days of a valid request.",
+    "user_direction": "A user can direct disclosure through a custodian's online tool, or in a will, trust, power of attorney, or other record. The priority order is: online tool first, then will, trust, or power of attorney, then the custodian's terms of service.",
+    "terms_of_service": "A direction made through an online tool or in a will, trust, or power of attorney overrides a contrary term in the custodian's terms of service. If the user left no direction at all, the terms of service govern, and the fiduciary then needs a court order to reach the content of messages.",
+    "platform_tools": "Google Inactive Account Manager lets a user name a trusted contact and set what happens after inactivity; Apple Legacy Contact lets a named person request access with a death certificate and an access key; Meta (Facebook and Instagram) lets a user name a legacy contact to manage a memorialized account or request removal. Each platform still requires its own form and proof of death, and a legacy-contact designation is treated as an online-tool direction.",
+    "what_to_do": "1. Make an inventory of accounts, devices, and crypto wallets. 2. Check each platform for an online-tool or legacy-contact designation. 3. Gather the will, trust, or power of attorney and the letters from the probate court. 4. Send each custodian a written request with a certified death certificate and proof of appointment. 5. If the custodian refuses or the content of messages is needed without consent, ask the court for an order.",
+    "state_statute": "Colo. Rev. Stat. §§ 15-1-1501 through 15-1-1518",
+    "agency_name": "Colorado Attorney General, Consumer Protection Section",
+    "agency_url": "https://coag.gov/office-sections/consumer-protection/",
+    "legal_aid_name": "Colorado Legal Services",
+    "legal_aid_url": "https://www.coloradolegalservices.org/",
+    "state_note": "Colorado first tried the earlier, unrevised uniform act in 2015 (HB 15-1189) and then enacted the revised version in 2016, so its current law is the RUFADAA text, not the 2015 version.",
+    "sources": [
+      "Colo. Rev. Stat. §§ 15-1-1501 through 15-1-1518 (Justia, 2023 Colorado Revised Statutes)",
+      "Colorado SB 16-088 (2016)",
+      "Colorado Attorney General Consumer Protection page"
+    ]
+  },
+  "connecticut": {
+    "rufada_status": "Connecticut has adopted RUFADAA as the Connecticut Revised Uniform Fiduciary Access to Digital Assets Act, Public Act 16-145 (HB 5606), effective October 1, 2016, codified at Conn. Gen. Stat. §§ 45a-334a through 45a-334r.",
+    "custodian_access": "An executor or administrator, conservator, agent under a power of attorney, or trustee can get the catalogue of electronic communications and other digital assets on a written request with proof of appointment and a certified death certificate, but the content of electronic communications only with the user's consent through an online tool or estate document, or a court order. The custodian may choose full access, partial access, or a copy of the assets, and must comply within 60 days of a valid request.",
+    "user_direction": "A user can direct disclosure through a custodian's online tool, or in a will, trust, power of attorney, or other record. The priority order is: online tool first, then will, trust, or power of attorney, then the custodian's terms of service.",
+    "terms_of_service": "A direction made through an online tool or in a will, trust, or power of attorney overrides a contrary term in the custodian's terms of service. If the user left no direction at all, the terms of service govern, and the fiduciary then needs a court order to reach the content of messages.",
+    "platform_tools": "Google Inactive Account Manager lets a user name a trusted contact and set what happens after inactivity; Apple Legacy Contact lets a named person request access with a death certificate and an access key; Meta (Facebook and Instagram) lets a user name a legacy contact to manage a memorialized account or request removal. Each platform still requires its own form and proof of death, and a legacy-contact designation is treated as an online-tool direction.",
+    "what_to_do": "1. Make an inventory of accounts, devices, and crypto wallets. 2. Check each platform for an online-tool or legacy-contact designation. 3. Gather the will, trust, or power of attorney and the certificate of appointment from the Probate Court. 4. Send each custodian a written request with a certified death certificate and proof of appointment. 5. If the custodian refuses or the content of messages is needed without consent, ask the Probate Court for an order.",
+    "state_statute": "Conn. Gen. Stat. §§ 45a-334a through 45a-334r",
+    "agency_name": "Connecticut Office of the Attorney General, Consumer Protection Section",
+    "agency_url": "https://portal.ct.gov/AG/Common/Sections",
+    "legal_aid_name": "Statewide Legal Services of Connecticut",
+    "legal_aid_url": "https://slsct.org/",
+    "state_note": "Connecticut's 2016 act replaced an earlier state law that had required email providers to give executors access to a decedent's email; the old section was repealed the same day RUFADAA took effect, October 1, 2016.",
+    "sources": [
+      "Conn. Gen. Stat. § 45a-334p (Justia, 2019 Connecticut General Statutes)",
+      "Connecticut Public Act 16-145, HB 5606 (Connecticut General Assembly)",
+      "Connecticut Office of the Attorney General Sections page"
+    ]
+  },
+  "delaware": {
+    "rufada_status": "Delaware has NOT adopted RUFADAA. It has its own earlier law, the Fiduciary Access to Digital Assets and Digital Accounts Act, HB 345, Chapter 416 (2014), signed August 12, 2014 and amended in 2025 (SB 143), codified at 12 Del. C. §§ 5001 through 5007.",
+    "custodian_access": "A fiduciary, including a personal representative, guardian, agent under a durable power of attorney, or trustee, may exercise control over any and all rights in the account holder's digital assets and digital accounts, to the extent permitted by state or federal law or an end-user license agreement. The custodian must comply with a valid written request within 30 days. Delaware does not use RUFADAA's catalogue-versus-content split, so access turns on the governing instrument, the fiduciary's authority, and applicable privacy law rather than on a separate consent rule for message content.",
+    "user_direction": "Delaware has no RUFADAA-style online-tool priority rule: the words online tool and designated recipient do not appear in Chapter 50. A user directs access mainly through a governing instrument such as a will, trust, or power of attorney that grants the fiduciary authority over digital assets, or through a court order. Platform tools such as Google Inactive Account Manager, Apple Legacy Contact, and Meta legacy contact still work as the platform's own settings, but Delaware law does not rank them above a will or trust the way RUFADAA does.",
+    "terms_of_service": "A fiduciary's control is expressly subject to applicable state or federal law and to any end-user license agreement, so a custodian's terms can limit access in Delaware in a way RUFADAA's priority rule would not allow. If the user left no direction at all, the fiduciary's authority comes from the will, trust, or power of attorney and the court, and a custodian may still refuse disclosure that federal privacy law or its license terms forbid.",
+    "platform_tools": "Google Inactive Account Manager lets a user name a trusted contact and set what happens after inactivity; Apple Legacy Contact lets a named person request access with a death certificate and an access key; Meta (Facebook and Instagram) lets a user name a legacy contact to manage a memorialized account or request removal. Each platform still requires its own form and proof of death. Because Delaware has no online-tool statute, these tools operate under the platform's own policy rather than under a state priority rule.",
+    "what_to_do": "1. Make an inventory of accounts, devices, and crypto wallets, including usernames and passwords, which Delaware's definition of digital asset expressly includes. 2. Check each platform for a legacy-contact or inactive-account designation. 3. Gather the will, trust, or durable power of attorney that grants digital-asset authority and the appointment from the Register of Wills. 4. Send each custodian a written request with a certified death certificate and proof of appointment. 5. If the custodian refuses, ask the Court of Chancery or the appropriate court for an order.",
+    "state_statute": "12 Del. C. §§ 5001 through 5007",
+    "agency_name": "Delaware Department of Justice, Fraud and Consumer Protection Division, Consumer Protection Unit",
+    "agency_url": "https://attorneygeneral.delaware.gov/",
+    "legal_aid_name": "Community Legal Aid Society, Inc.",
+    "legal_aid_url": "https://www.declasi.org/",
+    "state_note": "Delaware was the first state in the nation to pass a digital-assets access law in 2014, a year before the Uniform Law Commission finished RUFADAA, and it kept its own broader law instead of adopting RUFADAA. Its definition of digital asset expressly includes usernames and passwords.",
+    "sources": [
+      "12 Del. C. §§ 5001 through 5007 (Delaware Code)",
+      "Delaware HB 345, 79 Del. Laws, Chapter 416, signed August 12, 2014 (Delaware General Assembly)",
+      "Delaware Department of Justice homepage"
+    ]
+  },
+  "florida": {
+    "rufada_status": "Florida has adopted a RUFADAA-based law as the Florida Fiduciary Access to Digital Assets Act, Chapter 2016-46 (SB 494), effective July 1, 2016, codified at Fla. Stat. Chapter 740, §§ 740.001 through 740.09. Its short title omits the word Revised, but it closely follows the uniform act.",
+    "custodian_access": "A personal representative, guardian, agent, or trustee can get the catalogue of electronic communications and other digital assets on proof of appointment, but the content of electronic communications only with the user's consent through an online tool or estate document, or a court order. The custodian may choose full access, partial access, or a copy of the assets, may demand a written request, a certified death certificate, and proof of fiduciary authority, and must comply within 60 days of a valid request.",
+    "user_direction": "A user can direct disclosure through a custodian's online tool, or in a will, trust, power of attorney, or other record. The priority order is: online tool first, then will, trust, or power of attorney, then the custodian's terms of service.",
+    "terms_of_service": "A direction made through an online tool or in a will, trust, or power of attorney overrides a contrary term in the custodian's terms of service. If the user left no direction at all, the terms of service govern, and the fiduciary then needs a court order to reach the content of messages.",
+    "platform_tools": "Google Inactive Account Manager lets a user name a trusted contact and set what happens after inactivity; Apple Legacy Contact lets a named person request access with a death certificate and an access key; Meta (Facebook and Instagram) lets a user name a legacy contact to manage a memorialized account or request removal. Each platform still requires its own form and proof of death, and a legacy-contact designation is treated as an online-tool direction.",
+    "what_to_do": "1. Make an inventory of accounts, devices, and crypto wallets. 2. Check each platform for an online-tool or legacy-contact designation. 3. Gather the will, trust, or power of attorney and the letters from the probate court. 4. Send each custodian a written request with a certified death certificate and proof of appointment. 5. If the custodian refuses or the content of messages is needed without consent, ask the court for an order.",
+    "state_statute": "Fla. Stat. Chapter 740, §§ 740.001 through 740.09",
+    "agency_name": "Florida Attorney General, Consumer Protection Division",
+    "agency_url": "https://www.myfloridalegal.com/",
+    "legal_aid_name": "Florida Legal Services",
+    "legal_aid_url": "https://www.floridalegal.org/",
+    "state_note": "Florida's act was revised before passage after opposition from Facebook and Google in 2015, so it requires explicit user consent for access to the content of electronic communications rather than giving fiduciaries the broader access the original uniform act allowed.",
+    "sources": [
+      "Fla. Stat. Chapter 740 (Online Sunshine, Florida Legislature)",
+      "Florida SB 494, Chapter 2016-46 (Florida Senate)",
+      "Florida Bar Journal, Access to Digital Assets, Florida's New Law for Fiduciaries"
+    ]
+  },
+  "georgia": {
+    "rufada_status": "Georgia has adopted RUFADAA as the Revised Uniform Fiduciary Access to Digital Assets Act, Ga. L. 2018, p. 1089 (SB 301, Act 560), codified at O.C.G.A. §§ 53-13-1 through 53-13-40.",
+    "custodian_access": "A personal representative, conservator, agent, or trustee can get the catalogue of electronic communications and other digital assets on proof of appointment, but the content of electronic communications only with the user's consent through an online tool or estate document, or a court order. The custodian may choose full access, partial access, or a copy of the assets, may demand a written request, a certified death certificate, and proof of fiduciary authority, and must comply within 60 days of a valid request.",
+    "user_direction": "A user can direct disclosure through a custodian's online tool, or in a will, trust, power of attorney, or other record. The priority order is: online tool first, then will, trust, or power of attorney, then the custodian's terms of service.",
+    "terms_of_service": "A direction made through an online tool or in a will, trust, or power of attorney overrides a contrary term in the custodian's terms of service. If the user left no direction at all, the terms of service govern, and the fiduciary then needs a court order to reach the content of messages.",
+    "platform_tools": "Google Inactive Account Manager lets a user name a trusted contact and set what happens after inactivity; Apple Legacy Contact lets a named person request access with a death certificate and an access key; Meta (Facebook and Instagram) lets a user name a legacy contact to manage a memorialized account or request removal. Each platform still requires its own form and proof of death, and a legacy-contact designation is treated as an online-tool direction.",
+    "what_to_do": "1. Make an inventory of accounts, devices, and crypto wallets. 2. Check each platform for an online-tool or legacy-contact designation. 3. Gather the will, trust, or power of attorney and the letters from the probate court. 4. Send each custodian a written request with a certified death certificate and proof of appointment. 5. If the custodian refuses or the content of messages is needed without consent, ask the court for an order.",
+    "state_statute": "O.C.G.A. §§ 53-13-1 through 53-13-40",
+    "agency_name": "Georgia Attorney General, Consumer Protection Division",
+    "agency_url": "https://consumer.georgia.gov/",
+    "legal_aid_name": "Georgia Legal Services Program",
+    "legal_aid_url": "https://www.glsp.org/",
+    "state_note": "Georgia was a late RUFADAA adopter in 2018, and its chapter is unusually long, running through section 53-13-40, including a separate section letting a court grant a conservator access to a protected person's digital assets after a hearing.",
+    "sources": [
+      "O.C.G.A. § 53-13-1 (Justia, 2022 Georgia Code, enacted by Ga. L. 2018, p. 1089, SB 301)",
+      "O.C.G.A. §§ 53-13-10, 53-13-12, 53-13-20 (Justia)",
+      "Georgia Attorney General Consumer Protection Division"
+    ]
+  }
+}
