@@ -1,0 +1,100 @@
+alabama	agency	https://www.hrc.alabama.gov
+alabama	legal_aid	https://legalservicesalabama.org/
+alaska	agency	https://humanrights.alaska.gov/services/
+alaska	legal_aid	https://www.alsc-law.org/
+arizona	agency	https://www.azag.gov/civil-rights
+arizona	legal_aid	https://clsaz.org/
+arkansas	agency	https://ig.arkansas.gov/fair-housing/
+arkansas	legal_aid	https://arlegalaid.org/
+california	agency	https://calcivilrights.ca.gov/complaintprocess/how-to-file-a-complaint/
+california	legal_aid	http://www.lafla.org
+colorado	agency	https://ccrd.colorado.gov/the-complaint-process
+colorado	legal_aid	http://www.coloradolegalservices.org/
+connecticut	agency	https://portal.ct.gov/chro/about-us/contact-offices
+connecticut	legal_aid	https://slsct.org/get-help/
+delaware	agency	https://humanandcivilrights.delaware.gov/
+delaware	legal_aid	http://www.declasi.org
+florida	agency	https://fchr.myflorida.com/file-a-complaint-page
+florida	legal_aid	https://floridalegal.org/
+georgia	agency	https://georgia.gov/organization/georgia-commission-equal-opportunity
+georgia	legal_aid	https://glsp.org/
+hawaii	agency	https://labor.hawaii.gov/hcrc/faqs/
+hawaii	legal_aid	https://www.legalaidhawaii.org/
+idaho	agency	https://humanrights.idaho.gov/idaho-law/types-of-discrimination/disability/
+idaho	legal_aid	https://idaholegalaid.org/services
+illinois	agency	https://dhr.illinois.gov/rights/disability-rights.html
+illinois	legal_aid	https://pslegal.org/
+indiana	agency	https://www.in.gov/icrc/know-your-rights/protected-classes
+indiana	legal_aid	http://www.indianalegalservices.org/
+iowa	agency	https://icrc.iowa.gov/
+iowa	legal_aid	https://www.iowalegalaid.org
+kansas	agency	https://www.khrc.net
+kansas	legal_aid	https://www.kansaslegalservices.org/about-us
+kentucky	agency	https://kchr.ky.gov/About/Pages/FAQs.aspx
+kentucky	legal_aid	http://www.lablaw.org
+louisiana	agency	http://lchrgov.com/lchr/
+louisiana	legal_aid	https://slls.org/en/
+maine	agency	https://maine.gov/mhrc/about
+maine	legal_aid	https://www.ptla.org/pine-tree-services
+maryland	agency	http://mccr.maryland.gov/
+maryland	legal_aid	https://www.mdlab.org/
+massachusetts	agency	https://www.mass.gov/info-details/about-the-commission-against-discrimination
+massachusetts	legal_aid	https://www.gbls.org/
+michigan	agency	https://www.michigan.gov/mdcr/contact
+michigan	legal_aid	https://lakeshorelegalaid.org/
+minnesota	agency	https://mn.gov/mdhr/
+minnesota	legal_aid	https://mylegalaid.org/get-legal-help
+mississippi	agency	https://www.ada.gov/resources/service-animals-2010-requirements/
+mississippi	legal_aid	https://mscenterforlegalservices.org/
+missouri	agency	https://labor.mo.gov/mohumanrights
+missouri	legal_aid	https://www.lsmo.org/
+montana	agency	https://erd.dli.mt.gov/human-rights/
+montana	legal_aid	https://www.mtlsa.org/apply-for-services/
+nebraska	agency	https://neoc.nebraska.gov/
+nebraska	legal_aid	https://legalaidofnebraska.org
+nevada	agency	https://detr.nv.gov/NERC/Page/Contact_Us
+nevada	legal_aid	https://nevadalegalservices.org
+new hampshire	agency	https://www.humanrights.nh.gov/welcome
+new hampshire	legal_aid	https://www.nhla.org/
+new jersey	agency	https://www.njoag.gov/about/divisions-and-offices/division-on-civil-rights-home/division-on-civil-rights-about/
+new jersey	legal_aid	https://www.lsnj.org
+new mexico	agency	https://www.dws.state.nm.us/en-us/Human-Rights-Information
+new mexico	legal_aid	http://www.newmexicolegalaid.org/
+new york	agency	https://dhr.ny.gov/node/7701
+new york	legal_aid	https://www.lawhelpny.org/how-use-website-legal-information-and-help
+north carolina	agency	https://www.oah.nc.gov/civil-rights-division
+north carolina	legal_aid	https://legalaidnc.org/our-services/
+north dakota	agency	http://www.nd.gov/labor/human-rights/
+north dakota	legal_aid	https://lsnd.org/
+ohio	agency	https://civ.ohio.gov/how-to-file-a-charge
+ohio	legal_aid	https://www.ohiolegalhelp.org/
+oklahoma	agency	https://oklahoma.gov/oag/about/divisions/civil-rights-enforcement.html
+oklahoma	legal_aid	https://legalaidok.org/
+oregon	agency	https://www.oregon.gov/boli/employers/Pages/boli-investigations.aspx
+oregon	legal_aid	https://lasoregon.org/services/
+pennsylvania	agency	https://www.pa.gov/agencies/phrc/programs-and-services/file-a-complaint
+pennsylvania	legal_aid	https://palegalaid.net/
+rhode island	agency	https://richr.ri.gov/filecharge/index.php
+rhode island	legal_aid	https://www.rils.org/
+south carolina	agency	https://schac.sc.gov/
+south carolina	legal_aid	https://sclegal.org/services/
+south dakota	agency	https://dlr.sd.gov/human_rights/
+south dakota	legal_aid	https://erlservices.org/
+tennessee	agency	https://www.tn.gov/humanrights
+tennessee	legal_aid	https://las.org/
+texas	agency	https://www.twc.texas.gov/programs/civil-rights/employment-discrimination?ct=t%28%29
+texas	legal_aid	https://www.lonestarlegal.org/
+utah	agency	https://laborcommission.utah.gov/divisions/utah-antidiscrimination-and-labor-uald/employment-discrimination/
+utah	legal_aid	https://www.utahlegalservices.org/
+vermont	agency	https://hrc.vermont.gov/
+vermont	legal_aid	https://www.vtlegalaid.org/
+virginia	agency	https://www.oag.state.va.us/citizen-resources/civil-rights
+virginia	legal_aid	https://www.vlas.org/
+washington	agency	https://www.hum.wa.gov/
+washington	legal_aid	https://www.nwjustice.org/get-legal-help/
+west virginia	agency	https://oig.wv.gov/HRC
+west virginia	legal_aid	https://www.lawv.net/
+wisconsin	agency	https://dwd.wisconsin.gov/er/
+wisconsin	legal_aid	https://legalaction.org/
+wyoming	agency	https://dws.wyo.gov/dws-division/labor-standards/workers-and-job-seekers/your-rights-as-a-worker/
+wyoming	legal_aid	https://www.lawyoming.org/
