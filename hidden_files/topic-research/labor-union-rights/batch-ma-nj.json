@@ -1,0 +1,189 @@
+{
+  "Massachusetts": {
+    "right_to_work": "no",
+    "right_to_work_note": "Massachusetts has no right-to-work law, so a union contract can require workers in a union job to pay dues or fees.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Most state, county, and city workers can form a union and bargain over pay, hours, and working conditions under Chapter 150E.",
+    "public_strike": "no",
+    "public_strike_note": "Massachusetts law bars public employees from striking, so contract disputes go to mediation, fact-finding, or arbitration instead.",
+    "agency_name": "Massachusetts Department of Labor Relations",
+    "agency_url": "https://www.mass.gov/orgs/department-of-labor-relations",
+    "legal_aid_name": "Greater Boston Legal Services",
+    "legal_aid_url": "https://www.gbls.org/get-legal-help/our-services/workers-rights",
+    "state_note": "In 2023 lawmakers filed a bill to let some public workers strike after long contract talks, but it did not pass, so the strike ban still stands.",
+    "sources": [
+      "https://www.mass.gov/info-details/evolution-of-public-employee-collective-bargaining-and-faqs",
+      "https://www.findlaw.com/employment/wages-and-benefits/what-are-right-to-work-laws.html",
+      "https://www.mass.gov/orgs/department-of-labor-relations"
+    ]
+  },
+  "Michigan": {
+    "right_to_work": "no",
+    "right_to_work_note": "Michigan repealed its right-to-work law in 2023, and the repeal took effect in March 2024, so union contracts can again require dues or fees.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Michigan public workers can unionize and bargain under the Public Employment Relations Act, which requires employers to bargain in good faith.",
+    "public_strike": "no",
+    "public_strike_note": "Michigan law says a public employee shall not strike, and courts can order striking workers back to work.",
+    "agency_name": "Michigan Employment Relations Commission",
+    "agency_url": "https://www.michigan.gov/leo/bureaus-agencies/ber/michigan-employment-relations-commission",
+    "legal_aid_name": "Michigan Legal Help",
+    "legal_aid_url": "https://michiganlegalhelp.org/resources/employment/workplace-discrimination",
+    "state_note": "Michigan was the first state in nearly 60 years to repeal a right-to-work law, but public workers still cannot be forced to pay union fees because of a Supreme Court decision called Janus.",
+    "sources": [
+      "https://www.legislature.mi.gov/documents/2023-2024/billanalysis/house/pdf/2023-HLA-0034-03FFBB67.pdf",
+      "https://www.shrm.org/topics-tools/employment-law-compliance/michigan-governor-signs-legislation-repealing-right-to-work-law",
+      "https://www.poam.net/app/uploads/2008/10/181-pera_mcl_act_336_of_1947.pdf",
+      "https://www.mackinac.org/7922"
+    ]
+  },
+  "Minnesota": {
+    "right_to_work": "no",
+    "right_to_work_note": "Minnesota has no right-to-work law, so union contracts can require workers to pay dues or fees.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Minnesota public workers can unionize and bargain under the Public Employment Labor Relations Act, which covers state, county, city, and school workers.",
+    "public_strike": "limited",
+    "public_strike_note": "Public workers who are not essential can strike after their contract ends and mediation steps are done, but essential workers such as police and prison guards cannot strike.",
+    "agency_name": "Minnesota Bureau of Mediation Services",
+    "agency_url": "https://mn.gov/bms/",
+    "legal_aid_name": "LawHelpMN",
+    "legal_aid_url": "https://www.lawhelpmn.org/",
+    "state_note": "Minnesota is one of the few states where some public workers can legally strike, but only workers who are not essential and only after mediation steps are finished.",
+    "sources": [
+      "https://www.house.mn.gov/hrd/issinfo/gvst_colbg.aspx?src=14",
+      "https://www.findlaw.com/employment/wages-and-benefits/what-are-right-to-work-laws.html",
+      "https://mn.gov/bms/about/index.jsp"
+    ]
+  },
+  "Mississippi": {
+    "right_to_work": "yes",
+    "right_to_work_note": "Mississippi's constitution and state law say no worker can be required to join a union or pay union dues to keep a job.",
+    "public_bargaining": "no",
+    "public_bargaining_note": "Mississippi has no law giving public workers the right to bargain, so state and local workers cannot negotiate a binding union contract.",
+    "public_strike": "no",
+    "public_strike_note": "Public workers in Mississippi are barred from striking.",
+    "agency_name": "National Labor Relations Board (NLRB)",
+    "agency_url": "https://www.nlrb.gov/about-nlrb/who-we-are/regional-offices/region-15-new-orleans?page=0%2C248",
+    "legal_aid_name": "Mississippi Center for Legal Services",
+    "legal_aid_url": "https://www.mscenterforlegalservices.org",
+    "state_note": "Mississippi is one of the few states with no public-sector bargaining law at all, and it has no state labor-relations board, so private-sector union complaints go to the federal labor board.",
+    "sources": [
+      "https://cwa-union.org/news/entry/organizing_spotlight_mississippi_workers_wield_mase_in_right-to-work_territ",
+      "https://ceafu.org/2021/05/ceafu-state-public-sector-bargaining-laws-research-cited-by-institute/",
+      "https://www.nlrb.gov/about-nlrb/who-we-are/regional-offices/region-15-new-orleans?page=0%2C248"
+    ]
+  },
+  "Missouri": {
+    "right_to_work": "no",
+    "right_to_work_note": "Missouri voters rejected a right-to-work law in 2018, so union contracts can still require dues or fees.",
+    "public_bargaining": "limited",
+    "public_bargaining_note": "Missouri's constitution gives public workers the right to bargain, but the employer can reject parts of a deal and there is no binding arbitration.",
+    "public_strike": "no",
+    "public_strike_note": "Missouri law gives public workers no right to strike, and union contracts must say that striking can mean immediate firing.",
+    "agency_name": "Missouri State Board of Mediation",
+    "agency_url": "https://labor.mo.gov/sbm",
+    "legal_aid_name": "Legal Services of Eastern Missouri",
+    "legal_aid_url": "https://lsem.org",
+    "state_note": "Missouri voters rejected right-to-work by about two to one in August 2018, before the law ever took effect.",
+    "sources": [
+      "https://hrdailyadvisor.hci.org/2018/08/08/missourians-vote-reject-right-work-law/",
+      "https://law.justia.com/constitution/missouri/article-i/section-29/",
+      "https://ogletree.com/insights-resources/blog-posts/missouri-revolutionizes-public-sector-labor-law-part-two-collective-bargaining/",
+      "https://labor.mo.gov/sbm"
+    ]
+  },
+  "Montana": {
+    "right_to_work": "no",
+    "right_to_work_note": "Montana has no right-to-work law, so union contracts can require workers to pay dues or fees.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Montana public workers can form unions and bargain over pay, hours, and working conditions under the Public Employees Collective Bargaining Act.",
+    "public_strike": "limited",
+    "public_strike_note": "Montana courts have read the bargaining law to allow public-worker strikes because no statute bans them, but police officers are barred from striking and use binding arbitration instead.",
+    "agency_name": "Montana Board of Personnel Appeals",
+    "agency_url": "https://erd.dli.mt.gov/labor-standards/collective-bargaining/board-of-personnel-appeals/",
+    "legal_aid_name": "Montana Legal Services Association",
+    "legal_aid_url": "https://mtlsa.org",
+    "state_note": "Montana is unusual because its Supreme Court ruled in 1974 that public workers may strike, since the law protects concerted activities and bans strikes only for police.",
+    "sources": [
+      "https://doa.mt.gov/SHRD/labor-relations/faq",
+      "https://www.findlaw.com/state/montana-law/montana-right-to-work-laws.html",
+      "https://cases.justia.com/montana/supreme-court/1974-12-09-6871B40A-4A40-4195-AD70-44EFBC32479E.pdf?ts=1462385618",
+      "https://erd.dli.mt.gov/labor-standards/collective-bargaining/board-of-personnel-appeals/"
+    ]
+  },
+  "Nebraska": {
+    "right_to_work": "yes",
+    "right_to_work_note": "Nebraska's constitution bans requiring workers to join a union or pay dues to keep a job.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Nebraska public workers can form unions and bargain under the State Employees Collective Bargaining Act and the Industrial Relations Act.",
+    "public_strike": "no",
+    "public_strike_note": "Nebraska law says no one may stop government services by striking, and public workers have no right to strike.",
+    "agency_name": "Nebraska Commission of Industrial Relations",
+    "agency_url": "https://ncir.nebraska.gov/",
+    "legal_aid_name": "Legal Aid of Nebraska",
+    "legal_aid_url": "https://legalaidofnebraska.org/",
+    "state_note": "Nebraska settles public-sector pay disputes through its Commission of Industrial Relations, which can set wages instead of letting workers strike.",
+    "sources": [
+      "https://www.endrtw.org/states",
+      "https://law.justia.com/codes/nebraska/2021/chapter-48/statute-48-837/",
+      "https://nebraskalegislature.gov/laws/statutes.php?statute=48-802&print=true",
+      "https://ncir.nebraska.gov/content/who-we-are"
+    ]
+  },
+  "Nevada": {
+    "right_to_work": "yes",
+    "right_to_work_note": "Nevada law bars contracts that require workers to join a union or pay dues to keep a job.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "Nevada local government workers have long had bargaining rights, and a 2019 law extended them to state workers.",
+    "public_strike": "no",
+    "public_strike_note": "Nevada law declares strikes by state and local government workers illegal.",
+    "agency_name": "Government Employee-Management Relations Board (EMRB)",
+    "agency_url": "https://emrb.nv.gov",
+    "legal_aid_name": "Nevada Legal Services",
+    "legal_aid_url": "https://nevadalegalservices.org",
+    "state_note": "Nevada gave state workers the right to bargain only in 2019, and in 2023 a court ruled a coordinated teacher sick-out an illegal strike.",
+    "sources": [
+      "https://law.justia.com/codes/nevada/chapter-613/",
+      "https://www.leg.state.nv.us/Division/Research/Publications/ResearchBriefs/CollectiveBargaining.pdf",
+      "https://archive.leg.state.nv.us/Session/80th2019/Minutes/Senate/GA/Final/804.pdf",
+      "https://emrb.nv.gov/About/What_We_Do/"
+    ]
+  },
+  "New Hampshire": {
+    "right_to_work": "no",
+    "right_to_work_note": "New Hampshire has no right-to-work law, and the latest attempt to pass one was killed by the House in February 2025.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "New Hampshire public workers can organize and bargain under RSA 273-A, which covers state, county, city, school, and university workers.",
+    "public_strike": "no",
+    "public_strike_note": "New Hampshire law says strikes and other job actions by public workers are unlawful.",
+    "agency_name": "New Hampshire Public Employee Labor Relations Board",
+    "agency_url": "https://www.nh.gov/pelrb",
+    "legal_aid_name": "New Hampshire Legal Assistance",
+    "legal_aid_url": "https://www.nhla.org",
+    "state_note": "New Hampshire lawmakers have voted down right-to-work bills repeatedly, most recently in February 2025, even though the governor at the time favored one.",
+    "sources": [
+      "https://catherwood.library.cornell.edu/wit/right-to-work-bill-killed-by-republican-controlled-new-hampshire-house/",
+      "http://www.gencourt.state.nh.us/rsa/html/XXIII/273-A/273-A-mrg.htm",
+      "https://law.justia.com/codes/new-hampshire/2022/title-xxiii/title-273-a/section-273-a-13/",
+      "https://gc.nh.gov/LBA/Budget/Senate_Finance/4-20-21/PELRB_Handout_Senate_Finance.pdf"
+    ]
+  },
+  "New Jersey": {
+    "right_to_work": "no",
+    "right_to_work_note": "New Jersey has no right-to-work law, so union contracts can require workers to pay dues or fees.",
+    "public_bargaining": "yes",
+    "public_bargaining_note": "New Jersey public workers can bargain under the Employer-Employee Relations Act, with the Public Employment Relations Commission handling disputes.",
+    "public_strike": "no",
+    "public_strike_note": "New Jersey has no statute giving public workers a right to strike, and its courts have ruled walkouts unlawful and can order workers back.",
+    "agency_name": "New Jersey Public Employment Relations Commission",
+    "agency_url": "https://www.nj.gov/perc/",
+    "legal_aid_name": "Legal Services of New Jersey",
+    "legal_aid_url": "https://lsnj.org",
+    "state_note": "New Jersey's constitution gives public workers the right to organize and present grievances, but it does not grant a right to strike, so courts treat public-worker strikes as unlawful.",
+    "sources": [
+      "https://www.nj.gov/perc/",
+      "http://rutgers-ptlfc.org/frequently-asked-questions-about-strikes-by-public-workers-in-new-jersey/",
+      "https://law.justia.com/cases/new-jersey/appellate-division-published/1987/222-n-j-super-298-0.html",
+      "https://www.findlaw.com/employment/wages-and-benefits/what-are-right-to-work-laws.html"
+    ]
+  }
+}
