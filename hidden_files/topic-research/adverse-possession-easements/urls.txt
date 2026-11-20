@@ -1,0 +1,100 @@
+alabama	agency	https://www.alabar.org/programs/lawyer-referral-service/
+alabama	legal_aid	https://legalservicesalabama.org/
+alaska	agency	https://alaskabar.org/for-our-community/how-to-select-a-lawyer
+alaska	legal_aid	https://www.alsc-law.org/
+arizona	agency	https://www.azcourts.gov/selfservicecenter/Resources/Obtaining-Legal-Services
+arizona	legal_aid	https://clsaz.org/
+arkansas	agency	https://arcourts.gov/directories/resources
+arkansas	legal_aid	https://arlegalaid.org/
+california	agency	https://www.lawhelpca.org/issues/consumer-small-claims/all-consumer-resources?lang=EN
+california	legal_aid	https://www.lawhelpca.org/issues/consumer-small-claims/all-consumer-resources?lang=EN
+colorado	agency	https://lawhelp.colorado.gov/legal-aid/localities?actions%5Breset%5D=Reset&actions%5Bsubmit%5D=Apply&center%5Bcoordinates%5D%5Blat%5D=&center%5Bcoordinates%5D%5Blng%5D=&center%5Bgeocoder%5D%5Bgeolocation_geocoder_address%5D=&field_county_term_target_id=All&field_g_location_proximity_1=0&page=12
+colorado	legal_aid	https://www.coloradolegalservices.org/get-help/
+connecticut	agency	https://portal.ct.gov/dcp/common-elements/consumer-facts-and-contacts/legal-assistance?ref=blog.counselstack.com
+connecticut	legal_aid	https://ctlegal.org/get-help/
+delaware	agency	https://delegalhelplink.org/organization/delaware-community-legal-aid-society-clasi-kent-sussex-only-no-income-limit
+delaware	legal_aid	http://www.declasi.org
+florida	agency	https://www.floridalawhelp.org/find-provider
+florida	legal_aid	https://www.floridalegal.org/
+georgia	agency	https://consumered.georgia.gov/ask-ed/2012-07-10/does-maintaining-neglected-property-give-me-ownership-rights
+georgia	legal_aid	https://www.glsp.org/who-we-are/
+hawaii	agency	https://www.hawaiilawyerreferral.com/
+hawaii	legal_aid	https://www.legalaidhawaii.org/
+idaho	agency	https://courtselfhelp.idaho.gov/
+idaho	legal_aid	https://idaholegalaid.org/
+illinois	agency	https://www.isba.org/public/phonereferral
+illinois	legal_aid	https://www.pslegal.org/
+indiana	agency	http://www.in.gov/courts/selfservice/legal-help
+indiana	legal_aid	https://www.indianalegalservices.org/
+iowa	agency	https://www.iowabar.org/
+iowa	legal_aid	https://www.iowalegalaid.org/
+kansas	agency	https://ksbar.org/?pg=lrs_public
+kansas	legal_aid	https://www.kansaslegalservices.org/
+kentucky	agency	https://kybar.org
+kentucky	legal_aid	https://www.klaid.org/
+louisiana	agency	https://www.lsba.org/Public/FindLegalHelp/FindAttorney.aspx
+louisiana	legal_aid	https://slls.org/
+maine	agency	https://www.mainebar.org/page/AttorneyRequest
+maine	legal_aid	https://www.ptla.org/
+maryland	agency	https://www.mdcourts.gov/legalhelp/findinglegalhelp
+maryland	legal_aid	https://www.mdlab.org/
+massachusetts	agency	https://www.mass.gov/info-details/massachusetts-law-about-adverse-possession
+massachusetts	legal_aid	https://www.gbls.org/
+michigan	agency	https://michiganlegalhelp.org/
+michigan	legal_aid	https://lakeshorelegalaid.org/
+minnesota	agency	https://mncourts.gov/help-topic-sections
+minnesota	legal_aid	https://www.lawhelpmn.org/
+mississippi	agency	https://msbar.org/for-the-public/pro-bono-resources/pro-bono-services/
+mississippi	legal_aid	https://mscenterforlegalservices.org/
+missouri	agency	https://www.courts.mo.gov/page.jsp?id=43918
+missouri	legal_aid	https://www.lsmo.org/
+montana	agency	https://mtjuris.com/mca/pdf/70-19-411
+montana	legal_aid	https://www.mtlsa.org/
+nebraska	agency	https://supremecourt.nebraska.gov/self-help/welcome
+nebraska	legal_aid	https://www.legalaidofnebraska.org/
+nevada	agency	https://www.leg.state.nv.us/division/legal/lawlibrary/nrs/NRS-011.html
+nevada	legal_aid	https://nevadalegalservices.org/
+new mexico	agency	https://www.sbnm.org/CivilLegalServiceProviders_And_OtherResources
+new mexico	legal_aid	https://www.newmexicolegalaid.org/
+new york	agency	https://nysba.org/new-york-state-bar-association-lawyer-referral-service/
+new york	legal_aid	https://legalaidnyc.org/en/
+new_hampshire	agency	https://www.courts.nh.gov/self-help/getting-started/legal-assistance
+new_hampshire	legal_aid	https://www.nhla.org/
+new_jersey	agency	https://www.nj.gov/basicneeds/legal-aid/family-law.shtml
+new_jersey	legal_aid	https://lsnj.org/
+north carolina	agency	https://www.ncbar.org/public/find-an-nc-lawyer/
+north carolina	legal_aid	https://legalaidnc.org/
+north dakota	agency	http://www.sband.org/
+north dakota	legal_aid	https://lsnd.org/
+ohio	agency	https://www.ohiobar.org/public-resources/lawyer-referral-services/
+ohio	legal_aid	https://www.ohiolegalhelp.org/
+oklahoma	agency	https://www.okbar.org/legal-resources/
+oklahoma	legal_aid	https://legalaidok.org/
+oregon	agency	https://www.osbar.org/public/ris
+oregon	legal_aid	https://lasoregon.org/
+pennsylvania	agency	https://www.pabar.org/public/membership/lrsblurb.asp
+pennsylvania	legal_aid	https://palegalaid.net/
+rhode island	agency	http://www.ribar.com/
+rhode island	legal_aid	https://www.rils.org/
+south carolina	agency	https://www.scbar.org/for-the-public/quicklinks/get-legal-help/
+south carolina	legal_aid	https://sclegal.org/
+south dakota	agency	https://ujs.sd.gov/self-help/
+south dakota	legal_aid	https://erlservices.org/
+tennessee	agency	https://www.tba.org/?pg=For-the-Public
+tennessee	legal_aid	https://las.org
+texas	agency	https://www.texasbar.com/
+texas	legal_aid	https://www.lonestarlegal.org/
+utah	agency	https://www.utahbar.org/accesstojustice/tips-finding-lawyer/
+utah	legal_aid	https://www.utahlegalservices.org/
+vermont	agency	https://www.vtbar.org/
+vermont	legal_aid	https://vtlegalaid.org
+virginia	agency	https://vsb.org/Site/Site/legal-help/legal-help.aspx
+virginia	legal_aid	https://www.vlas.org/
+washington	agency	https://wsba.org/for-the-public/find-legal-help
+washington	legal_aid	https://www.nwjustice.org/
+west virginia	agency	https://wvlawyerreferral.org/
+west virginia	legal_aid	https://www.lawv.net/
+wisconsin	agency	https://www.wisbar.org/forPublic/INeedaLawyer/Pages/LRS.aspx
+wisconsin	legal_aid	https://legalaction.org/
+wyoming	agency	https://www.wyomingbar.org/
+wyoming	legal_aid	https://www.lawyoming.org/

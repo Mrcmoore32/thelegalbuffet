@@ -1,0 +1,202 @@
+{
+ "massachusetts": {
+  "adverse_possession_note": "The owner has 20 years to sue to recover land; after that, a person who has actually used the land openly and visibly, without the owner's permission, exclusively (as their own), and continuously for the full 20 years can claim ownership. 'Hostile' means without permission, not angry or aggressive. Having a flawed deed (color of title) or paying taxes does not shorten the 20 years in Massachusetts. Land registered with the Land Court (registered/Torrens land) can never be taken by adverse possession, and the 20-year limit does not bar a nonprofit land conservation organization from recovering conservation land. Statute: Mass. Gen. Laws ch. 260, \u00a7 21.",
+  "adverse_possession_years": 20,
+  "agency_name": "Mass.gov \u2014 Massachusetts law about adverse possession",
+  "agency_url": "https://www.mass.gov/info-details/massachusetts-law-about-adverse-possession",
+  "easement_by_necessity_note": "Yes, Massachusetts recognizes easements by necessity, but necessity alone is not enough: the two parcels must once have had the same owner, the split must have created the landlocked parcel, and the facts must show the parties would have intended access. The easement lasts only while the necessity lasts.",
+  "legal_aid_name": "Greater Boston Legal Services",
+  "legal_aid_url": "https://www.gbls.org/",
+  "prescriptive_easement_note": "A prescriptive easement is a right to keep using someone else's land for a specific purpose (for example, a driveway or path), not ownership of it. It requires open and obvious use, without permission, continuously and without interruption for 20 years. Unlike adverse possession, the use does not have to be exclusive \u2014 the user does not have to keep everyone else out. It cannot be gained over registered Land Court land. Statute: Mass. Gen. Laws ch. 187, \u00a7 2.",
+  "prescriptive_easement_years": 20,
+  "sources": [
+   "https://www.mass.gov/info-details/massachusetts-law-about-adverse-possession",
+   "https://malegislature.gov/laws/generallaws/partiii/titlev/chapter260/section21",
+   "https://www.mass.gov/doc/superior-court-model-civil-jury-instructions-prescriptive-easement-pdf/download",
+   "https://law.justia.com/codes/massachusetts/2015/part-ii/title-i/chapter-187/section-2/"
+  ],
+  "state_note": "Massachusetts is distinctive for its two land systems: adverse possession and prescriptive easements do not apply at all to land registered with the Land Court.",
+  "statute_cite": "Mass. Gen. Laws ch. 260, \u00a7 21; ch. 187, \u00a7 2",
+  "statute_name": "Massachusetts General Laws, Chapter 260, Section 21 (adverse possession); Chapter 187, Section 2 (easements by prescription)"
+ },
+ "michigan": {
+  "adverse_possession_note": "A person must show actual possession that was continuous, open and notorious (visible, not hidden), exclusive, and hostile (without permission, under a claim of right) for 15 uninterrupted years. Color of title does not shorten the period in Michigan \u2014 it is 15 years either way. The claim must be proved in a court action to quiet title; simply occupying the land does not automatically change the deed. Statute: Mich. Comp. Laws \u00a7 600.5801.",
+  "adverse_possession_years": 15,
+  "agency_name": "Michigan Legal Help (Michigan Supreme Court self-help program)",
+  "agency_url": "https://michiganlegalhelp.org/",
+  "easement_by_necessity_note": "Yes. Michigan recognizes an easement by necessity when an owner splits land so that one resulting parcel is landlocked except for access across the other parcel; the court implies access because the parties are assumed to have intended it. For this type of easement, strict necessity is required \u2014 no other way to reach the land.",
+  "legal_aid_name": "Lakeshore Legal Aid",
+  "legal_aid_url": "https://lakeshorelegalaid.org/",
+  "prescriptive_easement_note": "A prescriptive easement gives only a right to use someone else's land (for example, a driveway or parking area), not ownership of it. It requires use that is open, notorious, adverse (without permission), and continuous for 15 years. It differs from adverse possession in one key way: the use does not have to be exclusive \u2014 the user and the owner may both use the land. Once it vests after 15 years it runs with the land to later owners. Statute: Mich. Comp. Laws \u00a7 600.5801(4).",
+  "prescriptive_easement_years": 15,
+  "sources": [
+   "https://law.justia.com/cases/michigan/court-of-appeals-unpublished/2016/326781.html",
+   "https://www.wnj.com/updates/msc-rules-that-prescriptive-easements-vest-automatically-and-run-with-the-land-to-future-parcel-owners/",
+   "https://www.michbar.org/file/opinions/appeals/2007/032707/35476.pdf",
+   "https://michiganlegalhelp.org/"
+  ],
+  "state_note": "Michigan courts have held that a prescriptive easement vests automatically once the 15 years run, even if no lawsuit was ever filed, and it then passes with the land to the next owner.",
+  "statute_cite": "MCL 600.5801",
+  "statute_name": "Michigan Compiled Laws, Section 600.5801"
+ },
+ "minnesota": {
+  "adverse_possession_note": "The owner has 15 years to sue to recover real estate. To claim ownership, a person must prove by clear and convincing evidence actual, open, hostile, continuous, and exclusive possession for the full 15 years. For land that is separately assessed for taxes, the claimant (or their predecessors) must also have paid the taxes on it for at least five consecutive years during the claimed period \u2014 but that tax rule does not apply to boundary-line disputes or to land that is not assessed for taxes. No title to registered (Torrens) land can be gained by adverse possession. Statute: Minn. Stat. \u00a7 541.02.",
+  "adverse_possession_years": 15,
+  "agency_name": "Minnesota Judicial Branch \u2014 Self-Help / Help Topics",
+  "agency_url": "https://mncourts.gov/help-topic-sections",
+  "easement_by_necessity_note": "Yes. Minnesota courts recognize implied easements by necessity for landlocked parcels: when a single parcel is split and one part is left with no access, a court may imply an easement across the other part if there was common ownership before the split and the access is reasonably necessary.",
+  "legal_aid_name": "LawHelpMN",
+  "legal_aid_url": "https://www.lawhelpmn.org/",
+  "prescriptive_easement_note": "A prescriptive easement gives only a right to use someone else's land (for example, a driveway or farm road), not ownership of it. It uses the same elements as adverse possession \u2014 actual, open, continuous, exclusive, and hostile use for 15 years \u2014 but courts judge continuity less strictly for a use (such as seasonal farm access) than for full possession. Statute: Minn. Stat. \u00a7 541.02, as applied in Rogers v. Moore, 603 N.W.2d 650 (Minn. 1999).",
+  "prescriptive_easement_years": 15,
+  "sources": [
+   "https://www.revisor.mn.gov/statutes/2011/cite/541.02",
+   "https://mn.gov/web/prod/static/lawlib/live/archive/ctapun/0412/opa040389-1214.htm",
+   "https://www.mn.gov/web/prod/static/lawlib/live/archive/ctapun/0006/96.htm",
+   "https://lprb.mncourts.gov/about/resources-for-the-public/"
+  ],
+  "state_note": "Minnesota is unusual in tying adverse possession to tax payment: for separately assessed land, five consecutive years of tax payments during the claim period are required, except in boundary disputes.",
+  "statute_cite": "Minn. Stat. \u00a7 541.02",
+  "statute_name": "Minnesota Statutes, Section 541.02 \u2014 Recovery of Real Estate, 15 Years"
+ },
+ "mississippi": {
+  "adverse_possession_note": "Ten years of actual adverse possession, continued without interruption, vests full title in the occupant. The claimant must prove by clear and convincing evidence that the possession was under a claim of ownership, actual or hostile, open, notorious and visible, continuous and uninterrupted for 10 years, exclusive, and peaceful. Permission from the owner defeats the claim. Paying taxes does not shorten the period, but a record owner who pays the property taxes on an assessed parcel is treated as occupying it for that year, which can block a claim. A landowner who finds a fence or driveway built without permission can file a written notice with the chancery clerk within the 10 years to stop the claim from maturing. Statute: Miss. Code Ann. \u00a7 15-1-13.",
+  "adverse_possession_years": 10,
+  "agency_name": "The Mississippi Bar \u2014 Free and Low-Cost Legal Help in Mississippi",
+  "agency_url": "https://msbar.org/for-the-public/pro-bono-resources/pro-bono-services/",
+  "easement_by_necessity_note": "Yes. Mississippi recognizes easements by necessity when a parcel becomes landlocked after a commonly owned tract is split; the law assumes the common owner impliedly granted access. Mississippi uses a reasonable-necessity standard, not strict necessity, and the easement lasts only as long as the necessity exists.",
+  "legal_aid_name": "Mississippi Center for Legal Services",
+  "legal_aid_url": "https://mscenterforlegalservices.org/",
+  "prescriptive_easement_note": "A prescriptive easement gives only a right to use someone else's land (for example, a road or driveway across it), not ownership. Mississippi courts apply the same 10-year period and the same elements as adverse possession: open, notorious and visible, hostile, under a claim of ownership, exclusive, peaceful, and continuous and uninterrupted use for 10 years. Use that started with permission can never become adverse, no matter how long it lasts.",
+  "prescriptive_easement_years": 10,
+  "sources": [
+   "https://billstatus.ls.state.ms.us/documents/2000/html/SB/2900-2999/SB2923PS.htm",
+   "https://cases.justia.com/mississippi/court-of-appeals/CO36266.pdf?ts=1462380967",
+   "https://courts.ms.gov/Images/Opinions/CO101231.pdf",
+   "https://msbar.org/for-the-public/pro-bono-resources/pro-bono-services/"
+  ],
+  "state_note": "Mississippi's tax-payment rule is a trap for claimants: if the record owner pays the taxes on the assessed parcel, that payment counts as the owner's occupancy for that year.",
+  "statute_cite": "Miss. Code Ann. \u00a7 15-1-13",
+  "statute_name": "Mississippi Code, Section 15-1-13 \u2014 Ten Years' Adverse Possession Gives Title"
+ },
+ "missouri": {
+  "adverse_possession_note": "The owner has 10 years to sue to recover land. To gain title, the claimant must prove possession that was hostile (under a claim of right, without permission), actual, open and notorious, exclusive, and continuous for 10 years. Failing on even one element defeats the claim, and title is established through a court action to quiet title. Paying taxes or having a deed does not shorten the 10 years. Statute: Mo. Rev. Stat. \u00a7 516.010.",
+  "adverse_possession_years": 10,
+  "agency_name": "Missouri Courts \u2014 Existing Pro Bono Programs / Legal Services Programs",
+  "agency_url": "https://www.courts.mo.gov/page.jsp?id=43918",
+  "easement_by_necessity_note": "Yes, in two ways. Missouri recognizes a common-law easement by necessity when land is split and one parcel is left landlocked, and it also has a private-road statute (Mo. Rev. Stat. \u00a7 228.342) letting a landlocked owner ask a circuit court for a private road \u2014 but only on a showing of strict necessity, meaning the land cannot be used at all without it, not merely that access would be more convenient.",
+  "legal_aid_name": "Missouri Legal Services",
+  "legal_aid_url": "https://www.lsmo.org/",
+  "prescriptive_easement_note": "A prescriptive easement gives only a right to use someone else's land (for example, a driveway), not ownership of it. It requires continuous, uninterrupted, visible, and adverse use for at least 10 years. Once open, continuous, visible, uninterrupted use for 10 years is shown, courts presume the use was adverse, and the landowner must show it was actually permissive.",
+  "prescriptive_easement_years": 10,
+  "sources": [
+   "https://revisor.mo.gov/main/OneSection.aspx?section=516.010&bid=27817",
+   "https://stlconstructionlawyer.com/st-louis-attorney-answers-mo-real-estate-faqs/",
+   "https://elawlines.com/2016/05/24/loss-gain-easements-missouri",
+   "https://www.courts.mo.gov/page.jsp?id=43918"
+  ],
+  "state_note": "Missouri has no single statute listing the elements of adverse possession \u2014 the 10-year period comes from \u00a7 516.010, and the five elements come from Missouri court decisions.",
+  "statute_cite": "Mo. Rev. Stat. \u00a7 516.010",
+  "statute_name": "Revised Statutes of Missouri, Section 516.010 \u2014 Actions for Recovery of Lands"
+ },
+ "montana": {
+  "adverse_possession_note": "Montana has one of the shortest periods in the country \u2014 5 years \u2014 but it has a hard extra requirement: in no case is adverse possession established unless the land was occupied and claimed continuously for 5 years AND the claimant (and predecessors) paid all taxes legally levied and assessed on the land during that period. The possession must also be actual, open and notorious, exclusive, hostile (without permission), and continuous. Statute: Mont. Code Ann. \u00a7\u00a7 70-19-401, 70-19-411.",
+  "adverse_possession_years": 5,
+  "agency_name": "Montana Legislature \u2014 Montana Code Annotated, Section 70-19-411",
+  "agency_url": "https://mtjuris.com/mca/pdf/70-19-411",
+  "easement_by_necessity_note": "Yes. Montana recognizes an implied easement by necessity, but it requires (1) unity of ownership \u2014 the parcels were once one tract \u2014 and (2) strict necessity at the time that unified tract was split. A landlocked owner with no common-ownership history generally cannot get one, and neighborly permission alone cannot ripen into a prescriptive easement either.",
+  "legal_aid_name": "Montana Legal Services Association",
+  "legal_aid_url": "https://www.mtlsa.org/",
+  "prescriptive_easement_note": "A prescriptive easement gives only a right to use someone else's land (for example, a road for grazing, farming, or timber access), not ownership. Montana courts require open, notorious, exclusive, adverse, continuous and uninterrupted use for the full 5-year statutory period. Unlike adverse possession, the tax-payment requirement in \u00a7 70-19-411 applies to claiming ownership, not to claiming a right of use \u2014 but simply being a friendly neighbor who lets someone cross the land does not count as adverse use.",
+  "prescriptive_easement_years": 5,
+  "sources": [
+   "https://mtjuris.com/mca/pdf/70-19-411",
+   "https://www.findlaw.com/state/montana-law/montana-adverse-possession-laws.html",
+   "https://cases.justia.com/montana/supreme-court/1993-07-08-4417A560-09B8-4313-8536-352D42AA035F.pdf?ts=1462388031",
+   "https://cases.justia.com/montana/supreme-court/2010-04-15-75FCDAE8-2A17-4ADA-94C6-25FA90F6DF4C.pdf?ts=1462390257"
+  ],
+  "state_note": "Montana's 5-year period looks easy, but the mandatory tax-payment rule is the real barrier \u2014 many claims fail because the claimant never paid the taxes on the disputed land.",
+  "statute_cite": "Mont. Code Ann. \u00a7 70-19-411",
+  "statute_name": "Montana Code Annotated, Sections 70-19-401 and 70-19-411 \u2014 Occupancy and Payment of Taxes Necessary to Prove Adverse Possession"
+ },
+ "nebraska": {
+  "adverse_possession_note": "A person must prove by a preponderance of the evidence actual, continuous, exclusive, notorious, and adverse possession under a claim of ownership for the full 10 years. Use by earlier owners can be added together (tacking) to reach 10 years. No shorter period applies for color of title or tax payment under this statute. Statute: Neb. Rev. Stat. \u00a7 25-202.",
+  "adverse_possession_years": 10,
+  "agency_name": "Nebraska Supreme Court \u2014 Online Legal Self-Help Center",
+  "agency_url": "https://supremecourt.nebraska.gov/self-help/welcome",
+  "easement_by_necessity_note": "Yes. Nebraska recognizes easements by necessity and easements implied from prior use. An easement by necessity requires a greater degree of necessity than an implied easement from prior use, and for an easement claimed by the grantor (by reservation) strict necessity is required, while reasonable necessity is enough for one claimed by the grantee.",
+  "legal_aid_name": "Legal Aid of Nebraska",
+  "legal_aid_url": "https://www.legalaidofnebraska.org/",
+  "prescriptive_easement_note": "A prescriptive easement gives only a right to use someone else's land (for example, a road), not ownership of it. Nebraska courts apply the same 10-year period as adverse possession: the use must be exclusive, adverse, under a claim of right, continuous and uninterrupted, and open and notorious for the full 10 years, proved by clear, convincing, and satisfactory evidence. 'Exclusive' here does not mean only one person ever used it \u2014 it means the use did not depend on a similar right held by others.",
+  "prescriptive_easement_years": 10,
+  "sources": [
+   "https://nebraskalegislature.gov/laws/statutes.php?statute=25-202&print=true",
+   "https://www.nebraska.gov/apps-courts-epub/public/viewCertified?docId=N00012365PUB",
+   "https://law.justia.com/cases/nebraska/supreme-court/2015/s-14-861.html",
+   "https://www.nefindalawyer.com/guide/59727ff7f36a56002e00039a/Low-Income-Legal-Assistance.html"
+  ],
+  "state_note": "Nebraska courts treat prescriptive easements as 'not looked upon with favor,' so the claimant faces a higher standard of proof (clear, convincing, and satisfactory evidence) than for an ordinary civil claim.",
+  "statute_cite": "Neb. Rev. Stat. \u00a7 25-202",
+  "statute_name": "Nebraska Revised Statutes, Section 25-202 \u2014 Actions for the Recovery of Title or Possession of Real Estate"
+ },
+ "nevada": {
+  "adverse_possession_note": "Nevada has a 5-year period: the owner must have been in possession of the land within 5 years before suing to recover it. To claim ownership, a person must also show 5 years of continuous occupation plus payment of all taxes levied on the land during that time (NRS 11.150), and the land must have been protected by a substantial enclosure or cultivated or improved in the usual way. The possession must be open, continuous, and hostile (without permission). Statute: Nev. Rev. Stat. \u00a7\u00a7 11.070, 11.080, 11.150.",
+  "adverse_possession_years": 5,
+  "agency_name": "Nevada Legislature \u2014 Nevada Revised Statutes, Chapter 11",
+  "agency_url": "https://www.leg.state.nv.us/division/legal/lawlibrary/nrs/NRS-011.html",
+  "easement_by_necessity_note": "Yes. Nevada recognizes easements by necessity and easements by implication: when a parcel is landlocked and needs access across another property to reach a public road, a court may imply an easement, based on the parties' intent when the properties were divided and on reasonable necessity.",
+  "legal_aid_name": "Nevada Legal Services",
+  "legal_aid_url": "https://nevadalegalservices.org/",
+  "prescriptive_easement_note": "A prescriptive easement gives only a right to use someone else's land (for example, a road across it), not ownership. Nevada courts require adverse, continuous, open, and peaceable use for a 5-year period, proved by clear and convincing evidence. Long use that the owner simply never noticed is not necessarily adverse, and use with the owner's express or implied permission is a license, not a prescriptive easement.",
+  "prescriptive_easement_years": 5,
+  "sources": [
+   "https://www.leg.state.nv.us/division/legal/lawlibrary/nrs/NRS-011.html",
+   "https://archive.leg.state.nv.us/Session/79th2017/Exhibits/Senate/JUD/SJUD1057D.pdf",
+   "https://ournevadajudges.com/assets/docs/cases/pdf/5307-38144.pdf",
+   "https://law.justia.com/cases/nevada/supreme-court/1993/24272-1.html"
+  ],
+  "state_note": "Nevada pairs a short 5-year clock with a strict tax-payment rule for adverse possession, and it separately criminalizes unlawful occupancy of a home \u2014 occupying a house without permission is not a safe path to ownership.",
+  "statute_cite": "NRS 11.070; NRS 11.080; NRS 11.150",
+  "statute_name": "Nevada Revised Statutes, Chapter 11 \u2014 Limitation of Actions (Sections 11.070, 11.080, 11.150)"
+ },
+ "new hampshire": {
+  "adverse_possession_note": "No action to recover real estate may be brought after 20 years from when the right to recover first accrued. To gain title, the claimant must prove by a balance of probabilities 20 years of adverse, continuous, and uninterrupted use, in a way that gives reasonable notice to the record owner that an adverse claim is being made, plus exclusive use. 'Adverse' means use without license or permission \u2014 it is trespassory in nature, and permission defeats the claim. The claimant must get a court judgment (usually a petition to quiet title). No person can gain title to state lands by adverse possession. Statute: N.H. Rev. Stat. Ann. \u00a7 508:2.",
+  "adverse_possession_years": 20,
+  "agency_name": "New Hampshire Judicial Branch \u2014 Legal Assistance Resources",
+  "agency_url": "https://www.courts.nh.gov/self-help/getting-started/legal-assistance",
+  "easement_by_necessity_note": "Yes, but narrowly. New Hampshire recognizes easements by necessity as a type of implied easement, arising from the presumed intent of the parties when land was subdivided \u2014 but necessity alone is not enough. The surrounding circumstances must show the parties intended an easement, including that both parcels were once under one ownership and the split created the access problem.",
+  "legal_aid_name": "New Hampshire Legal Assistance",
+  "legal_aid_url": "https://www.nhla.org/",
+  "prescriptive_easement_note": "A prescriptive easement gives only a right to use someone else's land (for example, a path or driveway), not ownership. New Hampshire requires 20 years of adverse, continuous, and uninterrupted use. The scope of the easement is limited to the kind of use that actually happened over those 20 years \u2014 for example, a footpath used for 20 years does not automatically become a right to drive vehicles over it.",
+  "prescriptive_easement_years": 20,
+  "sources": [
+   "https://gc.nh.gov/rsa/html/LII/508/508-mrg.htm",
+   "https://courts-state-nh-us.libguides.com/c.php?g=888584&p=6387955",
+   "https://www.apislaw.com/post/prescriptive-easements-scope-of-use",
+   "https://www.courts.nh.gov/self-help/getting-started/legal-assistance"
+  ],
+  "state_note": "New Hampshire courts stress that the claimant carries the burden of proof throughout \u2014 even after showing acts that look non-permissive \u2014 and that a later agreement making the use permissive can break the 20-year clock.",
+  "statute_cite": "N.H. Rev. Stat. Ann. \u00a7 508:2",
+  "statute_name": "New Hampshire Revised Statutes Annotated, Section 508:2 \u2014 Real Actions"
+ },
+ "new jersey": {
+  "adverse_possession_note": "New Jersey's standard period is 30 years of actual possession \u2014 and 60 years for woodlands or uncultivated tracts. Title does not vest until the full 30 (or 60) years have passed. The claimant must prove possession that was adverse or hostile, exclusive, continuous, uninterrupted, visible, and open and notorious. Older sources sometimes say 20 years, because two other statutes (\u00a7\u00a7 2A:14-6 and 2A:14-7) use 20 years for bringing a real-estate action, but the New Jersey Supreme Court in J & M Land Co. v. First Union National Bank, 166 N.J. 493 (2001), held that the 30- or 60-year period governs adverse possession. Statute: N.J. Stat. Ann. \u00a7\u00a7 2A:14-30, 2A:14-31.",
+  "adverse_possession_years": 30,
+  "agency_name": "State of New Jersey \u2014 Legal Aid / Legal Services of New Jersey",
+  "agency_url": "https://www.nj.gov/basicneeds/legal-aid/family-law.shtml",
+  "easement_by_necessity_note": "Yes. New Jersey recognizes easements by necessity as a subset of implied easements: when a parcel is landlocked with no reasonable access to a public road and the parcels were once under common ownership, courts will grant access across a neighboring property. The easement lasts only as long as the necessity exists.",
+  "legal_aid_name": "Legal Services of New Jersey",
+  "legal_aid_url": "https://lsnj.org/",
+  "prescriptive_easement_note": "A prescriptive easement gives only a right to use someone else's land (for example, a shared driveway), not ownership. New Jersey requires adverse or hostile, exclusive, continuous, uninterrupted, visible, and open and notorious use for 30 years (the same period as adverse possession for developed land). It differs from adverse possession on exclusivity: for a prescriptive easement, the claimant's use may be shared with the record owner and still count, while adverse possession requires use exclusive of everyone, including the owner.",
+  "prescriptive_easement_years": 30,
+  "sources": [
+   "https://static.case.law/nj/166/case-pdfs/0493-01.pdf",
+   "https://pub.njleg.gov/bills/2008/A2500/2054_S3.HTM",
+   "https://www.newjerseylawyersblog.com/new-jersey-real-estate-law-decision-examines-difference-between-analysis-of-adverse-possession-and-proscriptive-easements/",
+   "https://www.nolo.com/legal-encyclopedia/state-state-rules-adverse-possession.html"
+  ],
+  "state_note": "New Jersey has the longest standard period in this set \u2014 30 years, or 60 for woodlands and uncultivated land \u2014 and its courts have warned that the 20-year figure found in some older guides is the wrong statute for adverse possession.",
+  "statute_cite": "N.J.S.A. 2A:14-30; N.J.S.A. 2A:14-31",
+  "statute_name": "New Jersey Statutes Annotated, Sections 2A:14-30 and 2A:14-31 \u2014 Adverse Possession"
+ }
+}
