@@ -1,0 +1,867 @@
+{
+ "states": {
+  "alabama": {
+   "agency_name": null,
+   "agency_url": null,
+   "deadline_note": "File a charge with the EEOC within 180 calendar days of the harassment (or the last incident, for ongoing harassment). Alabama has no state fair-employment agency, so the deadline is not extended to 300 days.",
+   "legal_aid_name": "Legal Services Alabama",
+   "legal_aid_url": "https://legalservicesalabama.org/",
+   "phone": "1-866-456-4995",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://www.eeoc.gov/field-office/birmingham/timeliness",
+    "https://www.eeoc.gov/time-limits-filing-charge",
+    "https://www.alabamalegalhelp.org/resource/lost-your-job",
+    "https://legalservicesalabama.org/employment-opportunities/"
+   ],
+   "state_note": "Alabama has no state agency that takes harassment complaints and no state law against sex discrimination in private employment, so a worker's only route is the federal EEOC, which covers employers with 15 or more employees.",
+   "statute_cite": null,
+   "statute_name": "No state fair-employment law covering sexual harassment; protection comes from Title VII of the Civil Rights Act of 1964 (federal)"
+  },
+  "alaska": {
+   "agency_name": "Alaska State Commission for Human Rights",
+   "agency_url": "https://humanrights.alaska.gov/services/complaints/",
+   "deadline_note": "The Commission's own website says to contact it within 300 days of the act, but Alaska Stat. \u00a7 18.80.100 and 6 AAC 30.230 set the formal complaint deadline at 180 days for acts on or after August 22, 1997, so file within 180 days to be safe. The EEOC deadline in Alaska is 300 days.",
+   "legal_aid_name": "Alaska Legal Services Corporation",
+   "legal_aid_url": "https://www.alsc-law.org/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://humanrights.alaska.gov/services/complaints/",
+    "https://www.akleg.gov/basis/Bill/Plaintext/23?Hsid=SB0354A",
+    "https://www.alsc-law.org/wp-content/uploads/2013/11/2016-app-barrow.pdf"
+   ],
+   "state_note": "Alaska's Human Rights Law covers employers with one or more employees, far broader than Title VII's 15-employee threshold. Note the conflicting 180-day vs. 300-day guidance on the Commission's own site.",
+   "statute_cite": "Alaska Stat. \u00a7 18.80.220",
+   "statute_name": "Alaska Human Rights Law"
+  },
+  "arizona": {
+   "agency_name": "Arizona Civil Rights Division, Office of the Arizona Attorney General",
+   "agency_url": "https://www.azag.gov/civil-rights/faq",
+   "deadline_note": "File with the Arizona Civil Rights Division within 180 days of the harassment, or with the EEOC within 300 days (Arizona is a deferral state). A charge filed with one agency is generally dual-filed with the other.",
+   "legal_aid_name": "Community Legal Services",
+   "legal_aid_url": "https://clsaz.org/",
+   "phone": "(602) 542-5263",
+   "phone_label": "State agency",
+   "sources": [
+    "https://legalaidaz.com/discrimination/",
+    "https://www.stephenslawny.com/employee-rights/file_az/",
+    "https://clsaz.org/apply-for-services/"
+   ],
+   "state_note": "Arizona's sexual-harassment ban is broader than Title VII: it covers employers with as few as one employee for sexual harassment claims, while most other discrimination claims need 15 or more employees.",
+   "statute_cite": "Ariz. Rev. Stat. \u00a7 41-1461 et seq.",
+   "statute_name": "Arizona Civil Rights Act"
+  },
+  "arkansas": {
+   "agency_name": null,
+   "agency_url": null,
+   "deadline_note": "File a charge with the EEOC within 180 calendar days of the harassment; the EEOC's Memphis office states 180 days for Arkansas. Arkansas has no state enforcement agency for harassment claims. A lawsuit under the Arkansas Civil Rights Act must be brought within one year of the discrimination or within 90 days of receiving an EEOC right-to-sue notice, whichever is later (Ark. Code Ann. \u00a7 16-123-107).",
+   "legal_aid_name": "Legal Aid of Arkansas",
+   "legal_aid_url": "https://arlegalaid.org/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://www.eeoc.gov/field-office/memphis/timeliness",
+    "https://www.workplacefairness.org/harassment-complaint-state-law/",
+    "https://webftp.blr.arkansas.gov/Home/FTPDocument?path=Bills%2F2011%2FPublic%2FHB1352.pdf",
+    "https://arlegalaid.org/contact-us/overview.html"
+   ],
+   "state_note": "Arkansas has no state fair-employment agency, so harassment claims go to the EEOC; the state Civil Rights Act is enforced by filing a lawsuit in court, and it covers employers with nine or more employees, smaller than Title VII's 15.",
+   "statute_cite": "Ark. Code Ann. \u00a7 16-123-101 et seq.",
+   "statute_name": "Arkansas Civil Rights Act of 1993"
+  },
+  "california": {
+   "agency_name": "California Civil Rights Department (CRD)",
+   "agency_url": "https://calcivilrights.ca.gov/complaintprocess/?content=fileComplaint",
+   "deadline_note": "Submit an intake form to the CRD within three years of the date you were last harmed; after the CRD issues a right-to-sue notice you have one year to file a lawsuit. The EEOC deadline is 300 days, and a CRD complaint is dual-filed with the EEOC.",
+   "legal_aid_name": "Legal Aid at Work",
+   "legal_aid_url": "https://legalaidatwork.org/",
+   "phone": "800-884-1684",
+   "phone_label": "State agency",
+   "sources": [
+    "https://calcivilrights.ca.gov/complaintprocess/?content=fileComplaint",
+    "http://calcivilrights.ca.gov/employment/",
+    "https://www.ca.gov/departments/215/services/27/",
+    "https://legalaidatwork.org/lawsuit-alleges-longstanding-sexual-harassment-of-female-truck-driver-at-bimbo-bakeries-in-bakersfield/"
+   ],
+   "state_note": "California has the longest filing window of these states (three years) and FEHA's harassment ban covers employers with just one employee. Employers with five or more employees must provide sexual-harassment prevention training.",
+   "statute_cite": "Cal. Gov. Code \u00a7\u00a7 12940(j), 12960",
+   "statute_name": "Fair Employment and Housing Act (FEHA)"
+  },
+  "colorado": {
+   "agency_name": "Colorado Civil Rights Division (CCRD)",
+   "agency_url": "https://ccrd.colorado.gov/discrimination",
+   "deadline_note": "File a charge with the CCRD within 300 days of the discriminatory or unfair employment practice (C.R.S. \u00a7 24-34-403). The EEOC deadline in Colorado is also 300 days.",
+   "legal_aid_name": "Colorado Legal Services",
+   "legal_aid_url": "https://www.coloradolegalservices.org/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://ccrd.colorado.gov/discrimination",
+    "https://www.coloradolegalservices.org/farm-worker-rights/",
+    "https://members.employerscouncil.org/blogs/community-manager/2022/06/03/legislature-amends-colorado-anti-discrimination-ac"
+   ],
+   "state_note": "CADA covers employers of all sizes, including one-employee workplaces. Colorado's 2023 POWR Act lowered the state harassment standard so conduct no longer has to meet the old 'severe or pervasive' test.",
+   "statute_cite": "Colo. Rev. Stat. \u00a7 24-34-401 et seq.",
+   "statute_name": "Colorado Anti-Discrimination Act (CADA)"
+  },
+  "connecticut": {
+   "agency_name": "Connecticut Commission on Human Rights and Opportunities (CHRO)",
+   "agency_url": "https://portal.ct.gov/CHRO/Complaint-Process/Complaint-Process/Complaint-Processing",
+   "deadline_note": "File a formal, sworn complaint with the CHRO within 300 days of the alleged act (Conn. Gen. Stat. \u00a7 46a-82). Simply calling the CHRO or filling out an inquiry form does not count as filing. The EEOC deadline in Connecticut is also 300 days.",
+   "legal_aid_name": "Statewide Legal Services of Connecticut",
+   "legal_aid_url": "https://www.slsct.org/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://portal.ct.gov/CHRO/Complaint-Process/Complaint-Process/Complaint-Processing",
+    "https://www.jud.ct.gov/lawlib/Law/discharge.htm",
+    "https://ctlawhelp.org/files/pamphlets/benefits_work/when-legal-fired-EN-tfold.pdf"
+   ],
+   "state_note": "Connecticut requires employers to provide sexual-harassment prevention training and to post a notice about the law. The 300-day CHRO deadline replaced a 180-day deadline for acts on or after October 1, 2019.",
+   "statute_cite": "Conn. Gen. Stat. \u00a7 46a-60",
+   "statute_name": "Connecticut Fair Employment Practices Act (CFEPA)"
+  },
+  "delaware": {
+   "agency_name": "Delaware Department of Labor, Office of Anti-Discrimination (Division of Industrial Affairs)",
+   "agency_url": "https://labor.delaware.gov/antidiscrimination",
+   "deadline_note": "File a verified charge with the Delaware Department of Labor within 300 days of the alleged unlawful employment practice or its discovery (19 Del. C. \u00a7 712). The EEOC deadline in Delaware is also 300 days.",
+   "legal_aid_name": "Community Legal Aid Society, Inc. (CLASI)",
+   "legal_aid_url": "https://www.declasi.org/",
+   "phone": "302-761-8200",
+   "phone_label": "State agency",
+   "sources": [
+    "https://laborfiles.delaware.gov/main/dia/olle/DE_sexual_harrassment_notice_2024.pdf",
+    "https://legis.delaware.gov/SessionLaws/Chapter?id=15871",
+    "https://www.declasi.org/about-clasi/",
+    "https://industrialaffairs.delaware.gov/hubfs/Brochures%20and%20One%20Pagers/Industrial%20Affairs/Empowering%20You%20at%20Work/DOL%20IA%20Empowering%20You%20at%20Work%20Flyer%20-%20English%20v3.pdf?hsLang=en-us"
+   ],
+   "state_note": "Delaware's employment-discrimination complaints go to the Department of Labor's Office of Anti-Discrimination, not the Division of Human Relations (which handles housing and public accommodations). A 2018 Delaware law added specific sexual-harassment notice and training requirements.",
+   "statute_cite": "19 Del. C. \u00a7 710 et seq.",
+   "statute_name": "Delaware Discrimination in Employment Act"
+  },
+  "florida": {
+   "agency_name": "Florida Commission on Human Relations (FCHR)",
+   "agency_url": "https://fchr.myflorida.com/employment-complaint",
+   "deadline_note": "File a complaint with the FCHR within 365 days of the alleged violation (Fla. Stat. \u00a7 760.11(1)). The EEOC deadline in Florida is 300 days, and the FCHR and EEOC dual-file charges under a worksharing agreement, so filing within 300 days preserves both.",
+   "legal_aid_name": "Florida Legal Services, Inc.",
+   "legal_aid_url": "https://www.floridalegal.org/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://fchr.myflorida.com/faq-frequently-asked-questions",
+    "https://fchr.myflorida.com/employment-complaint",
+    "https://www.immigrationadvocates.org/legaldirectory/organization.733163-Florida_Legal_Services_Inc"
+   ],
+   "state_note": "Florida's 365-day state deadline is longer than the federal 300-day deadline, giving workers extra time at the state agency. The FCHR states it enforces the Florida Civil Rights Act, Florida Statutes Chapter 760.",
+   "statute_cite": "Fla. Stat. \u00a7 760.10",
+   "statute_name": "Florida Civil Rights Act of 1992"
+  },
+  "georgia": {
+   "agency_name": "Georgia Commission on Equal Opportunity (Equal Employment Division) \u2014 state-government employees only",
+   "agency_url": "https://gceo.georgia.gov/how-file-employment-complaint",
+   "deadline_note": "For most private-sector workers, file a charge with the EEOC within 300 days of the harassment, per the EEOC Atlanta District Office. The Georgia Commission on Equal Opportunity takes employment complaints only from state-government employees, within 180 days under the Georgia Fair Employment Practices Act.",
+   "legal_aid_name": "Georgia Legal Services Program",
+   "legal_aid_url": "https://www.glsp.org/",
+   "phone": "1-800-498-9469",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://www.eeoc.gov/field-office/atlanta/timeliness",
+    "https://gceo.georgia.gov/how-file-employment-complaint",
+    "https://consumer.georgia.gov/consumer-topics/employment-disputes",
+    "https://www.glsp.org/need-help/"
+   ],
+   "state_note": "Georgia has no broad state law against sexual harassment by private employers; private-sector workers rely on federal Title VII through the EEOC, while the state agency and state Act cover only state-government employees.",
+   "statute_cite": "O.C.G.A. \u00a7 45-19-20 et seq.",
+   "statute_name": "Georgia Fair Employment Practices Act"
+  },
+  "hawaii": {
+   "agency_name": "Hawai'i Civil Rights Commission",
+   "agency_url": "https://labor.hawaii.gov/hcrc/",
+   "deadline_note": "File with the Hawai'i Civil Rights Commission within 1 year of the harassment \u2014 Act 56 (2026) extended the HCRC deadline from 180 days to one year, effective May 28, 2026, for claims not yet expired on that date. File with the EEOC within 300 days.",
+   "legal_aid_name": "Legal Aid Society of Hawai'i",
+   "legal_aid_url": "https://www.legalaidhawaii.org/",
+   "phone": "(808) 586-8636",
+   "phone_label": "State agency",
+   "sources": [
+    "https://labor.hawaii.gov/hcrc/faqs/",
+    "https://data.capitol.hawaii.gov/hrscurrent/Vol07_Ch0346-0398/HRS0378/HRS_0378-0002.htm",
+    "https://www.legalaidhawaii.org/employment-opportunities.html"
+   ],
+   "state_note": "Hawai'i's HCRC deadline was extended to one year in 2026, longer than the old 180-day limit and longer than the 300-day EEOC deadline. State law bans sex discrimination expressly including gender identity or expression (HRS \u00a7 378-2).",
+   "statute_cite": "HRS \u00a7 378-2",
+   "statute_name": "Hawai'i Employment Practices Act"
+  },
+  "idaho": {
+   "agency_name": "Idaho Human Rights Commission",
+   "agency_url": "https://humanrights.idaho.gov/",
+   "deadline_note": "File with the Idaho Human Rights Commission within 1 year of the alleged discrimination (Idaho Code \u00a7 67-5907). File with the EEOC within 300 days.",
+   "legal_aid_name": "Idaho Legal Aid Services",
+   "legal_aid_url": "https://idaholegalaid.org/",
+   "phone": "(208) 334-2873",
+   "phone_label": "State agency",
+   "sources": [
+    "https://legislature.idaho.gov/statutesrules/idstat/title67/t67ch59/sect67-5907/",
+    "https://legislature.idaho.gov/statutesrules/idstat/title67/t67ch59/sect67-5909/",
+    "https://www.labor.idaho.gov/wp-content/uploads/2026/05/Let-us-help-you_Complaints.pdf",
+    "https://idaholegalaid.org/careers/employment-opportunities"
+   ],
+   "state_note": "Idaho law covers employers with 5 or more employees, below Title VII's 15-employee threshold, so workers at small employers should file with the state commission. The 1-year state deadline is longer than the 300-day federal deadline.",
+   "statute_cite": "Idaho Code \u00a7 67-5909",
+   "statute_name": "Idaho Human Rights Act"
+  },
+  "illinois": {
+   "agency_name": "Illinois Department of Human Rights",
+   "agency_url": "https://dhr.illinois.gov/filing-a-charge",
+   "deadline_note": "File a charge with the Illinois Department of Human Rights within 2 years of the violation (775 ILCS 5/7A-102(A)(1), as extended by Public Act 103-0973 effective January 1, 2025). File with the EEOC within 300 days.",
+   "legal_aid_name": "Prairie State Legal Services",
+   "legal_aid_url": "https://www.pslegal.org/",
+   "phone": "(312) 814-6200",
+   "phone_label": "State agency",
+   "sources": [
+    "https://dhr.illinois.gov/about-us/news-and-media/all-news/2024-12-30-idhr-extends-statute-of-limitations.html",
+    "https://www.Ilga.gov/legislation/ilcs/fulltext?DocName=077500050K7A-102",
+    "https://www.pslegal.org/"
+   ],
+   "state_note": "Illinois covers employers with 1 or more employees for sexual harassment claims, and all employers must provide sexual-harassment prevention training. The 2-year IDHR deadline (since January 1, 2025) is far longer than the old 300-day limit; Prairie State Legal Services covers 36 counties in northern and central Illinois.",
+   "statute_cite": "775 ILCS 5",
+   "statute_name": "Illinois Human Rights Act"
+  },
+  "indiana": {
+   "agency_name": "Indiana Civil Rights Commission",
+   "agency_url": "https://www.in.gov/icrc/file-a-discrimination-complaint/how-to-file/",
+   "deadline_note": "File with the Indiana Civil Rights Commission within 180 days of the alleged discriminatory act. File with the EEOC within 300 days, since Indiana is a deferral state with its own fair-employment agency.",
+   "legal_aid_name": "Indiana Legal Services, Inc.",
+   "legal_aid_url": "https://www.indianalegalservices.org/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://www.in.gov/icrc/file-a-discrimination-complaint/how-to-file/",
+    "https://www.in.gov/icrc/enforcement/employment/",
+    "https://www.indianalegalservices.org/what-we-do/"
+   ],
+   "state_note": "Indiana's 180-day state deadline is shorter than the 300-day EEOC deadline, so a worker who misses the state window may still preserve the federal claim by filing with the EEOC within 300 days.",
+   "statute_cite": "Ind. Code \u00a7 22-9-1",
+   "statute_name": "Indiana Civil Rights Law"
+  },
+  "iowa": {
+   "agency_name": "Iowa Office of Civil Rights (Iowa Civil Rights Commission)",
+   "agency_url": "https://icrc.iowa.gov/file-complaint",
+   "deadline_note": "File with the Iowa Office of Civil Rights within 300 days of the latest discriminatory incident. The EEOC deadline is also 300 days, and the two agencies cross-file, so one timely filing can preserve both claims.",
+   "legal_aid_name": "Iowa Legal Aid",
+   "legal_aid_url": "https://www.iowalegalaid.org",
+   "phone": "(515) 281-4121",
+   "phone_label": "State agency",
+   "sources": [
+    "https://icrc.iowa.gov/file-complaint",
+    "https://www.legis.iowa.gov/docs/code/2026/216.6.pdf",
+    "https://search.211iowa.org/search/8b681320-3ef5-5fbf-a015-7e3c1071c087"
+   ],
+   "state_note": "Iowa's 300-day state deadline matches the 300-day EEOC deadline. After a complaint has been on file for 60 days, a worker can request a right-to-sue letter and file in court.",
+   "statute_cite": "Iowa Code ch. 216",
+   "statute_name": "Iowa Civil Rights Act"
+  },
+  "kansas": {
+   "agency_name": "Kansas Human Rights Commission",
+   "agency_url": "http://www.khrc.net/complaint.html",
+   "deadline_note": "File with the Kansas Human Rights Commission within 6 months of the last alleged discriminatory act (K.S.A. 44-1005(i)). File with the EEOC within 300 days.",
+   "legal_aid_name": "Kansas Legal Services",
+   "legal_aid_url": "https://www.kansaslegalservices.org/",
+   "phone": "(785) 296-3206",
+   "phone_label": "State agency",
+   "sources": [
+    "http://www.khrc.net/complaint.html",
+    "http://www.KHRC.net/faq.html",
+    "https://www.kansaslegalservices.org/"
+   ],
+   "state_note": "Kansas law covers employers with 4 or more employees, and the 6-month state deadline is much shorter than the 300-day EEOC deadline, so file early. The Commission offers a mediation program statewide through Kansas Legal Services.",
+   "statute_cite": "K.S.A. \u00a7\u00a7 44-1001 et seq.",
+   "statute_name": "Kansas Act Against Discrimination"
+  },
+  "kentucky": {
+   "agency_name": "Kentucky Commission on Human Rights",
+   "agency_url": "https://kchr.ky.gov/Pages/File-a-Complaint.aspx",
+   "deadline_note": "File with the Kentucky Commission on Human Rights within 180 days of the alleged unlawful practice (KRS 344.200). File with the EEOC within 300 days.",
+   "legal_aid_name": "Legal Aid of the Bluegrass",
+   "legal_aid_url": "https://lablaw.org/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://kchr.ky.gov/About/Pages/FAQs.aspx",
+    "https://kchr.ky.gov/Pages/File-a-Complaint.aspx",
+    "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=44394",
+    "https://lablaw.org/"
+   ],
+   "state_note": "Kentucky covers employers with 8 or more employees, and filing with the Commission is optional \u2014 a worker can also sue directly in circuit court (KRS 344.450). Kentucky has four regional legal-aid programs rather than one statewide program; Legal Aid of the Bluegrass serves central and northern Kentucky.",
+   "statute_cite": "KRS ch. 344",
+   "statute_name": "Kentucky Civil Rights Act"
+  },
+  "louisiana": {
+   "agency_name": "Louisiana Commission on Human Rights",
+   "agency_url": "https://complaints.lchr.la.gov/ComplaintForms/Employment",
+   "deadline_note": "File a complaint with the Louisiana Commission on Human Rights within 180 days of the discrimination, and file with the EEOC within 300 days. A state-law lawsuit must be filed within 1 year (La. R.S. 23:303), with written notice to the employer at least 30 days before suing.",
+   "legal_aid_name": "Southeast Louisiana Legal Services",
+   "legal_aid_url": "https://slls.org/en/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://complaints.lchr.la.gov/ComplaintForms/Employment",
+    "https://www.workplacefairness.org/filing-a-discrimination-claim-louisiana/",
+    "https://probonodeskmanual.loyno.edu/employment-law/721-eeoc-and-lchr",
+    "https://www.womenslaw.org/node/42295/T"
+   ],
+   "state_note": "Filing with the Louisiana Commission on Human Rights is not required before suing in court under state law, and the 1-year state-law suit deadline runs separately from the agency deadlines. Free legal aid is regional: Southeast Louisiana Legal Services covers the southeast parishes, and Acadiana Legal Service Corporation covers central and northern Louisiana.",
+   "statute_cite": "La. Rev. Stat. \u00a7\u00a7 23:301 et seq.",
+   "statute_name": "Louisiana Employment Discrimination Law"
+  },
+  "maine": {
+   "agency_name": "Maine Human Rights Commission",
+   "agency_url": "https://maine.gov/mhrc/file",
+   "deadline_note": "File with the Maine Human Rights Commission within 300 days of the act of discrimination (5 M.R.S.A. \u00a7 4611). The EEOC deadline is also 300 days.",
+   "legal_aid_name": "Pine Tree Legal Assistance",
+   "legal_aid_url": "https://www.ptla.org/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://maine.gov/mhrc/file",
+    "https://maine.gov/mhrc/about",
+    "https://www.ptla.org/fair-employment-project"
+   ],
+   "state_note": "Maine's 300-day deadline matches the EEOC's, and the Commission generally must conclude its investigation within 2 years of the complaint being filed. Pine Tree Legal Assistance has a statewide Employment/Farmworker Unit.",
+   "statute_cite": "5 M.R.S.A. \u00a7\u00a7 4551 et seq.",
+   "statute_name": "Maine Human Rights Act"
+  },
+  "maryland": {
+   "agency_name": "Maryland Commission on Civil Rights",
+   "agency_url": "https://mccr.maryland.gov/complaint-investigative-process/start-complaint-inquiry/timeliness",
+   "deadline_note": "File a harassment complaint with the Maryland Commission on Civil Rights within 2 years of the harassment (Md. Code, State Gov't \u00a7 20-1004); other employment discrimination complaints are due within 300 days. The EEOC deadline is 300 days.",
+   "legal_aid_name": "Maryland Legal Aid",
+   "legal_aid_url": null,
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://mccr.maryland.gov/complaint-investigative-process/start-complaint-inquiry/timeliness",
+    "http://mccr.maryland.gov/know-your-rights/employment",
+    "http://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=gsg&section=20-606&enactments=false"
+   ],
+   "state_note": "Maryland gives harassment complaints a 2-year filing window with the Commission \u2014 far longer than the 300 days for other discrimination complaints. State law covers employers with 15 or more employees, the same threshold as Title VII.",
+   "statute_cite": "Md. Code, State Gov't \u00a7\u00a7 20-601 et seq.",
+   "statute_name": "Maryland Fair Employment Practices Act"
+  },
+  "massachusetts": {
+   "agency_name": "Massachusetts Commission Against Discrimination (MCAD)",
+   "agency_url": "https://www.mass.gov/info-details/deadline-for-filing-a-complaint-of-discrimination-at-the-mcad",
+   "deadline_note": "A complaint must be filed with MCAD within 300 days of the last discriminatory act. The EEOC deadline is also 300 days in Massachusetts because it is a deferral state.",
+   "legal_aid_name": "Greater Boston Legal Services (Workers' Rights Unit)",
+   "legal_aid_url": "https://www.gbls.org/get-legal-help/our-services/workers-rights",
+   "phone": "(617) 994-6000",
+   "phone_label": "State agency",
+   "sources": [
+    "https://www.mass.gov/info-details/deadline-for-filing-a-complaint-of-discrimination-at-the-mcad",
+    "https://www.mass.gov/workplace-discrimination",
+    "https://www.gbls.org/get-legal-help/our-services/workers-rights"
+   ],
+   "state_note": "MCAD is the required first step for a Chapter 151B claim, and it cross-files with the EEOC. Massachusetts gives workers 300 days, longer than the 180-day federal baseline in non-deferral states.",
+   "statute_cite": "M.G.L. c. 151B",
+   "statute_name": "Massachusetts Fair Employment Practices Act"
+  },
+  "michigan": {
+   "agency_name": "Michigan Department of Civil Rights (MDCR)",
+   "agency_url": "https://www.michigan.gov/mdcr/for-victims-of-unlawful-discrimination",
+   "deadline_note": "A complaint must be filed with MDCR within 180 days of the alleged act of discrimination. The EEOC deadline is 300 days in Michigan, and MDCR notes a state-court lawsuit may be filed within three years without first filing with MDCR.",
+   "legal_aid_name": "Michigan Advocacy Program \u2014 Legal Services of South Central Michigan",
+   "legal_aid_url": "https://miadvocacy.org/",
+   "phone": "1-800-482-3604",
+   "phone_label": "State agency",
+   "sources": [
+    "https://www.michigan.gov/mdcr/news/releases/2021/04/20/sexual-harassment",
+    "https://www.michigan.gov/mdcr/for-victims-of-unlawful-discrimination",
+    "https://miadvocacy.org/"
+   ],
+   "state_note": "Michigan has two very different clocks: only 180 days for the state agency, but 300 days for the EEOC and up to three years to file directly in state court under ELCRA.",
+   "statute_cite": null,
+   "statute_name": "Elliott-Larsen Civil Rights Act (ELCRA)"
+  },
+  "minnesota": {
+   "agency_name": "Minnesota Department of Human Rights (MDHR)",
+   "agency_url": "https://mn.gov/mdhr/intake/what-happens-next/",
+   "deadline_note": "A charge must be filed with MDHR within one year of the incident. The EEOC deadline is 300 days in Minnesota because it is a deferral state.",
+   "legal_aid_name": "LawHelpMN (Minnesota Legal Services Coalition)",
+   "legal_aid_url": "https://www.lawhelpmn.org",
+   "phone": "651-539-1100",
+   "phone_label": "State agency",
+   "sources": [
+    "https://mn.gov/mdhr/intake/what-happens-next/",
+    "https://mn.gov/mdhr/intake/what-happens-next/process-longdesc.jsp",
+    "https://www.lawhelpmn.org/sites/default/files/2025-11/2026%20E-07%20%20Discrimination%20and%20Harassment%20at%20Work.pdf"
+   ],
+   "state_note": "Minnesota's one-year state deadline is longer than the EEOC's 300 days, so the state filing gives workers more time. MDHR charges are free and no lawyer is required to file.",
+   "statute_cite": "Minn. Stat. ch. 363A (\u00a7 363A.08)",
+   "statute_name": "Minnesota Human Rights Act"
+  },
+  "mississippi": {
+   "agency_name": null,
+   "agency_url": null,
+   "deadline_note": "Mississippi has no state fair-employment agency, so there is no state filing and no 300-day extension. An EEOC charge must be filed within 180 days of the alleged harm, for employers with 15 or more employees.",
+   "legal_aid_name": "Mississippi Center for Legal Services",
+   "legal_aid_url": "https://www.mscenterforlegalservices.org",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://www.eeoc.gov/field-office/jackson/timeliness",
+    "https://www.mscenterforlegalservices.org/wp-content/uploads/2012/07/MCLSC2.brochure08.pdf",
+    "https://msbar.org/for-the-public/pro-bono-resources/pro-bono-services/"
+   ],
+   "state_note": "Mississippi is one of the few states with no general state law banning workplace discrimination by private employers and no state fair-employment agency, so protection comes entirely from federal law and the short 180-day EEOC clock applies.",
+   "statute_cite": "42 U.S.C. \u00a7 2000e",
+   "statute_name": "Title VII of the Civil Rights Act of 1964 (no state fair-employment statute)"
+  },
+  "missouri": {
+   "agency_name": "Missouri Commission on Human Rights (MCHR)",
+   "agency_url": "https://labor.mo.gov/mohumanrights/file-complaint",
+   "deadline_note": "A complaint under the Missouri Human Rights Act must be filed with MCHR within 180 days of the alleged discrimination. The EEOC deadline is 300 days in Missouri because it is a deferral state, and charges are generally dual-filed with both agencies.",
+   "legal_aid_name": "Missouri Legal Services (statewide legal-aid portal)",
+   "legal_aid_url": "https://www.lsmo.org/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://labor.mo.gov/mohumanrights/file-complaint",
+    "https://labor.mo.gov/mohumanrights/discrimination/employment",
+    "https://www.lsmo.org/"
+   ],
+   "state_note": "Missouri workers face two clocks: 180 days for the state commission but 300 days for the EEOC, so filing promptly preserves both. A right-to-sue letter is needed before suing under the state act.",
+   "statute_cite": "Mo. Rev. Stat. ch. 213 (\u00a7 213.075)",
+   "statute_name": "Missouri Human Rights Act"
+  },
+  "montana": {
+   "agency_name": "Montana Human Rights Bureau (Department of Labor and Industry)",
+   "agency_url": "https://erd.dli.mt.gov/human-rights/filing-a-complaint/",
+   "deadline_note": "A complaint must be filed with the Human Rights Bureau within 180 days after the alleged discriminatory act occurred or was discovered. The EEOC deadline is 300 days. The 180-day state period may be extended in limited circumstances, including while an internal grievance procedure is underway.",
+   "legal_aid_name": "Montana Legal Services Association (MLSA)",
+   "legal_aid_url": "https://www.mtlsa.org/our-work/",
+   "phone": "1-800-542-0807",
+   "phone_label": "State agency",
+   "sources": [
+    "https://erd.dli.mt.gov/human-rights/faq",
+    "https://erd.dli.mt.gov/human-rights/filing-a-complaint/",
+    "https://erd.dli.mt.gov/human-rights/filing-a-complaint/self-drafted-complaint",
+    "https://www.mtlsa.org/our-work/"
+   ],
+   "state_note": "Montana's Bureau expressly lists sex, including sexual harassment, as a protected basis, and its FAQ gives the two clocks side by side: 180 days for state law, 300 days for federal law.",
+   "statute_cite": "Mont. Code Ann. tit. 49, ch. 2 (\u00a7 49-2-501)",
+   "statute_name": "Montana Human Rights Act"
+  },
+  "nebraska": {
+   "agency_name": "Nebraska Equal Opportunity Commission (NEOC)",
+   "agency_url": "https://neoc.nebraska.gov/complaint-process",
+   "deadline_note": "A written charge must be filed with NEOC within 300 days of the alleged unlawful employment practice, under Neb. Rev. Stat. \u00a7 48-1118(2). The EEOC deadline is also 300 days in Nebraska.",
+   "legal_aid_name": "Legal Aid of Nebraska",
+   "legal_aid_url": "https://legalaidofnebraska.org/what-we-do/programs/",
+   "phone": "1-877-250-2016",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://neoc.nebraska.gov/complaint-process",
+    "https://neoc.nebraska.gov/employment",
+    "https://www.nebraskalegislature.gov/laws/statutes.php?statute=48-1118&print=true",
+    "https://legalaidofnebraska.org/what-we-do/programs/"
+   ],
+   "state_note": "Nebraska is unusual in giving workers the full 300 days for the state charge as well as the federal charge; older sources quoting 180 days for Nebraska reflect a superseded period in the statute.",
+   "statute_cite": "Neb. Rev. Stat. \u00a7 48-1118",
+   "statute_name": "Nebraska Fair Employment Practice Act"
+  },
+  "nevada": {
+   "agency_name": "Nevada Equal Rights Commission (NERC)",
+   "agency_url": "https://detr.nv.gov/nerc/",
+   "deadline_note": "A complaint must be filed with NERC within 300 days of the alleged discriminatory conduct, under NRS 233.160(1)(b). The EEOC deadline is also 300 days in Nevada, and NERC now accepts complaints online.",
+   "legal_aid_name": "Legal Aid Center of Southern Nevada",
+   "legal_aid_url": "https://www.lacsn.org",
+   "phone": "(702) 486-7161",
+   "phone_label": "State agency",
+   "sources": [
+    "https://detr.nv.gov/nerc/",
+    "https://detr.nv.gov/Content/Media/FilingACharge.pdf",
+    "https://detr.nv.gov/content/media/Facts_About_Equal_Pay_.pdf"
+   ],
+   "state_note": "Nevada law covers employers with 15 or more employees, the same threshold as Title VII, and NERC's own fact sheets confirm the 300-day deadline and that retaliation for filing a charge is unlawful.",
+   "statute_cite": "NRS 613.310\u2013613.4383; NRS 233.160",
+   "statute_name": "Nevada Fair Employment Practices law (Equal Opportunities for Employment)"
+  },
+  "new hampshire": {
+   "agency_name": "New Hampshire Commission for Human Rights",
+   "agency_url": "https://www.humanrights.nh.gov/complaints-inquiries/submit-complaint",
+   "deadline_note": "A formal charge of discrimination must be filed with the Commission within 180 days of the last date of discrimination, under RSA 354-A:21, III. The EEOC deadline is 300 days in New Hampshire because it is a deferral state.",
+   "legal_aid_name": "New Hampshire Legal Assistance (NHLA)",
+   "legal_aid_url": "http://www.nhla.org/",
+   "phone": "(603) 271-2767",
+   "phone_label": "State agency",
+   "sources": [
+    "https://www.humanrights.nh.gov/complaints-inquiries/submit-complaint",
+    "https://law.justia.com/codes/new-hampshire/title-xxxi/chapter-354-a/section-354-a-21/",
+    "https://courts-state-nh-us.libguides.com/c.php?g=889722&p=8485616"
+   ],
+   "state_note": "New Hampshire's 180-day state deadline is short and has no good-cause extension written into the statute, while the federal EEOC window runs to 300 days; the state law applies to employers with six or more employees.",
+   "statute_cite": "RSA 354-A (\u00a7 354-A:21)",
+   "statute_name": "New Hampshire Law Against Discrimination"
+  },
+  "new jersey": {
+   "agency_name": "New Jersey Division on Civil Rights (DCR)",
+   "agency_url": "https://www.njoag.gov/about/divisions-and-offices/division-on-civil-rights-home/know-the-law/njlad/",
+   "deadline_note": "A complaint must be filed with DCR within 180 days of the incident. The EEOC deadline is 300 days in New Jersey, and a lawsuit may instead be filed in New Jersey Superior Court within two years of the alleged violation.",
+   "legal_aid_name": "Legal Services of New Jersey",
+   "legal_aid_url": "https://www.lsnjlaw.org",
+   "phone": "1-833-NJDCR4U",
+   "phone_label": "State agency",
+   "sources": [
+    "https://www.njoag.gov/about/divisions-and-offices/division-on-civil-rights-home/know-the-law/njlad/",
+    "https://www.njoag.gov/wp-content/uploads/2021/09/fact_LAD.pdf",
+    "https://proxy.lsnj.org/rcenter/GetPublicDocument/Sites/LSNJ/Documents/Brochures/WLRPBrochure.pdf"
+   ],
+   "state_note": "The LAD is one of the strongest state anti-discrimination laws: it has no minimum employer size, covers domestic workers, and lets a worker sue in Superior Court within two years without filing with an agency first.",
+   "statute_cite": "N.J.S.A. 10:5-1 et seq.",
+   "statute_name": "New Jersey Law Against Discrimination (LAD)"
+  },
+  "new mexico": {
+   "agency_name": "New Mexico Department of Workforce Solutions, Human Rights Bureau",
+   "agency_url": null,
+   "deadline_note": "File with the Human Rights Bureau within 300 calendar days of the last act of discrimination or harassment, under NMSA 1978, \u00a7 28-1-10 and 9.1.1.8 NMAC; the EEOC deadline is also 300 days in New Mexico.",
+   "legal_aid_name": "New Mexico Legal Aid",
+   "legal_aid_url": "https://www.newmexicolegalaid.org/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://www.srca.nm.gov/parts/title09/09.001.0001.html",
+    "https://www.law.cornell.edu/regulations/new-mexico/N-M-Admin-Code-SS-9.1.1.8",
+    "https://www.eeoc.gov/index%2ephp/time-limits-filing-charge"
+   ],
+   "state_note": "The Human Rights Act bans sexual harassment as sex discrimination and its 300-day state deadline is longer than the 180-day federal baseline. The Bureau also takes EEOC (dual-filed) charges.",
+   "statute_cite": "NMSA 1978, \u00a7 28-1-7",
+   "statute_name": "New Mexico Human Rights Act"
+  },
+  "new york": {
+   "agency_name": "New York State Division of Human Rights",
+   "agency_url": "https://dhr.ny.gov/node/7701",
+   "deadline_note": "File with the Division of Human Rights within three years of the most recent incident for acts on or after February 15, 2024 (three years also applies to workplace sexual harassment claims before that date); file with the EEOC within 300 days to preserve the federal claim.",
+   "legal_aid_name": "The Legal Aid Society \u2014 Employment Law Unit",
+   "legal_aid_url": "https://legalaidnyc.org/get-help/employment/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://dhr.ny.gov/node/7701",
+    "https://www.ny.gov/COMBATING-SEXUAL-HARASSMENT-WORKPLACE/EMPLOYEES",
+    "https://ag.ny.gov/publications/workplace-discrimination-and-harassment",
+    "https://legalaidnyc.org/get-help/employment/"
+   ],
+   "state_note": "New York law requires all employers, regardless of size, to provide a workplace free from sexual harassment, and requires every employer to have a sexual-harassment prevention policy and annual training. The Division also runs a sexual-harassment hotline, 1-800-HARASS-3, with referrals to volunteer attorneys.",
+   "statute_cite": "N.Y. Executive Law \u00a7 296",
+   "statute_name": "New York State Human Rights Law"
+  },
+  "north carolina": {
+   "agency_name": null,
+   "agency_url": null,
+   "deadline_note": "There is no state agency where a private-sector worker can file a harassment complaint, so the EEOC is the route: the EEOC Charlotte District Office states a worker has 300 days from the date of alleged harm to file a charge in North Carolina for sex discrimination against an employer with 15 or more employees.",
+   "legal_aid_name": "Legal Aid of North Carolina",
+   "legal_aid_url": "https://legalaidnc.org/get-help/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://Www.eeoc.gov/field-office/charlotte/timeliness",
+    "https://WWW.EEOC.GOV/field-office/raleigh/timeliness",
+    "https://legalaidnc.org/get-help/"
+   ],
+   "state_note": "North Carolina has no state fair-employment agency for private-sector workers: the Equal Employment Practices Act has no complaint procedure or enforcement provision, and the N.C. Human Relations Commission administers fair housing, not private-sector employment complaints (it investigates charges referred by the EEOC). File with the EEOC early and do not wait for the 300th day.",
+   "statute_cite": "N.C.G.S. \u00a7 143-422.1 et seq.",
+   "statute_name": "North Carolina Equal Employment Practices Act"
+  },
+  "north dakota": {
+   "agency_name": "North Dakota Department of Labor and Human Rights, Human Rights Division",
+   "agency_url": "https://www.nd.gov/labor/file-human-rights-intake-complaint",
+   "deadline_note": "File a complaint with the Department or bring an action in district court within 300 days of the alleged act of wrongdoing, under N.D.C.C. \u00a7 14-02.4-19(2); the EEOC deadline is also 300 days.",
+   "legal_aid_name": "Legal Services of North Dakota",
+   "legal_aid_url": "https://lsnd.org/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://www.nd.gov/labor/sites/default/files/documents/Brochures/How%20to%20File%20a%20Discrimination%20Complaint%20in%20ND.pdf",
+    "https://www.nd.gov/labor/file-human-rights-intake-complaint",
+    "https://www.womenslaw.org/find-help/nd/finding-lawyer/legal-assistance"
+   ],
+   "state_note": "North Dakota covers employers with one or more employees (for more than one quarter of the year), and a worker may sue in district court directly without first filing with the Department \u2014 the two routes are alternatives, not steps in sequence.",
+   "statute_cite": "N.D.C.C. ch. 14-02.4",
+   "statute_name": "North Dakota Human Rights Act"
+  },
+  "ohio": {
+   "agency_name": "Ohio Civil Rights Commission",
+   "agency_url": "https://civ.ohio.gov/",
+   "deadline_note": "File an employment charge with the Ohio Civil Rights Commission within two years of the last discriminatory act (the Commission's own charge form states two years for employment complaints, as changed by the 2021 Employment Law Uniformity Act); file with the EEOC within 300 days to preserve the federal claim.",
+   "legal_aid_name": "Ohio Legal Help",
+   "legal_aid_url": "https://www.ohiolegalhelp.org/detail/employment-discrimination-and-harassment",
+   "phone": "1-888-278-7101",
+   "phone_label": "State agency",
+   "sources": [
+    "https://civ.ohio.gov/how-to-file-a-charge/filing-a-charge/online/1-online",
+    "https://dam.assets.ohio.gov/image/upload/civ.ohio.gov/Charge%20Forms/Employment%20Charge%20Affidavit%20and%20Intention%20Questionnaire.pdf",
+    "https://www.ohiolegalhelp.org/detail/employment-discrimination-and-harassment",
+    "https://www.ohiolegalhelp.org/resource/ohio-civil-rights"
+   ],
+   "state_note": "Ohio's law covers employers with four or more employees, below the federal 15-employee threshold. A worker generally must file with the Commission and get a right-to-sue notice before suing in state court.",
+   "statute_cite": "Ohio Rev. Code \u00a7 4112.02",
+   "statute_name": "Ohio Civil Rights Act"
+  },
+  "oklahoma": {
+   "agency_name": "Oklahoma Attorney General, Office of Civil Rights Enforcement",
+   "agency_url": null,
+   "deadline_note": "File an employment complaint with the Office of Civil Rights Enforcement within 180 days of the last alleged discriminatory act; file with the EEOC within 300 days to preserve the federal claim.",
+   "legal_aid_name": "Legal Aid Services of Oklahoma",
+   "legal_aid_url": null,
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://www.law.cornell.edu/regulations/oklahoma/OAC-340-1-11-12",
+    "https://www.eeoc.gov/index%2ephp/time-limits-filing-charge"
+   ],
+   "state_note": "Oklahoma abolished its Human Rights Commission in 2012 and folded enforcement into the Attorney General's office. There is no dual-filing arrangement between the state office and the EEOC, so a worker may need to file separately with both agencies to preserve both state and federal claims.",
+   "statute_cite": "Okla. Stat. tit. 25, \u00a7\u00a7 1101-1706",
+   "statute_name": "Oklahoma Anti-Discrimination Act"
+  },
+  "oregon": {
+   "agency_name": "Oregon Bureau of Labor and Industries, Civil Rights Division",
+   "agency_url": null,
+   "deadline_note": "A discrimination complaint to BOLI may be filed up to five years after the occurrence of the alleged unlawful employment practice, under ORS 659A.820(3), because harassment is a discrimination claim under ORS 659A.030; but file with the EEOC within 300 days to preserve the federal claim, since the federal clock is much shorter.",
+   "legal_aid_name": "Legal Aid Services of Oregon",
+   "legal_aid_url": "https://lasoregon.org/services/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://www.oregon.gov/boli/apprenticeship/Standards/1156_2031.0.pdf",
+    "https://oregon.public.law/statutes/ors_659a.875",
+    "https://lasoregon.org/services/",
+    "https://www.eeoc.gov/index%2ephp/time-limits-filing-charge"
+   ],
+   "state_note": "Oregon law covers all employers regardless of size, unlike Title VII's 15-employee threshold, and its five-year state deadline is unusually long \u2014 but the 300-day EEOC deadline still controls the federal claim, so do not wait.",
+   "statute_cite": "ORS 659A.030; ORS 659A.820",
+   "statute_name": "Oregon Unlawful Discrimination in Employment Law"
+  },
+  "pennsylvania": {
+   "agency_name": "Pennsylvania Human Relations Commission",
+   "agency_url": "https://www.pa.gov/services/phrc/file-an-employment-discrimination-complaint",
+   "deadline_note": "File with the Pennsylvania Human Relations Commission within 180 days of the alleged discrimination; file with the EEOC within 300 days to preserve the federal claim. The 180-day state deadline is the shorter one, so treat it as the real deadline.",
+   "legal_aid_name": "Pennsylvania Legal Aid Network",
+   "legal_aid_url": "https://palegalaid.net/explore-your-issue-palawhelporg",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://www.pa.gov/services/phrc/file-an-employment-discrimination-complaint",
+    "https://www.pa.gov/agencies/phrc/programs-and-services/file-a-complaint",
+    "https://www.palawhelp.org/issues/individual-rights/employment-discrimination-1?channel=legal-information&category=information-from-the-pennsylvania-legal-aid-n&lang=ZH",
+    "https://palegalaid.net/explore-your-issue-palawhelporg"
+   ],
+   "state_note": "The Pennsylvania Human Relations Act covers employers with four or more employees, and the Commission will also file an employment complaint with the EEOC if the allegations are protected under federal law.",
+   "statute_cite": "43 P.S. \u00a7 959",
+   "statute_name": "Pennsylvania Human Relations Act"
+  },
+  "rhode island": {
+   "agency_name": "Rhode Island Commission for Human Rights",
+   "agency_url": "https://richr.ri.gov/filecharge/index.php",
+   "deadline_note": "File a charge with the Commission within one year of the alleged unfair practice (or of when it terminated or was applied to affect the worker, whichever is later), under R.I. Gen. Laws \u00a7 28-5-17; file with the EEOC within 300 days to preserve the federal claim.",
+   "legal_aid_name": "Rhode Island Legal Services",
+   "legal_aid_url": "https://www.helprilaw.org/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://richr.ri.gov/filecharge/index.php",
+    "https://rules.sos.ri.gov/regulations/part/515-10-00-2",
+    "https://centerforjustice.org/wp-content/uploads/2026/01/Resource-Guide-Jan-2026.pdf"
+   ],
+   "state_note": "Rhode Island law covers employers with four or more employees, below the federal 15-employee threshold, and its one-year state deadline runs from when the practice terminated for ongoing harassment.",
+   "statute_cite": "R.I. Gen. Laws \u00a7 28-5-7; \u00a7 28-5-17",
+   "statute_name": "Rhode Island Fair Employment Practices Act"
+  },
+  "south carolina": {
+   "agency_name": "South Carolina Human Affairs Commission",
+   "agency_url": "https://schac.sc.gov/employment-discrimination/how-file-employment-complaints/",
+   "deadline_note": "File with the South Carolina Human Affairs Commission within 180 days of the discriminatory act; a complaint filed after 180 days but within 300 days is transferred to the EEOC, and the EEOC deadline for a federal charge is 300 days.",
+   "legal_aid_name": "South Carolina Legal Services",
+   "legal_aid_url": "https://sclegal.org/services/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://schac.sc.gov/employment-discrimination/how-file-employment-complaints/",
+    "https://schac.sc.gov/node/64",
+    "https://sclegal.org/services/"
+   ],
+   "state_note": "South Carolina's Human Affairs Law covers employers with 15 or more employees, the same as Title VII, and the Commission dual-files charges with the EEOC under a work-sharing agreement.",
+   "statute_cite": "S.C. Code \u00a7 1-13-90",
+   "statute_name": "South Carolina Human Affairs Law"
+  },
+  "south dakota": {
+   "agency_name": "South Dakota Division of Human Rights, Department of Labor and Regulation",
+   "agency_url": "https://dlr.sd.gov/human_rights/",
+   "deadline_note": "File with the Division of Human Rights within 180 days of the last discriminatory act under state law; a dual-filed federal charge has a 300-day EEOC deadline.",
+   "legal_aid_name": "Dakota Plains Legal Services",
+   "legal_aid_url": "https://www.dpls.org/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://dlr.sd.gov/human_rights/",
+    "http://DLR.SD.GOV/human_rights/publications/cplegalguide.pdf",
+    "https://www.dpls.org/"
+   ],
+   "state_note": "The Human Relations Act covers employers with as few as one employee. South Dakota has regional legal-aid providers rather than one statewide provider; Dakota Plains serves western South Dakota and tribal communities, while East River Legal Services serves eastern South Dakota.",
+   "statute_cite": "SDCL 20-13-10",
+   "statute_name": "South Dakota Human Relations Act"
+  },
+  "tennessee": {
+   "agency_name": "Tennessee Human Rights Commission (THRC)",
+   "agency_url": "https://www.tn.gov/humanrights.html",
+   "deadline_note": "File with the THRC within 180 days of the alleged discriminatory act; file with the EEOC within 300 days. A state lawsuit must be filed within one year.",
+   "legal_aid_name": "Legal Aid Society of Middle Tennessee and the Cumberlands",
+   "legal_aid_url": "https://las.org/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://www.TN.GOV/content/dam/tn/humanrights/documents/2019 English Complaint Form.pdf",
+    "https://law.justia.com/codes/tennessee/2021/title-4/chapter-21/part-3/section-4-21-302/",
+    "https://las.org/get-help/cases-we-take/?ref=pamphleteer.co"
+   ],
+   "state_note": "The Tennessee Human Rights Act covers employers with 8 or more employees, below Title VII's 15-employee threshold. Legal Aid Society handles employment cases, including unfair treatment at work because of sex.",
+   "statute_cite": "Tenn. Code Ann. \u00a7 4-21-101 et seq.",
+   "statute_name": "Tennessee Human Rights Act"
+  },
+  "texas": {
+   "agency_name": "Texas Workforce Commission, Civil Rights Division (TWC CRD)",
+   "agency_url": "https://www.twc.texas.gov/programs/civil-rights/employment-discrimination",
+   "deadline_note": "For sexual harassment, file with the TWC Civil Rights Division within 300 days of the harassment; most other discrimination claims have a 180-day state deadline. The EEOC deadline in Texas is 300 days.",
+   "legal_aid_name": "Texas RioGrande Legal Aid (TRLA)",
+   "legal_aid_url": "https://www.trla.org/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://www.twc.texas.gov/programs/civil-rights/employment-discrimination",
+    "https://www.trla.org/careerspage/"
+   ],
+   "state_note": "Texas sexual-harassment protections apply to employers with just 1 or more employees, unlike the 15-employee threshold for most other discrimination claims under Chapter 21. TRLA is the largest legal-aid provider in Texas and handles labor and employment cases.",
+   "statute_cite": "Tex. Lab. Code \u00a7 21.202",
+   "statute_name": "Texas Labor Code Chapter 21 (Texas Commission on Human Rights Act)"
+  },
+  "utah": {
+   "agency_name": "Utah Antidiscrimination and Labor Division (UALD), Utah Labor Commission",
+   "agency_url": "https://laborcommission.utah.gov/divisions/utah-antidiscrimination-and-labor-uald/employment-discrimination/",
+   "deadline_note": "File a charge with UALD within 180 days of the last alleged discriminatory act; if more than 180 but less than 300 days have passed, the charge is sent to the EEOC, whose deadline is 300 days.",
+   "legal_aid_name": "Utah Legal Services",
+   "legal_aid_url": "https://www.utahlegalservices.org/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://laborcommission.utah.gov/divisions/utah-antidiscrimination-and-labor-uald/employment-discrimination/",
+    "https://le.utah.gov/xcode/Title34A/Chapter5/C34A-5-S107_2018050820180508.pdf",
+    "https://www.utahlegalservices.org/sites/utahlegalservices.org/files/Staff%20Attorney%20Housing%20Description%20(part-time).pdf"
+   ],
+   "state_note": "The Utah Antidiscrimination Act generally applies to employers with at least 15 employees. UALD's process is the exclusive remedy under state law for employment discrimination based on sex and retaliation, among other bases.",
+   "statute_cite": "Utah Code Ann. \u00a7 34A-5-101 et seq.",
+   "statute_name": "Utah Antidiscrimination Act"
+  },
+  "vermont": {
+   "agency_name": "Vermont Attorney General's Office, Civil Rights Unit (private employers); Vermont Human Rights Commission (state government employees)",
+   "agency_url": "https://workplacesforall.vermont.gov/workers/file-a-complaint",
+   "deadline_note": "Vermont-law claims must be filed within one year of the last incident; federal claims must be filed within 300 days. Private-employer complaints go to the Attorney General's Civil Rights Unit; state-employee complaints go to the Human Rights Commission.",
+   "legal_aid_name": "Vermont Legal Aid",
+   "legal_aid_url": "https://www.vtlegalaid.org/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://workplacesforall.vermont.gov/workers/file-a-complaint",
+    "https://hrc.vermont.gov/complaint",
+    "https://www.vtlegalaid.org/about-vla/jobs"
+   ],
+   "state_note": "Vermont's Fair Employment Practices Act covers employers with 1 or more employees, and workers may file directly in state court within one year without first filing an administrative complaint. Enforcement is split by employer type, which is unusual.",
+   "statute_cite": "21 V.S.A. \u00a7\u00a7 495-495h",
+   "statute_name": "Vermont Fair Employment Practices Act"
+  },
+  "virginia": {
+   "agency_name": "Virginia Division of Human Rights, Office of Civil Rights, Office of the Attorney General",
+   "agency_url": "https://www.oag.state.va.us/files/OCR/OCR_COMPLAINT_PROCESS.pdf",
+   "deadline_note": "File with the Division of Human Rights within 180 days of the discriminatory practice under state law; a complaint alleging a violation of federal employment-discrimination law must be filed within 300 days.",
+   "legal_aid_name": "Virginia Legal Aid Society",
+   "legal_aid_url": "https://www.vlas.org/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://law.lis.virginia.gov/admincode/title1/agency45/chapter20/section30/",
+    "https://www.oag.state.va.us/files/OCR/OCR_COMPLAINT_PROCESS.pdf",
+    "https://www.womenslaw.org/find-help/va/finding-lawyer/legal-assistance"
+   ],
+   "state_note": "Virginia's 2020 amendments expanded the Virginia Human Rights Act, and state law can cover smaller employers not covered by Title VII. Virginia Legal Aid Society is regional (central, Southside and western Tidewater Virginia), not statewide.",
+   "statute_cite": "Va. Code \u00a7 2.2-3900 et seq.",
+   "statute_name": "Virginia Human Rights Act"
+  },
+  "washington": {
+   "agency_name": "Washington State Human Rights Commission (WSHRC)",
+   "agency_url": "https://hum.wa.gov/employment",
+   "deadline_note": "File an employment-discrimination complaint with WSHRC within six months of the alleged harm; the EEOC deadline is 300 days. The full intake and perfected charge must be completed within the six-month state limit.",
+   "legal_aid_name": "Northwest Justice Project",
+   "legal_aid_url": "https://www.nwjustice.org/",
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://hum.wa.gov/employment",
+    "http://app.leg.wa.gov/RCW/default.aspx?cite=49.60.230",
+    "https://www.nwjustice.org/careers/"
+   ],
+   "state_note": "Washington's Law Against Discrimination covers employers with 8 or more employees, and its six-month state deadline is shorter than the 300-day federal deadline, so workers should start the state intake promptly.",
+   "statute_cite": "RCW 49.60",
+   "statute_name": "Washington Law Against Discrimination"
+  },
+  "west virginia": {
+   "agency_name": "West Virginia Human Rights Commission",
+   "agency_url": "https://oig.wv.gov/HRC",
+   "deadline_note": "File with the West Virginia Human Rights Commission within 365 days of the most recent discriminatory act; file with the EEOC within 300 days.",
+   "legal_aid_name": "Legal Aid of West Virginia",
+   "legal_aid_url": null,
+   "phone": null,
+   "phone_label": null,
+   "sources": [
+    "https://oig.wv.gov/HRC",
+    "https://PERSONNEL.WV.GOV/equal-opportunity",
+    "http://code.wvlegislature.gov/16B-17-9/"
+   ],
+   "state_note": "West Virginia's 365-day state deadline is more generous than most states, and the Act covers employers with 12 or more employees. The Act was recodified in 2024 from W. Va. Code Chapter 5, Article 11 to Chapter 16B, Article 17.",
+   "statute_cite": "W. Va. Code \u00a7 16B-17-1 et seq.",
+   "statute_name": "West Virginia Human Rights Act"
+  },
+  "wisconsin": {
+   "agency_name": "Wisconsin Equal Rights Division, Department of Workforce Development",
+   "agency_url": "https://www.dwd.wisconsin.gov/er/civilrights/discrimination/",
+   "deadline_note": "File a complaint with the Equal Rights Division within 300 days of the alleged discrimination; the EEOC deadline is also 300 days.",
+   "legal_aid_name": "Legal Action of Wisconsin",
+   "legal_aid_url": "https://legalaction.org/",
+   "phone": "855-947-2529",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://www.dwd.wisconsin.gov/er/civilrights/discrimination/",
+    "https://docs.legis.wisconsin.gov/1999/statutes/statutes/111/ii/39/6/_2?down=1",
+    "https://legalaction.org/merger-announcement/"
+   ],
+   "state_note": "Wisconsin's state and federal deadlines match at 300 days. Legal Action of Wisconsin merged with Judicare Legal Aid effective January 1, 2026, forming a single statewide civil legal-aid organization.",
+   "statute_cite": "Wis. Stat. \u00a7 111.39(1)",
+   "statute_name": "Wisconsin Fair Employment Act"
+  },
+  "wyoming": {
+   "agency_name": "Wyoming Department of Workforce Services, Labor Standards Division \u2014 Wyoming Fair Employment Program (WFEP)",
+   "agency_url": "https://dws.wyo.gov/dws-division/labor-standards/",
+   "deadline_note": "File a state charge with the Labor Standards Division / WFEP within six months (180 days) of the discriminatory act; the EEOC deadline is 300 days, and WFEP cross-files with the EEOC.",
+   "legal_aid_name": "Legal Aid of Wyoming",
+   "legal_aid_url": "https://www.lawyoming.org/",
+   "phone": "877-432-9955",
+   "phone_label": "Legal aid",
+   "sources": [
+    "https://dws.wyo.gov/dws-division/labor-standards/",
+    "https://dws.wyo.gov/dws-division/labor-standards/workers-and-job-seekers/",
+    "https://Www.Eeoc.Gov/field-office/denver/timeliness",
+    "https://www.lawyoming.org/blog/legal-aid-hotline-helps-wyoming-citizens-in-need-of-free-legal-advice.amp"
+   ],
+   "state_note": "Wyoming's state process covers workplaces with two or more employees, and there is no private right of action under Wyoming law for discrimination claims, so the agency/EEOC route is the path. Legal Aid of Wyoming's hotline is staffed by licensed attorneys.",
+   "statute_cite": null,
+   "statute_name": "Wyoming Fair Employment Practices Act"
+  }
+ }
+}
