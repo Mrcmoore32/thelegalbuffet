@@ -1,0 +1,217 @@
+{
+  "south-dakota": {
+    "state": "South Dakota",
+    "slug": "south-dakota",
+    "foster_overview": "When a child cannot safely stay home, a court or law enforcement removes the child and the South Dakota Department of Social Services (DSS), Division of Child Protection Services, takes custody and places the child with a safe foster or kinship family. Foster parents provide a temporary home, daily care, and support for reunification while the child's family works to resolve the safety concerns.",
+    "aging_out_age": "A youth ages out of foster care at 18, the age of majority in South Dakota. The juvenile court's jurisdiction over an abused or neglected child can extend until age 21, under S.D. Codified Laws sections 26-7A-1(6), 26-7A-102, and 26-8A-29.",
+    "extended_care": "Yes, but only narrowly: a child welfare agency, including DSS, may continue foster care to age 21 if the youth was in foster care immediately before turning 18, has not yet finished 12th grade or is in a continuing course of remedial treatment, and consents in writing, under S.D. Codified Laws section 26-6-6.1. Youth ages 16 through 20 can also take part in an Independent Living Preparation Program (ILPP) for supervision and training in self-sufficiency, and the law does not allow re-entry once a youth has left.",
+    "benefits_after": "Youth who age out can get help through DSS transition services, including the Independent Living Preparation Program and the Foster Care Transition Program for youth ages 14 to 21, which cover life skills and education support. The federal Education and Training Voucher (ETV) program helps pay for college or job training, and youth who were in foster care and on Medicaid at 18 can keep Medicaid coverage as former foster youth until age 26.",
+    "become_foster_parent": "Contact the South Dakota Department of Social Services, Division of Child Protection Services, to start the process through its Stronger Families Together program. Foster parents must be at least 21, pass background and abuse/neglect screening, have a safe home and enough income to support their own family, and complete foster parent education and training.",
+    "kinship_care": "Yes — relatives are considered before any other placement whenever possible, under South Dakota's relative-preference law, S.D. Codified Laws section 26-7A-19. Relatives can become licensed kinship foster parents and receive the same monthly foster care support as other foster families.",
+    "agency_name": "South Dakota Department of Social Services, Division of Child Protection Services",
+    "agency_url": "https://dss.sd.gov/childprotection/placement.aspx",
+    "legal_aid_name": "East River Legal Services",
+    "legal_aid_url": "https://erlservices.org/",
+    "sources": [
+      "https://dss.sd.gov/childprotection/placement.aspx",
+      "https://dss.sd.gov/childprotection/fostercare/faqs.aspx",
+      "https://www.childwelfare.gov/resources/extension-foster-care-beyond-age-18-south-dakota/",
+      "https://law.justia.com/codes/south-dakota/2014/title-26/chapter-06/section-26-6-6.1/",
+      "https://jlc.org/issues/extended-foster-care/south-dakota",
+      "https://erlservices.org/"
+    ]
+  },
+  "tennessee": {
+    "state": "Tennessee",
+    "slug": "tennessee",
+    "foster_overview": "When a child is removed from home for abuse or neglect, the Tennessee Department of Children's Services (DCS) takes custody and places the child in a foster home, with relatives, or in a group setting while the family works toward reunification or another permanent plan. Foster parents provide daily care in a family home and work with DCS and the child's parents as part of the care team.",
+    "aging_out_age": "A youth ages out of foster care at 18. Tennessee law, Tenn. Code Ann. section 37-2-417, then allows voluntary extended foster care services for young adults ages 18 to 21 who were in DCS custody on their 18th birthday.",
+    "extended_care": "Yes — Tennessee offers Extension of Foster Care Services to age 21 for youth who were in DCS custody at 18 and voluntarily sign a placement agreement. To stay in care the youth must be finishing high school or its equivalent, enrolled in postsecondary or vocational education, in a program to remove barriers to employment, working at least 80 hours a month, or unable to do those things because of a documented medical condition; youth who first declined can re-enter before age 21.",
+    "benefits_after": "DCS provides Independent Living services and its Bright Futures program, and the federal Chafee program serves Tennessee youth up to age 23. Youth can get Education and Training Vouchers (ETV) of up to $5,000 a year for college or job training, and Tennessee's TennCare Independent Foster Care Adolescents category continues Medicaid for youth who were in foster care at 18, up to age 21.",
+    "become_foster_parent": "Apply through the Tennessee Department of Children's Services foster care program, which also works with licensed private agencies. Applicants must be at least 21, pass state and federal criminal background checks, complete a home study, and finish the free TN KEY pre-service training.",
+    "kinship_care": "Yes — under Tennessee's Kinship Foster Care Program, Tenn. Code Ann. section 37-2-414, DCS must try for at least 30 days after removal to place a child with a relative. Approved kinship foster parents, generally relatives within the first, second, or third degree who are 21 or older, can receive the full foster care rate and other foster parent benefits, and DCS also runs a separate Relative Caregiver Program with support services for relatives caring for children outside foster care.",
+    "agency_name": "Tennessee Department of Children's Services",
+    "agency_url": "https://www.tn.gov/dcs/program-areas/foster-care.html",
+    "legal_aid_name": "Legal Aid Society of Middle Tennessee and the Cumberlands",
+    "legal_aid_url": "https://las.org/",
+    "sources": [
+      "https://www.tn.gov/dcs/program-areas/foster-care.html",
+      "https://www.childwelfare.gov/resources/extension-foster-care-beyond-age-18-tennessee/",
+      "https://www.tn.gov/dcs/program-areas/prevention/relative-caregiver.html",
+      "https://www.childwelfare.gov/resources/placement-children-relatives-tennessee/",
+      "https://acf.gov/cb/grant-funding/john-h-chafee-foster-care-independence-program",
+      "https://las.org/"
+    ]
+  },
+  "texas": {
+    "state": "Texas",
+    "slug": "texas",
+    "foster_overview": "When a court finds a child cannot safely stay home, the Texas Department of Family and Protective Services (DFPS), Child Protective Services, takes managing conservatorship and places the child in a foster home, with kin, or in a residential setting. Foster parents provide a temporary family home and daily care while DFPS works toward reunification, guardianship, or adoption.",
+    "aging_out_age": "A youth ages out of foster care at 18. Texas Family Code sections 263.6015, 263.602, and 263.6021 govern extended foster care and trial independence after 18.",
+    "extended_care": "Yes — Texas offers Extended Foster Care to age 21, and to age 22 to finish high school, for youth who sign a voluntary foster care agreement. To stay in care the youth must be in school or vocational training, working at least 80 hours a month, in a program to remove barriers to employment, or unable to do those things because of a disability; youth who leave can return to extended care, and a Supervised Independent Living option lets them live on their own while still in care.",
+    "benefits_after": "DFPS Transitional Living Services, including the Preparation for Adult Living (PAL) program, serve youth ages 14 to 23 with life-skills training, a Transitional Living Allowance, and Aftercare Room and Board help. Youth who were in foster care at 18 keep Former Foster Care Children's Medicaid until age 26, can get Education and Training Vouchers (ETV) of up to $5,000 a year until age 23, and can use the state College Tuition and Fee Waiver at Texas public colleges if they enroll before age 27.",
+    "become_foster_parent": "Apply through the Texas Department of Family and Protective Services or a licensed child-placing agency that works with DFPS. Applicants must be at least 21, financially stable, pass criminal history and abuse/neglect background checks for household members age 14 and older, complete a home study and free training, and hold CPR and first aid certification.",
+    "kinship_care": "Yes — kinship caregivers are the preferred placement in Texas, and relatives or close family friends can care for a child in DFPS conservatorship. Kinship caregivers can get a monthly Relative and Other Designated Caregiver (RODC) payment and one-time placement help, and they can become verified kinship foster homes under separate kinship standards for extra financial support; relatives who take permanent care may qualify for Permanency Care Assistance.",
+    "agency_name": "Texas Department of Family and Protective Services",
+    "agency_url": "https://www.dfps.texas.gov/child_protection/Youth_and_Young_Adults/Transitional_Living/",
+    "legal_aid_name": "Lone Star Legal Aid",
+    "legal_aid_url": "https://www.lonestarlegal.org/",
+    "sources": [
+      "https://www.dfps.texas.gov/child_protection/Youth_and_Young_Adults/Transitional_Living/",
+      "https://www.childwelfare.gov/resources/extension-foster-care-beyond-age-18-texas/",
+      "https://www.dfps.texas.gov/Child_Protection/Kinship_Care/default.asp",
+      "https://www.lonestarlegal.org/"
+    ]
+  },
+  "utah": {
+    "state": "Utah",
+    "slug": "utah",
+    "foster_overview": "When a child cannot safely remain at home, the Utah Division of Child and Family Services (DCFS), part of the Utah Department of Health and Human Services, takes custody through the juvenile court and places the child with kin or a licensed foster (resource) family. Foster parents provide a temporary family home and daily care while DCFS works with the child's family toward reunification or another permanent plan.",
+    "aging_out_age": "A youth ages out of DCFS custody at 18. The juvenile court's jurisdiction over a minor's case can continue until the youth is 21, unless ended earlier by court order, under Utah Code section 78A-6-120.",
+    "extended_care": "Utah does not run a standard Title IV-E extended foster care program that keeps youth in a foster placement to age 21. Instead, DCFS provides Transition to Adult Living (TAL) services, including a supervised TAL placement for youth age 16 and older and aftercare services for youth who age out or are adopted from foster care at 16 or older, up to age 23, under Utah Admin. Code R512-305; youth work with a Child and Family Team on a TAL plan covering housing, education, and employment.",
+    "benefits_after": "Through TAL and the federal Chafee program, Utah youth can get aftercare support, life-skills training, and Education and Training Vouchers (ETV) for college or job training up to age 23. Youth who reached 18 in DCFS or tribal custody can get Medicaid as independent foster care adolescents until age 21 under Utah Code section 26B-3-201, and kinship caregivers can get help through a Specified Relative Grant from the Division of Workforce Services.",
+    "become_foster_parent": "Apply through the Utah Division of Child and Family Services or Utah Foster Care, which provides the training for licensed resource families. Applicants must be 21 or older, be single or a legally married couple, pass background checks for everyone 18 and older in the home, complete agency-approved pre-service training and CPR/first aid, and pass a home study.",
+    "kinship_care": "Yes — kinship care is the preferred placement when a child cannot safely stay home, and preference goes first to a noncustodial parent, then to relatives such as grandparents, aunts, uncles, siblings, and first cousins, then to a family friend willing to become a licensed foster parent for that child. Kinship caregivers can get support through the Children's Service Society Grandfamilies program and a Specified Relative Grant, and kinship applicants as young as 18 can seek a kinship-specific license under Utah Admin. Code R501-12-16.",
+    "agency_name": "Utah Division of Child and Family Services, Utah Department of Health and Human Services",
+    "agency_url": "https://dcfs.utah.gov/services/foster-care/",
+    "legal_aid_name": "Utah Legal Services",
+    "legal_aid_url": "https://www.utahlegalservices.org/",
+    "sources": [
+      "https://dcfs.utah.gov/services/foster-care/",
+      "https://dcfs.utah.gov/services/foster-care/kinship-care/",
+      "https://www.childwelfare.gov/resources/extension-foster-care-beyond-age-18-utah/",
+      "https://le.utah.gov/xcode/Title78A/Chapter6/78A-6-S120.html",
+      "https://le.utah.gov/xcode/Title26B/Chapter3/C26B-3-S201_2024050120240501.rtf",
+      "https://www.utahlegalservices.org/"
+    ]
+  },
+  "vermont": {
+    "state": "Vermont",
+    "slug": "vermont",
+    "foster_overview": "When a child cannot safely stay home, the Vermont Department for Children and Families (DCF), Family Services Division, takes custody through the court and places the child with kin or a licensed foster family. Foster parents provide a safe, temporary home and daily care while DCF works with the child's parents toward reunification or another permanent home.",
+    "aging_out_age": "A youth ages out of foster care at 18. Vermont law, 33 V.S.A. section 4904, then provides transitional foster care services for youth ages 18 to 22 who turned 18 in DCF custody or spent at least five years in DCF custody between ages 10 and 18.",
+    "extended_care": "Yes — Vermont provides foster care services to age 22, longer than most states, for youth who elect to continue after 18 or who left custody after age 16 and ask for support before age 22. To stay in the program the youth must be employed, in a program to promote employment or remove barriers to it, or in an educational or vocational program, unless excused for a disability or other good cause, and must sign a voluntary services agreement.",
+    "benefits_after": "DCF's Youth Development Program provides transition and aftercare case management, housing assistance, transportation, and help getting and keeping health care coverage and employment, and the federal Chafee program serves Vermont youth up to age 23. Youth can get the Vermont Chafee Education and Training Scholarship of up to $5,000 a year through the Vermont Student Assistance Corporation (VSAC), and Vermont law also provides grants for former DCF youth accepted for degree study at Vermont public colleges.",
+    "become_foster_parent": "Contact the resource coordinator at your local DCF Family Services district office to apply for a foster care license. Applicants must be at least 21, pass background checks including fingerprints for household members age 16 and older, pass home visits and a home safety review, and complete Orientation and Foundations for Foster Care training; licenses are valid for up to three years.",
+    "kinship_care": "Yes — about 44 percent of children in DCF custody are placed with someone they already know, such as a relative, family friend, or other trusted adult. Relatives and kin can become licensed kinship foster parents through the same process as other foster parents and receive a monthly stipend, and the court can also transfer temporary custody to a noncustodial parent or relative under 33 V.S.A. section 5308.",
+    "agency_name": "Vermont Department for Children and Families, Family Services Division",
+    "agency_url": "https://fostercare.vt.gov/",
+    "legal_aid_name": "Vermont Legal Aid",
+    "legal_aid_url": "https://www.vtlegalaid.org/",
+    "sources": [
+      "https://legislature.vermont.gov/statutes/section/33/049/04904",
+      "https://www.childwelfare.gov/resources/extension-foster-care-beyond-age-18-vermont/",
+      "https://outside.vermont.gov/dept/DCF/Shared%20Documents/FSD/Care/PROVIDE-FOSTER-CARE.pdf",
+      "https://www.childwelfare.gov/resources/educational-supports-youth-foster-care-vermont/",
+      "https://www.vtlegalaid.org/"
+    ]
+  },
+  "virginia": {
+    "state": "Virginia",
+    "slug": "virginia",
+    "foster_overview": "When a child cannot safely stay home, a Virginia local department of social services takes custody through the juvenile court and places the child with kin or a licensed foster (resource) family, under the oversight of the Virginia Department of Social Services (VDSS). Foster parents provide a temporary family home and daily care while the local department works with the child's family toward reunification or another permanent plan.",
+    "aging_out_age": "A youth ages out of foster care at 18. Virginia's Fostering Futures program, Va. Code sections 63.2-917 through 63.2-920, then offers voluntary continued services and support to youth ages 18 to 21 who were in foster care when they turned 18.",
+    "extended_care": "Yes — the Fostering Futures program lets youth stay in foster care to age 21 if they turned 18 in foster care on or after July 1, 2016, or left a Department of Juvenile Justice commitment between 18 and 21 after being in foster care. To qualify the youth must be finishing high school or a GED, enrolled in postsecondary or vocational education, in a program to promote employment or remove barriers to it, working at least 80 hours a month, or unable to do those things for a documented medical reason, and must sign a Voluntary Continuing Services and Support Agreement; youth may exit and re-enter as often as needed before 21.",
+    "benefits_after": "Fostering Futures participants get housing and placement support, case management, and medical care under the state Medicaid plan, plus independent living services. The John H. Chafee Foster Care Program serves Virginia youth in care from age 14 and those who left care after 14, up to age 23, and Education and Training Vouchers (ETV) help youth ages 16 to 26 pay for postsecondary education.",
+    "become_foster_parent": "Start through Foster Virginia and the Faster Families Highway by creating an account, which connects you with your local department of social services for a six-step readiness process. Applicants complete training, background checks, and a mutual family assessment before approval; you do not need to be married, own a home, or already have children.",
+    "kinship_care": "Yes — Virginia prioritizes kinship care, and relatives or close family friends can become approved kinship foster (resource) parents when a child enters foster care. Other kinship options include a Parental Child Safety Placement of up to 90 days, a court-ordered custody transfer, and KinGAP, a kinship guardianship assistance program that pays monthly support to a relative who becomes the child's permanent legal guardian.",
+    "agency_name": "Virginia Department of Social Services",
+    "agency_url": "https://fosterva.dss.virginia.gov/",
+    "legal_aid_name": "Legal Aid Justice Center",
+    "legal_aid_url": "https://www.justice4all.org/",
+    "sources": [
+      "https://fosterva.dss.virginia.gov/",
+      "https://fosterva.dss.virginia.gov/becoming-a-foster-parent/",
+      "https://fosterva.dss.virginia.gov/kinship/",
+      "https://fostermyfuture.dss.virginia.gov/fostering-futures/",
+      "https://law.lis.virginia.gov/vacodefull/title63.2/chapter9/article2/",
+      "https://www.dss.virginia.gov/supporting-families/services-for-youth-and-young-adults/",
+      "https://www.justice4all.org/"
+    ]
+  },
+  "washington": {
+    "state": "Washington",
+    "slug": "washington",
+    "foster_overview": "When a court finds a child dependent because of abuse, neglect, or no capable parent or guardian, the Washington State Department of Children, Youth, and Families (DCYF) takes placement and care authority and places the child with relatives, in a licensed foster home, or in group care. Foster parents provide a safe, temporary home and daily care while DCYF works with the family toward reunification or another permanent plan.",
+    "aging_out_age": "A youth ages out of foster care at 18. Washington law, RCW 13.34.267 and 74.13.031, lets a dependent youth who turns 18 in care continue in Extended Foster Care to age 21.",
+    "extended_care": "Yes — Extended Foster Care runs to age 21 for youth who were dependent and in foster care at 18 and who sign a voluntary placement agreement. To stay eligible the youth must be in a secondary education program, enrolled in or intending to enroll in postsecondary or vocational education, in an employment program, working at least 80 hours a month, or unable to do those things because of a documented medical condition; youth can enter, leave, and re-enter as often as they wish before 21, and can live in a foster home or in supervised independent living.",
+    "benefits_after": "Youth who leave foster care at or after 18 keep Apple Health (Medicaid) until age 26, and DCYF provides Independent Living Services to youth up to age 23. Washington also runs a Postextended Foster Care program for young adults ages 21 through 25 who were dependent at 18 or took part in Extended Foster Care, with supportive services, a financial subsidy, and housing navigation, and Education and Training Vouchers (ETV) help pay for college or job training.",
+    "become_foster_parent": "Apply through DCYF's Licensing Division or a licensed Child Placing Agency, starting with DCYF's foster parent inquiry form. Applicants must be over 21, complete pre-service training including Caregiver Core Training, first aid and CPR, and mandatory reporter training, pass background checks and fingerprinting for household members age 16 and older, and complete a home study; licensing takes about 120 days.",
+    "kinship_care": "Yes — relatives and family friends can care for a child in foster care, and to receive monthly foster care payments they must get a kinship (child-specific) license through DCYF or a private or tribal Child Placing Agency. The kinship license requires a home safety inspection, background checks and fingerprinting, and a home study, and is valid for three years.",
+    "agency_name": "Washington State Department of Children, Youth, and Families",
+    "agency_url": "https://dcyf.wa.gov/services/foster-parenting",
+    "legal_aid_name": "Northwest Justice Project",
+    "legal_aid_url": "https://www.nwjustice.org/",
+    "sources": [
+      "https://dcyf.wa.gov/services/foster-parenting",
+      "https://dcyf.wa.gov/services/foster-parenting/become-a-foster-parent/licensing-process",
+      "https://www.childwelfare.gov/resources/extension-foster-care-beyond-age-18-washington/",
+      "https://dcyf.wa.gov/services/foster-youth/apple-health",
+      "https://www.nwjustice.org/"
+    ]
+  },
+  "west-virginia": {
+    "state": "West Virginia",
+    "slug": "west-virginia",
+    "foster_overview": "When a child is removed for abuse or neglect, the West Virginia Department of Human Services, Bureau for Social Services (formerly the Department of Health and Human Resources), takes custody through the court and places the child with kin or a certified foster family. Foster parents provide a temporary family home and daily care while the department works toward reunification, guardianship, or adoption; most non-relative foster homes are certified through private child-placing agencies working with the state.",
+    "aging_out_age": "A youth ages out of foster care at 18. West Virginia law defines a 'transitioning adult' as a youth age 18 to 21 who was in department custody at 18 and enters a contract to continue an education, training, or treatment program, under W. Va. Code sections 49-1-202 and 49-4-110.",
+    "extended_care": "Yes — transitioning adults ages 18 to 21 who were in department custody at 18 can stay in or return to foster care by contracting with the department to continue an education, training, or treatment program. To stay eligible the youth must be finishing secondary education, enrolled in postsecondary or vocational education, in a program to remove barriers to employment, working at least 80 hours a month, or unable to do those things because of a medical condition; transitional living placements are available from age 17 up to age 23 for youth who meet the criteria.",
+    "benefits_after": "West Virginia's MODIFY program supports youth ages 18 to 23 who aged out of care, were adopted at 16 or older, or entered guardianship at 16 or older, with counseling, college preparation, financial help, and independent living services. Youth can also get Education and Training Vouchers (ETV) of up to $5,000 a year for school, a foster care tuition waiver for postsecondary education, an independent living subsidy, and continued Medicaid coverage as former foster youth until age 26.",
+    "become_foster_parent": "Start by completing the Foster Parent Inquiry Form with the Bureau for Social Services or contacting Mission West Virginia, which connects families with the private agencies that certify foster homes. Applicants must be 21 to 65 unless a waiver is granted, attend a pre-service orientation, complete training and a home study with background and protective-services checks on all adults in the home, and then receive approval.",
+    "kinship_care": "Yes — West Virginia focuses heavily on kinship care, and relatives are the first placement choice when a child cannot stay home. The Bureau for Social Services certifies relative providers directly, and kinship caregivers can get kinship care payments and support; Legal Aid of West Virginia also runs a Kinship Care Services program for relative caregivers.",
+    "agency_name": "West Virginia Department of Human Services, Bureau for Social Services",
+    "agency_url": "https://bss.wv.gov/foster-homes-state-and-out-state",
+    "legal_aid_name": "Legal Aid of West Virginia",
+    "legal_aid_url": "https://legalaidwv.org/",
+    "sources": [
+      "https://bss.wv.gov/foster-homes-state-and-out-state",
+      "https://www.childwelfare.gov/resources/extension-foster-care-beyond-age-18-west-virginia/",
+      "https://jlc.org/issues/extended-foster-care/west-virginia",
+      "https://legalaidwv.org/our-programs/legal-services/",
+      "https://www.childwelfare.gov/resources/home-study-requirements-prospective-foster-parents-west-virginia/"
+    ]
+  },
+  "wisconsin": {
+    "state": "Wisconsin",
+    "slug": "wisconsin",
+    "foster_overview": "When a child cannot safely stay home, a Wisconsin county human or social services department, tribe, or the Department of Children and Families (DCF) places the child with a relative or like-kin caregiver or in a licensed nonrelative foster home under a court order. Foster parents provide temporary daily care and share parenting with the child's parents while the agency works toward reunification, guardianship, or adoption.",
+    "aging_out_age": "A youth ages out of out-of-home care at 18, when the placement order normally ends. Wisconsin law, Wis. Stat. section 48.366, allows a narrow extension past 18 only for a full-time secondary school student with an individualized education program (IEP) in effect.",
+    "extended_care": "Only narrowly — a youth who is a full-time student at a secondary school or its vocational or technical equivalent, with an IEP in effect, can stay in out-of-home care under an extended court order or a voluntary transition-to-independent-living agreement until they get a high school or equivalency diploma or turn 21, whichever comes first. Youth who do not meet both the full-time student and IEP conditions do not qualify for extended care, though they can re-enter before 21 if they later meet the conditions.",
+    "benefits_after": "Wisconsin provides Independent Living services and Chafee-funded transition support, and the federal Chafee program serves Wisconsin youth up to age 23. Youth who age out can get Education and Training Vouchers (ETV) of up to $5,000 a year for college or job training, and youth who were in foster care and on Medicaid at 18 can keep Medicaid coverage as former foster youth until age 26.",
+    "become_foster_parent": "Contact the county where you live, your tribe, or a private Child Placing Agency — counties, tribes, and child-placing agencies license foster parents in Wisconsin under Wis. Admin. Code chapter DCF 56. The agency will explain the application, background checks, home study, and pre-placement training, and the Wisconsin Family Connections Center offers free resources and support to foster, kinship, guardianship, and adoptive families.",
+    "kinship_care": "Yes — Wisconsin tries first to place a child with a relative or like-kin caregiver, and a child's foster parent may be a relative, like-kin, or nonrelative. Relative caregivers can get kinship care payments under Wis. Stat. section 48.57 and Wis. Admin. Code chapter DCF 58, and a relative caring for a child under a court order or voluntary transition agreement generally must also apply for a foster home license.",
+    "agency_name": "Wisconsin Department of Children and Families",
+    "agency_url": "https://dcf.wisconsin.gov/fostercare/parent",
+    "legal_aid_name": "Legal Action of Wisconsin",
+    "legal_aid_url": "https://legalaction.org/",
+    "sources": [
+      "https://dcf.wisconsin.gov/fostercare/parent",
+      "https://www.childwelfare.gov/resources/extension-foster-care-beyond-age-18-wisconsin/",
+      "https://jlc.org/issues/extended-foster-care/wisconsin",
+      "https://acf.gov/cb/grant-funding/john-h-chafee-foster-care-independence-program",
+      "https://law.wisc.edu/probono/public.html"
+    ]
+  },
+  "wyoming": {
+    "state": "Wyoming",
+    "slug": "wyoming",
+    "foster_overview": "When a child cannot safely stay home, the Wyoming Department of Family Services (DFS) takes custody through the court and places the child in a certified foster home, with kin, or in a residential setting. Foster parents provide a temporary family home, daily care, food, clothing, housing, supervision, and transportation to services while DFS works toward reunification or another permanent plan.",
+    "aging_out_age": "A youth ages out of foster care at 18, when orders under the Child Protection Act normally end. Under Wyo. Stat. section 14-3-431, the court must hold a review hearing at least six months before the youth turns 18 to decide whether care or transitional services should continue, and for how long, before age 21.",
+    "extended_care": "Yes, by court order — the court can order care or transitional services to continue past 18, up to age 21, after that pre-18 review hearing. The statute does not spell out activity requirements for staying in care, and Wyoming law does not allow re-entry once a youth has left care.",
+    "benefits_after": "Wyoming's Chafee-funded Independent Living Program helps youth aging out with life-skills classes, education and job training help, and housing and employment support, and Education and Training Vouchers (ETV) help pay for college or vocational training. Youth who were in DFS or tribal foster care and on federally funded Medicaid at 18 can apply for the Former Foster Youth Medicaid program, which can cover them until age 26.",
+    "become_foster_parent": "Contact a Foster Care Coordinator at your local Wyoming Department of Family Services office to learn about becoming a foster care provider. Applicants must be at least 21, single or a couple, in good physical and emotional health, financially stable, and pass criminal history and child abuse/neglect checks; foster parents complete an 18-hour orientation before caring for children and 18 hours of training each year.",
+    "kinship_care": "Yes — Wyoming prioritizes placing children with relatives or family members before other options, after background checks and assessments of the relative's home. Relatives can become certified foster parents, and the state offers a Guardianship Assistance Program with financial help for relative caregivers who take permanent custody of a child from foster care.",
+    "agency_name": "Wyoming Department of Family Services",
+    "agency_url": "https://dfs.wyo.gov/services/child-youth-services/foster-care-foster-care-training/",
+    "legal_aid_name": "Legal Aid of Wyoming",
+    "legal_aid_url": "https://www.lawyoming.org/",
+    "sources": [
+      "https://dfs.wyo.gov/services/child-youth-services/foster-care-foster-care-training/",
+      "https://dfs.wyo.gov/services/child-youth-services/foster-care-foster-care-training/wyoming-foster-care-frequently-asked-questions/",
+      "https://www.childwelfare.gov/resources/extension-foster-care-beyond-age-18-wyoming/",
+      "https://jlc.org/issues/extended-foster-care/wyoming",
+      "https://ecom.wyo.gov/m1200-family-and-childrens-programs/m1201-childrens-groups/m1201d-foster-care",
+      "https://www.lawyoming.org/"
+    ]
+  }
+}

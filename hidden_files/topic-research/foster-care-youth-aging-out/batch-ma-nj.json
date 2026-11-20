@@ -1,0 +1,206 @@
+{
+  "massachusetts": {
+    "agency_name": "Massachusetts Department of Children and Families (DCF)",
+    "agency_url": "https://www.mass.gov/info-details/foster-and-adoptive-faqs",
+    "aging_out_age": "Youth age out of DCF care at 18, when they become legal adults, under Massachusetts General Laws chapter 119, section 23. DCF must offer continued services to young adults who were in its care or custody at 18.",
+    "become_foster_parent": "Contact the Massachusetts Department of Children and Families to start — apply through mass.gov, attend an information session, and complete an application with background checks and a home safety review. Applicants must be at least 18, live in Massachusetts, and complete the 30-hour MAPP (Massachusetts Approach to Partnerships in Parenting) training plus a home study before being licensed.",
+    "benefits_after": "Young adults who age out can get Young Adult Support Payments from DCF while in extended care, and former foster youth keep MassHealth (Medicaid) coverage to age 26 under federal law. They can also get Education and Training Vouchers (ETV) of up to $5,000 a year for college or job training, plus help with housing, jobs, and life skills through DCF's young adult services and the Chafee program.",
+    "extended_care": "Yes — Massachusetts offers extended foster care to age 22 (and to age 23 for a young adult finishing an associate's degree or higher), under Mass. Gen. Laws ch. 119, § 23 and 110 CMR 23.00. To stay in care, the young adult signs a voluntary placement agreement and must be finishing school, enrolled in college or job training, in a program that helps them get work, employed at least 80 hours a month, or unable to do those things because of a medical condition.",
+    "foster_overview": "In Massachusetts, the Department of Children and Families (DCF) places children who cannot safely stay at home into foster care, usually after a court finds the child needs care and protection. Foster parents give these children a safe, temporary home, meet their daily needs, and work with DCF and the child's birth family toward reunification or another permanent home.",
+    "kinship_care": "Yes — DCF looks for relatives (kin) first when a child must leave home, and kin can be placed with a child right away and then become licensed as kinship foster parents under DCF Policy 23-01. Licensed kinship families get the same foster care payments and support as other foster families.",
+    "legal_aid_name": "MassLegalHelp",
+    "legal_aid_url": "https://www.masslegalhelp.org",
+    "slug": "massachusetts",
+    "sources": [
+      "https://www.mass.gov/info-details/foster-and-adoptive-faqs",
+      "https://www.mass.gov/info-details/key-steps-to-become-a-dcf-foster-parent",
+      "https://www.mass.gov/doc/110-cmr-23-services-for-young-adults/download",
+      "https://www.childwelfare.gov/resources/extension-foster-care-beyond-age-18-massachusetts/",
+      "https://jlc.org/issues/extended-foster-care/massachusetts"
+    ],
+    "state": "Massachusetts"
+  },
+  "michigan": {
+    "agency_name": "Michigan Department of Health and Human Services (MDHHS)",
+    "agency_url": "https://www.michigan.gov/mdhhs/adult-child-serv/foster-care",
+    "aging_out_age": "Youth age out of Michigan foster care at 18, when they become legal adults. The Young Adult Voluntary Foster Care Act (Mich. Comp. Laws §§ 400.645–400.663) lets them keep receiving care past 18.",
+    "become_foster_parent": "Start by contacting Michigan's Foster Care Navigators or MDHHS or a licensed child-placing agency, then attend an orientation and choose an agency. Applicants must be at least 18, pass fingerprint background checks, complete 20–25 hours of free GROW pre-service training, and pass a home evaluation before MDHHS issues a license.",
+    "benefits_after": "Youth in YAVFC keep foster care payments, a caseworker, counseling, and health care coverage, plus independent living skills training. After leaving care, former foster youth can get Medicaid to age 26, Education and Training Vouchers (ETV) of up to $5,000 a year for college or training, and help with housing and jobs through MDHHS independent living services.",
+    "extended_care": "Yes — Michigan's Young Adult Voluntary Foster Care (YAVFC) program extends foster care to age 21. To stay in, the youth must have been in MDHHS foster care on their 18th birthday, sign a voluntary agreement, and be finishing high school or a GED, enrolled in college or job training, in a work program, employed at least 80 hours a month, or unable to do those things for medical reasons; youth who left after 18 can re-enter before 21.",
+    "foster_overview": "In Michigan, the Department of Health and Human Services (MDHHS) places children removed from home because of abuse or neglect into foster care, usually under a court order, with licensed foster families or relatives. Foster parents provide a safe temporary home, daily care, and support for the child's schooling, health, and family visits while MDHHS works toward reunification or another permanent plan.",
+    "kinship_care": "Yes — relatives are a preferred placement in Michigan, and a relative can care for a child while getting licensed; under current MDHHS policy, relatives caring only for kin no longer have to become licensed unless they want to foster unrelated children. Licensed relative caregivers receive foster care payments, and MDHHS offers kinship support and navigation help.",
+    "legal_aid_name": "Michigan Legal Help",
+    "legal_aid_url": "https://michiganlegalhelp.org",
+    "slug": "michigan",
+    "sources": [
+      "https://www.michigan.gov/fyit/resources/fostercare1821",
+      "https://www.childwelfare.gov/resources/extension-foster-care-beyond-age-18-michigan/",
+      "https://www.michigan.gov/mdhhs/adult-child-serv/foster-care",
+      "https://mdhhs-pres-prod.michigan.gov/olmweb/EX/FO/Public/FOM/722-16.pdf"
+    ],
+    "state": "Michigan"
+  },
+  "minnesota": {
+    "agency_name": "Minnesota Department of Children, Youth, and Families (DCYF)",
+    "agency_url": "https://edocs.dhs.state.mn.us/lfserver/Public/DHS-8897-ENG",
+    "aging_out_age": "Youth age out of Minnesota foster care at 18, when they become legal adults, under Minnesota Statutes chapter 260C. The agency must give written notice six months before a youth turns 18 that foster care can continue to age 21.",
+    "become_foster_parent": "Contact your county human services agency, a Tribal Nation, or a private child-placing agency to apply for a child foster care license. Applicants must be at least 21, pass DHS background studies for household members 13 and older, complete 6 hours of orientation training plus a home study and home safety check; licensing usually takes 90 to 120 days.",
+    "benefits_after": "Former foster youth keep Medical Assistance (Medicaid) to age 26 with no income or asset test under the former foster care youth basis (MA-FFY). They can also get Education and Training Vouchers (ETV) of up to $5,000 a year, the Fostering Independence Grant covering college costs at Minnesota schools to age 27, and independent living services and housing help through their county or tribal agency.",
+    "extended_care": "Yes — Minnesota offers extended foster care to age 21 under Minn. Stat. § 260C.451. A youth who was in foster care right before turning 18 can stay (or return) if they are finishing school, enrolled in college or job training, in a work program, employed at least 80 hours a month, or unable to do those things for medical reasons; settings include traditional foster homes and supervised independent living like apartments or dorms.",
+    "foster_overview": "In Minnesota, county and tribal social service agencies place children into foster care under the supervision of the Department of Children, Youth, and Families (DCYF), usually after a court finds the child needs protection. Foster parents provide a safe, temporary home and daily care while the agency works with the birth family toward reunification or another permanent home.",
+    "kinship_care": "Yes — relatives and kin are preferred placements in Minnesota, and a relative can take a child on an emergency basis while working toward a license; relative applicants can even be licensed before finishing orientation training, as long as it is done within 30 days. Licensed kinship caregivers receive foster care payments, and the state supports kinship families through Northstar Care for Children benefits.",
+    "legal_aid_name": "LawHelpMN",
+    "legal_aid_url": "https://www.lawhelpmn.org",
+    "slug": "minnesota",
+    "sources": [
+      "https://www.revisor.mn.gov/statutes/cite/260C.451",
+      "https://hcopub.dhs.state.mn.us/epm/2_2_2_1_3.htm",
+      "https://edocs.dhs.state.mn.us/lfserver/Public/DHS-8897-ENG",
+      "https://dcyf.mn.gov/sites/default/files/2026-03/DHS%20%20Program%20Eligibility%20for%20Youth.pdf"
+    ],
+    "state": "Minnesota"
+  },
+  "mississippi": {
+    "agency_name": "Mississippi Department of Child Protection Services (MDCPS)",
+    "agency_url": "https://www.mdcps.ms.gov/programs/foster-care",
+    "aging_out_age": "Youth generally age out of Mississippi foster care at 18, when they become legal adults; youth court jurisdiction can continue to age 20 and the agency may serve youth to 21. Mississippi Code § 43-15-13 defines children in department custody as persons under 21, and the agency has confirmed it has no Title IV-E extended foster care program.",
+    "become_foster_parent": "Apply online through the Mississippi Department of Child Protection Services (MDCPS) foster care page or call its foster parent information line to start. Applicants must be Mississippi residents at least 21 years old, financially self-supporting, pass criminal background checks, and complete pre-service training (Mississippi PATH, about 15.5 hours) and a home study before being licensed.",
+    "benefits_after": "Youth who leave MDCPS custody at 18 to 21 can get Independent Living services until 21, including life-skills training, help with housing and income, and Education and Training Vouchers (ETV) for college or job training. Former foster youth also keep Medicaid coverage to age 26 under federal law, and MDCPS offers aftercare services and transitional living support.",
+    "extended_care": "No — Mississippi does not offer Title IV-E extended foster care past 18, as confirmed by the MDCPS deputy commissioner. Instead, youth who leave custody at ages 18 to 21 can get Independent Living services until 21, including supervised independent living placements in an apartment or rooming house, if they meet the requirements in 18 Miss. Code R. 6-1-D-IX.",
+    "foster_overview": "In Mississippi, the Department of Child Protection Services (MDCPS) places children removed from home by a youth court into foster care with licensed resource families. Foster parents (called resource parents) provide a safe temporary home and daily care while MDCPS works toward reunification, guardianship, or adoption.",
+    "kinship_care": "Yes — relatives can become licensed resource parents in Mississippi, and the rules allow a faster training track for relatives. Kinship caregivers who become licensed receive foster care payments and the same training and support as other foster parents.",
+    "legal_aid_name": "Mississippi Center for Legal Services",
+    "legal_aid_url": "https://mscenterforlegalservices.org",
+    "slug": "mississippi",
+    "sources": [
+      "https://www.mdcps.ms.gov/programs/foster-care",
+      "https://www.childwelfare.gov/resources/extension-foster-care-beyond-age-18-mississippi/",
+      "https://www.law.cornell.edu/regulations/mississippi/18-Miss-Code-R-SS-6-1-D-IX",
+      "https://www.mississippifreepress.org/feds-ready-to-disburse-more-than-1-million-to-young-mississippians-in-foster-care-graduates/",
+      "https://www.childtrends.org/wp-content/uploads/2017/09/Transition-Age-Youth_Mississippi.pdf"
+    ],
+    "state": "Mississippi"
+  },
+  "missouri": {
+    "agency_name": "Missouri Department of Social Services, Children's Division",
+    "agency_url": "https://dss.mo.gov/cd/foster-care/becoming-a-foster-parent",
+    "aging_out_age": "Youth age out of Missouri foster care at 18, when they become legal adults. Under Mo. Rev. Stat. § 211.041, the juvenile court can keep jurisdiction over a youth until age 21.",
+    "become_foster_parent": "Start with the Missouri Department of Social Services Children's Division — attend an informational meeting or apply online through the foster parent portal, then complete background checks. Applicants must be at least 21, pass fingerprint criminal and child abuse/neglect checks, and complete the free 30-hour MO C.A.R.E. pre-service training and a home study before being licensed.",
+    "benefits_after": "Youth who leave care at 17.5 or older can get help through the Chafee Foster Care Program for Successful Transition to Adulthood, which offers financial, housing, counseling, employment, and education support to age 21, plus Education and Training Vouchers (ETV) for college or training. Former foster youth also keep Medicaid coverage to age 26, and the Transitional Living Program offers supervised independent living for youth 16 and older.",
+    "extended_care": "Yes — Missouri lets youth stay in or re-enter foster care until 21 under Mo. Rev. Stat. §§ 211.036 and 211.041. A youth who was in foster care before turning 17 can make a one-time election to remain or re-enter care between 17 and 21, and the court can return a youth under 21 to Children's Division custody if it is in the youth's best interest.",
+    "foster_overview": "In Missouri, the Children's Division of the Department of Social Services places children removed from home because of abuse or neglect into foster care, usually under a juvenile court order. Foster parents provide a safe temporary home, daily care, and support for school, health care, and family visits while the Division works toward reunification or another permanent plan.",
+    "kinship_care": "Yes — Missouri prefers placing children with relatives, and relative caregivers follow a shorter 9-hour STARS for Relative Placement training track instead of the full 30-hour course. Relatives who become licensed receive foster care payments and support, and the Children's Division helps kinship families with services and resources.",
+    "legal_aid_name": "Legal Services of Missouri",
+    "legal_aid_url": "https://www.lsmo.org",
+    "slug": "missouri",
+    "sources": [
+      "https://www.childwelfare.gov/resources/extension-foster-care-beyond-age-18-missouri/",
+      "https://dssmanuals.mo.gov/child-welfare-manual/section-4-chapter-5-older-youth-program-subsection-3-chafee-foster-care-program-for-successful-transition-to-adulthood-cfcp/",
+      "https://dss.mo.gov/cd/foster-care/becoming-a-foster-parent",
+      "https://house.mo.gov/billtracking/bills131/biltxt/intro/HB0718I.htm"
+    ],
+    "state": "Missouri"
+  },
+  "montana": {
+    "agency_name": "Montana Department of Public Health and Human Services, Child and Family Services Division (DPHHS/CFSD)",
+    "agency_url": "http://dphhs.mt.gov/CFSD/FosterParent",
+    "aging_out_age": "Youth age out of Montana foster care at 18, when they become legal adults. Under Montana Admin. Rules 37.51.102, a youth older than 18 may remain in foster care only if they are still in secondary school.",
+    "become_foster_parent": "Contact your local Child and Family Services Division (CFSD) office to request an inquiry packet and application. Applicants must be at least 18, pass criminal, motor vehicle, and child protective services background checks, complete 18 hours of free pre-service training, and pass a home study and fire-safety check before being licensed.",
+    "benefits_after": "The Chafee Foster Care Independence Program offers youth who aged out before 21 life-skills training, help getting a GED or job, mentors, and stipends for school, work, and setting up an apartment. Former foster youth can also get Education and Training Vouchers (ETV) of up to $5,000 a year through Reach Higher Montana, Medicaid coverage to age 26, and Foster Youth to Independence housing vouchers in Missoula, Billings, and Butte.",
+    "extended_care": "Montana has no broad extended foster care program to age 21 — the only way to stay in a foster placement past 18 is to still be in secondary school. Instead, youth who age out get help through the Montana Chafee Foster Care Independence Program, which serves youth ages 14 to 21 with transitional living plans, life-skills training, mentors, and room-and-board help.",
+    "foster_overview": "In Montana, the Child and Family Services Division (CFSD) of the Department of Public Health and Human Services (DPHHS) places children removed from home because of abuse or neglect into foster care, usually under a court order. Foster parents provide a safe temporary home and daily care while CFSD works with the birth family toward reunification or another permanent home.",
+    "kinship_care": "Yes — Montana issues a kinship foster home license for relatives, tribal members, godparents, stepparents, or others with a significant prior tie to a specific child. Kinship foster parents complete the same training and background checks and receive foster care payments.",
+    "legal_aid_name": "Montana Legal Services Association",
+    "legal_aid_url": "https://www.mtlsa.org",
+    "slug": "montana",
+    "sources": [
+      "https://dphhs.mt.gov/CFSD/FosterCareIndependence/",
+      "https://www.childwelfare.gov/resources/extension-foster-care-beyond-age-18-montana/",
+      "https://prod-dphhs.mt.gov/assets/cfsd/StepbyStep.pdf",
+      "https://www.childwelfare.gov/resources/home-study-requirements-prospective-foster-parents-montana/"
+    ],
+    "state": "Montana"
+  },
+  "nebraska": {
+    "agency_name": "Nebraska Department of Health and Human Services, Division of Children and Family Services",
+    "agency_url": "https://dhhs.ne.gov/Pages/Foster-Care.aspx",
+    "aging_out_age": "Youth age out of Nebraska foster care at 19, the age of majority in Nebraska, under Neb. Rev. Stat. § 43-905. DHHS services and legal custody do not extend past the age of majority except for youth in the Bridge to Independence Program.",
+    "become_foster_parent": "Apply through the Nebraska Department of Health and Human Services (DHHS) or a contracted foster care agency — start at the DHHS foster care page. Applicants must be the age of majority, pass national criminal history and central registry background checks, provide three character references and health reports, and complete at least 21 hours of DHHS-approved pre-service training plus a home study before being licensed.",
+    "benefits_after": "Bridge to Independence participants get a monthly stipend for housing and living costs, Medicaid coverage, and a dedicated independence coordinator for case management. After leaving care, former foster youth can get Education and Training Vouchers (ETV) for college or training, Medicaid to age 26, and help with housing, jobs, and education through DHHS independent living services.",
+    "extended_care": "Yes — Nebraska's Bridge to Independence (B2i) program extends support to age 21 under the Young Adult Bridge to Independence Act (Neb. Rev. Stat. §§ 43-4501–43-4514). To join, a young adult must have been adjudicated neglected, be in out-of-home placement at 19 (or discharged to independent living), be a Nebraska resident, sign a voluntary services and support agreement, and be finishing school, enrolled in college or job training, in a work program, employed at least 80 hours a month, or unable to do those things for medical reasons.",
+    "foster_overview": "In Nebraska, the Department of Health and Human Services (DHHS), Division of Children and Family Services, places children removed from home because of abuse or neglect into foster care, usually under a juvenile court order. Foster parents provide a safe temporary home and daily care while DHHS works toward reunification, guardianship, or adoption.",
+    "kinship_care": "Yes — relatives and kin can foster in Nebraska, and DHHS can waive licensing standards that are not related to child safety for a relative home working toward licensure. Relative foster parents get training and support from DHHS and the Nebraska Foster and Adoptive Parent Association, and licensed kinship homes receive foster care payments.",
+    "legal_aid_name": "Legal Aid of Nebraska",
+    "legal_aid_url": "https://legalaidofnebraska.org",
+    "slug": "nebraska",
+    "sources": [
+      "https://www.childwelfare.gov/resources/extension-foster-care-beyond-age-18-nebraska/",
+      "https://supremecourt.nebraska.gov/sites/default/files/B2i-Presentations-12.3.24.pdf",
+      "https://www.nebraskacasa.org/file_download/aa7f2212-b98b-46b3-9a23-cffde00b24dc",
+      "https://www.childwelfare.gov/resources/home-study-requirements-prospective-foster-parents-nebraska/"
+    ],
+    "state": "Nebraska"
+  },
+  "nevada": {
+    "agency_name": "Nevada Division of Child and Family Services (DCFS), Department of Health and Human Services",
+    "agency_url": "https://www.dcfs.nv.gov/Programs/CWS/foster-care/",
+    "aging_out_age": "Youth age out of Nevada foster care at 18, when they become legal adults. Under Nev. Rev. Stat. § 432B.594, a court that has jurisdiction over a child at 18 must keep jurisdiction if the youth asks, until age 21.",
+    "become_foster_parent": "Contact the child welfare agency for your county — DCFS for rural Nevada, Clark County Family Services, or Washoe County Human Services — to start licensing. Applicants must be at least 21, pass fingerprint background checks, complete the required pre-service training (about 27 hours in rural Nevada, 24 hours in Clark County), and pass a home study and safety inspection, a process that takes about three to six months.",
+    "benefits_after": "Young adults in the program get monthly financial support, continued health coverage, and independent living services to help with school, work, and housing. Youth who leave care after 16 can also get Chafee independent living services and Education and Training Vouchers (ETV) until age 26, and former foster youth keep Medicaid to age 26.",
+    "extended_care": "Yes — Nevada's Extended Young Adult Support Services Program provides extended support to young adults ages 18 to 21 under Nev. Rev. Stat. §§ 432B.591–432B.595. A young adult who was in foster care can ask the court to keep jurisdiction and sign a voluntary agreement for placement and care, with a written transition plan, and can re-enter the program before 21 if they left earlier.",
+    "foster_overview": "In Nevada, the Division of Child and Family Services (DCFS) oversees foster care statewide, while county agencies in Clark and Washoe counties and DCFS in rural counties place children removed from home because of abuse or neglect. Foster parents provide a safe temporary home and daily care while the agency works toward reunification or adoption.",
+    "kinship_care": "Yes — Nevada strongly prefers kinship (relative) care, and relatives or fictive kin with a bond to the child can care for them; kinship caregivers can be licensed or unlicensed, but DCFS strongly encourages licensing. Licensed kinship caregivers receive the full foster care rate plus respite care, training, and support groups, while unlicensed relatives receive much lower reimbursements.",
+    "legal_aid_name": "Nevada Legal Services",
+    "legal_aid_url": "https://nevadalegalservices.org",
+    "slug": "nevada",
+    "sources": [
+      "https://www.childwelfare.gov/resources/extension-foster-care-beyond-age-18-nevada/",
+      "https://www.dcfs.nv.gov/Programs/CWS/foster-care/",
+      "https://www.dcfs.nv.gov/Programs/CWS/foster-care/relative-foster-care/",
+      "https://nvbar.org/wp-content/uploads/NevLawyer_June_2012_AB_350-1.pdf",
+      "https://www.dcfs.nv.gov/siteassets/meetings/2025/R027_24RP1_EYASSP.pdf"
+    ],
+    "state": "Nevada"
+  },
+  "new-hampshire": {
+    "agency_name": "New Hampshire Department of Health and Human Services, Division for Children, Youth and Families (DCYF)",
+    "agency_url": "https://www.dhhs.nh.gov/programs-services/child-protection-juvenile-justice/becoming-foster-parent",
+    "aging_out_age": "Youth age out of New Hampshire foster care at 18, when they become legal adults. Under N.H. Rev. Stat. § 170-E:53, DCYF must offer extended foster care to youth who were in its custody at 18.",
+    "become_foster_parent": "Apply through the New Hampshire Division for Children, Youth and Families (DCYF) — submit a foster/adoptive parent application to your local DCYF district office. Applicants must be New Hampshire residents at least 21 years old, pass fingerprint and criminal records checks, complete at least 21 hours of DCYF pre-licensing training, and pass fire and health inspections and a home study before being licensed.",
+    "benefits_after": "HOPE participants keep a paid foster placement (including supervised independent living), case management, and financial help. After leaving care, young adults ages 18 to 23 (to 26 if in college or career training) can get Aftercare Services with limited financial help, Education and Training Vouchers (ETV) for college or training, housing vouchers, and LifeSet coaching, and former foster youth keep Medicaid to age 26.",
+    "extended_care": "Yes — New Hampshire's HOPE (Housing and Opportunities to Personally Excel) program extends foster care to age 21 under N.H. Rev. Stat. § 170-E:53. A young adult who was in DCYF custody at 18 can voluntarily stay in or return to foster care — even if they first said no — by signing a voluntary participation agreement and finishing school, being enrolled in college or job training, being in a work program, working at least 80 hours a month, or being unable to do those things for medical reasons.",
+    "foster_overview": "In New Hampshire, the Division for Children, Youth and Families (DCYF) of the Department of Health and Human Services places children removed from home because of abuse or neglect into foster care, usually under a court order. Foster parents provide a safe temporary home and daily care while DCYF works toward reunification, guardianship, or adoption.",
+    "kinship_care": "Yes — DCYF prefers relatives for placement and searches for parents and relatives throughout a case, and relatives can become licensed kinship caregivers with their own dedicated training course. Kinship caregivers get support from DCYF, and licensed kinship homes receive foster care payments.",
+    "legal_aid_name": "New Hampshire Legal Assistance",
+    "legal_aid_url": "https://www.nhla.org",
+    "slug": "new-hampshire",
+    "sources": [
+      "https://www.dhhs.nh.gov/programs-services/child-protection-juvenile-justice/adolescent-program/services-and-supports-after",
+      "https://www.childwelfare.gov/resources/extension-foster-care-beyond-age-18-new-hampshire/",
+      "https://law.justia.com/codes/new-hampshire/2022/title-xii/title-170-e/section-170-e-53/",
+      "https://www.dhhs.nh.gov/programs-services/child-protection-juvenile-justice/becoming-foster-parent"
+    ],
+    "state": "New Hampshire"
+  },
+  "new-jersey": {
+    "agency_name": "New Jersey Department of Children and Families (DCF), Division of Child Protection and Permanency (CP&P)",
+    "agency_url": "https://www.nj.gov/njfosteradopt/foster/requirements/",
+    "aging_out_age": "Youth age out of New Jersey foster care at 18, the age of majority, under N.J. Stat. § 9:17B-3. Under N.J. Stat. § 30:4C-2.3, DCF must provide services to young adults ages 18 to 21 who were receiving DCF services at 16 or older.",
+    "become_foster_parent": "Start by creating a profile in DCF's online foster care portal (Binti) or calling the NJ Foster line, and a local Resource Family Recruiter will schedule you for an orientation (Group Engagement). Applicants must be at least 18 and New Jersey residents, pass criminal history and child abuse record checks, and complete nine weekly three-hour pre-service training sessions, a home evaluation, and a life-safety inspection; licensing usually takes about five months.",
+    "benefits_after": "Young adults in extended care keep case management, board payments, and help with school, work, and housing through DCF's Office of Adolescent Services. After leaving care, former foster youth can get Chafee program services and Education and Training Vouchers (ETV) for college or training, Medicaid coverage to age 26, and housing help through DCF's adolescent housing programs.",
+    "extended_care": "Yes — New Jersey extends services to age 21 under N.J. Stat. § 30:4C-2.3 and DCF policy CP&P-III-A-1-500. A young adult who received DCF services at 16 or older can stay in care or ask to reopen their case before 21 if they have not refused services and CP&P finds continued services are in their best interest, such as finishing school, job training, or working toward goals in their transitional plan.",
+    "foster_overview": "In New Jersey, the Division of Child Protection and Permanency (CP&P) of the Department of Children and Families (DCF) places children removed from home because of abuse or neglect into foster care (called resource family care), usually under a court order. Resource parents provide a safe temporary home and daily care while CP&P works toward reunification, guardianship, or adoption.",
+    "kinship_care": "Yes — New Jersey supports kinship care in several ways: relatives can become licensed resource parents, and families caring for a relative's child can get help through DCF's Kinship Care program and Kinship Legal Guardianship (KLG), which provides a monthly subsidy to relatives who become a child's legal guardian. Kinship caregivers can also get support services and board payments when licensed.",
+    "legal_aid_name": "Legal Services of New Jersey",
+    "legal_aid_url": "https://www.lsnj.org",
+    "slug": "new-jersey",
+    "sources": [
+      "https://www.childwelfare.gov/resources/extension-foster-care-beyond-age-18-new-jersey/",
+      "https://policy.dcf.nj.gov/app/file/CPP-III-A-1-500.pdf",
+      "https://www.nj.gov/njfosteradopt/foster/requirements/",
+      "https://www.nj.gov/njfosteradopt/foster/faqs/",
+      "https://nj.gov/dcf/documents/adolescent/NJ-Chafee-Plan-final.pdf"
+    ],
+    "state": "New Jersey"
+  }
+}
