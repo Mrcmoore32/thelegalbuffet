@@ -1,0 +1,100 @@
+000	alabama	agency	https://www.hrc.alabama.gov
+200	alabama	legal_aid	https://legalservicesalabama.org/
+200	alaska	agency	https://humanrights.alaska.gov/services/
+200	alaska	legal_aid	https://www.alsc-law.org/
+200	arizona	agency	https://www.azag.gov/civil-rights
+200	arizona	legal_aid	https://clsaz.org/
+403	arkansas	agency	https://ig.arkansas.gov/fair-housing/
+200	arkansas	legal_aid	https://arlegalaid.org/
+200	california	agency	https://calcivilrights.ca.gov/complaintprocess/how-to-file-a-complaint/
+200	california	legal_aid	http://www.lafla.org
+200	colorado	agency	https://ccrd.colorado.gov/the-complaint-process
+200	colorado	legal_aid	http://www.coloradolegalservices.org/
+200	connecticut	agency	https://portal.ct.gov/chro/about-us/contact-offices
+200	connecticut	legal_aid	https://slsct.org/get-help/
+200	delaware	agency	https://humanandcivilrights.delaware.gov/
+200	delaware	legal_aid	http://www.declasi.org
+200	florida	agency	https://fchr.myflorida.com/file-a-complaint-page
+200	florida	legal_aid	https://floridalegal.org/
+200	georgia	agency	https://georgia.gov/organization/georgia-commission-equal-opportunity
+200	georgia	legal_aid	https://glsp.org/
+200	hawaii	agency	https://labor.hawaii.gov/hcrc/faqs/
+200	hawaii	legal_aid	https://www.legalaidhawaii.org/
+200	idaho	agency	https://humanrights.idaho.gov/idaho-law/types-of-discrimination/disability/
+403	idaho	legal_aid	https://idaholegalaid.org/services
+200	illinois	agency	https://dhr.illinois.gov/rights/disability-rights.html
+200	illinois	legal_aid	https://pslegal.org/
+200	indiana	agency	https://www.in.gov/icrc/know-your-rights/protected-classes
+200	indiana	legal_aid	http://www.indianalegalservices.org/
+200	iowa	agency	https://icrc.iowa.gov/
+000	iowa	legal_aid	https://www.iowalegalaid.org
+000	kansas	agency	https://www.khrc.net
+200	kansas	legal_aid	https://www.kansaslegalservices.org/about-us
+200	kentucky	agency	https://kchr.ky.gov/About/Pages/FAQs.aspx
+200	kentucky	legal_aid	http://www.lablaw.org
+000	louisiana	agency	http://lchrgov.com/lchr/
+200	louisiana	legal_aid	https://slls.org/en/
+200	maine	agency	https://maine.gov/mhrc/about
+200	maine	legal_aid	https://www.ptla.org/pine-tree-services
+200	maryland	agency	http://mccr.maryland.gov/
+200	maryland	legal_aid	https://www.mdlab.org/
+403	massachusetts	agency	https://www.mass.gov/info-details/about-the-commission-against-discrimination
+403	massachusetts	legal_aid	https://www.gbls.org/
+200	michigan	agency	https://www.michigan.gov/mdcr/contact
+200	michigan	legal_aid	https://lakeshorelegalaid.org/
+200	minnesota	agency	https://mn.gov/mdhr/
+200	minnesota	legal_aid	https://mylegalaid.org/get-legal-help
+200	mississippi	agency	https://www.ada.gov/resources/service-animals-2010-requirements/
+200	mississippi	legal_aid	https://mscenterforlegalservices.org/
+200	missouri	agency	https://labor.mo.gov/mohumanrights
+200	missouri	legal_aid	https://www.lsmo.org/
+200	montana	agency	https://erd.dli.mt.gov/human-rights/
+200	montana	legal_aid	https://www.mtlsa.org/apply-for-services/
+200	nebraska	agency	https://neoc.nebraska.gov/
+200	nebraska	legal_aid	https://legalaidofnebraska.org
+403	nevada	agency	https://detr.nv.gov/NERC/Page/Contact_Us
+200	nevada	legal_aid	https://nevadalegalservices.org
+403	new hampshire	agency	https://www.humanrights.nh.gov/welcome
+200	new hampshire	legal_aid	https://www.nhla.org/
+200	new jersey	agency	https://www.njoag.gov/about/divisions-and-offices/division-on-civil-rights-home/division-on-civil-rights-about/
+200	new jersey	legal_aid	https://www.lsnj.org
+200	new mexico	agency	https://www.dws.state.nm.us/en-us/Human-Rights-Information
+200	new mexico	legal_aid	http://www.newmexicolegalaid.org/
+000	new york	agency	https://dhr.ny.gov/node/7701
+200	new york	legal_aid	https://www.lawhelpny.org/how-use-website-legal-information-and-help
+200	north carolina	agency	https://www.oah.nc.gov/civil-rights-division
+200	north carolina	legal_aid	https://legalaidnc.org/our-services/
+200	north dakota	agency	http://www.nd.gov/labor/human-rights/
+200	north dakota	legal_aid	https://lsnd.org/
+200	ohio	agency	https://civ.ohio.gov/how-to-file-a-charge
+200	ohio	legal_aid	https://www.ohiolegalhelp.org/
+200	oklahoma	agency	https://oklahoma.gov/oag/about/divisions/civil-rights-enforcement.html
+200	oklahoma	legal_aid	https://legalaidok.org/
+200	oregon	agency	https://www.oregon.gov/boli/employers/Pages/boli-investigations.aspx
+000	oregon	legal_aid	https://lasoregon.org/services/
+200	pennsylvania	agency	https://www.pa.gov/agencies/phrc/programs-and-services/file-a-complaint
+200	pennsylvania	legal_aid	https://palegalaid.net/
+200	rhode island	agency	https://richr.ri.gov/filecharge/index.php
+200	rhode island	legal_aid	https://www.rils.org/
+200	south carolina	agency	https://schac.sc.gov/
+000	south carolina	legal_aid	https://sclegal.org/services/
+200	south dakota	agency	https://dlr.sd.gov/human_rights/
+200	south dakota	legal_aid	https://erlservices.org/
+000	tennessee	agency	https://www.tn.gov/humanrights
+200	tennessee	legal_aid	https://las.org/
+202	texas	agency	https://www.twc.texas.gov/programs/civil-rights/employment-discrimination?ct=t%28%29
+200	texas	legal_aid	https://www.lonestarlegal.org/
+200	utah	agency	https://laborcommission.utah.gov/divisions/utah-antidiscrimination-and-labor-uald/employment-discrimination/
+200	utah	legal_aid	https://www.utahlegalservices.org/
+200	vermont	agency	https://hrc.vermont.gov/
+200	vermont	legal_aid	https://www.vtlegalaid.org/
+200	virginia	agency	https://www.oag.state.va.us/citizen-resources/civil-rights
+200	virginia	legal_aid	https://www.vlas.org/
+200	washington	agency	https://www.hum.wa.gov/
+200	washington	legal_aid	https://www.nwjustice.org/get-legal-help/
+200	west virginia	agency	https://oig.wv.gov/HRC
+000	west virginia	legal_aid	https://www.lawv.net/
+200	wisconsin	agency	https://dwd.wisconsin.gov/er/
+200	wisconsin	legal_aid	https://legalaction.org/
+403	wyoming	agency	https://dws.wyo.gov/dws-division/labor-standards/workers-and-job-seekers/your-rights-as-a-worker/
+200	wyoming	legal_aid	https://www.lawyoming.org/
