@@ -1,0 +1,100 @@
+alabama	agency	http://apsc.alabama.gov/TNC/Appendix%20B.htm
+alabama	legal_aid	https://legalservicesalabama.org
+alaska	agency	https://doa.alaska.gov/dmv/
+alaska	legal_aid	https://www.alsc-law.org
+arizona	agency	https://azdot.gov/mvd/services/professional-services/vehicle-hire-licensing/livery-and-limousines
+arizona	legal_aid	https://clsaz.org
+arkansas	agency	https://apps.apsc.arkansas.gov/olsv2/tnc/reports.asp
+arkansas	legal_aid	https://arlegalaid.org/
+california	agency	https://www.cpuc.ca.gov/regulatory-services/licensing/transportation-licensing-and-analysis-branch/transportation-network-companies/tnc-permits-issued
+california	legal_aid	https://lawhelpca.org/
+colorado	agency	https://puc.colorado.gov/transportation-network-companies/rideshare-consumer-info
+colorado	legal_aid	https://www.coloradolegalservices.org
+connecticut	agency	https://portal.ct.gov/livery
+connecticut	legal_aid	https://ctlegal.org/
+delaware	agency	https://deldot.gov/
+delaware	legal_aid	https://www.declasi.org/
+florida	agency	https://www.flhsmv.gov/
+florida	legal_aid	https://www.floridalegal.org/
+georgia	agency	https://dps.georgia.gov/documents/forms-and-permits
+georgia	legal_aid	https://glsp.org/
+hawaii	agency	https://puc.hawaii.gov/
+hawaii	legal_aid	https://www.legalaidhawaii.org
+idaho	agency	https://doi.idaho.gov/information/about-doi/
+idaho	legal_aid	https://www.idaholegalaid.org
+illinois	agency	https://icc.illinois.gov/transportation
+illinois	legal_aid	https://www.pslegal.org
+indiana	agency	https://www.in.gov/dor/motor-carrier-services/
+indiana	legal_aid	https://www.indianalegalservices.org/
+iowa	agency	https://iowadot.gov/
+iowa	legal_aid	https://www.iowalegalaid.org
+kansas	agency	https://www.kcc.ks.gov/transportation/transportation-quick-links/passenger-tariffs
+kansas	legal_aid	https://www.kansaslegalservices.org/
+kentucky	agency	http://transportation.ky.gov/
+kentucky	legal_aid	https://www.kyjustice.org/about-us
+louisiana	agency	https://dotd.la.gov/about/legal/transportation-network-companies/
+louisiana	legal_aid	https://slls.org/en/
+maine	agency	https://www.maine.gov/sos/bmv
+maine	legal_aid	https://www.ptla.org/pine-tree-services
+maryland	agency	https://psc.maryland.gov/about/
+maryland	legal_aid	https://www.mdlab.org
+massachusetts	agency	https://www.mass.gov/info-details/massachusetts-law-about-the-gig-or-sharing-economy
+massachusetts	legal_aid	https://www.masslegalhelp.org/
+michigan	agency	https://www.michigan.gov/tnc
+michigan	legal_aid	https://michiganlegalhelp.org
+minnesota	agency	https://mn.gov/commerce/
+minnesota	legal_aid	https://www.lawhelpmn.org
+mississippi	agency	https://www.mid.ms.gov/wp-content/uploads/2023/04/InsuranceRequirements-TNCDrivers.pdf
+mississippi	legal_aid	https://www.mslegalservices.org/
+missouri	agency	https://dor.mo.gov/how-do-i/become-tnc.html
+missouri	legal_aid	https://www.lsmo.org/
+montana	agency	https://psc.mt.gov/motorcarriers
+montana	legal_aid	https://www.mtlsa.org/
+nebraska	agency	https://psc.nebraska.gov/sites/default/files/doc/administration/RR-206/Chapter%203%20-%20Motor%20Carriers%20Rules%20and%20Regulations.pdf
+nebraska	legal_aid	https://legalaidofnebraska.com
+nevada	agency	https://www.nta.nv.gov/consumers/illegal-passenger-transportation-in-nevada/
+nevada	legal_aid	https://nevadalegalservices.org/
+new hampshire	agency	https://gc.nh.gov/rules/state_agencies/saf-c5400.html
+new hampshire	legal_aid	https://www.nhla.org/
+new jersey	agency	https://www.nj.gov/mvc/pdf/business/tncfaq.pdf
+new jersey	legal_aid	https://lsnj.org/
+new mexico	agency	https://www.srca.nm.gov/parts/title18/18.007.0001.pdf
+new mexico	legal_aid	https://www.newmexicolegalaid.org/
+new york	agency	https://www.dfs.ny.gov/apps_and_licensing/property_insurers/trans_network_co_ride_sharing_faqs
+new york	legal_aid	https://legalaidnyc.org/
+north carolina	agency	https://www.ncshp.gov/sites/default/files/2026-02/TNC%20Applications%20Packet.pdf
+north carolina	legal_aid	https://legalaidnc.org/
+north dakota	agency	https://www.dot.nd.gov/
+north dakota	legal_aid	http://www.legalassist.org
+ohio	agency	http://www.puco.ohio.gov
+ohio	legal_aid	https://www.ohiolegalhelp.org/
+oklahoma	agency	https://oklahoma.gov/occ.html
+oklahoma	legal_aid	https://legalaidok.org/
+oregon	agency	https://www.portland.gov/transportation/regulatory
+oregon	legal_aid	https://lasoregon.org/
+pennsylvania	agency	https://www.puc.pa.gov/motor-carrier/limos-taxis-movers/?&page=7
+pennsylvania	legal_aid	https://palawhelp.org/
+rhode island	agency	https://ripuc.ri.gov/utility-information/motor-carriers/motor-carrier-forms
+rhode island	legal_aid	http://www.rils.org
+south carolina	agency	http://ors.sc.gov/regulated-utilities/transportation
+south carolina	legal_aid	https://sclegal.org/
+south dakota	agency	https://www.sd.gov/dps?id=kb_article_view&sysparm_article=KB0043707
+south dakota	legal_aid	https://erlservices.org/
+tennessee	agency	https://www.tn.gov/commerce/news/2017/4/28/tdci-ridesharing-drivers-should-check-insurance-coverage-for-gap.html
+tennessee	legal_aid	https://las.org/
+texas	agency	https://www.tdlr.texas.gov/media/pdf/TNC%20at%20a%20Glance.pdf
+texas	legal_aid	https://www.lonestarlegal.org/
+utah	agency	https://commerce.utah.gov/dcp/for-businesses/transportation-network-companies/dcp-transportation-network-company-fees-and-required-documents/
+utah	legal_aid	https://www.utahlegalservices.org/
+vermont	agency	https://dmv.vermont.gov/licenses
+vermont	legal_aid	https://vtlegalaid.org/
+virginia	agency	https://transactions-t.dmv.virginia.gov/commercial/tnc/faqs.asp
+virginia	legal_aid	https://www.vlas.org/
+washington	agency	https://dol.wa.gov/professional-licenses/transportation-network-company/get-your-license-transportation-network-company
+washington	legal_aid	https://www.nwjustice.org/
+west virginia	agency	https://dmv.wv.gov
+west virginia	legal_aid	https://www.lawv.net/
+wisconsin	agency	https://dsps.wi.gov/a-z-professions-list/transportation-network-company-tnc/
+wisconsin	legal_aid	https://legalaction.org/
+wyoming	agency	https://law.justia.com/codes/wyoming/2019/title-31/chapter-20/section-31-20-107/
+wyoming	legal_aid	https://www.lawyoming.org/

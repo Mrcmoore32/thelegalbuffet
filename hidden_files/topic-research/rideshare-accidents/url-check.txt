@@ -1,0 +1,100 @@
+000 alabama agency http://apsc.alabama.gov/TNC/Appendix%20B.htm
+200 alabama legal_aid https://legalservicesalabama.org
+403 alaska agency https://doa.alaska.gov/dmv/
+200 alaska legal_aid https://www.alsc-law.org
+403 arizona agency https://azdot.gov/mvd/services/professional-services/vehicle-hire-licensing/livery-and-limousines
+403 arizona legal_aid https://clsaz.org
+200 arkansas agency https://apps.apsc.arkansas.gov/olsv2/tnc/reports.asp
+200 arkansas legal_aid https://arlegalaid.org/
+200 california agency https://www.cpuc.ca.gov/regulatory-services/licensing/transportation-licensing-and-analysis-branch/transportation-network-companies/tnc-permits-issued
+000 california legal_aid https://lawhelpca.org/
+200 colorado agency https://puc.colorado.gov/transportation-network-companies/rideshare-consumer-info
+200 colorado legal_aid https://www.coloradolegalservices.org
+200 connecticut agency https://portal.ct.gov/livery
+200 connecticut legal_aid https://ctlegal.org/
+200 delaware agency https://deldot.gov/
+200 delaware legal_aid https://www.declasi.org/
+200 florida agency https://www.flhsmv.gov/
+200 florida legal_aid https://www.floridalegal.org/
+200 georgia agency https://dps.georgia.gov/documents/forms-and-permits
+200 georgia legal_aid https://glsp.org/
+200 hawaii agency https://puc.hawaii.gov/
+200 hawaii legal_aid https://www.legalaidhawaii.org
+200 idaho agency https://doi.idaho.gov/information/about-doi/
+403 idaho legal_aid https://www.idaholegalaid.org
+200 illinois agency https://icc.illinois.gov/transportation
+200 illinois legal_aid https://www.pslegal.org
+200 indiana agency https://www.in.gov/dor/motor-carrier-services/
+200 indiana legal_aid https://www.indianalegalservices.org/
+200 iowa agency https://iowadot.gov/
+200 iowa legal_aid https://www.iowalegalaid.org
+200 kansas agency https://www.kcc.ks.gov/transportation/transportation-quick-links/passenger-tariffs
+200 kansas legal_aid https://www.kansaslegalservices.org/
+200 kentucky agency http://transportation.ky.gov/
+200 kentucky legal_aid https://www.kyjustice.org/about-us
+200 louisiana agency https://dotd.la.gov/about/legal/transportation-network-companies/
+200 louisiana legal_aid https://slls.org/en/
+200 maine agency https://www.maine.gov/sos/bmv
+200 maine legal_aid https://www.ptla.org/pine-tree-services
+200 maryland agency https://psc.maryland.gov/about/
+200 maryland legal_aid https://www.mdlab.org
+403 massachusetts agency https://www.mass.gov/info-details/massachusetts-law-about-the-gig-or-sharing-economy
+000 massachusetts legal_aid https://www.masslegalhelp.org/
+200 michigan agency https://www.michigan.gov/tnc
+200 michigan legal_aid https://michiganlegalhelp.org
+200 minnesota agency https://mn.gov/commerce/
+200 minnesota legal_aid https://www.lawhelpmn.org
+200 mississippi agency https://www.mid.ms.gov/wp-content/uploads/2023/04/InsuranceRequirements-TNCDrivers.pdf
+000 mississippi legal_aid https://www.mslegalservices.org/
+200 missouri agency https://dor.mo.gov/how-do-i/become-tnc.html
+200 missouri legal_aid https://www.lsmo.org/
+000 montana agency https://psc.mt.gov/motorcarriers
+200 montana legal_aid https://www.mtlsa.org/
+200 nebraska agency https://psc.nebraska.gov/sites/default/files/doc/administration/RR-206/Chapter%203%20-%20Motor%20Carriers%20Rules%20and%20Regulations.pdf
+200 nebraska legal_aid https://legalaidofnebraska.com
+200 nevada agency https://www.nta.nv.gov/consumers/illegal-passenger-transportation-in-nevada/
+200 nevada legal_aid https://nevadalegalservices.org/
+200 new hampshire agency https://gc.nh.gov/rules/state_agencies/saf-c5400.html
+200 new hampshire legal_aid https://www.nhla.org/
+200 new jersey agency https://www.nj.gov/mvc/pdf/business/tncfaq.pdf
+200 new jersey legal_aid https://lsnj.org/
+200 new mexico agency https://www.srca.nm.gov/parts/title18/18.007.0001.pdf
+200 new mexico legal_aid https://www.newmexicolegalaid.org/
+200 new york agency https://www.dfs.ny.gov/apps_and_licensing/property_insurers/trans_network_co_ride_sharing_faqs
+200 new york legal_aid https://legalaidnyc.org/
+200 north carolina agency https://www.ncshp.gov/sites/default/files/2026-02/TNC%20Applications%20Packet.pdf
+200 north carolina legal_aid https://legalaidnc.org/
+200 north dakota agency https://www.dot.nd.gov/
+200 north dakota legal_aid http://www.legalassist.org
+200 ohio agency http://www.puco.ohio.gov
+200 ohio legal_aid https://www.ohiolegalhelp.org/
+200 oklahoma agency https://oklahoma.gov/occ.html
+200 oklahoma legal_aid https://legalaidok.org/
+200 oregon agency https://www.portland.gov/transportation/regulatory
+200 oregon legal_aid https://lasoregon.org/
+200 pennsylvania agency https://www.puc.pa.gov/motor-carrier/limos-taxis-movers/?&page=7
+404 pennsylvania legal_aid https://palawhelp.org/
+403 rhode island agency https://ripuc.ri.gov/utility-information/motor-carriers/motor-carrier-forms
+200 rhode island legal_aid http://www.rils.org
+200 south carolina agency http://ors.sc.gov/regulated-utilities/transportation
+200 south carolina legal_aid https://sclegal.org/
+200 south dakota agency https://www.sd.gov/dps?id=kb_article_view&sysparm_article=KB0043707
+200 south dakota legal_aid https://erlservices.org/
+200 tennessee agency https://www.tn.gov/commerce/news/2017/4/28/tdci-ridesharing-drivers-should-check-insurance-coverage-for-gap.html
+200 tennessee legal_aid https://las.org/
+200 texas agency https://www.tdlr.texas.gov/media/pdf/TNC%20at%20a%20Glance.pdf
+200 texas legal_aid https://www.lonestarlegal.org/
+200 utah agency https://commerce.utah.gov/dcp/for-businesses/transportation-network-companies/dcp-transportation-network-company-fees-and-required-documents/
+200 utah legal_aid https://www.utahlegalservices.org/
+200 vermont agency https://dmv.vermont.gov/licenses
+200 vermont legal_aid https://vtlegalaid.org/
+200 virginia agency https://transactions-t.dmv.virginia.gov/commercial/tnc/faqs.asp
+200 virginia legal_aid https://www.vlas.org/
+200 washington agency https://dol.wa.gov/professional-licenses/transportation-network-company/get-your-license-transportation-network-company
+200 washington legal_aid https://www.nwjustice.org/
+200 west virginia agency https://dmv.wv.gov
+000 west virginia legal_aid https://www.lawv.net/
+200 wisconsin agency https://dsps.wi.gov/a-z-professions-list/transportation-network-company-tnc/
+200 wisconsin legal_aid https://legalaction.org/
+403 wyoming agency https://law.justia.com/codes/wyoming/2019/title-31/chapter-20/section-31-20-107/
+200 wyoming legal_aid https://www.lawyoming.org/
