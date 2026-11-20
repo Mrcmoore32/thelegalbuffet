@@ -1,0 +1,182 @@
+{
+  "alabama": {
+    "agency_name": "Alabama Department of Public Health, Center for Health Statistics (Vital Records)",
+    "agency_url": "https://www.alabamapublichealth.gov/vitalrecords/birth-certificate-corrections.html",
+    "birth_certificate": "Apply to the Alabama Department of Public Health, Center for Health Statistics (Vital Records), using the Application to Change an Alabama Birth or Death Certificate (form ADPH-HS-33). Under Ala. Code \u00a7 22-9A-19(d), you must submit a certified copy of a court order stating that your sex has been changed by surgical procedure (and reflecting any name change). The fee to amend a birth certificate is $20, which includes one certified copy; additional copies are $6 each, and expedited processing adds $15.",
+    "court_order_required": "Yes \u2014 a court order is required to change the sex on a birth certificate, while a driver's license can instead be changed with a surgeon's letter alone.",
+    "drivers_license": "Apply in person at an Alabama Law Enforcement Agency (ALEA) driver license office under ALEA Policy Order 63. You must present either an amended birth certificate or a letter on the surgeon's letterhead stating you have had complete and irreversible sex reassignment surgery. The Eleventh Circuit upheld this policy in Corbitt v. Taylor on September 20, 2024. No X marker is available; only M or F.",
+    "legal_aid_name": "Legal Services Alabama",
+    "legal_aid_url": "https://legalservicesalabama.org/",
+    "marker_overview": "Alabama is restrictive: changing the gender marker requires proof of surgery, and a birth-certificate change also requires a court order. A driver's license can be changed with an amended birth certificate or a surgeon's letter. Alabama offers only M or F markers \u2014 there is no X nonbinary option.",
+    "slug": "alabama",
+    "sources": [
+      "https://transequality.org/documents/alabama-identity-documents",
+      "https://www.alabamapublichealth.gov/vitalrecords/birth-certificate-corrections.html",
+      "https://caselaw.findlaw.com/court/us-11th-circuit/116587297.html"
+    ],
+    "state": "Alabama",
+    "surgery_required": "Yes \u2014 Alabama requires proof of sex-change surgery for both a birth-certificate change (via the court order) and a driver's license change (via the surgeon's letter or an amended birth certificate)."
+  },
+  "alaska": {
+    "agency_name": "Alaska Department of Health, Health Analytics and Vital Records",
+    "agency_url": "https://health.alaska.gov/en/services/vital-records-orders/",
+    "birth_certificate": "Apply to the Alaska Department of Health, Health Analytics and Vital Records (Special Services Unit), with the Alaska Birth Certificate Request Form, a photocopy of your ID, and either a letter from a physician, social worker, psychologist, professional counselor, physician assistant, or advanced nurse practitioner, or a certified copy of a court-ordered change of sex. The ACLU of Alaska lists a $60 fee for the amendment and one certified copy; confirm the current fee with Vital Records before submitting.",
+    "court_order_required": "No \u2014 a court order is not required for either document; it is simply one accepted alternative to the professional certification.",
+    "drivers_license": "Apply in person at an Alaska Division of Motor Vehicles office with a D1 application and Form 427, Certification for Change of Sex Designator. Form 427 must be completed and certified by a physician, social worker, psychologist, professional counselor, physician assistant, or advanced nurse practitioner \u2014 unless you instead present an amended birth certificate, a valid U.S. passport, or a court order granting a change of sex or gender. No X marker is available; only M or F.",
+    "legal_aid_name": "Alaska Legal Services Corporation",
+    "legal_aid_url": "https://www.alsc-law.org/",
+    "marker_overview": "Alaska allows gender-marker changes on both a birth certificate and a driver's license or state ID with certification from a medical or other qualified professional \u2014 no court order and no surgery are required. The state does not offer an X nonbinary marker on either document.",
+    "slug": "alaska",
+    "sources": [
+      "https://dmv.alaska.gov/credential-services/changing-identification-details/",
+      "https://transequality.org/documents/alaska-identity-documents",
+      "https://www.acluak.org/news/how-update-your-name-and-gender-marker/"
+    ],
+    "state": "Alaska",
+    "surgery_required": "No \u2014 Alaska does not require surgery; the professional certification states only that you have had appropriate clinical treatment for gender transition."
+  },
+  "arizona": {
+    "agency_name": "Arizona Department of Health Services, Bureau of Vital Records",
+    "agency_url": "https://www.azdhs.gov/licensing/vital-records/index.php",
+    "birth_certificate": "Apply to the Arizona Department of Health Services, Bureau of Vital Records. There are two routes: (1) the direct route under A.R.S. \u00a7 36-337(A)(3), with a written request, a birth-certificate request form, an affidavit to correct the record, and a notarized physician statement verifying a sex-change operation or a chromosomal count establishing a different sex; or (2) the court-order route under \u00a7 36-337(A)(4), by obtaining a court order directing ADHS to amend the record. The Ninth Circuit held on October 6, 2026, in Roe v. Johnston, that the court-order route is available without proof of specific medical treatments, after a district court had struck the surgery requirement in September 2025. No fee was stated in the sources checked \u2014 confirm the current fee with ADHS before submitting.",
+    "court_order_required": "No \u2014 a court order is not required for a driver's license, and for a birth certificate it is one of two routes: the route that avoids any surgery requirement.",
+    "drivers_license": "Apply in person at a full-service Arizona Department of Transportation Motor Vehicle Division office with a signed physician letter on official letterhead, including the physician's license number and dated within three months, stating you are irrevocably committed to the gender-change process and have received appropriate clinical treatment. A certified court order is needed only if you are also changing your name. The replacement license fee is $12. No X marker is published on an official ADOT page, so confirm X availability with MVD before relying on it.",
+    "legal_aid_name": "Community Legal Services",
+    "legal_aid_url": "https://clsaz.org/",
+    "marker_overview": "Arizona allows gender-marker changes, but the birth-certificate rules shifted in 2025\u20132026 through litigation: the direct vital-records route still requires proof of surgery, while a court-order route now requires no specific medical treatment. A driver's license can be changed with a physician's letter, with no court order needed.",
+    "slug": "arizona",
+    "sources": [
+      "https://transequality.org/documents/arizona-identity-documents",
+      "https://www.nclrights.org/about-us/press-release/ninth-circuit-says-transgender-arizonans-can-update-their-birth-certificates-in-court-without-specific-medical-treatment-requirements/",
+      "https://www.azdhs.gov/licensing/vital-records/index.php"
+    ],
+    "state": "Arizona",
+    "surgery_required": "No \u2014 no surgery is required if you use the court-order route for a birth certificate or the physician-letter route for a license, but the direct ADHS birth-certificate route under \u00a7 36-337(A)(3) does require proof of a sex-change operation."
+  },
+  "arkansas": {
+    "agency_name": "Arkansas Department of Health, Vital Records",
+    "agency_url": "https://healthy.arkansas.gov/programs-services/certificates-records/change-or-amend-a-birth-or-death-certificate/change-sex-and-name-on-a-birth-record/",
+    "birth_certificate": "Apply to the Arkansas Department of Health, Vital Records, by submitting a certified court order specifying the name change and stating that the sex is to be changed due to a surgical procedure, as required by Ark. Code \u00a7 20-18-307(d). The Department states that an attorney is normally needed to obtain this type of court order. The Department lists a $15 amendment fee, and a certified copy of a birth certificate is $12 for the first copy and $10 for each additional copy ordered at the same time.",
+    "court_order_required": "Yes \u2014 a court order is required for the birth-certificate change, and because a driver's license change requires an amended birth certificate, a court order is effectively required for both.",
+    "drivers_license": "Apply to the Department of Finance and Administration, Office of Driver Services, using its form and submitting an original or certified copy of an amended birth certificate \u2014 either from Arkansas under \u00a7 20-18-307 or from another state's vital records office \u2014 under 27 CAR \u00a7 34-104. Act 711 of 2025 (HB 1796) requires licenses and IDs to show M for male or F for female only; the state will not issue a license or ID showing X or with no gender information.",
+    "legal_aid_name": "Legal Aid of Arkansas",
+    "legal_aid_url": "https://arlegalaid.org/",
+    "marker_overview": "Arkansas is restrictive: a birth-certificate change requires a court order stating the person's sex was changed by surgical procedure, and a driver's license change now requires an amended birth certificate. Act 711 of 2025 codified that licenses and IDs show M or F only, with no X marker.",
+    "slug": "arkansas",
+    "sources": [
+      "https://healthy.arkansas.gov/programs-services/certificates-records/change-or-amend-a-birth-or-death-certificate/change-sex-and-name-on-a-birth-record/",
+      "https://codeofarrules.arkansas.gov/Rules/Rule?levelType=section&titleID=27&chapterID=34&subChapterID=279&partID=1029&subPartID=4610&sectionID=28950",
+      "https://legalclarity.org/what-are-the-current-arkansas-transgender-laws/"
+    ],
+    "state": "Arkansas",
+    "surgery_required": "Yes \u2014 the birth-certificate amendment requires a court order stating that sex was changed by surgical procedure, and the license change depends on that amended birth certificate."
+  },
+  "california": {
+    "agency_name": "California Department of Public Health, Vital Records",
+    "agency_url": "https://www.cdph.ca.gov/Programs/CHSI/Pages/Amending-a-California-Birth-Record.aspx",
+    "birth_certificate": "Apply to the California Department of Public Health, Vital Records, using form VS 24B, Application to Amend a Birth Record, with a sworn statement under penalty of perjury that the change conforms to your gender identity and is not made for any fraudulent purpose. No court order or medical documentation is required. The fee for changing the sex field is $26, including one copy of the new record, with additional certified copies at $31 each.",
+    "court_order_required": "No \u2014 no court order is needed for either a birth certificate or a driver's license; a court order (form NC-300) is optional and mainly useful if you are also changing your legal name or need an order for use in another state.",
+    "drivers_license": "Apply at the California Department of Motor Vehicles by completing a new driver license or ID application and selecting male, female, or nonbinary (X) as your gender category; the DMV cannot require any documentation beyond your own self-certification. You must visit a DMV office in person to finalize the change. The fee for a Class C driver's license is $37.",
+    "legal_aid_name": "Legal Aid Association of California",
+    "legal_aid_url": "https://www.laaconline.org/",
+    "marker_overview": "California allows gender-marker changes on a birth certificate and a driver's license or state ID by self-attestation, with no court order, medical documentation, or surgery required. You may choose male, female, or nonbinary (X) on state documents under the Gender Recognition Act (SB 179).",
+    "slug": "california",
+    "sources": [
+      "https://selfhelp.courts.ca.gov/gender-recognition/update-gender-marker-ID-documents",
+      "https://www.cdph.ca.gov/Programs/CHSI/Pages/Amending-a-California-Birth-Record.aspx",
+      "https://www.cdph.ca.gov/CDPH%20Document%20Library/ControlledForms/VS24B.pdf"
+    ],
+    "state": "California",
+    "surgery_required": "No \u2014 California requires no surgery, medical treatment, or doctor's letter for a gender-marker change on either document."
+  },
+  "colorado": {
+    "agency_name": "Colorado Department of Public Health and Environment, Vital Records",
+    "agency_url": "https://cdphe.colorado.gov/order-certificate-now",
+    "birth_certificate": "Apply to the Colorado Department of Public Health and Environment, Vital Records, with a written request signed under penalty of law and a self-statement, also signed under penalty of law, confirming that the sex designation on the birth certificate does not align with your gender identity, under C.R.S. \u00a7 25-2-113.8. The state issues a new birth certificate showing M, F, or X that is not marked as amended. A provider statement is required only for minors. The one-time limit on self-requested birth-certificate changes was repealed in 2025 (HB 25-1312), but confirm with CDPHE if you need a further change, as its published materials still describe further changes as requiring a court order.",
+    "court_order_required": "No \u2014 no court order is needed for an adult's first changes; a court order is required only for further changes after the self-requested limits (after three DMV changes since October 1, 2026, or a further birth-certificate change).",
+    "drivers_license": "Apply in person at a Colorado Division of Motor Vehicles driver license office with form DR 2083, Change of Sex Designation, signed under penalty of law, or with a new Colorado birth certificate. Adults self-attest and may choose M, F, or X; there is no additional fee beyond the standard fee for a new credential. Applicants under 18 need a health care provider and a parent, guardian, or legal representative to sign the form. Since October 1, 2026, a sex designation may be changed on request up to three times; any further change requires a certified court order.",
+    "legal_aid_name": "Colorado Legal Services",
+    "legal_aid_url": "https://www.coloradolegalservices.org/",
+    "marker_overview": "Colorado allows gender-marker changes on a birth certificate and a driver's license or state ID by self-attestation for adults, with no court order, doctor's letter, or surgery required. M, F, and X markers are available on both documents under Jude's Law.",
+    "slug": "colorado",
+    "sources": [
+      "https://dmv.colorado.gov/change-your-sex",
+      "https://transequality.org/documents/colorado-identity-documents",
+      "https://regulations.justia.com/states/colorado/1000/1006/rule-5-ccr-1006-1/section-5-ccr-1006-1-5/"
+    ],
+    "state": "Colorado",
+    "surgery_required": "No \u2014 Colorado law expressly does not require any specific surgery, treatment, clinical care, or behavioral health care to update a sex designation."
+  },
+  "connecticut": {
+    "agency_name": "Connecticut Department of Public Health, Office of Vital Records",
+    "agency_url": "https://portal.ct.gov/dph/vital-records/gender-change",
+    "birth_certificate": "Apply to the Connecticut Department of Public Health, Office of Vital Records, by mailing a notarized affidavit from you (signed under penalty of law) requesting a replacement birth certificate, a notarized affidavit from a licensed physician, physician assistant, advanced practice registered nurse, or psychologist stating you have undergone surgical, hormonal, or other treatment clinically appropriate for gender transition, and a photocopy of a valid government-issued photo ID. A certified copy of a court order is needed only if you are also changing your name. A certified copy costs $30.",
+    "court_order_required": "No \u2014 no court order is required to change the gender marker on either a birth certificate or a driver's license; a court order is required only if you are also changing your legal name.",
+    "drivers_license": "Apply at the Connecticut Department of Motor Vehicles by surrendering your current license or ID, submitting the completed Gender Designation form (B-385) selecting Female (F), Male (M), or Non-Binary (X), and paying the applicable fee for a new or updated credential, with a new photograph taken. DMV staff must not request additional gender-related information beyond the form. A parent or guardian must sign for a minor, or the minor must submit a signed and notarized parental-consent form.",
+    "legal_aid_name": "Connecticut Legal Services",
+    "legal_aid_url": "https://ctlegal.org/",
+    "marker_overview": "Connecticut allows gender-marker changes on a birth certificate with affidavits from you and a health care provider, and on a driver's license or state ID by self-selection on a DMV form, with no court order and no surgery required. Female, male, and nonbinary (X) markers are available.",
+    "slug": "connecticut",
+    "sources": [
+      "https://portal.ct.gov/dph/vital-records/gender-change",
+      "https://portal.ct.gov/-/media/DMV/20/29/B-385.pdf?la=en",
+      "https://www.gladlaw.org/issues/id-documents-connecticut/"
+    ],
+    "state": "Connecticut",
+    "surgery_required": "No \u2014 surgery is not required; the provider affidavit may instead state that you have had hormonal or other treatment clinically appropriate for gender transition, and the surgical requirement was removed in 2015."
+  },
+  "delaware": {
+    "agency_name": "Delaware Department of Health and Social Services, Office of Vital Statistics",
+    "agency_url": "https://dhss.delaware.gov/dph/homepage/about/sections/ehdishome/vitalstats/",
+    "birth_certificate": "Apply to the Delaware Department of Health and Social Services, Office of Vital Statistics, with a birth certificate application, a Requester's Affidavit for Sex Change on Birth Certificate, a Healthcare Provider's Affidavit for Sex Change on Birth Certificate from a medical or mental health professional stating you have had surgical, hormonal, psychological, or other treatment appropriate for you for gender transition, a valid photo ID, and your original birth certificate (or a $25 fee if you no longer have the original). Include a certified copy of a name-change order only if you are also changing your name. The X marker is not available on a birth certificate under the current rules.",
+    "court_order_required": "No \u2014 no court order is required to change the gender marker on either document; a court order is needed only if you are also changing your legal name.",
+    "drivers_license": "Apply in person at a Delaware Division of Motor Vehicles office with Form MV2020, Request for Gender Change on Driver License/Identification Card. Section C must be completed by a medical or social service provider licensed in the United States certifying that your gender is male or female; surgery is not required, and the form cannot be processed by mail or online. A separate applicant-signed Gender Designation Change Consent Form is reported to allow an X marker, but the National Center for Transgender Equality still lists no X option, so confirm X availability with the DMV before relying on it.",
+    "legal_aid_name": "Community Legal Aid Society, Inc. (CLASI)",
+    "legal_aid_url": "https://www.declasi.org",
+    "marker_overview": "Delaware allows gender-marker changes on a birth certificate with affidavits from you and a medical or mental health professional, and on a driver's license or state ID with a provider's certification on a DMV form \u2014 no court order and no surgery are required. Note: HB 375 (2026), which would have added an X marker and self-attestation, died in House Appropriations, so the existing rules are unchanged.",
+    "slug": "delaware",
+    "sources": [
+      "https://transequality.org/documents/delaware-identity-documents",
+      "https://dhss.delaware.gov/dph/homepage/about/sections/ehdishome/vitalstats/",
+      "https://services.dmv.de.gov/DriverServices/drivers_license/pdfs/gender_designation_change_procedure.pdf"
+    ],
+    "state": "Delaware",
+    "surgery_required": "No \u2014 Delaware does not require surgery; the provider affidavit may cite hormonal, psychological, or other treatment appropriate for the individual for gender transition, and the DMV procedure expressly states surgery is not required."
+  },
+  "florida": {
+    "agency_name": "Florida Department of Health, Bureau of Vital Statistics",
+    "agency_url": "https://www.floridahealth.gov/certificates-records/birth-certificates/",
+    "birth_certificate": "Florida is not currently processing gender-marker changes on birth certificates. As reported in July 2024, the state stopped processing these changes, and a September 2026 national review states that Florida does not allow amending the gender marker on a birth certificate at all, with changes continuing to be denied although the state has not publicly provided a new policy. Older guides still describe the former process (forms DH429 and DH430, a physician letter, and a $20 amendment fee), but that route should not be relied on. Contact the Florida Department of Health, Bureau of Vital Statistics, to confirm the current position before submitting anything.",
+    "court_order_required": "No \u2014 a court order does not currently provide a working route to a gender-marker change in Florida, as the state is not processing these changes on birth certificates or licenses; a court order is still the route for a legal name change.",
+    "drivers_license": "The Florida Department of Highway Safety and Motor Vehicles issued a memo on January 26, 2024, rescinding its gender-requirements policy (IR08) and stating that the gender shown on a driver's license or ID card must be taken from a primary identification document. The Department will no longer issue a replacement license to change the gender marker to reflect gender identity, and the memo warned that misrepresenting gender could bring criminal and civil penalties. No X marker is available.",
+    "legal_aid_name": "Florida Legal Services",
+    "legal_aid_url": "https://www.floridalegal.org/",
+    "marker_overview": "Florida currently restricts gender-marker changes: the state is no longer processing gender-marker changes on birth certificates, and the Department of Highway Safety and Motor Vehicles rescinded its driver's license gender-change policy in January 2024. There is no X marker, and there is currently no working process to change the marker on either document.",
+    "slug": "florida",
+    "sources": [
+      "https://eqfl.org/resource/faq-dhsmv-memo/",
+      "https://www.southernlegal.org/s/Clarifying-the-FLHSMVs-New-Policy.pdf",
+      "https://mapresearch.org/wp-content/uploads/2026/02/citations-id-birth-certificate.pdf"
+    ],
+    "state": "Florida",
+    "surgery_required": "No \u2014 surgery is not the deciding issue in Florida, because the state is not processing gender-marker changes at all, so no surgery or procedure can currently produce a change."
+  },
+  "georgia": {
+    "agency_name": "Georgia Department of Public Health, State Office of Vital Records",
+    "agency_url": "https://dph.georgia.gov/ways-request-vital-record/birth",
+    "birth_certificate": "Apply to the Georgia Department of Public Health, State Office of Vital Records, under O.C.G.A. \u00a7 31-10-23(e). Submit an Affidavit for Amendment (Form 3977), a certified copy of a court order indicating your sex has been changed by surgical procedure and your name has been changed, a medical certification from the physician's office with the physician's original signature, a copy of valid government-issued photo ID, and payment by money order or cashier's check. The amendment fee is $10 plus the certificate fee.",
+    "court_order_required": "Yes \u2014 a court order is required for a birth-certificate change, and for a driver's license a court order is one of the two accepted proofs (the other is a physician's letter).",
+    "drivers_license": "Apply at the Georgia Department of Driver Services with either a court order or a physician's letter certifying the gender change, stating your name, date of birth, date of gender reassignment operation, and other identifying information. A passport showing the updated gender can also be used as evidence. Georgia Legal Aid lists a $5 change fee. Some doctors may provide a letter based on treatment other than surgery, such as hormone therapy, but DDS may not accept it. No X marker is offered; only M or F.",
+    "legal_aid_name": "Atlanta Legal Aid Society",
+    "legal_aid_url": "https://atlantalegalaid.org/",
+    "marker_overview": "Georgia is restrictive: a birth-certificate change requires a court order stating that sex was changed by surgical procedure and that the person's name was changed. A driver's license or state ID can be changed with a court order or a physician's letter stating the date of a gender reassignment operation. Only M or F markers are available \u2014 there is no X option.",
+    "slug": "georgia",
+    "sources": [
+      "https://www.georgialegalaid.org/resource/what-should-i-know-about-name-changes-and-gender-marker-changes-in-georgia",
+      "https://transequality.org/documents/georgia-identity-documents",
+      "https://dph.georgia.gov/ways-request-vital-record/birth"
+    ],
+    "state": "Georgia",
+    "surgery_required": "Yes \u2014 a birth-certificate change requires a court order stating sex was changed by surgical procedure, and a driver's license change requires a court order or physician's letter stating the date of a gender reassignment operation."
+  }
+}

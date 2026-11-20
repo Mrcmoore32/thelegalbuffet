@@ -1,0 +1,185 @@
+{
+  "new-mexico": {
+    "agency_name": "New Mexico Department of Health, Bureau of Vital Records",
+    "agency_url": "https://www.nmhealth.org/about/erd/bvrhs/vrp/gdc/",
+    "birth_certificate": "Apply to the New Mexico Department of Health, Bureau of Vital Records, using the Request to Change Gender Designation on a Birth Certificate form (adult, parent/guardian, or two-parent versions; minors age 14 and older must also sign a consent form). The form is a statement signed under penalty of perjury and must be signed before a notary. A certified court order is needed only if the legal name is also being changed. The fee is $20, which includes one new birth certificate, with additional copies $10 each. The certificate is reissued showing male, female, or X and is not marked amended. Note: once an item on a vital record has been amended, it cannot be amended again without a certified court order.",
+    "court_order_required": "No \u2014 no court order is needed to change the gender marker on either a birth certificate or a driver's license; a court order is required only if the legal name is also being changed, or to amend the same birth-record item a second time.",
+    "drivers_license": "Apply to the New Mexico Motor Vehicle Division using Form MVD-10237 (Request for Sex Designation Change), a sworn statement signed under penalty of perjury and notarized, choosing male, female, or X. No medical documentation and no court order are required for the marker change; a court order is needed only if the name is also being changed. A standard replacement-card fee applies.",
+    "legal_aid_name": "New Mexico Legal Aid",
+    "legal_aid_url": "https://www.newmexicolegalaid.org/",
+    "marker_overview": "New Mexico allows a gender marker change on both a birth certificate and a driver's license or state ID by self-attestation, with male, female, and X options on both documents. No court order, doctor's letter, or surgery is required for the marker change itself. The process comes from Senate Bill 20 (2019), which amended state law to allow reissue of a birth certificate based on a sworn statement of gender identity.",
+    "slug": "new-mexico",
+    "sources": [
+      "https://www.nmhealth.org/about/erd/bvrhs/vrp/gdc/",
+      "https://www.nmlegis.gov/Sessions/19%20Regular/bills/senate/SB0020.HTML",
+      "https://transequality.org/documents/new-mexico-identity-documents"
+    ],
+    "state": "New Mexico",
+    "surgery_required": "No \u2014 New Mexico requires no surgery, medical procedure, or doctor's letter for a gender marker change on either document; a sworn statement of gender identity is all that is needed."
+  },
+  "new-york": {
+    "agency_name": "New York State Department of Health, Bureau of Vital Records",
+    "agency_url": "https://www.health.ny.gov/vital_records/gender_designation_corrections.htm",
+    "birth_certificate": "Apply to the New York State Department of Health, Bureau of Vital Records, which handles births outside New York City (New York City births go through the NYC Department of Health and Mental Hygiene). Adults file the Application for Amendment of Certificate of Birth for Gender Designation for an Adult (DOH-5305) plus a notarized Affidavit of Gender Error (DOH-5303); minors use forms DOH-5306 and DOH-5304, signed by a parent or legal guardian. One certified copy of the amended certificate is provided free, and additional copies are $30 each. A court order is needed only if the name is also being changed.",
+    "court_order_required": "No \u2014 no court order is required to change the gender marker on a New York birth certificate or driver's license; the Gender Recognition Act states that no court order is required to amend a state-issued identity document, and a court order is needed only for a legal name change.",
+    "drivers_license": "Apply to the New York State Department of Motor Vehicles by completing the Application for Permit, Driver License or Non-Driver ID Card (MV-44) at a DMV office, or through the DMV's online transaction, and choosing M, F, or X. No medical documentation or court order is required. A standard replacement fee applies.",
+    "legal_aid_name": "The Legal Aid Society",
+    "legal_aid_url": "https://legalaidnyc.org/en/",
+    "marker_overview": "New York allows a gender marker change on a birth certificate and a driver's license or state ID by self-attestation, with male, female, and X options on both documents. No court order, doctor's letter, or surgery is required. The rules come from the Gender Recognition Act, which took effect in late 2021, with the DMV X option added in June 2022.",
+    "slug": "new-york",
+    "sources": [
+      "https://www.health.ny.gov/vital_records/gender_designation_corrections.htm",
+      "https://www.governor.ny.gov/news/governor-hochul-announces-new-yorkers-can-now-choose-x-gender-marker-nys-driver-license-and-id",
+      "https://www.legal500.com/intelligence/united-states/consumer-protection/record-keeping-protocols-must-be-updated-to-comply-with-the-gender-recognition-act"
+    ],
+    "state": "New York",
+    "surgery_required": "No \u2014 New York requires no surgery, medical procedure, or doctor's letter for a gender marker change on either document; the change is made by self-attestation."
+  },
+  "north-carolina": {
+    "agency_name": "North Carolina Department of Health and Human Services, Division of Public Health, Vital Records",
+    "agency_url": "https://vrportal.dph.ncdhhs.gov/birth/",
+    "birth_certificate": "Apply to the North Carolina Department of Health and Human Services, Division of Public Health, Vital Records, using the Birth Certificate Modifications Form, with a $39 fee. Submit a sworn statement plus proof of gender identity, such as a government-issued ID or passport already showing the requested marker, or a certification of gender identity signed by a licensed health care professional, social worker, or case manager. Although the text of N.C. Gen. Stat. section 130A-118 still refers to sex reassignment surgery, a 2022 federal consent decree (Kadel v. Folwell) requires Vital Records to amend the marker on proof of gender identity instead, with no surgery required. Note a December 2025 change: for sex changes processed on or after December 1, 2025, state law requires the amended certificate to be attached to the original certificate as a multi-page document, so certified copies now include both pages and the original is no longer sealed and replaced. A court order is needed only if the legal name is also being changed.",
+    "court_order_required": "No \u2014 no court order is required to change the gender marker on a North Carolina driver's license or birth certificate; a court order is needed only for a legal name change.",
+    "drivers_license": "Apply to the North Carolina Division of Motor Vehicles with Form DL-300 (Sex Designation Form), signed by the applicant and by a licensed professional \u2014 a physician, psychiatrist, physician's assistant, licensed therapist, counselor, psychologist, case worker, or social worker \u2014 certifying the applicant's gender identity. A U.S. passport, a birth certificate, or a U.S. court order showing the requested marker is also accepted instead of the form. Surrender the old license, have a new photo taken, and pay the license fee. Only male or female markers are issued; there is no X option, and no surgery or medical procedure is required.",
+    "legal_aid_name": "Legal Aid of North Carolina",
+    "legal_aid_url": "https://legalaidnc.org/",
+    "marker_overview": "North Carolina allows a gender marker change on both a birth certificate and a driver's license, but only as male or female \u2014 there is no X option on either document. No court order is required for the marker itself, but a licensed professional must certify the person's gender identity for the driver's license, and proof of gender identity is required for the birth certificate. Policy changed in 2022, when a federal consent decree ended the old surgery requirement for birth certificates, and again in December 2025, when a new state law changed how amended certificates are issued (see birth certificate below).",
+    "slug": "north-carolina",
+    "sources": [
+      "https://vrportal.dph.ncdhhs.gov/birth/",
+      "https://guides.lib.unc.edu/legalnamegenderchange/genderchange",
+      "https://www.ncdot.gov/dmv/downloads/Pages/driver-license.aspx",
+      "https://scharfflawfirm.com/how-to-legally-change-your-name-and-gender-in-north-carolina/"
+    ],
+    "state": "North Carolina",
+    "surgery_required": "No \u2014 North Carolina does not require surgery or any medical procedure to change the gender marker on either document; the driver's license needs a licensed professional's certification of gender identity, and the birth certificate needs proof of gender identity, but neither requires surgery (the surgery language still in the birth-certificate statute was overridden by the 2022 federal consent decree)."
+  },
+  "north-dakota": {
+    "agency_name": "North Dakota Department of Health and Human Services, Division of Vital Records",
+    "agency_url": "https://www.hhs.nd.gov/vital/changing-birth-record",
+    "birth_certificate": "Birth records are handled by the North Dakota Department of Health and Human Services, Division of Vital Records. Under N.D.C.C. section 23-02.1-25.1, the sex designation on a birth record may not be amended due to a gender identity change. It may be amended or corrected only if the sex was listed incorrectly because of a scrivener's or data-entry error, the sex was misidentified at birth and the request includes genetic testing results identifying the person's sex, or the person's sex was changed with anatomically correct genitalia for the new sex, certified by a medical provider. In practice, a gender-identity-based marker change on a North Dakota birth certificate is barred.",
+    "court_order_required": "No \u2014 a court order is not the route in North Dakota and does not create a path to change a birth-certificate marker for gender identity; the driver's license change requires a health care provider's certification, not a court order.",
+    "drivers_license": "Apply to the North Dakota Department of Transportation, Driver License Division, using Form SFN 61146 (Gender Designation Form, revised April 2026). A health care provider \u2014 physician, physician assistant, advanced practice nurse, psychologist, or psychiatrist \u2014 must certify that a gender role transition has been completed and is permanent. Only male and female markers are available; there is no X option on North Dakota licenses or IDs.",
+    "legal_aid_name": "Legal Services of North Dakota",
+    "legal_aid_url": "https://lsnd.org/",
+    "marker_overview": "North Dakota restricts gender marker changes. Since House Bill 1297 took effect in 2023 (N.D.C.C. section 23-02.1-25.1), the sex designation on a North Dakota birth record may not be amended because of a gender identity change, with only narrow exceptions. A driver's license or state ID marker can still be changed to male or female only \u2014 there is no X option \u2014 with a health care provider's certification of a completed, permanent gender role transition.",
+    "slug": "north-dakota",
+    "sources": [
+      "https://www.hhs.nd.gov/vital/changing-birth-record",
+      "https://ndlegis.gov/prod/assembly/68-2023/regular/documents/23-0408-03001m.pdf",
+      "https://www.hrc.org/press-releases/human-rights-campaign-instead-of-helping-north-dakotans-to-find-the-good-life-governor-burgum-decided-to-sign-away-the-ability-for-transgender-people-to-safely-and-openly-exist"
+    ],
+    "state": "North Dakota",
+    "surgery_required": "Yes \u2014 for a birth certificate, the only gender-related route is a sex change with anatomically correct genitalia for the new sex, certified by a medical provider; a driver's license instead requires a health care provider's certification of a completed, permanent gender role transition, not proof of a specific surgery."
+  },
+  "ohio": {
+    "agency_name": "Ohio Department of Health, Bureau of Vital Statistics",
+    "agency_url": "https://odh.ohio.gov/know-our-programs/vital-statistics/adoption-file-information",
+    "birth_certificate": "Birth records are handled by the Ohio Department of Health, Bureau of Vital Statistics, but a sex-marker correction is pursued through the probate court in the county where the person lives, under Ohio Revised Code section 3705.15. In 2020 a federal court struck down Ohio's old ban on correcting birth-certificate gender markers, and the Department of Health set up a correction process. However, in November 2024 the Ohio Supreme Court could not reach a majority in In re Application for Correction of Birth Record of Adelaide, so there is no controlling precedent and probate courts interpret the statute differently \u2014 check with the local probate court before filing. No fee for this process was verified in an official source I could confirm.",
+    "court_order_required": "Yes \u2014 changing the sex marker on an Ohio birth certificate goes through a county probate court order, and since August 2026 the driver's license marker effectively depends on first obtaining a corrected birth certificate (or passport) showing the desired marker.",
+    "drivers_license": "The Ohio Bureau of Motor Vehicles no longer accepts the Declaration of Gender Change form (BMV 2369) that a physician, psychologist, or therapist used to sign. The BMV now requires an updated birth certificate or a U.S. passport showing the desired marker, and says it will record the sex stated on that document on the Ohio driver's license or ID card. Only male and female markers are issued; there is no X option. Name changes on a license still work as before, with a certified court order.",
+    "legal_aid_name": "Ohio Legal Help",
+    "legal_aid_url": "https://www.ohiolegalhelp.org/",
+    "marker_overview": "Ohio restricts gender marker changes, and the rules changed in August 2026. Around August 18, 2026, the Ohio Bureau of Motor Vehicles stopped accepting its Declaration of Gender Change form (BMV 2369), which had been the way to change a license marker with a provider's statement, citing Ohio Revised Code section 9.05 (added by the 2025 state budget bill), which states the state recognizes only two sexes, male and female, as assigned at birth. The BMV now says it will record the sex shown on the person's birth certificate or passport. Changing an Ohio birth certificate requires a county probate court proceeding, and since a 2024 Ohio Supreme Court case ended without a majority, courts in different counties do not all handle these requests the same way.",
+    "slug": "ohio",
+    "sources": [
+      "https://www.transohio.org/bmvfacts",
+      "https://www.acluohio.org/transgender-spotlight/gender-and-name-change-id-documents/",
+      "https://www.thepostathens.com/article/2026/09/bmv-gender-change-form-transgender-ohio",
+      "https://odh.ohio.gov/know-our-programs/vital-statistics/adoption-file-information"
+    ],
+    "state": "Ohio",
+    "surgery_required": "No \u2014 Ohio does not state a surgery requirement for a birth-certificate correction or a license marker; the barrier since August 2026 is the BMV's refusal of the provider form and the county-by-county court process for the birth certificate."
+  },
+  "oklahoma": {
+    "agency_name": "Oklahoma State Department of Health, Vital Records",
+    "agency_url": "https://www.oklahoma.gov/health/services/birth-and-death-certificates/amendments.html",
+    "birth_certificate": "Birth records are handled by the Oklahoma State Department of Health, Vital Records, which processes amendments generally (a $15 application fee and a $25 amendment fee apply to other kinds of corrections). However, the sex designation on an Oklahoma birth certificate may not be amended to reflect gender identity: state law requires it to be male or female as identified at birth, and the Oklahoma Supreme Court confirmed in Fowler v. Stitt (2026) that it cannot be changed even where the person holds a court order. There is currently no path to change the gender marker on an Oklahoma birth certificate.",
+    "court_order_required": "No \u2014 a court order does not create a path in Oklahoma; the Oklahoma Supreme Court confirmed in 2026 that the birth-certificate sex designation cannot be changed even with a court order, and the driver's license rules that once allowed changes were repealed in March 2026.",
+    "drivers_license": "Driver's licenses and state IDs are issued by Service Oklahoma. The administrative rules that once allowed a replacement license after a sex change were repealed by House Joint Resolution 1032, signed March 3, 2026, so Service Oklahoma no longer processes new gender marker changes on driver's licenses or state IDs. Only male and female markers are issued, and there is no X option. A legal name can still be updated on a license with a certified court order.",
+    "legal_aid_name": "Legal Aid Services of Oklahoma",
+    "legal_aid_url": "https://legalaidok.org/",
+    "marker_overview": "Oklahoma bans gender marker changes on both state documents \u2014 this is one of the most restrictive states in this set. Executive Order 2021-24 directed the Health Department to stop amending sex designations on birth certificates, Senate Bill 1100 (2022) limited birth-certificate sex designations to male or female only, and House Bill 1225 (2026) reaffirmed that the designation must be the biological sex identified at birth. In March 2026, House Joint Resolution 1032 repealed the Service Oklahoma rules that had allowed driver's license marker changes. In September 2026 the Oklahoma Supreme Court confirmed in Fowler v. Stitt that the birth-certificate sex designation cannot be changed even with a court order. No X marker is available on any Oklahoma document. Legal name changes are still possible with a court order.",
+    "slug": "oklahoma",
+    "sources": [
+      "https://aem-prod.oklahoma.gov/health/services/birth-and-death-certificates/amendments.html",
+      "https://oksenate.gov/press-releases/governor-signs-bergstrom-bill-prohibiting-nonbinary-birth-certificates?back=%2Fpress-releases",
+      "https://www.news9.com/oklahoma-politics/oklahoma-repeals-rules-allowing-drivers-license-change-sex-transition",
+      "https://law.justia.com/codes/oklahoma/title-63/section-63-1-321/"
+    ],
+    "state": "Oklahoma",
+    "surgery_required": "No \u2014 Oklahoma does not offer a surgery-based route; marker changes are barred outright on both documents, so surgery or any other medical proof does not make a change possible."
+  },
+  "oregon": {
+    "agency_name": "Oregon Health Authority, Center for Health Statistics (Oregon Vital Records)",
+    "agency_url": "https://www.oregon.gov/oha/ph/birthdeathcertificates/pages/changebirthsupportgenderidentity.aspx",
+    "birth_certificate": "Apply to the Oregon Health Authority, Center for Health Statistics (Oregon Vital Records), using Form OHA 2673, the Application to Change the Name and/or Sex on a Record of Live Birth to Support Gender Identity. Sign the form before a notary, include a copy of a valid government-issued photo ID, and pay the $35 amendment fee plus a $25 to $30 certificate fee depending on birth year. A certified copy of a court order for change of gender is also accepted instead of the notarized application. The administrative route can be used only once for the name and once for the sex; any later change requires a court order.",
+    "court_order_required": "No \u2014 no court order is required for a first gender marker change on either an Oregon birth certificate or a driver's license; a court order is an optional alternative for the birth certificate and is required only for a second change to the same record.",
+    "drivers_license": "Visit an Oregon DMV office in person with the current license, permit, or ID card and choose M (male), F (female), or X (not specified) as the gender marker. No documents about gender or sex are needed and no proof is required to validate the marker choice. Pay the replacement fee for a new or replacement license or ID card. The X option is available on both standard and REAL ID-compliant credentials.",
+    "legal_aid_name": "Legal Aid Services of Oregon",
+    "legal_aid_url": "https://lasoregon.org/",
+    "marker_overview": "Oregon allows a gender marker change on both a birth certificate and a driver's license or state ID by self-attestation, with male, female, and X options on both documents. No court order, doctor's letter, or surgery is required for a first change on either document. A court order is an optional alternative for the birth certificate and is required only for a second administrative change.",
+    "slug": "oregon",
+    "sources": [
+      "https://www.oregon.gov/oha/ph/birthdeathcertificates/pages/changebirthsupportgenderidentity.aspx",
+      "https://www.oregon.gov/odot/dmv/pages/driverid/chg_gender_designation.aspx",
+      "https://transequality.org/documents/oregon-identity-documents"
+    ],
+    "state": "Oregon",
+    "surgery_required": "No \u2014 Oregon requires no surgery, medical procedure, or doctor's letter for a gender marker change on either document; both are changed by self-attestation."
+  },
+  "pennsylvania": {
+    "agency_name": "Pennsylvania Department of Health, Bureau of Health Statistics and Registries",
+    "agency_url": "https://www.pa.gov/agencies/health/programs/vital-records/birth-certificates/amending-birth-record",
+    "birth_certificate": "Apply to the Pennsylvania Department of Health, Bureau of Health Statistics and Registries, using the Request to Modify a Birth Record form for the person's age group (adults age 18 and older use the adult form). An adult must include a signed letter from a physician, on the physician's letterhead and including the physician's license information, stating that the person has had appropriate clinical treatment for gender transition, plus a government-issued photo ID and the $20 certificate fee. For minors under 18, a parent or guardian completes the age-appropriate form and no medical documentation is required. Only male and female options are offered on birth certificates; there is no X option.",
+    "court_order_required": "No \u2014 no court order is needed to change the gender marker on a Pennsylvania driver's license or birth certificate; a court order is required only for a legal name change.",
+    "drivers_license": "Go in person to any PennDOT Driver License Center with Form DL-32 (Request for Gender Designation Change), self-certifying the gender designation as M, F, or X. No doctor's letter, surgery, or court order is needed. There is no fee for the gender designation change itself on non-commercial, non-REAL ID products, but the standard duplicate-card fee applies if a new card showing the new marker is issued.",
+    "legal_aid_name": "Pennsylvania Legal Aid Network",
+    "legal_aid_url": "https://palegalaid.net/",
+    "marker_overview": "Pennsylvania has a split system. A driver's license or photo ID marker can be changed by self-attestation to male, female, or X, with no medical proof and no court order. A birth certificate marker, by contrast, is male or female only (no X), and for adults it requires a physician's letter confirming appropriate clinical treatment for gender transition. No court order is needed for the marker itself on either document.",
+    "slug": "pennsylvania",
+    "sources": [
+      "https://www.pa.gov/agencies/health/programs/vital-records/birth-certificates/amending-birth-record",
+      "https://www.pa.gov/agencies/dmv/driver-services/licenses-and-photo-ids/gender-designation-options",
+      "http://lgbtqpa.org/wp-content/uploads/2025/03/Government-Identification-Documents_March-1-2025.pdf"
+    ],
+    "state": "Pennsylvania",
+    "surgery_required": "No \u2014 Pennsylvania does not require surgery for either document; the birth certificate for adults needs a physician's letter confirming appropriate clinical treatment for gender transition, and the driver's license needs no medical proof at all."
+  },
+  "rhode-island": {
+    "agency_name": "Rhode Island Department of Health, Center for Vital Records",
+    "agency_url": "https://health.ri.gov/vital-records/changes-birth-death-or-marriage-records",
+    "birth_certificate": "Apply to the Rhode Island Department of Health, Center for Vital Records, by making an in-person appointment. At the appointment, sign a self-attestation affidavit stating whether the certificate should read male, female, or X (a parent or legal guardian signs for a minor). Bring a valid government-issued photo ID, pay the $10 amendment fee plus the $22 in-person certificate fee ($25 by mail), and allow three to four weeks for processing. No medical documentation is required. A court order is needed only if the legal name is also being changed.",
+    "court_order_required": "No \u2014 no court order is needed to change the gender marker on a Rhode Island birth certificate or driver's license; a court order is required only for a legal name change.",
+    "drivers_license": "Make an in-person appointment with the Rhode Island Division of Motor Vehicles and bring the Gender Designation for License/Identification Card form, the License/ID/Permit Application (Form LI-1), proof of identity, the current license or ID, and two forms of proof of Rhode Island residency. The marker is updated to male, female, or X based on self-attestation, with no medical documentation required. A $27.50 fee applies when the change is made outside the normal renewal cycle.",
+    "legal_aid_name": "Rhode Island Legal Services",
+    "legal_aid_url": "https://www.rils.org/",
+    "marker_overview": "Rhode Island allows a gender marker change on both a birth certificate and a driver's license or state ID by self-attestation, with male, female, and X options on both documents. No medical documentation, court order, or surgery is required. Self-attestation for birth certificates has been in place since October 1, 2019.",
+    "slug": "rhode-island",
+    "sources": [
+      "https://health.ri.gov/vital-records/changes-birth-death-or-marriage-records",
+      "https://www.gladlaw.org/issues/id-documents-rhode-island/",
+      "https://transequality.org/documents/rhode-island-identity-documents"
+    ],
+    "state": "Rhode Island",
+    "surgery_required": "No \u2014 Rhode Island requires no surgery, medical procedure, or doctor's letter for a gender marker change on either document; both are changed by self-attestation."
+  },
+  "south-carolina": {
+    "agency_name": "South Carolina Department of Public Health, Vital Records Section",
+    "agency_url": "https://dph.sc.gov/public/vital-records/birth-certificates",
+    "birth_certificate": "Petition the Family Court in the county of residence for an order correcting the sex field on the birth certificate (this can be filed at the same time as a name-change petition or separately). The court order must reflect medical certification of a physical change related to sex, that a licensed physician and the court are satisfied medical treatment has been completed and the person is now a different sex from their biological sex at birth, that the change is permanent, and that it is intended to be permanent for all purposes \u2014 evidence of sex reassignment surgery is specifically not required. Then submit an Application for a Birth Certificate, a copy of photo ID, and the certified court order to the South Carolina Department of Public Health, Vital Records Section (formerly DHEC), with the $15 amendment fee plus certificate copy fees. The amended certificate is marked Amended by Court Order, and the certified order is kept in a sealed file. Whether the order is granted is up to the judge's discretion.",
+    "court_order_required": "Yes \u2014 a court order from the Family Court is required to change the sex on a South Carolina birth certificate, and the driver's license change relies on that court order or on the amended birth certificate.",
+    "drivers_license": "The South Carolina Department of Motor Vehicles publishes no sex-designation change procedure. To update the marker, bring a court order from any state ordering the gender marker changed, or a replaced or amended birth certificate showing the correct gender, and confirm the requirements with the DMV before visiting. Only male and female markers are issued; there is no X option.",
+    "legal_aid_name": "South Carolina Legal Services",
+    "legal_aid_url": "https://sclegal.org/",
+    "marker_overview": "South Carolina allows a gender marker change only through a court order, with male or female options only \u2014 there is no X marker and no self-attestation path on either document. The Family Court has exclusive jurisdiction over birth-record corrections, and the Department of Public Health amends the record when it receives a certified copy of the court order. Bills to ban gender changes on birth certificates were introduced in 2023 and again in 2025, but neither had become law as of this research, and the court-order process remains the published route.",
+    "slug": "south-carolina",
+    "sources": [
+      "https://dph.sc.gov/public/vital-records/birth-certificates",
+      "https://transequality.org/documents/south-carolina-identity-documents",
+      "https://www.law.cornell.edu/regulations/south-carolina/R-61-19-1100.1110"
+    ],
+    "state": "South Carolina",
+    "surgery_required": "No \u2014 South Carolina does not require sex reassignment surgery; the court order must include a physician's certification of a physical change related to sex and that medical treatment has been completed and the change is permanent, but the Department of Public Health states that evidence of surgery is not required."
+  }
+}
