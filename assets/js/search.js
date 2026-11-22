@@ -8,8 +8,28 @@
   results.setAttribute('role', 'status');
   results.setAttribute('aria-live', 'polite');
 
-  var prefix = location.pathname.indexOf('/states/') !== -1 ? '../' : '';
-  var curPage = location.pathname.split('/').pop() || 'index.html';
+  /* Relative prefix from the current page back to the site root. Pages live
+     at the root (0 levels), one level down (states/*.html) or three levels
+     down (states/<state>/<topic>/ split pages). */
+  var pathParts = location.pathname.split('/').filter(function (s) { return s !== ''; });
+  if (pathParts.length && /\.html?$/.test(pathParts[pathParts.length - 1])) pathParts.pop();
+  var prefix = pathParts.map(function () { return '../'; }).join('');
+
+  /* Last path segment of a page URL; a trailing slash means the directory's
+     own index page (e.g. 'timeshare-exit' for states/<state>/timeshare-exit/). */
+  function pageFile(u) {
+    var p = u.split('/').filter(function (s) { return s !== ''; });
+    return p.length ? p[p.length - 1] : 'index.html';
+  }
+  /* Root-relative path of a page, for same-page checks. Split pages in
+     different states share the last segment ('timeshare-exit'), so the last
+     segment alone cannot tell them apart — compare the whole path. */
+  function pagePath(u) {
+    var p = (u || '').replace(/^\/+/, '');
+    return p === '' ? 'index.html' : p;
+  }
+  var curPath = pagePath(location.pathname);
+  var curPage = pageFile(location.pathname);
   var index = null;
 
   function norm(s) {
@@ -43,9 +63,9 @@
   }
 
   function urlFor(e) {
-    var samePage = e.u.split('/').pop() === curPage;
+    var samePage = pagePath(e.u) === curPath;
     return samePage
-      ? (e.a ? '#' + e.a : curPage)
+      ? (e.a ? '#' + e.a : (location.pathname.charAt(location.pathname.length - 1) === '/' ? './' : curPage))
       : (prefix + e.u + (e.a ? '#' + e.a : ''));
   }
 
@@ -69,7 +89,7 @@
           continue;
         }
         // boost results from the page the visitor is already on
-        if (idx[i].e.u.split('/').pop() === curPage) s += 10;
+        if (pagePath(idx[i].e.u) === curPath) s += 10;
         content.push({ e: idx[i].e, s: s });
       }
       content.sort(function (a, b) { return b.s - a.s; });
