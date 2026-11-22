@@ -216,7 +216,7 @@ def hub_stub(state, slug):
         '<section class="block" style="padding-block:0 2.5rem">\n'
         f'<h2 id="timeshare-exit-in-{slug}">Timeshare exit in {esc(state)}</h2>\n'
         f'<p>Timeshare exit in {esc(state)} now has its own page: '
-        f'<a href="timeshare-exit/">read the full guide &rarr;</a></p>\n'
+        f'<a href="/states/{slug}/timeshare-exit/">read the full guide &rarr;</a></p>\n'
         '</section>'
     )
 
@@ -227,7 +227,7 @@ def anchor_catch_script(slug):
         '/* Split-pages pilot: timeshare exit moved to its own page. Catch old\n'
         '   #timeshare-exit-in-<state> bookmarks and send the reader on. */\n'
         '(function () {\n'
-        f"  var moved = {{ '#timeshare-exit-in-{slug}': 'timeshare-exit/' }};\n"
+        f"  var moved = {{ '#timeshare-exit-in-{slug}': '/states/{slug}/timeshare-exit/' }};\n"
         '  var dest = moved[window.location.hash];\n'
         '  if (dest) window.location.replace(dest);\n'
         '})();\n'
@@ -242,10 +242,10 @@ def modify_hub(state, slug, section):
     text = path.read_text()
     assert text.count(f'href="#timeshare-exit-in-{slug}"') == 1, f"{slug}: contents href count"
     assert text.count(f'id="timeshare-exit-in-{slug}"') == 1, f"{slug}: h2 id count on hub"
-    assert 'timeshare-exit/' not in text, f"{slug}: hub already has split links"
+    assert f'/states/{slug}/timeshare-exit/' not in text, f"{slug}: hub already has split links"
     assert 'var moved' not in text, f"{slug}: hub already has catch script"
     # 1. Contents-list entry -> new page.
-    text = text.replace(f'href="#timeshare-exit-in-{slug}"', 'href="timeshare-exit/"', 1)
+    text = text.replace(f'href="#timeshare-exit-in-{slug}"', f'href="/states/{slug}/timeshare-exit/"', 1)
     # 2. Section -> stub.
     assert text.count(section) == 1, f"{slug}: live section occurs != 1x on hub"
     text = text.replace(section, hub_stub(state, slug), 1)
@@ -253,8 +253,8 @@ def modify_hub(state, slug, section):
     assert text.count('</body>') == 1, f"{slug}: </body> count"
     text = text.replace('</body>', anchor_catch_script(slug) + '</body>', 1)
     assert text.count(f'id="timeshare-exit-in-{slug}"') == 1, f"{slug}: stub id count"
-    assert text.count('href="timeshare-exit/"') == 2, f"{slug}: new-page links on hub"
-    assert text.count("'timeshare-exit/'") == 1, f"{slug}: catch-script dest count"
+    assert text.count(f'href="/states/{slug}/timeshare-exit/"') == 2, f"{slug}: new-page links on hub"
+    assert text.count(f"'/states/{slug}/timeshare-exit/'") == 1, f"{slug}: catch-script dest count"
     assert text.count('<div') == text.count('</div>'), f"{slug}: div imbalance on hub"
     return text
 
