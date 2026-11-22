@@ -366,6 +366,10 @@ h3 { font-size: 1.25rem; font-weight: 600; margin-bottom: .5rem; }
 .page-head .eyebrow { color: var(--gold); }
 .page-head .lede { color: #c9d2e3; }
 .page-head .crumbs, .page-head .crumbs a { color: #9aa7c2; }
+/* Plain .btn inherits dark ink text, unreadable on the navy .page-head.
+   Ghost-style white text; .btn-primary keeps its own gold/dark colors. */
+.page-head .btn:not(.btn-primary) { color: #fff; border-color: rgba(255,255,255,.5); }
+.page-head .btn:not(.btn-primary):hover { background: rgba(255,255,255,.12); color: #fff; }
 
 /* ---------- two-col ---------- */
 .two-col { display: grid; grid-template-columns: 1fr; gap: 2.5rem; }

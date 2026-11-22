@@ -1,0 +1,794 @@
+{
+ "states": {
+  "alabama": {
+   "enforce_note": "Non-competes are void by default under Ala. Code § 8-1-190(a) unless they fit a narrow statutory exception and protect a defined protectable interest.",
+   "enforceability": "restricted",
+   "legal_aid_name": "Legal Services Alabama",
+   "legal_aid_url": "https://legalservicesalabama.org/",
+   "sources": [
+    "https://www.lexology.com/library/detail.aspx?g=87f6096a-4606-4633-b0af-469f6cd0d457",
+    "https://www.alabamalegalhelp.org/about-us",
+    "https://legalservicesalabama.org/"
+   ],
+   "state_note": "An employee non-compete of two years or less is presumed reasonable, and the worker must already be employed when the agreement is signed.",
+   "statute_cite": "Ala. Code § 8-1-190 et seq.",
+   "statute_name": "Alabama Code § 8-1-190 et seq. (Restrictive Covenants)",
+   "threshold_note": "Alabama has no earnings threshold; instead, non-competes are unenforceable against professionals such as physicians and attorneys and against independent contractors.",
+   "wage_threshold": null
+  },
+  "alaska": {
+   "enforce_note": "Alaska has no non-compete statute; courts enforce non-competes only if they are reasonable in time, area, and scope and protect a legitimate business interest.",
+   "enforceability": "allowed",
+   "legal_aid_name": "Alaska Legal Services Corporation",
+   "legal_aid_url": "https://www.alsc-law.org/",
+   "sources": [
+    "https://capd.mit.edu/resources/review-your-alaska-job-offer/",
+    "https://www.alsc-law.org/"
+   ],
+   "state_note": "Alaska courts view non-competes with disfavor and construe them strictly against the employer, and may narrow an overbroad agreement drafted in good faith instead of voiding it.",
+   "statute_cite": null,
+   "statute_name": null,
+   "threshold_note": "Alaska has no earnings threshold, so a non-compete can in theory apply at any pay level if it passes the reasonableness test.",
+   "wage_threshold": null
+  },
+  "arizona": {
+   "enforce_note": "Arizona courts enforce non-competes only if they are no broader than needed to protect a legitimate business interest and are reasonable in time, area, and scope.",
+   "enforceability": "allowed",
+   "legal_aid_name": "Community Legal Services",
+   "legal_aid_url": "https://clsaz.org/",
+   "sources": [
+    "https://www.azleg.gov/ars/23/00494.htm",
+    "https://capd.mit.edu/resources/review-your-arizona-job-offer/",
+    "https://clsaz.org/apply-for-services/"
+   ],
+   "state_note": "Under A.R.S. § 23-494, radio and television employers may not require a non-compete as a condition of employment, and courts use a strict blue-pencil rule that only strikes severable parts.",
+   "statute_cite": null,
+   "statute_name": null,
+   "threshold_note": "Arizona has no general earnings threshold; the only statutory ban covers broadcast employees.",
+   "wage_threshold": null
+  },
+  "arkansas": {
+   "enforce_note": "Arkansas enforces a non-compete only if it is ancillary to employment, protects a defined protectable business interest, and is limited in time and scope to no more than necessary.",
+   "enforceability": "restricted",
+   "legal_aid_name": "Legal Aid of Arkansas",
+   "legal_aid_url": "https://arlegalaid.org/",
+   "sources": [
+    "https://law.justia.com/codes/arkansas/2020/title-4/subtitle-6/chapter-75/subchapter-1/section-4-75-101/",
+    "https://www.jdsupra.com/legalnews/non-compete-agreements-will-arkansas-9685783/",
+    "https://arlegalaid.org/"
+   ],
+   "state_note": "A post-termination restriction of two years is presumptively reasonable, and for agreements signed after July 21, 2015 a court must narrow an unreasonable covenant rather than void it outright.",
+   "statute_cite": "Ark. Code Ann. § 4-75-101",
+   "statute_name": "Covenant Not to Compete Agreements",
+   "threshold_note": "Arkansas has no earnings threshold; the statute instead limits enforcement to agreements protecting trade secrets, customer lists, goodwill, confidential information, and similar interests.",
+   "wage_threshold": null
+  },
+  "california": {
+   "enforce_note": "California voids every contract restraining a person from a lawful profession, trade, or business, including any employment non-compete no matter how narrowly tailored, except for narrow sale-of-business exceptions.",
+   "enforceability": "banned",
+   "legal_aid_name": "LawHelpCA",
+   "legal_aid_url": "https://www.lawhelpca.org/",
+   "sources": [
+    "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=16600.",
+    "https://lafla.org/"
+   ],
+   "state_note": "Since January 1, 2024, it is unlawful to include or try to enforce a void non-compete, and an employer that does so commits a civil violation with a private right of action.",
+   "statute_cite": "Cal. Bus. & Prof. Code § 16600",
+   "statute_name": "Business and Professions Code, Chapter 1, Contracts in Restraint of Trade",
+   "threshold_note": "The ban covers all employees at every pay level, with no earnings threshold to meet.",
+   "wage_threshold": "all employees"
+  },
+  "colorado": {
+   "enforce_note": "Colorado voids non-competes by default and enforces one only against a highly compensated worker, only to protect trade secrets, and only with the required advance written notice.",
+   "enforceability": "restricted",
+   "legal_aid_name": "Colorado Legal Services",
+   "legal_aid_url": "https://www.coloradolegalservices.org/",
+   "sources": [
+    "https://codes.findlaw.com/co/title-8-labor-and-industry/co-rev-st-sect-8-2-113/",
+    "https://www.legal500.com/intelligence/united-states/employment-and-hr/colorado%27s-2026-non-compete-salary-thresholds-what-employers-need-to-know",
+    "https://www.coloradolegalservices.org/"
+   ],
+   "state_note": "An employer that presents or tries to enforce a void covenant faces actual damages plus a $5,000 penalty per affected worker, and since August 6, 2025 physicians, physician assistants, APRNs, certified midwives, and dentists cannot be bound at any pay level.",
+   "statute_cite": "Colo. Rev. Stat. § 8-2-113",
+   "statute_name": "Unlawful to Intimidate Worker — Agreement Not to Compete",
+   "threshold_note": "For 2026 the highly compensated worker threshold is $130,014 in annualized cash compensation, met both when the agreement is signed and when it is enforced, and it adjusts annually.",
+   "wage_threshold": "$130,014"
+  },
+  "connecticut": {
+   "enforce_note": "Connecticut has no general non-compete statute, so courts enforce a non-compete only if it is reasonable in time, area, fairness to the employer, effect on the worker, and effect on the public.",
+   "enforceability": "allowed",
+   "legal_aid_name": "Connecticut Legal Services",
+   "legal_aid_url": "https://ctlegal.org/",
+   "sources": [
+    "https://capd.mit.edu/resources/review-your-connecticut-job-offer/",
+    "https://noncompetechecker.com/non-compete-laws/connecticut",
+    "https://ctlegal.org/get-help/"
+   ],
+   "state_note": "Separate statutes void or limit non-competes for specific jobs, including physicians (one year and 15 miles), security guards, broadcast employees, and homemakers and home health workers.",
+   "statute_cite": null,
+   "statute_name": null,
+   "threshold_note": "Connecticut has no general earnings threshold; proposed bills in 2023 and 2025 that would have set one at three times the minimum wage were not enacted.",
+   "wage_threshold": null
+  },
+  "delaware": {
+   "enforce_note": "Delaware has no general non-compete statute, so courts enforce a non-compete only if it is reasonable in duration and area, advances a legitimate economic interest, and balances in the employer's favor.",
+   "enforceability": "allowed",
+   "legal_aid_name": "Community Legal Aid Society, Inc.",
+   "legal_aid_url": "https://www.declasi.org/",
+   "sources": [
+    "https://law.justia.com/codes/delaware/title-6/chapter-27/subchapter-i/section-2707/",
+    "https://www.recordinglaw.com/us-laws/non-compete-laws/delaware-non-compete-laws/",
+    "https://www.declasi.org/"
+   ],
+   "state_note": "Under 6 Del. C. § 2707 a physician's non-compete is void, although the agreement may still require damages reasonably related to the injury from leaving, and Delaware courts will not rewrite an overbroad covenant.",
+   "statute_cite": null,
+   "statute_name": null,
+   "threshold_note": "Delaware has no earnings threshold; the only statutory rule voids physician non-competes.",
+   "wage_threshold": null
+  },
+  "florida": {
+   "enforce_note": "Florida enforces a non-compete that is in writing, signed by the worker, protects a listed legitimate business interest, and is reasonable in time, area, and line of business.",
+   "enforceability": "allowed",
+   "legal_aid_name": "Florida Legal Services, Inc.",
+   "legal_aid_url": "https://www.floridalegal.org/",
+   "sources": [
+    "https://www.flsenate.gov/Laws/Statutes/2009/542.335",
+    "https://www.kogan.law/guides/florida-non-compete-enforcement",
+    "https://www.foley.com/insights/publications/2025/07/florida-bucks-trend-enacts-new-employer-friendly-noncompete-statute/",
+    "https://www.floridalegal.org/"
+   ],
+   "state_note": "A restraint of six months or less is presumed reasonable for a former employee and more than two years is presumed unreasonable, and a court must narrow an overbroad restraint rather than void it.",
+   "statute_cite": "Fla. Stat. § 542.335",
+   "statute_name": "Valid Restraints of Trade or Commerce",
+   "threshold_note": "Florida has no general earnings threshold; the 2025 CHOICE Act's higher-pay test only governs its optional four-year, per se enforceable agreements, with the pay line varying by county at over twice the county mean wage.",
+   "wage_threshold": null
+  },
+  "georgia": {
+   "enforce_note": "Georgia enforces a non-compete only under the Georgia Restrictive Covenants Act, only against workers in four covered job categories, and only if it is reasonable in time, area, and scope.",
+   "enforceability": "restricted",
+   "legal_aid_name": "Georgia Legal Services Program",
+   "legal_aid_url": "https://www.glsp.org/",
+   "sources": [
+    "https://parisifirm.com/blog/are-non-competes-enforceable-in-georgia",
+    "https://www.glsp.org/need-help/"
+   ],
+   "state_note": "For a former employee, a restraint of two years or less is presumed reasonable and more than two years is presumed unreasonable, and a court may narrow an overbroad covenant instead of voiding it.",
+   "statute_cite": "O.C.G.A. §§ 13-8-50 to 13-8-59",
+   "statute_name": "Georgia Restrictive Covenants Act",
+   "threshold_note": "Georgia has no salary threshold; the gate is job function, so ordinary workers outside the four categories in O.C.G.A. § 13-8-53(a) cannot be bound.",
+   "wage_threshold": null
+  },
+  "hawaii": {
+   "enforce_note": "Non-competes are not banned for all workers, but they are void for employees of a technology business, while other workers are judged under the state's general restraint-of-trade law.",
+   "enforceability": "restricted",
+   "legal_aid_name": "Legal Aid Society of Hawaii",
+   "legal_aid_url": "https://www.legalaidhawaii.org/",
+   "sources": [
+    "https://codes.findlaw.com/hi/division-2-business/hi-rev-st-sect-480-4/",
+    "https://data.capitol.hawaii.gov/sessions/session2017/HRS-Chapter-PDF's/HRS_0480.pdf",
+    "https://www.legalaidhawaii.org/about.html"
+   ],
+   "state_note": "A non-compete or non-solicit clause in a technology-business employee's contract is void and of no force and effect, while sale-of-business and trade-secret covenants remain lawful under the same statute.",
+   "statute_cite": "Haw. Rev. Stat. § 480-4",
+   "statute_name": "Hawaii Revised Statutes § 480-4 (Combinations in restraint of trade prohibited)",
+   "threshold_note": "There is no earnings threshold; the ban turns on working for a technology business, not on how much the worker earns.",
+   "wage_threshold": null
+  },
+  "idaho": {
+   "enforce_note": "Non-competes are enforceable for a key employee or key independent contractor if the restriction is reasonable in duration, geography, and type of work and no broader than needed to protect a legitimate business interest.",
+   "enforceability": "allowed",
+   "legal_aid_name": "Idaho Legal Aid Services",
+   "legal_aid_url": "https://idaholegalaid.org/",
+   "sources": [
+    "https://legislature.idaho.gov/statutesrules/idstat/title44/t44ch27/sect44-2701/",
+    "https://isb.idaho.gov/blog/navigating-restrictive-covenants-in-a-mobile-workforce/",
+    "https://idaholegalaid.org/about-idaho-legal-aid-services"
+   ],
+   "state_note": "A non-compete of 18 months or less is presumed reasonable as to duration, and a court may modify an overbroad covenant to make it reasonable rather than striking it entirely.",
+   "statute_cite": "Idaho Code § 44-2701",
+   "statute_name": "Idaho Code, Title 44, Chapter 27 — Agreements and Covenants Protecting Legitimate Business Interests",
+   "threshold_note": "There is no earnings threshold; the statute applies only to key employees, and an employee is presumed key if paid in the top 5% of the employer's workforce.",
+   "wage_threshold": null
+  },
+  "illinois": {
+   "enforce_note": "Non-competes are void unless the employee's actual or expected annualized earnings exceed the statutory threshold, and they must also pass notice, consideration, and reasonableness requirements.",
+   "enforceability": "restricted",
+   "legal_aid_name": "Prairie State Legal Services",
+   "legal_aid_url": "https://www.pslegal.org/",
+   "sources": [
+    "https://www.ilga.gov/documents/legislation/ilcs/documents/082000900K10.htm",
+    "https://law.justia.com/codes/illinois/chapter-820/act-820-ilcs-90/",
+    "https://www.pslegal.org/"
+   ],
+   "state_note": "The employer must give the worker a copy of the agreement at least 14 calendar days before employment starts and advise the worker in writing to consult an attorney.",
+   "statute_cite": "820 ILCS 90/10",
+   "statute_name": "Illinois Freedom to Work Act",
+   "threshold_note": "A non-compete is void if the employee earns $75,000 per year or less in 2026, and the threshold rises to $80,000 on January 1, 2027, then $85,000 in 2032 and $90,000 in 2037.",
+   "wage_threshold": "$75,000"
+  },
+  "indiana": {
+   "enforce_note": "Non-competes are generally enforceable for most workers if reasonable in scope, duration, and geography, with the rules coming from court decisions rather than a general statute.",
+   "enforceability": "allowed",
+   "legal_aid_name": "Indiana Legal Services",
+   "legal_aid_url": "https://www.indianalegalservices.org/",
+   "sources": [
+    "https://law.justia.com/codes/indiana/title-25/article-22-5/chapter-5-5/section-25-22-5-5-5-2/",
+    "https://www.foley.com/insights/publications/2025/06/indiana-physician-noncompete-ban-2025/",
+    "https://www.indianalegalservices.org/about/"
+   ],
+   "state_note": "Physicians are treated differently: non-competes with primary care physicians are banned, and non-competes between physicians and hospitals are void for agreements entered on or after July 1, 2025.",
+   "statute_cite": null,
+   "statute_name": null,
+   "threshold_note": "There is no earnings threshold; enforceability turns on reasonableness, not on pay.",
+   "wage_threshold": null
+  },
+  "iowa": {
+   "enforce_note": "Non-competes are generally enforceable if they pass the Iowa Supreme Court's three-part test: reasonably necessary to protect the employer's business, not unreasonably restrictive of the worker, and not harmful to the public interest.",
+   "enforceability": "allowed",
+   "legal_aid_name": "Iowa Legal Aid",
+   "legal_aid_url": "https://www.iowalegalaid.org/",
+   "sources": [
+    "https://corporate.findlaw.com/business-operations/non-compete-agreements-in-iowa.html",
+    "https://caselaw.findlaw.com/court/ia-court-of-appeals/2024981.html",
+    "https://iowalegalaid.org/who-we-are/"
+   ],
+   "state_note": "An Iowa court may narrow an overbroad clause and enforce the trimmed version instead of voiding it, and licensed mental health professionals cannot be bound by a non-compete at all.",
+   "statute_cite": null,
+   "statute_name": null,
+   "threshold_note": "There is no earnings threshold; pay does not decide enforceability in Iowa.",
+   "wage_threshold": null
+  },
+  "kansas": {
+   "enforce_note": "Non-competes are enforceable if the restraint is reasonable under the circumstances, protects a legitimate business interest, and is not harmful to the public welfare.",
+   "enforceability": "allowed",
+   "legal_aid_name": "Kansas Legal Services",
+   "legal_aid_url": "https://www.kansaslegalservices.org/",
+   "sources": [
+    "https://law.justia.com/cases/kansas/supreme-court/2005/91442.html",
+    "https://law.justia.com/cases/kansas/court-of-appeals/2022/123628.html",
+    "https://www.kansaslegalservices.org/page/63/get-help"
+   ],
+   "state_note": "Kansas courts construe non-competes strictly against the employer, and a clause whose only purpose is to avoid ordinary competition is unenforceable.",
+   "statute_cite": null,
+   "statute_name": null,
+   "threshold_note": "There is no earnings threshold; enforceability turns on reasonableness, not on pay.",
+   "wage_threshold": null
+  },
+  "kentucky": {
+   "enforce_note": "Non-competes are generally enforceable if they protect a legitimate business interest and are reasonable in time, geography, and scope, with the rules coming from court decisions rather than a statute.",
+   "enforceability": "allowed",
+   "legal_aid_name": "Kentucky Justice Online — Legal Aid Network of Kentucky",
+   "legal_aid_url": "https://www.kyjustice.org/",
+   "sources": [
+    "https://www.docdraft.ai/legal-document/non-compete-agreement/kentucky",
+    "https://cdn.uconnectlabs.com/wp-content/uploads/sites/123/2024/09/Kentucky-Job-Offer-Template-1.pdf",
+    "https://www.klaid.org/faq"
+   ],
+   "state_note": "An existing at-will employee must receive something new, such as a raise, promotion, or specialized training, for signing a non-compete — continued employment alone is not enough consideration.",
+   "statute_cite": null,
+   "statute_name": null,
+   "threshold_note": "There is no earnings threshold; enforceability turns on reasonableness and consideration, not on pay.",
+   "wage_threshold": null
+  },
+  "louisiana": {
+   "enforce_note": "Non-competes are null and void by default and enforceable only if they fit a narrow statutory exception for employees, business sellers, partners, or shareholders.",
+   "enforceability": "restricted",
+   "legal_aid_name": "Southeast Louisiana Legal Services",
+   "legal_aid_url": "https://slls.org/",
+   "sources": [
+    "https://www.legis.la.gov/legis/Law.aspx?d=84015",
+    "https://millinglaw.com/2023/11/03/louisiana-non-compete-agreements-are-enforceable-only-if-they-meet-strict-statutory-criteria/",
+    "https://dcfs.louisiana.gov/child-welfare/kinship-navigator/kinship-navigator-related-legal-resources/"
+   ],
+   "state_note": "An employee non-compete must name the specific parishes or municipalities where competition is barred, where the employer carries on a like business, and it may last no more than two years after employment ends.",
+   "statute_cite": "La. Rev. Stat. § 23:921",
+   "statute_name": "Louisiana Revised Statutes § 23:921 (Restraint of business prohibited)",
+   "threshold_note": "There is no earnings threshold; enforceability turns on meeting the statute's strict time and geography requirements, not on pay.",
+   "wage_threshold": null
+  },
+  "maine": {
+   "enforce_note": "Non-competes are contrary to public policy and enforceable only if reasonable and no broader than necessary to protect trade secrets, confidential information, or goodwill.",
+   "enforceability": "restricted",
+   "legal_aid_name": "Pine Tree Legal Assistance",
+   "legal_aid_url": "https://www.ptla.org/",
+   "sources": [
+    "https://law.justia.com/codes/maine/title-26/chapter-7/subchapter-1/section-599-a/",
+    "https://financialist.com/research/2026-federal-poverty-guidelines",
+    "https://www.ptla.org/pine-tree-services"
+   ],
+   "state_note": "The employer must disclose before the job offer that a non-compete will be required and give the worker a copy at least 3 business days before signing, and a violation can draw a civil fine of at least $5,000.",
+   "statute_cite": "26 M.R.S. § 599-A",
+   "statute_name": "Maine Revised Statutes, Title 26, § 599-A (Noncompete agreements)",
+   "threshold_note": "An employer may not require a non-compete from a worker earning at or below 400% of the federal poverty level, a figure that rises with household size and is adjusted annually.",
+   "wage_threshold": "400% of the federal poverty level (about $63,840 for one person in 2026)"
+  },
+  "maryland": {
+   "enforce_note": "Non-competes are generally enforceable above the statutory wage floor if reasonable in duration, geography, and scope, but they are void for lower-paid workers.",
+   "enforceability": "restricted",
+   "legal_aid_name": "Maryland Legal Aid",
+   "legal_aid_url": "https://www.mdlab.org/",
+   "sources": [
+    "https://law.justia.com/codes/maryland/2021/labor-and-employment/title-3/subtitle-7/section-3-716/",
+    "https://iqbalbusinesslaw.com/are-non-compete-agreements-enforceable-in-maryland-a-guide-for-business-owners/",
+    "https://www.mdlab.org/get-help-services/"
+   ],
+   "state_note": "Non-competes are also void for most licensed health-care workers who provide direct patient care and earn $350,000 or less, and for all veterinary practitioners and technicians.",
+   "statute_cite": "Md. Code, Lab. & Empl. § 3-716",
+   "statute_name": "Maryland Code, Labor and Employment § 3-716 (Noncompete or conflict of interest provision in contract)",
+   "threshold_note": "A non-compete is void for an employee earning at or below 150% of the state minimum wage, which is $22.50 per hour or about $46,800 per year at the $15.00 state minimum wage in 2026, so the floor rises if the minimum wage rises.",
+   "wage_threshold": "$46,800"
+  },
+  "massachusetts": {
+   "enforce_note": "Non-competes are allowed only if they meet the strict requirements of the Massachusetts Noncompetition Agreement Act, including a 12-month limit and garden-leave pay.",
+   "enforceability": "restricted",
+   "legal_aid_name": "Greater Boston Legal Services",
+   "legal_aid_url": "https://www.gbls.org/",
+   "sources": [
+    "https://maLegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter149/Section24l",
+    "https://www.gbls.org/get-legal-help/our-services"
+   ],
+   "state_note": "The employer must give the agreement by the earlier of the job offer or 10 business days before work starts, and must pay garden leave of at least half the worker's highest base salary during the restricted period or other agreed consideration.",
+   "statute_cite": "Mass. Gen. Laws ch. 149, § 24L",
+   "statute_name": "Massachusetts Noncompetition Agreement Act",
+   "threshold_note": "There is no dollar earnings threshold, but non-competes are void against nonexempt (overtime-eligible) employees, students, minors, and workers fired without cause or laid off.",
+   "wage_threshold": null
+  },
+  "michigan": {
+   "enforce_note": "Non-competes are generally enforceable in Michigan if they are reasonable as to duration, geographic area, and type of work, and protect a legitimate competitive business interest.",
+   "enforceability": "allowed",
+   "legal_aid_name": "Michigan Legal Help",
+   "legal_aid_url": "https://michiganlegalhelp.org",
+   "sources": [
+    "https://revisionlegal.com/corporate/non-compete-lawyer/michigan-noncompete-agreements/",
+    "https://www.macombbar.org/legal-service-agencies/"
+   ],
+   "state_note": "A court can 'blue-pencil' (trim) an overbroad clause instead of throwing it out, and merely keeping the job can count as consideration for signing a non-compete.",
+   "statute_cite": "MCL 445.774a",
+   "statute_name": "Michigan Antitrust Reform Act",
+   "threshold_note": "Michigan has no earnings threshold; any employee can be bound if the restriction is reasonable.",
+   "wage_threshold": null
+  },
+  "minnesota": {
+   "enforce_note": "Almost all employee and independent-contractor non-competes signed on or after July 1, 2023 are void and unenforceable, with narrow exceptions for the sale or dissolution of a business.",
+   "enforceability": "banned",
+   "legal_aid_name": "LawHelp Minnesota",
+   "legal_aid_url": "https://www.lawhelpmn.org",
+   "sources": [
+    "https://www.revisor.mn.gov/statutes/2023/cite/181.988/pdf",
+    "https://www.womenslaw.org/node/43227/all"
+   ],
+   "state_note": "The ban applies only to agreements signed on or after July 1, 2023, and an employee who has to enforce it can ask the court for attorney fees.",
+   "statute_cite": "Minn. Stat. § 181.988",
+   "statute_name": "Covenants Not to Compete Void in Employment Agreements",
+   "threshold_note": "There is no earnings threshold because the ban covers employees and independent contractors at every pay level, including executives.",
+   "wage_threshold": "all employees"
+  },
+  "mississippi": {
+   "enforce_note": "Non-competes are enforceable under judge-made common law if they are reasonable in duration, geographic scope, and activities restricted and protect a legitimate business interest.",
+   "enforceability": "allowed",
+   "legal_aid_name": "Mississippi Legal Services",
+   "legal_aid_url": "https://mslegalservices.org",
+   "sources": [
+    "https://www.lexology.com/library/detail.aspx?g=9da82d0f-df32-4fd0-a850-c6c758a87a47",
+    "https://mscenterforlegalservices.org/"
+   ],
+   "state_note": "Non-competes are disfavored and the employer must prove the restriction is reasonable, and a court may refuse to enforce one against a worker fired arbitrarily or in bad faith.",
+   "statute_cite": null,
+   "statute_name": null,
+   "threshold_note": "Mississippi has no earnings threshold; courts judge each agreement on reasonableness.",
+   "wage_threshold": null
+  },
+  "missouri": {
+   "enforce_note": "Non-competes are enforceable under Missouri case law if they are reasonable and no more restrictive than necessary to protect the employer's legitimate interests, such as trade secrets or customer contacts.",
+   "enforceability": "allowed",
+   "legal_aid_name": "Missouri Legal Services",
+   "legal_aid_url": "https://lsmo.org/",
+   "sources": [
+    "https://law.justia.com/cases/missouri/supreme-court/2012/sc92291.html",
+    "https://lsem.org/about/faq/"
+   ],
+   "state_note": "Courts can 'blue-pencil' an overbroad clause, and a non-solicitation clause of one year or less is treated as reasonable by statute (Mo. Rev. Stat. § 431.202).",
+   "statute_cite": null,
+   "statute_name": null,
+   "threshold_note": "Missouri has no earnings threshold; courts judge each agreement on reasonableness.",
+   "wage_threshold": null
+  },
+  "montana": {
+   "enforce_note": "Montana law strongly disfavors non-competes, and a court enforces one only as a limited partial restraint that is reasonable in time and place, based on good consideration, and protects a legitimate business interest.",
+   "enforceability": "restricted",
+   "legal_aid_name": "Montana Legal Services Association",
+   "legal_aid_url": "https://www.mtlsa.org/",
+   "sources": [
+    "https://law.justia.com/cases/montana/supreme-court/2011/da-11-0147-0.html",
+    "https://www.mtlsa.org/legal-information/"
+   ],
+   "state_note": "An employer that fires a worker without misconduct usually has no legitimate interest to enforce a non-compete (Wrigg v. Junkermier, 2011 MT 290).",
+   "statute_cite": "Mont. Code Ann. § 28-2-703",
+   "statute_name": "Contracts in Restraint of Trade (Montana Code Annotated)",
+   "threshold_note": "Montana has no earnings threshold; enforceability turns on reasonableness and whether the employer has a legitimate business interest.",
+   "wage_threshold": null
+  },
+  "nebraska": {
+   "enforce_note": "Non-competes are governed entirely by court decisions and are upheld only if they are reasonable, not injurious to the public, no greater than necessary to protect a legitimate interest, and not unduly harsh on the worker.",
+   "enforceability": "restricted",
+   "legal_aid_name": "Legal Aid of Nebraska",
+   "legal_aid_url": "https://www.legalaidofnebraska.org/",
+   "sources": [
+    "https://www.mcgrathnorth.com/restrictions-on-noncompete-restrictions-are-covenants-not-to-compete-still-enforceable-in-nebraska",
+    "https://www.womenslaw.org/node/44378/L"
+   ],
+   "state_note": "Nebraska courts allow only a narrow non-solicitation limit tied to customers the worker actually dealt with, and they will not rewrite ('blue-pencil') an overbroad clause, so the whole clause fails.",
+   "statute_cite": null,
+   "statute_name": null,
+   "threshold_note": "Nebraska has no earnings threshold; courts apply a strict three-part reasonableness test.",
+   "wage_threshold": null
+  },
+  "nevada": {
+   "enforce_note": "Non-competes are void unless supported by valuable consideration, no broader than needed to protect the employer, not an undue hardship, and proportionate to the consideration, and they cannot apply to hourly-paid workers.",
+   "enforceability": "restricted",
+   "legal_aid_name": "Nevada Legal Services",
+   "legal_aid_url": "https://nevadalegalservices.org/",
+   "sources": [
+    "https://www.fisherphillips.com/en/insights/insights/nevada-bans-noncompetition-agreements-for-hourly-workers",
+    "https://nevadalegalservices.org/nevada-legal-services-and-the-senior-law-project/"
+   ],
+   "state_note": "A court can trim an unreasonable clause instead of voiding it, and a worker who wins a challenge to a banned clause can recover attorney fees and costs.",
+   "statute_cite": "Nev. Rev. Stat. § 613.195",
+   "statute_name": "Noncompetition Covenants",
+   "threshold_note": "A non-compete cannot apply to an employee paid solely on an hourly wage basis, not counting tips or gratuities, under a 2021 amendment.",
+   "wage_threshold": "hourly-paid employees (paid solely on an hourly basis)"
+  },
+  "new hampshire": {
+   "enforce_note": "Non-competes are void for low-wage workers, and for everyone else they are enforceable only if reasonable under a three-part court test.",
+   "enforceability": "restricted",
+   "legal_aid_name": "New Hampshire Legal Assistance",
+   "legal_aid_url": "https://www.nhla.org/",
+   "sources": [
+    "https://law.justia.com/codes/new-hampshire/2019/title-xxiii/chapter-275/section-275-70-a/",
+    "http://www.nhla.org/"
+   ],
+   "state_note": "An employer that requires a non-compete must give the worker a copy before the worker accepts the job offer, or the agreement is unenforceable (RSA 275:70).",
+   "statute_cite": "N.H. Rev. Stat. Ann. § 275:70-a",
+   "statute_name": "Noncompete Agreements for Low-Wage Employees Prohibited",
+   "threshold_note": "Non-competes are void for 'low-wage employees' earning 200% of the federal minimum wage or less ($14.50 an hour at the $7.25 federal minimum wage), so the line moves if the federal minimum wage changes.",
+   "wage_threshold": "$14.50/hour"
+  },
+  "new jersey": {
+   "enforce_note": "New Jersey has no non-compete statute, and courts enforce non-competes under a three-part reasonableness test from Solari and Whitmyer: the clause must protect a legitimate interest, impose no undue hardship, and not harm the public.",
+   "enforceability": "allowed",
+   "legal_aid_name": "Legal Services of New Jersey",
+   "legal_aid_url": "https://www.lsnj.org",
+   "sources": [
+    "https://statuteworks.com/employment/new-jersey-non-compete-law-and-what-makes-one-enforceable/",
+    "https://www.nj.gov/basicneeds/legal-aid/family-law.shtml"
+   ],
+   "state_note": "Courts can 'blue-pencil' an overbroad clause, and bills to restrict non-competes (such as A5708/S4385) were pending in 2026 but had not been enacted.",
+   "statute_cite": null,
+   "statute_name": null,
+   "threshold_note": "New Jersey has no earnings threshold; courts judge each agreement under the three-part reasonableness test.",
+   "wage_threshold": null
+  },
+  "new mexico": {
+   "enforce_note": "Non-competes are banned only for covered health care practitioners, while other employees' non-competes are allowed if reasonable under case law.",
+   "enforceability": "restricted",
+   "legal_aid_name": "New Mexico Legal Aid",
+   "legal_aid_url": "https://www.newmexicolegalaid.org/",
+   "sources": [
+    "https://nmlegis.gov/sessions/17%20Regular/final/SB0082.PDF",
+    "https://www.dentistryhires.com/hiring/dental-non-competes/new-mexico/",
+    "https://newmexicolegalaid.org/what-we-do/programs-services/our-projects.html"
+   ],
+   "state_note": "A covered health care practitioner's non-compete is unenforceable once the job ends, and any clause forcing the dispute into another state's law or courts is void, though limited repayment and liquidated-damages terms can still apply.",
+   "statute_cite": "N.M. Stat. Ann. § 24A-4-2 (formerly § 24-1I-2)",
+   "statute_name": "Health Care Practitioner Agreement Act",
+   "threshold_note": "New Mexico sets no earnings threshold; the ban turns on the worker's profession, not pay.",
+   "wage_threshold": null
+  },
+  "new york": {
+   "enforce_note": "New York has no general non-compete statute, so courts enforce non-competes only when they pass the strict reasonableness test from BDO Seidman v. Hirshberg.",
+   "enforceability": "allowed",
+   "legal_aid_name": "The Legal Aid Society",
+   "legal_aid_url": "https://legalaidnyc.org",
+   "sources": [
+    "https://mayo.law/articles/are-non-competes-enforceable-in-ny/",
+    "https://www.lexblog.com/2026/10/23/are-non-competes-enforceable-in-new-york-city-and-state-in-2026-whats-lawful-and-what-isnt/",
+    "https://en.wikipedia.org/wiki/The_Legal_Aid_Society"
+   ],
+   "state_note": "A broad ban passed the Senate in 2023 but was vetoed by the governor, and the 2026 Senate-passed bill stalled in the Assembly, so the court test still governs and a separate narrow ban covers only broadcast-industry employees.",
+   "statute_cite": null,
+   "statute_name": null,
+   "threshold_note": "New York sets no earnings threshold; the $500,000 threshold in pending bills is not law.",
+   "wage_threshold": null
+  },
+  "north carolina": {
+   "enforce_note": "North Carolina enforces a non-compete only if it is in writing, supported by consideration, reasonable in time and territory, and protects a legitimate business interest.",
+   "enforceability": "allowed",
+   "legal_aid_name": "Legal Aid of North Carolina",
+   "legal_aid_url": "https://legalaidnc.org/",
+   "sources": [
+    "https://lawfirmcarolinas.com/covenant-not-to-compete-essentials",
+    "https://doziermillerlaw.com/non-compete-agreement-enforceable/",
+    "https://www.womenslaw.org/find-help/nc/finding-lawyer/legal-assistance/S"
+   ],
+   "state_note": "The agreement must be in writing and signed to be enforceable at all, and a court may only strike a separable overbroad part rather than rewrite the clause.",
+   "statute_cite": null,
+   "statute_name": null,
+   "threshold_note": "North Carolina sets no earnings threshold; enforceability turns on the five-part common-law reasonableness test.",
+   "wage_threshold": null
+  },
+  "north dakota": {
+   "enforce_note": "Every contract restraining someone from exercising a lawful profession, trade, or business is void, so employee non-competes are unenforceable for all workers.",
+   "enforceability": "banned",
+   "legal_aid_name": "Legal Services of North Dakota",
+   "legal_aid_url": "https://www.lsnd.org",
+   "sources": [
+    "https://capd.mit.edu/resources/review-your-north-dakota-job-offer/",
+    "https://www.mondaq.com/unitedstates/contract-of-employment/683600/north-dakota-rejects-choice-of-lawforum-selection-provisions-for-non-compete-agreements",
+    "https://legis.nd.gov/assembly/69-2025/testimony/HJAPPR-1623-20260121-45396-N-SAUCEDA_MARISA.pdf"
+   ],
+   "state_note": "Employers cannot get around the ban by writing another state's law or forum into the contract, because North Dakota courts refuse to enforce choice-of-law clauses used to evade the ban.",
+   "statute_cite": "N.D. Cent. Code § 9-08-06",
+   "statute_name": "Contracts in Restraint of Trade Void",
+   "threshold_note": "There is no earnings threshold because the ban covers every employee regardless of pay, with narrow exceptions only for the sale of a business's goodwill or the dissolution of a partnership, LLC, or corporation.",
+   "wage_threshold": "all employees"
+  },
+  "ohio": {
+   "enforce_note": "Ohio has no non-compete statute, so courts enforce non-competes only as far as they are reasonable under the Raimonde v. Van Vlerah test.",
+   "enforceability": "allowed",
+   "legal_aid_name": "Ohio Legal Help",
+   "legal_aid_url": "https://www.ohiolegalhelp.org/",
+   "sources": [
+    "https://ohio-employmentlawyer.com/restrictive-covenants-in-ohio-a-complete-guide-to-non-compete-and-non-solicitation-agreement-enforceability/",
+    "https://www.cavelllaw.com/how-to-challenge-a-non-compete-agreement-in-ohio/",
+    "https://www.ohiolegalhelp.org/ohio-legal-help-launches-public"
+   ],
+   "state_note": "Unlike many states, an Ohio judge may rewrite an overbroad non-compete to make it reasonable and then enforce the revised version instead of throwing the whole clause out.",
+   "statute_cite": null,
+   "statute_name": null,
+   "threshold_note": "Ohio sets no earnings threshold; enforceability turns on whether the restraint is no greater than needed to protect the employer, imposes no undue hardship, and does not harm the public.",
+   "wage_threshold": null
+  },
+  "oklahoma": {
+   "enforce_note": "A former employee must be allowed to engage in the same or a similar business, so true non-competes are void and unenforceable for all employees.",
+   "enforceability": "banned",
+   "legal_aid_name": "Legal Aid Services of Oklahoma",
+   "legal_aid_url": "https://www.legalaidok.org/",
+   "sources": [
+    "https://law.justia.com/codes/oklahoma/2015/title-15/section-15-219a/",
+    "https://cantrellfirm.com/blog/non-compete-guide-oklahoma/",
+    "https://www.okbar.org/legal-aid-services-of-oklahoma-they-cant-do-it-all/"
+   ],
+   "state_note": "The only restriction an employer can still enforce against a former employee is a ban on directly soliciting the employer's established customers.",
+   "statute_cite": "Okla. Stat. tit. 15, § 219A",
+   "statute_name": "Noncompetition agreements",
+   "threshold_note": "There is no earnings threshold because the ban covers every employee regardless of pay, with narrow exceptions only for the sale of a business's goodwill or a partnership dissolution.",
+   "wage_threshold": "all employees"
+  },
+  "oregon": {
+   "enforce_note": "A non-compete is void unless the employee is exempt, the employer has a protectable interest, the worker got two weeks' written notice, and the worker's pay at termination exceeds the annual threshold.",
+   "enforceability": "restricted",
+   "legal_aid_name": "Legal Aid Services of Oregon",
+   "legal_aid_url": "https://lasoregon.org/",
+   "sources": [
+    "https://www.jdsupra.com/legalnews/new-year-new-minimum-salaries-for-non-9967536/",
+    "https://www.lawserver.com/law/state/florida/statutes/oregon_statutes_653-295",
+    "https://www.womenslaw.org/find-help/or/finding-lawyer/legal-assistance/L"
+   ],
+   "state_note": "The non-compete can last no more than 12 months, and an employer can still enforce one against a lower-paid worker only by paying garden leave of at least 50 percent of the worker's pay while the restriction runs.",
+   "statute_cite": "Or. Rev. Stat. § 653.295",
+   "statute_name": "Noncompetition agreements",
+   "threshold_note": "For 2026 the threshold is $119,541 in annual gross salary and commissions at termination, and it is re-indexed every year for inflation using the CPI for All Urban Consumers, West Region.",
+   "wage_threshold": "$119,541"
+  },
+  "pennsylvania": {
+   "enforce_note": "Pennsylvania has no general non-compete statute, so most non-competes are judged under a court reasonableness test, but health care practitioners have special statutory limits since January 1, 2025.",
+   "enforceability": "restricted",
+   "legal_aid_name": "Pennsylvania Legal Aid Network",
+   "legal_aid_url": "https://palegalaid.net/",
+   "sources": [
+    "https://law.justia.com/codes/pennsylvania/2024/act-74/",
+    "https://www.foley.com/insights/publications/2025/01/non-competes-new-limits-pennsylvania-health-care-practitioners/",
+    "https://palegalaid.net/"
+   ],
+   "state_note": "For covered health care practitioners, a non-compete signed on or after January 1, 2025 is void if it lasts more than one year or if the employer dismissed the practitioner, and the employer must notify the practitioner's patients within 90 days of departure.",
+   "statute_cite": "Act 74 of 2024 (P.L. 846, No. 74)",
+   "statute_name": "Fair Contracting for Health Care Practitioners Act",
+   "threshold_note": "Pennsylvania sets no earnings threshold; the health care limits turn on the worker's profession and how the job ended, not pay.",
+   "wage_threshold": null
+  },
+  "rhode island": {
+   "enforce_note": "Non-competes are unenforceable against nonexempt workers, workers age 18 or younger, students and interns, and low-wage employees, while higher-paid workers can still be bound if the clause is reasonable.",
+   "enforceability": "restricted",
+   "legal_aid_name": "Rhode Island Legal Services",
+   "legal_aid_url": "https://rils.org/",
+   "sources": [
+    "https://law.justia.com/codes/rhode-island/2020/title-28/chapter-28-59/section-28-59-2/",
+    "https://legaldesire.com/noncompete-agreements-by-state/",
+    "https://www.eastgreenwichchamber.com/news/details/under-the-dome-7-16-2025",
+    "https://rils.org/documents/press_release_legal_services_expansion.pdf"
+   ],
+   "state_note": "A 2025 bill that would have voided non-competes for everyone earning under $125,000 passed the Senate but died without a House vote, so the 250-percent-of-poverty-level line still governs.",
+   "statute_cite": "R.I. Gen. Laws § 28-59-3",
+   "statute_name": "Rhode Island Noncompetition Agreement Act",
+   "threshold_note": "For 2026 a low-wage employee is one earning no more than 250 percent of the federal poverty level for an individual, about $39,900, and the figure moves each year when the federal poverty guidelines change.",
+   "wage_threshold": "$39,900"
+  },
+  "south carolina": {
+   "enforce_note": "South Carolina has no non-compete statute, so courts enforce non-competes only when they protect a legitimate business interest, are reasonable in time and territory, are not unduly harsh, and rest on valuable consideration.",
+   "enforceability": "allowed",
+   "legal_aid_name": "South Carolina Legal Services",
+   "legal_aid_url": "https://sclegal.org/",
+   "sources": [
+    "https://www.bettislawsc.com/are-non-competes-enforceable-in-south-carolina/",
+    "https://www.maynardnexsen.com/assets/htmldocuments/uploads/1649/doc/(PL)_Non-Compete_Laws_South_Carolina_(9-517-3821).pdf",
+    "https://www.womenslaw.org/find-help/sc/finding-lawyer/legal-assistance/R"
+   ],
+   "state_note": "South Carolina courts will not trim or rewrite an overbroad clause, so a single unreasonable term voids the entire non-compete, and a worker asked to sign mid-employment must get new consideration beyond just keeping the job.",
+   "statute_cite": null,
+   "statute_name": null,
+   "threshold_note": "South Carolina sets no earnings threshold; enforceability turns on the common-law test, not pay.",
+   "wage_threshold": null
+  },
+  "south dakota": {
+   "enforce_note": "Non-competes are enforceable only within the limits written into statute: no more than two years and only within a specified county, municipality, or area where the employer still does business.",
+   "enforceability": "restricted",
+   "legal_aid_name": "East River Legal Services",
+   "legal_aid_url": "https://erlservices.org/",
+   "sources": [
+    "https://law.justia.com/codes/south-dakota/2021/title-53/chapter-09/section-53-9-11/",
+    "https://erlservices.org/",
+    "https://capd.mit.edu/resources/review-your-south-dakota-job-offer/"
+   ],
+   "state_note": "If any part of the agreement is unreasonable, South Dakota courts will not fix it — the whole agreement is void, and non-competes are voidable for licensed health care workers for contracts signed on or after July 1, 2023.",
+   "statute_cite": "SDCL § 53-9-11",
+   "statute_name": "Employment Contract — Covenants Not to Compete",
+   "threshold_note": "South Dakota has no earnings threshold, so the two-year and area limits apply to every employee alike.",
+   "wage_threshold": null
+  },
+  "tennessee": {
+   "enforce_note": "Since July 1, 2026, non-competes are void for employees earning under $70,000 a year, and restrictions of two years or less are presumed reasonable for employees.",
+   "enforceability": "restricted",
+   "legal_aid_name": "Legal Aid Society of Middle Tennessee and the Cumberlands",
+   "legal_aid_url": "https://las.org/",
+   "sources": [
+    "https://capitol.tn.gov/Bills/114/Amend/HA0617.pdf",
+    "https://www.chamblisslaw.com/tennessees-new-rules-for-noncompetes-and-other-restrictive-covenants-changes-coming-july-1/",
+    "https://las.org/"
+   ],
+   "state_note": "The new law applies only to agreements entered into, renewed, or amended on or after July 1, 2026, and it does not ban confidentiality or customer non-solicitation agreements.",
+   "statute_cite": "Tenn. Code Ann. §§ 50-1-210 and 50-1-211",
+   "statute_name": "Reasonableness in Time of Restrictive Covenants; Prohibition on Noncompete Agreements for Employees Earning Less Than $70,000 Annually",
+   "threshold_note": "The $70,000 figure is annualized compensation (wages, salary, commissions, and nondiscretionary bonuses), and it is a fixed amount in the statute, not adjusted for inflation.",
+   "wage_threshold": "$70,000"
+  },
+  "texas": {
+   "enforce_note": "Non-competes are generally enforceable when they are part of an otherwise enforceable agreement and reasonable in time, geographic area, and scope of activity.",
+   "enforceability": "allowed",
+   "legal_aid_name": "Lone Star Legal Aid",
+   "legal_aid_url": "https://www.lonestarlegal.org/",
+   "sources": [
+    "https://law.justia.com/codes/texas/2005/bc/002.00.000015.00.html",
+    "https://www.kraus.law/insights/non-competes-texas/",
+    "https://www.lonestarlegal.org/"
+   ],
+   "state_note": "An overbroad Texas non-compete is usually narrowed by the court rather than thrown out, but since September 1, 2025, physician, dentist, nurse, and physician assistant non-competes are capped at one year, five miles, and a buyout of no more than one year's pay.",
+   "statute_cite": "Tex. Bus. & Com. Code §§ 15.50–15.52",
+   "statute_name": "Covenants Not to Compete Act",
+   "threshold_note": "Texas has no earnings threshold for non-competes generally, so the reasonableness test applies at every pay level.",
+   "wage_threshold": null
+  },
+  "utah": {
+   "enforce_note": "Non-competes are enforceable only if they last no more than one year after employment ends and are reasonable, and since May 6, 2026, non-competes with health care workers and veterinarians are banned outright.",
+   "enforceability": "restricted",
+   "legal_aid_name": "Utah Legal Services",
+   "legal_aid_url": "https://www.utahlegalservices.org/",
+   "sources": [
+    "https://le.utah.gov/xcode/Title34/Chapter51/C34-51-S201_2026050620260506.pdf",
+    "https://www.lexology.com/library/detail.aspx?g=7560db32-0587-4aad-b6d1-bd8240715224",
+    "https://www.utahlegalservices.org/"
+   ],
+   "state_note": "A non-compete longer than one year is void, not just shortened, and an employer that sues to enforce an unenforceable one can be ordered to pay the worker's attorney fees and costs.",
+   "statute_cite": "Utah Code § 34-51-201",
+   "statute_name": "Post-Employment Restrictions Act",
+   "threshold_note": "Utah has no earnings threshold: the broad $155,000 threshold in 2026 House Bill 203 was tabled and never became law.",
+   "wage_threshold": null
+  },
+  "vermont": {
+   "enforce_note": "Vermont has no non-compete statute, so courts decide enforceability under a common-law reasonableness test that upholds a covenant unless it is against public policy, unnecessary to protect the employer, or unnecessarily restrictive.",
+   "enforceability": "allowed",
+   "legal_aid_name": "Vermont Legal Aid",
+   "legal_aid_url": "https://www.vtlegalaid.org/",
+   "sources": [
+    "https://www.aesthetichires.com/hiring/injector-non-competes/vermont/",
+    "https://www.billtrack50.com/billdetail/1828335",
+    "https://www.vtlegalaid.org/"
+   ],
+   "state_note": "Bills to ban non-competes (H.205 in 2025–2026) stalled in committee and never passed, so the court-made reasonableness test is still the whole law.",
+   "statute_cite": null,
+   "statute_name": null,
+   "threshold_note": "With no statute, Vermont has no earnings threshold at all.",
+   "wage_threshold": null
+  },
+  "virginia": {
+   "enforce_note": "Non-competes are banned for low-wage employees and health care professionals, and higher earners can still be bound only if the agreement is reasonable.",
+   "enforceability": "restricted",
+   "legal_aid_name": "Virginia Legal Aid Society",
+   "legal_aid_url": "https://www.vlas.org/",
+   "sources": [
+    "https://law.lis.virginia.gov/vacode/title40.1/chapter2/section40.1-28.7:8/",
+    "https://doli.virginia.gov/2026/01/06/notice-of-the-average-weekly-wage-for-2026/",
+    "https://www.crowell.com/en/insights/client-alerts/virginia-goes-to-work-how-the-commonwealths-sweeping-new-employment-protections-impact-employers",
+    "https://www.vlas.org/"
+   ],
+   "state_note": "An employer that tries to enforce a banned non-compete faces a civil penalty of up to $10,000 per violation, and for agreements signed on or after July 1, 2026, a worker fired without cause cannot be bound unless the employer provides severance or another payment disclosed when the agreement was signed.",
+   "statute_cite": "Va. Code § 40.1-28.7:8",
+   "statute_name": "Covenants Not to Compete Prohibited; Exceptions; Civil Penalty",
+   "threshold_note": "The threshold is Virginia's average weekly wage, recalculated every year by the state, and since July 1, 2025 it also covers every employee entitled to overtime pay regardless of earnings.",
+   "wage_threshold": "$78,365/year (less than $1,507.01/week)"
+  },
+  "washington": {
+   "enforce_note": "Through June 29, 2027, non-competes are void for employees earning $126,858.83 or less in 2026, but a new law voids essentially all non-competes starting June 30, 2027, even ones already signed.",
+   "enforceability": "restricted",
+   "legal_aid_name": "Northwest Justice Project",
+   "legal_aid_url": "https://www.nwjustice.org/",
+   "sources": [
+    "https://app.leg.wa.gov/RCW/default.aspx?cite=49.62&full=true",
+    "https://www.bydesignlaw.com/what-to-know-about-the-changes-to-non-compete-clauses-in-washington-state",
+    "https://www.nwjustice.org/get-legal-help/"
+   ],
+   "state_note": "The employer must give the worker the non-compete terms in writing before the job is accepted, a covenant longer than 18 months is presumed unreasonable, and sale-of-business non-competes survive the 2027 ban.",
+   "statute_cite": "RCW Chapter 49.62",
+   "statute_name": "Noncompetition Covenants",
+   "threshold_note": "The employee threshold is adjusted every year for inflation by the Department of Labor and Industries, and the separate threshold for independent contractors is $317,147.09 in 2026.",
+   "wage_threshold": "$126,858.83/year"
+  },
+  "west virginia": {
+   "enforce_note": "West Virginia has no general non-compete statute, so courts enforce non-competes that are reasonable in time, territory, and activity and necessary to protect a legitimate business interest.",
+   "enforceability": "allowed",
+   "legal_aid_name": "Legal Aid of West Virginia",
+   "legal_aid_url": "https://www.lawv.net/",
+   "sources": [
+    "https://www.lawserver.com/law/articles/non-competition-agreements-in-west-virginia",
+    "https://code.wvlegislature.gov/pdf/47-11E-2/",
+    "https://www.lawv.net/"
+   ],
+   "state_note": "Physicians are the exception: their non-competes are capped by statute at one year and 30 road miles, and are void if the employer fires the physician.",
+   "statute_cite": null,
+   "statute_name": null,
+   "threshold_note": "With no general statute, West Virginia has no earnings threshold for non-competes.",
+   "wage_threshold": null
+  },
+  "wisconsin": {
+   "enforce_note": "Non-competes are lawful and enforceable only if the restrictions are reasonably necessary to protect the employer, judged on time, territory, necessity, and fairness to the worker and the public.",
+   "enforceability": "allowed",
+   "legal_aid_name": "Legal Action of Wisconsin",
+   "legal_aid_url": "https://legalaction.org/",
+   "sources": [
+    "https://docs.legis.wisconsin.gov/statutes/statutes/103/465?view=section",
+    "https://law.justia.com/codes/wisconsin/chapter-103/section-103-465/",
+    "https://legalaction.org/"
+   ],
+   "state_note": "Wisconsin courts will not rewrite an unreasonable non-compete to save it — if any part is unreasonable, the whole covenant is void, and a covenant with no geographic limit at all is void.",
+   "statute_cite": "Wis. Stat. § 103.465",
+   "statute_name": "Restrictive Covenants in Employment Contracts",
+   "threshold_note": "Wisconsin has no earnings threshold for non-competes.",
+   "wage_threshold": null
+  },
+  "wyoming": {
+   "enforce_note": "For contracts entered into on or after July 1, 2025, any non-compete that restricts a person's right to be paid for skilled or unskilled labor is void, with only narrow exceptions.",
+   "enforceability": "banned",
+   "legal_aid_name": "Legal Aid of Wyoming",
+   "legal_aid_url": "https://www.lawyoming.org/",
+   "sources": [
+    "https://wyoleg.gov/Legislation/2025/SF0107",
+    "https://www.littler.com/news-analysis/asap/wyoming-bans-non-compete-covenants-some-exceptions",
+    "https://www.lawyoming.org/"
+   ],
+   "state_note": "The ban does not apply to contracts signed before July 1, 2025, which are still judged under court case law, and it does not cover non-competes tied to selling a business, protecting trade secrets, repaying training costs, or executive and management personnel.",
+   "statute_cite": "Wyo. Stat. § 1-23-108",
+   "statute_name": "Contractual Provisions in Restraint of Trade Generally Void; Exceptions; Unlawful Intimidation",
+   "threshold_note": "There is no earnings threshold because the ban covers all workers, not just lower-paid ones.",
+   "wage_threshold": null
+  }
+ }
+}

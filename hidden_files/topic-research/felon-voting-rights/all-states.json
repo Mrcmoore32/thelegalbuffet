@@ -1,0 +1,949 @@
+{
+  "alabama": {
+    "status": "permanent-some",
+    "status_note": "Only a felony on Alabama's 'moral turpitude' list takes away the right to vote. A felony not on that list never takes it away. For a listed felony, the right is lost from conviction until restored by a Certificate of Eligibility to Register to Vote (CERV) or, for the most serious offenses, by pardon; three offenses (treason, impeachment, and an uncommuted death sentence) cannot be restored at all.",
+    "restoration": "varies",
+    "restoration_note": "For most listed felonies, apply to the Alabama Bureau of Pardons and Paroles for a Certificate of Eligibility to Register to Vote (CERV) after the sentence is complete, then re-register to vote. For offenses excluded from CERV (including murder, rape, sodomy, sexual abuse, incest, sexual torture, child sex offenses and child pornography offenses), only a governor's pardon restores the right.",
+    "fines_fees_required": "yes",
+    "fines_fees_note": "A CERV requires that all fines, court costs, fees, and victim restitution ordered by the sentencing court be paid, and that no felony charges are pending.",
+    "statute_name": "Ala. Const. art. VIII, § 177; Ala. Code § 17-3-30.1 (Felony Voter Disqualification Act)",
+    "statute_cite": "Ala. Const. art. VIII, § 177; Ala. Code § 17-3-30.1",
+    "legal_aid_name": "Legal Services Alabama",
+    "legal_aid_url": "https://legalservicesalabama.org",
+    "state_note": "The moral-turpitude list was defined in 2017 (HB 282) and expanded in 2024 by Act 2024-341, which added offenses including aggravated stalking, first- and second-degree domestic violence, domestic violence by strangulation, compelling street-gang membership, and elder abuse, effective October 1, 2024.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://law.justia.com/codes/alabama/title-17/chapter-3/article-2/section-17-3-30-1/",
+      "https://returnmyvote.org/felony-disenfranchisement/",
+      "https://www.usvotefoundation.org/voting-rights-restoration/alabama"
+    ]
+  },
+  "alaska": {
+    "status": "after-sentence",
+    "status_note": "Only a felony involving moral turpitude takes away the right to vote, from the date of conviction until unconditional discharge. A felony not involving moral turpitude, and any misdemeanor, never takes the vote away, even while incarcerated. Unconditional discharge means release from all Department of Corrections custody and supervision, including prison, halfway house, electronic monitoring, probation, and parole.",
+    "restoration": "automatic",
+    "restoration_note": "The right returns by law upon unconditional discharge. The person must then get proof of unconditional discharge from the Department of Corrections or supervising entity, submit it to the Division of Elections, and re-register to vote. No discretionary application or pardon is required.",
+    "fines_fees_required": "na",
+    "fines_fees_note": "The statute does not list payment of fines, fees, or restitution as a voting condition; restoration turns on unconditional discharge. Unpaid financial obligations can in some cases delay discharge from supervision, so a person should confirm discharge status with the Department of Corrections or the Division of Elections.",
+    "statute_name": "Alaska Stat. § 15.05.030",
+    "statute_cite": "Alaska Stat. § 15.05.030",
+    "legal_aid_name": "Alaska Legal Services Corporation",
+    "legal_aid_url": "https://www.alsc-law.org",
+    "state_note": "Alaska is unusual in that only felonies involving moral turpitude disenfranchise at all, so many incarcerated Alaskans, including people held pretrial and people serving misdemeanor sentences, remain eligible to vote by absentee ballot.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://codes.findlaw.com/ak/title-15-elections/ak-st-sect-15-05-030/",
+      "https://www.acluak.org/news/updated-voting-guidance-for-incarcerated-and-formerly-incarcerated-alaskans-2026/",
+      "https://ccresourcecenter.org/state-restoration-profiles/alaska-expungment-pardon-sealing/"
+    ]
+  },
+  "arizona": {
+    "status": "after-sentence-and-payment",
+    "status_note": "A felony conviction suspends the right to vote until civil rights are restored. Restoration requires completing the full sentence, including prison, probation or community supervision, and paying court-ordered victim restitution and fines/fees. A single in-state felony is restored automatically on completion; two or more felonies, or a felony from another state or federal court, require a court application.",
+    "restoration": "varies",
+    "restoration_note": "Single Arizona felony: automatic on completion of probation or absolute discharge from imprisonment and payment of restitution; re-register to vote. Two or more felonies, or an out-of-state or federal felony: apply to the Superior Court (in the county of conviction, or the county of residence for federal/out-of-state convictions); for a prison sentence, the application generally cannot be filed until two years after completion of imprisonment and supervision, and a judge decides whether to grant it.",
+    "fines_fees_required": "yes",
+    "fines_fees_note": "Automatic restoration for a first offender requires payment of any victim restitution imposed, and the Secretary of State's guide also requires payment of other court-ordered fines and fees before restoration; unpaid restitution blocks automatic restoration.",
+    "statute_name": "Ariz. Const. art. VII, § 2; Ariz. Rev. Stat. §§ 13-904, 13-907, 13-908",
+    "statute_cite": "Ariz. Const. art. VII, § 2; Ariz. Rev. Stat. §§ 13-904, 13-907, 13-908",
+    "legal_aid_name": "Community Legal Services",
+    "legal_aid_url": "https://clsaz.org",
+    "state_note": "A 2022 law (Laws 2022, Ch. 199, HB 2119) clarified the process, requiring the sentencing order to explain which rights are restored automatically and when a person may apply, and requiring probation or the Department of Corrections to give the person a copy on completion of probation or absolute discharge.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://azsos.gov/sites/default/files/docs/AZ_Voting_Rights_Restoration_of_Rights_20241029.pdf",
+      "https://www.usvotefoundation.org/voting-rights-restoration/arizona"
+    ]
+  },
+  "arkansas": {
+    "status": "after-sentence-and-payment",
+    "status_note": "A felony conviction takes away the right to vote until the full sentence is discharged, including prison, probation, and parole, and all probation or parole fees, court costs, fines, and restitution are paid. Misdemeanor convictions never take the vote away.",
+    "restoration": "automatic",
+    "restoration_note": "The right is restored by law once the sentence is discharged and financial obligations are paid. The person must obtain proof of discharge and payment from the court, probation/parole office, or Department of Corrections, present it to the county clerk's voter registration office, and re-register to vote. No court application or pardon is needed.",
+    "fines_fees_required": "yes",
+    "fines_fees_note": "Arkansas Constitution Amendment 51, Section 11 requires proof of payment of all probation or parole fees, applicable court costs, fines, and restitution before registering.",
+    "statute_name": "Ark. Const. amend. 51, § 11",
+    "statute_cite": "Ark. Const. amend. 51, § 11",
+    "legal_aid_name": "Legal Aid of Arkansas",
+    "legal_aid_url": "https://www.arlegalaid.org",
+    "state_note": "Arkansas's rule is in the state constitution itself (Amendment 51, Section 11), which spells out the exact proof a person must give the county clerk: discharge from probation or parole, payment of probation/parole fees, satisfaction of imprisonment, and payment of court costs, fines, or restitution.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://www.acluarkansas.org/know-your-rights/know-your-rights-voting-after-criminal-conviction/",
+      "https://www.usvotefoundation.org/voting-rights-restoration/arkansas",
+      "https://ballotpedia.org/Voting_in_Arkansas"
+    ]
+  },
+  "california": {
+    "status": "prison-only",
+    "status_note": "A felony conviction takes away the right to vote only while the person is in state or federal prison. The right returns automatically on release from prison, even while on parole, probation, or post-release community supervision. People serving felony sentences in county jail under realignment, and people on probation, can vote.",
+    "restoration": "automatic",
+    "restoration_note": "No application is needed. On release from prison, simply register (or re-register) to vote if otherwise eligible.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "Unpaid fines, fees, or restitution do not block voting in California; restoration turns only on release from prison.",
+    "statute_name": "Cal. Const. art. II, § 4, as amended by Proposition 17 (2020); Cal. Elec. Code § 2101",
+    "statute_cite": "Cal. Const. art. II, § 4; Cal. Elec. Code § 2101",
+    "legal_aid_name": "LawHelp California (LawHelpCA)",
+    "legal_aid_url": "https://lawhelpca.org",
+    "state_note": "Proposition 17, approved by voters on November 3, 2020, amended the constitution to remove 'or on parole' from the disqualification, restoring the vote to about 50,000 Californians on parole upon release from prison.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://lao.ca.gov/BallotAnalysis/Proposition?number=17&year=2020",
+      "https://www.brennancenter.org/our-work/research-reports/voting-rights-restoration-efforts-california",
+      "https://law.justia.com/constitution/california/article-ii/section-4/"
+    ]
+  },
+  "colorado": {
+    "status": "prison-only",
+    "status_note": "A felony conviction takes away the right to vote only while serving a sentence of incarceration or detention for that felony. The right returns automatically the day the person is released from incarceration, and people on parole or probation can vote.",
+    "restoration": "automatic",
+    "restoration_note": "No application is needed. On release, re-register to vote (a prior registration is cancelled during incarceration). The Division of Adult Parole must provide voter information at the first parole meeting, but no official restoration letter is issued.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "The Colorado Secretary of State states expressly that payment of restitution is not a condition of voting eligibility, and unpaid fines or fees do not block registration.",
+    "statute_name": "Colo. Const. art. VII, § 10; Colo. Rev. Stat. § 1-2-103",
+    "statute_cite": "Colo. Const. art. VII, § 10; Colo. Rev. Stat. § 1-2-103",
+    "legal_aid_name": "Colorado Legal Services",
+    "legal_aid_url": "https://www.coloradolegalservices.org",
+    "state_note": "A 2019 law (HB 19-1269) changed the rule for parolees: people on parole are now treated as having completed their 'full term of imprisonment' under the state constitution, so they can vote while on parole.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://www.sos.state.co.us/pubs/elections/FAQs/VotingAndConviction.html",
+      "https://www.usvotefoundation.org/voting-rights-restoration/colorado"
+    ]
+  },
+  "connecticut": {
+    "status": "prison-only",
+    "status_note": "A felony conviction takes away the right to vote only while confined in a correctional institution or facility for that felony. The right returns automatically on release from confinement, even while on parole or probation. If the person is returned to confinement from parole, the right is lost again until the next release.",
+    "restoration": "automatic",
+    "restoration_note": "No application is needed. On release, re-register with the Registrars of Voters in the town where the person lives. Exception: a person convicted of a felony under Title 9 (Connecticut election statutes) cannot have voting privileges restored until discharged from parole and probation.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "For an in-state felony conviction, unpaid fines or fees do not block restoration on release. Exception: under Conn. Gen. Stat. § 9-46a(a), a person convicted in federal or another state's court must show all fines in connection with the conviction have been paid and that they have been discharged from confinement and parole before restoration.",
+    "statute_name": "Conn. Gen. Stat. § 9-46a; Conn. Const. art. VI, § 3",
+    "statute_cite": "Conn. Gen. Stat. § 9-46a",
+    "legal_aid_name": "Statewide Legal Services of Connecticut",
+    "legal_aid_url": "https://www.slsct.org",
+    "state_note": "Public Act 21-2 (SB 1202), signed June 23, 2021 and effective July 1, 2021, restored voting rights to people on parole, joining Connecticut to the states that restore the vote on release from prison; before that, people on parole could not vote.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://portal.ct.gov/-/media/sots/electionservices/hava/havapdf/the-ultimate-freedom-rev2021.pdf",
+      "https://portal.ct.gov/-/media/doc/pdf/voting-rights-for-parolees-110121.pdf",
+      "https://www.brennancenter.org/our-work/research-reports/voting-rights-restoration-efforts-connecticut"
+    ]
+  },
+  "delaware": {
+    "status": "permanent-some",
+    "status_note": "For most felonies, the right to vote is lost until the sentence is fully discharged, including prison, probation, and parole, and then returns automatically. But a 'disqualifying felony' — murder or manslaughter (except vehicular homicide), a felony bribery or public-corruption offense, or a felony sexual offense — causes permanent loss unless the person is pardoned.",
+    "restoration": "varies",
+    "restoration_note": "Non-disqualifying felony: automatic on full discharge of sentence; re-register to vote, even if previously registered. Disqualifying felony: only a pardon from the governor restores the right.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "The Delaware Department of Elections states expressly that payment of fees, fines, costs, or restitution is NOT considered in determining discharge of sentence for voting eligibility.",
+    "statute_name": "Del. Const. art. V, § 2",
+    "statute_cite": "Del. Const. art. V, § 2",
+    "legal_aid_name": "Community Legal Aid Society, Inc. (CLASI)",
+    "legal_aid_url": "https://www.declasi.org",
+    "state_note": "In 2013 (HB 10), Delaware removed its five-year waiting period after sentence completion, so people with non-disqualifying felonies can vote as soon as the sentence is discharged; the permanent bar for murder, bribery/corruption, and sexual offenses was left in place.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://elections.delaware.gov/voter/felons.html",
+      "https://elections.delaware.gov/voter/eligibility.html"
+    ]
+  },
+  "florida": {
+    "status": "permanent-some",
+    "status_note": "For most felonies, the right to vote returns once the person has completed all terms of the sentence, including prison, parole, probation, and payment of all fines, fees, costs, and restitution ordered as part of the sentence. But a Florida conviction for murder or a felony sexual offense is excluded: the right is lost permanently unless restored by the State Clemency Board (the Governor and Cabinet).",
+    "restoration": "varies",
+    "restoration_note": "Most felonies: automatic once all sentence terms are complete, including payment; then register to vote, and the person may request an advisory opinion from the Division of Elections if unsure about fines or fees. Murder or felony sexual offense: apply for clemency to the Florida Commission on Offender Review / State Clemency Board; restoration is case-by-case and discretionary.",
+    "fines_fees_required": "yes",
+    "fines_fees_note": "For non-excluded felonies, 'completion of sentence' is defined by Fla. Stat. § 98.0751 to include full payment of all fines, fees, costs, and restitution ordered as part of the sentence. A court may, with the consent of the person or entity owed, terminate a financial obligation or convert it to community service; interest or charges that accrue after sentencing do not count under the Division of Elections' 'first dollar' policy.",
+    "statute_name": "Fla. Const. art. VI, § 4; Fla. Stat. § 98.0751",
+    "statute_cite": "Fla. Const. art. VI, § 4; Fla. Stat. § 98.0751",
+    "legal_aid_name": "Florida Legal Services",
+    "legal_aid_url": "https://floridalegal.org",
+    "state_note": "Voters approved Amendment 4 in November 2018 (effective January 8, 2019), restoring the vote after completion of sentence except for murder and felony sexual offenses. In 2019 the Legislature passed SB 7066 defining 'completion of sentence' to include full payment of fines, fees, and restitution, a definition upheld by the U.S. Court of Appeals for the Eleventh Circuit in 2020.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://dos.fl.gov/elections/for-voters/voter-registration/felon-voting-rights/?os=dio&ref=app",
+      "https://www.votebrevard.gov/Voter-Information/Restoration-of-Rights"
+    ]
+  },
+  "georgia": {
+    "status": "after-sentence",
+    "status_note": "A felony conviction takes away the right to vote until the sentence is fully complete, including prison, parole, and probation. The right then returns automatically. People on misdemeanor probation, and people serving an unrevoked First Offender or Conditional Discharge sentence for a felony, can vote while serving that sentence.",
+    "restoration": "automatic",
+    "restoration_note": "No application, pardon, or expungement is needed. Once the sentence is complete, simply re-register to vote. If unsure whether the sentence is complete, request a Certificate of Sentence Completion from the Department of Community Supervision.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "According to the Georgia Secretary of State and the Georgia Justice Project (July 2024), a felony sentence is considered complete even with outstanding monetary obligations other than fines, such as unpaid restitution, fees, costs, or surcharges, and fines imposed as a condition of probation are automatically cancelled on completion of probation. However, if probation was extended because fines were not paid, the person is still on probation and not yet eligible.",
+    "statute_name": "Ga. Const. art. II, § 1, para. III; Ga. Code Ann. § 21-2-216",
+    "statute_cite": "Ga. Const. art. II, § 1, para. III; Ga. Code Ann. § 21-2-216",
+    "legal_aid_name": "Georgia Legal Services Program",
+    "legal_aid_url": "https://www.glsp.org",
+    "state_note": "Georgia's constitution bars voting after a felony 'involving moral turpitude' until completion of sentence, but in practice Georgia treats all felonies as meeting that standard, so the offense type does not change the outcome for voting.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://www.gjp.org/wp-content/uploads/2024/07/2024.07.12-Voting-FAQ-1.pdf",
+      "http://www.senate.ga.gov/committees/Documents/2019GJPVotingRightsFlyerFAQ.pdf"
+    ]
+  },
+  "hawaii": {
+    "status": "prison-only",
+    "status_note": "A felony conviction takes the vote away only while the person is actually incarcerated. A person on probation or parole can vote, even before final discharge.",
+    "restoration": "automatic",
+    "restoration_note": "The right comes back automatically on release from imprisonment; just re-register to vote. On final discharge a certificate under Haw. Rev. Stat. § 831-5 states that voting rights are restored.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "No payment condition appears in Haw. Rev. Stat. § 831-2 or the Hawaii Office of Elections guidance; unpaid fines, fees, or restitution do not block restoration.",
+    "statute_name": "Hawaii Constitution, Article II, Section 2; Hawaii Revised Statutes § 831-2",
+    "statute_cite": "Haw. Const. art. II, § 2; Haw. Rev. Stat. § 831-2",
+    "legal_aid_name": "Legal Aid Society of Hawaii",
+    "legal_aid_url": "https://www.legalaidhawaii.org/",
+    "state_note": "Hawaii's constitution says a person convicted of a felony may not vote 'except upon the person's final discharge or earlier as provided by law' — and the law provides earlier, allowing voting during probation or parole.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights?ref=madisonminutes.com",
+      "https://www.usvotefoundation.org/voting-rights-restoration/hawaii",
+      "https://elections.hawaii.gov/wp-content/uploads/2015/03/FS509VS001-Impact-of-a-Felony-Conviction.pdf",
+      "https://ballotpedia.org/Voting_rights_for_people_with_felony_convictions"
+    ]
+  },
+  "idaho": {
+    "status": "after-sentence",
+    "status_note": "A felony conviction takes the vote away until final discharge, meaning satisfactory completion of imprisonment, probation, and parole. A person still on probation or parole cannot vote yet.",
+    "restoration": "automatic",
+    "restoration_note": "Rights are restored automatically on final discharge under Idaho Code § 18-310(2); no application or pardon is needed. Just re-register to vote.",
+    "fines_fees_required": "yes",
+    "fines_fees_note": "There is no standalone payment test in Idaho Code § 18-310, but fines and restitution can be imposed as conditions of probation or parole, and a court can extend probation for failure to pay, which delays final discharge and therefore delays restoration. NCSL lists Idaho among the states where fines, fees, and restitution sometimes affect restoration.",
+    "statute_name": "Idaho Constitution, Article VI, Section 3; Idaho Code § 18-310",
+    "statute_cite": "Idaho Const. art. VI, § 3; Idaho Code § 18-310",
+    "legal_aid_name": "Idaho Legal Aid Services",
+    "legal_aid_url": "https://idaholegalaid.org/",
+    "state_note": "In 2026, HB 698 specified that people convicted of treason in other states or jurisdictions may not register and vote in Idaho even after final discharge (per NCSL). Note that § 18-310 also withholds firearm rights for treason and listed serious offenses after discharge — that is a firearms rule, not a voting rule.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights?ref=madisonminutes.com",
+      "https://www.usvotefoundation.org/voting-rights-restoration/idaho",
+      "https://ballotpedia.org/Voting_rights_for_people_with_felony_convictions",
+      "https://static1.squarespace.com/static/5b7ea2794cde7a79e7c00582/t/682b780d063605117b195553/1747679245438/Who-Must-Pay.Nov_.2020.update.pdf"
+    ]
+  },
+  "illinois": {
+    "status": "prison-only",
+    "status_note": "A felony conviction takes the vote away only while the person is confined in a correctional institution or jail. Release from confinement restores the right immediately, even while on parole, probation, or mandatory supervised release.",
+    "restoration": "automatic",
+    "restoration_note": "Restoration is automatic on release from confinement under Ill. Const. art. III, § 2 and 10 ILCS 5/3-5. No application or pardon is needed, but a person whose registration was cancelled must re-register.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "No payment condition appears in the constitution, the Election Code, or Illinois Legal Aid Online's guidance; unpaid fines, fees, or restitution do not block restoration.",
+    "statute_name": "Illinois Constitution, Article III, Section 2",
+    "statute_cite": "Ill. Const. art. III, § 2",
+    "legal_aid_name": "Illinois Legal Aid Online",
+    "legal_aid_url": "https://www.illinoislegalaid.org/",
+    "state_note": "Work release, furlough, and Adult Transition Center custody still count as confinement, so a person in those programs cannot vote yet. 2019 laws require jails and prisons to provide voting information and a registration application on release.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights?ref=madisonminutes.com",
+      "https://www.usvotefoundation.org/voting-rights-restoration/illinois",
+      "https://law.justia.com/constitution/illinois/con3.html",
+      "https://www.illinoislegalaid.org/legal-information/voting-criminal-record",
+      "https://www.justice.gov/crt/media/1332106/dl"
+    ]
+  },
+  "indiana": {
+    "status": "prison-only",
+    "status_note": "A person convicted of a crime loses the vote only while imprisoned or otherwise lawfully detained. On release the right comes back automatically, even while on parole, probation, home detention, or in a community corrections program.",
+    "restoration": "automatic",
+    "restoration_note": "Restoration is automatic on release under Ind. Code §§ 3-7-13-5 and 3-7-13-6. No application or pardon is needed; just re-register to vote.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "People on parole or probation and people with outstanding fines are eligible to vote once released (Ballotpedia, confirmed by the statute text, which conditions eligibility only on no longer being imprisoned or detained).",
+    "statute_name": "Indiana Constitution, Article 2, Section 8; Indiana Code §§ 3-7-13-4, 3-7-13-5",
+    "statute_cite": "Ind. Const. art. 2, § 8; Ind. Code §§ 3-7-13-4, 3-7-13-5",
+    "legal_aid_name": "Indiana Legal Services",
+    "legal_aid_url": "https://www.indianalegalservices.org/",
+    "state_note": "Unlike most states, Indiana also takes the vote away while a person is incarcerated for a misdemeanor conviction, not just a felony — but it comes back on release just the same.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights?ref=madisonminutes.com",
+      "https://www.usvotefoundation.org/voting-rights-restoration/indiana",
+      "https://law.justia.com/codes/indiana/2018/title-3/article-7/chapter-13/section-3-7-13-4/",
+      "https://www.aclu-in.org/news/previously-incarcerated-yes-you-can-vote/",
+      "https://ballotpedia.org/Voting_rights_for_people_with_felony_convictions",
+      "https://www.justice.gov/crt/media/1332106/dl"
+    ]
+  },
+  "iowa": {
+    "status": "permanent-some",
+    "status_note": "Under the Iowa Constitution a person convicted of an 'infamous crime' — which the Iowa Supreme Court held in Griffin v. Pate (2016) means any felony — is permanently barred from voting unless the governor restores the right. In practice, Governor's Executive Order No. 7 (Aug. 5, 2020) restores the vote automatically once the full sentence is complete, except for homicide offenses under Iowa Code chapter 707, which still require an individual application to the governor.",
+    "restoration": "varies",
+    "restoration_note": "For most felonies: automatic restoration by the governor on a daily basis once all terms of confinement, parole, probation, and any special sentence are complete — then just re-register to vote. For a felony homicide conviction (Iowa Code ch. 707): apply individually to the governor for restoration; there is no automatic path.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "The Iowa Secretary of State states expressly that under Executive Order No. 7 a person need not have paid fines, fees, or restitution, or be on a payment plan, to be entitled to vote (the debt is still owed). Exception: people convicted of homicide who must apply individually are reported to need completed repayment of court costs, restitution, and fines before applying.",
+    "statute_name": "Iowa Constitution, Article II, Section 5 (as implemented by Governor's Executive Order No. 7, Aug. 5, 2020)",
+    "statute_cite": "Iowa Const. art. II, § 5",
+    "legal_aid_name": "Iowa Legal Aid",
+    "legal_aid_url": "https://www.iowalegalaid.org/",
+    "state_note": "Iowa was the last state to permanently disenfranchise all people with felony convictions until Executive Order No. 7 in 2020. The order is an executive action, not a constitutional amendment, so a future governor could revoke it and the constitutional bar would remain.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights?ref=madisonminutes.com",
+      "https://sos.iowa.gov/voters/restoring-voter-rights",
+      "https://governor.iowa.gov/press-release/2020-08-05/gov-reynolds-signs-executive-order-restore-voting-rights-felons-who-have-completed-their-sentence",
+      "https://www.brennancenter.org/our-work/research-reports/voting-rights-restoration-efforts-iowa"
+    ]
+  },
+  "kansas": {
+    "status": "after-sentence",
+    "status_note": "A felony conviction takes the vote away until the terms of the sentence are complete. A sentence is not complete until probation and parole are finished, so a person on parole or probation cannot vote yet.",
+    "restoration": "automatic",
+    "restoration_note": "Rights are restored automatically on completion of the sentence under K.S.A. § 21-6613(b); the parole board issues a certificate of discharge under K.S.A. § 22-3722. Registration is not automatic — the person must re-register to vote, signing the affidavit on the form that civil rights have been restored.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "No payment condition appears in K.S.A. § 21-6613 or in the Kansas Secretary of State's guidance on registering after a felony sentence. NCSL groups Kansas with states where fines, fees, and restitution sometimes matter, so a person whose fines were a condition of probation or parole should confirm with the county election officer — but the statute itself sets no payment test.",
+    "statute_name": "Kansas Constitution, Article 5, Section 2; Kansas Statutes Annotated § 21-6613",
+    "statute_cite": "Kan. Const. art. 5, § 2; Kan. Stat. Ann. § 21-6613",
+    "legal_aid_name": "Kansas Legal Services",
+    "legal_aid_url": "https://www.kansaslegalservices.org/",
+    "state_note": "Being required to register as an offender (sex, violent, or drug offender) does not affect the right to vote once the sentence is complete — the Kansas Supreme Court held in State v. Petersen-Beard (2016) that offender registration is not punishment.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights?ref=madisonminutes.com",
+      "https://sos.ks.gov/elections/register-to-vote-felony.html",
+      "https://sos.ks.gov/publications/kansas-constitution/kansas-constitution-article-5.html",
+      "https://www.usvotefoundation.org/voting-rights-restoration/kansas",
+      "https://ballotpedia.org/Voting_rights_for_people_with_felony_convictions"
+    ]
+  },
+  "kentucky": {
+    "status": "permanent-some",
+    "status_note": "Under the Kentucky Constitution a person convicted of treason, a felony, or bribery in an election is permanently barred from voting unless restored by executive pardon. In practice, Governor's Executive Order 2019-003 (Dec. 12, 2019) automatically restores the vote on final discharge for eligible nonviolent Kentucky felonies, but people convicted of treason, bribery in an election, violent offenses, homicide offenses, assault, strangulation, human trafficking, and federal or out-of-state felonies are excluded from automatic restoration and must apply individually to the governor.",
+    "restoration": "varies",
+    "restoration_note": "Eligible cases: automatic restoration on final discharge or expiration of sentence — check status in the state's civil-rights restoration database, then re-register to vote. Excluded cases: submit an Application for Restoration of Civil Rights to the Department of Corrections for the governor's consideration of a partial pardon.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "For the automatic-restoration path, the state's FAQ states expressly that rights are restored even if restitution, fines, or other court-ordered money has not been paid. Exception: the individual-application path for excluded offenses requires verification that restitution has been paid in full.",
+    "statute_name": "Kentucky Constitution, Section 145 (as implemented by Governor's Executive Order 2019-003, Dec. 12, 2019)",
+    "statute_cite": "Ky. Const. § 145",
+    "legal_aid_name": "Kentucky Justice Online (Legal Aid Network of Kentucky)",
+    "legal_aid_url": "https://www.kyjustice.org/",
+    "state_note": "Executive Order 2019-003 restored voting rights to more than 140,000 Kentuckians. A similar 2015 executive order was revoked by the next governor, so the automatic path rests on an order a future governor could rescind; only a constitutional amendment would make it permanent.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights?ref=madisonminutes.com",
+      "https://civilrightsrestoration.ky.gov/Pages/faq.aspx",
+      "https://apps.legislature.ky.gov/KYConstitution/166_145.pdf",
+      "https://www.kyjustice.org/about-us"
+    ]
+  },
+  "louisiana": {
+    "status": "after-sentence",
+    "status_note": "A felony conviction suspends the vote while the person is under an order of imprisonment, which Louisiana courts read to include probation and parole. The right is restored automatically when the sentence is fully complete — and earlier under the five-year rule: a person still on probation or parole can vote if they have not been incarcerated under that order in the last five years.",
+    "restoration": "automatic",
+    "restoration_note": "Automatic on completion of the sentence, or on meeting the five-year rule. The parish registrar of voters may ask for documentation from the corrections official showing the person is no longer under an order of imprisonment, or has not been incarcerated under it in the last five years; then re-register if the registration was suspended.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "Unpaid fees or restitution do not block restoration: Louisiana guidance states it does not matter if the person did not complete paying all fees or restitution ordered under the sentence or probation, and no pardon or expungement is needed. NCSL groups Louisiana with states where fines, fees, and restitution sometimes matter — that flag is not reflected in the statute text (La. Rev. Stat. § 18:102) or Louisiana-specific guidance, so confirm with the parish registrar if fines were a probation condition.",
+    "statute_name": "Louisiana Constitution, Article I, Section 10; Louisiana Revised Statutes § 18:102",
+    "statute_cite": "La. Const. art. I, § 10; La. Rev. Stat. § 18:102",
+    "legal_aid_name": "Southeast Louisiana Legal Services",
+    "legal_aid_url": "https://slls.org/",
+    "state_note": "The five-year rule took effect March 1, 2019 under a 2018 law. It does not apply to a felony election offense under La. Rev. Stat. § 18:1461.2: a person convicted of election fraud or another election offense cannot use the five-year shortcut and must complete the full sentence first — but that is a delay, not a permanent loss.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights?ref=madisonminutes.com",
+      "https://www.usvotefoundation.org/voting-rights-restoration/louisiana",
+      "https://www.legis.la.gov/legis/ViewDocument.aspx?d=1121515",
+      "http://www.leaac.com/faq-resources/voting-rights-after-a-louisiana-felony-conviction/",
+      "https://ballotpedia.org/Voting_rights_for_people_with_felony_convictions"
+    ]
+  },
+  "maine": {
+    "status": "never-loses",
+    "status_note": "A felony conviction never takes the vote away in Maine. A person can vote even while incarcerated for a felony, and parole or probation has no effect on eligibility.",
+    "restoration": "automatic",
+    "restoration_note": "Nothing needs to be restored. Register (or stay registered) and vote like any other eligible voter; a person in prison votes by absentee ballot using the address where they lived before incarceration, not the prison address.",
+    "fines_fees_required": "na",
+    "fines_fees_note": "Not applicable — because the right to vote is never lost, fines, fees, or restitution cannot block it.",
+    "statute_name": "Maine Constitution, Article II, Section 1",
+    "statute_cite": "Me. Const. art. II, § 1",
+    "legal_aid_name": "Pine Tree Legal Assistance",
+    "legal_aid_url": "https://www.ptla.org/",
+    "state_note": "Maine is one of only two states (with Vermont) where people convicted of a felony never lose the right to vote, even in prison. The basis is the absence of any felony exclusion in Maine Constitution Article II, Section 1, which sets voter qualifications without a criminal-conviction disqualification.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights?ref=madisonminutes.com",
+      "https://www.usvotefoundation.org/voting-rights-restoration/maine",
+      "https://www.vote411.org/lwvme",
+      "https://ballotpedia.org/Voting_in_Maine",
+      "https://www.justice.gov/crt/media/1332106/dl"
+    ]
+  },
+  "maryland": {
+    "status": "prison-only",
+    "status_note": "A felony conviction takes the vote away only while the person is currently serving a court-ordered sentence of imprisonment. On release the right comes back automatically, even while on parole or probation. Exception: a person convicted of buying or selling votes is barred from registering regardless of sentence completion.",
+    "restoration": "automatic",
+    "restoration_note": "Restoration is automatic on release from incarceration under Md. Code, Elec. Law § 3-102. No application or pardon is needed; register online or on the paper application given on release, or with the local board of elections.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "No payment condition appears in Md. Code, Elec. Law § 3-102 or in the Department of Public Safety and Correctional Services guidance; unpaid fines, fees, or restitution do not block restoration.",
+    "statute_name": "Maryland Constitution, Article I, Section 6; Maryland Election Law § 3-102",
+    "statute_cite": "Md. Const. art. I, § 6; Md. Code, Elec. Law § 3-102",
+    "legal_aid_name": "Maryland Legal Aid",
+    "legal_aid_url": "https://www.mdlab.org/",
+    "state_note": "The current rule dates to 2016: the General Assembly overrode Governor Hogan's veto of HB 980/SB 340, and the law took effect March 10, 2016, immediately restoring voting rights to about 40,000 Marylanders who were still on parole or probation. Before that, Maryland required completion of the entire sentence.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights?ref=madisonminutes.com",
+      "https://mgaleg.maryland.gov/2015RS/chapters_noln/Ch_6_hb0980T.pdf",
+      "http://itcd.dpscs.state.md.us/PIA/ShowSuppFile.aspx?fileID=2396",
+      "https://www.brennancenter.org/our-work/research-reports/voting-rights-restoration-efforts-maryland",
+      "https://ballotpedia.org/Voting_rights_for_people_with_felony_convictions"
+    ]
+  },
+  "massachusetts": {
+    "status": "prison-only",
+    "status_note": "A felony conviction takes away the right to vote only while the person is actually incarcerated for that felony. People in jail before trial, people incarcerated for misdemeanors, and people on probation or parole can vote. The right comes back automatically the day the person is released from incarceration.",
+    "restoration": "automatic",
+    "restoration_note": "No application, petition, or waiting period. Upon release, the person simply registers (or re-registers) to vote like any other resident.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "The constitution and statute tie the loss of the vote only to current incarceration for a felony. Unpaid fines, fees, or restitution do not block registration after release.",
+    "statute_name": "Massachusetts Constitution, Amendments art. 120 (amending art. 3); Mass. Gen. Laws ch. 51, § 1",
+    "statute_cite": "Mass. Const. amend. art. 120; Mass. Gen. Laws ch. 51, § 1",
+    "legal_aid_name": "MassLegalHelp",
+    "legal_aid_url": "https://masslegalhelp.org/",
+    "state_note": "Before 2000, people incarcerated for felonies could vote in Massachusetts. Voters approved Article 120 by referendum in November 2000 (effective December 6, 2000), which added the incarceration ban to the constitution.",
+    "sources": [
+      "https://archives.lib.state.ma.us/server/api/core/bitstreams/000b6c8f-4700-49f3-939f-0722a18893e3/content",
+      "https://electionstats.state.ma.us/ballot_questions/view/6024/",
+      "https://www.usvotefoundation.org/voting-rights-restoration/massachusetts",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights"
+    ]
+  },
+  "michigan": {
+    "status": "prison-only",
+    "status_note": "A felony conviction takes away the right to vote only while the person is serving a sentence in jail or prison. People on probation or parole, people in jail awaiting trial or sentencing, and people whose felony sentence involved no jail or prison time can vote. The right comes back automatically on release.",
+    "restoration": "automatic",
+    "restoration_note": "No application or waiting period. Upon release, the person registers or re-registers to vote (online, by mail, or in person at the local clerk, including on Election Day).",
+    "fines_fees_required": "no",
+    "fines_fees_note": "The constitution only authorizes exclusion for commitment to a jail or penal institution, and the election law ties ineligibility to serving a jail or prison sentence. Unpaid fines, fees, or restitution do not block voting after release.",
+    "statute_name": "Michigan Constitution art. II, § 2; Michigan Election Law, MCL § 168.492a",
+    "statute_cite": "Mich. Const. art. II, § 2; MCL § 168.492a",
+    "legal_aid_name": "Michigan Legal Help",
+    "legal_aid_url": "https://michiganlegalhelp.org/",
+    "state_note": "Michigan became the first state in the nation to automatically register people to vote upon release from prison, under a law signed in 2023 that took effect in 2025 (the Department of Corrections and Secretary of State had already been pre-registering people before release since 2020).",
+    "sources": [
+      "https://codes.findlaw.com/mi/michigan-constitution-of-1963/mi-const-art-2-sect-2/",
+      "https://michiganlegalhelp.org/resources/voting-and-civil-rights/registering-vote-michigan",
+      "https://www.northcountrypublicradio.org/news/npr/1219695211/new-michigan-law-means-people-leaving-prison-will-automatically-be-registered-to-vote",
+      "https://www.usvotefoundation.org/voting-rights-restoration/michigan",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights"
+    ]
+  },
+  "minnesota": {
+    "status": "prison-only",
+    "status_note": "Since 2023, a felony conviction takes away the right to vote only while the person is incarcerated for that offense. People on probation, parole, or supervised release can vote. The right comes back automatically on release from incarceration, and is lost again only if the person is later re-incarcerated for the same offense.",
+    "restoration": "automatic",
+    "restoration_note": "No application or waiting period. Correctional facilities must give each person a notice of restoration and a voter registration application upon release. The person then registers or re-registers to vote.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "The statute ties the loss of the vote only to incarceration. Unpaid fines, fees, or restitution do not block voting after release.",
+    "statute_name": "Minnesota Statutes § 201.014, subd. 2a (Restore the Vote Act, 2023 Minn. Laws ch. 12)",
+    "statute_cite": "Minn. Stat. § 201.014, subd. 2a",
+    "legal_aid_name": "LawHelpMN",
+    "legal_aid_url": "https://lawhelpmn.org/",
+    "state_note": "Minnesota's Restore the Vote law (H.F. 28, 2023) moved the state from after-sentence restoration to restoration on release, effective June 1, 2023. Before that change, people could not vote until their full sentence, including probation and parole, was complete.",
+    "sources": [
+      "https://www.revisor.mn.gov/laws/2023/0/12/laws.0.4.0",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights"
+    ]
+  },
+  "mississippi": {
+    "status": "permanent-some",
+    "status_note": "Most felony convictions do not affect the right to vote at all. But a conviction for one of the crimes listed in the state constitution — murder, rape, bribery, theft, arson, obtaining money or goods under false pretense, perjury, forgery, embezzlement, and bigamy, as expanded by Attorney General opinions to 23 crime categories — takes away the right to vote for life, even after the sentence is fully served.",
+    "restoration": "clemency",
+    "restoration_note": "The only ways back are a pardon from the Governor or a bill of suffrage passed by a two-thirds vote of both houses of the state legislature (Miss. Const. art. XII, § 253). There is no automatic restoration and no application process with a standard form; restorations are rare.",
+    "fines_fees_required": "na",
+    "fines_fees_note": "Not applicable: restoration does not happen through sentence completion at all, so fines, fees, or restitution are not the test. Only a pardon or a two-thirds legislative vote restores the right, regardless of whether financial obligations were paid.",
+    "statute_name": "Mississippi Constitution art. XII, § 241 (disqualifying crimes) and § 253 (restoration by legislature); art. V, § 124 (governor's pardon power)",
+    "statute_cite": "Miss. Const. art. XII, §§ 241, 253",
+    "legal_aid_name": "Mississippi Legal Services",
+    "legal_aid_url": "https://www.mslegalservices.org/",
+    "state_note": "The lifetime ban was challenged in federal court (Hopkins v. Watson). A Fifth Circuit panel struck it down in 2023, but the full court reversed in July 2024 and the U.S. Supreme Court declined to hear the case on January 27, 2025, so Section 241 remains in effect. Between 2013 and 2018 the legislature restored voting rights to only 18 people.",
+    "sources": [
+      "https://www.usvotefoundation.org/voting-rights-restoration/mississippi",
+      "https://www.democracydocket.com/cases/mississippi-felony-disenfranchisement-challenge-hopkins/",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights"
+    ]
+  },
+  "missouri": {
+    "status": "prison-only",
+    "status_note": "Most people convicted of a felony lose the right to vote only while confined under a sentence of imprisonment, and can vote again as soon as they are released, even while on probation or parole. Exception: people convicted of certain listed offenses (sex offenses under chapters 566 and 573, and specified violent offenses such as murder, assault, and incest) may not vote while on probation or parole until finally discharged. People convicted of a felony or misdemeanor connected with the right of suffrage are barred permanently unless pardoned.",
+    "restoration": "varies",
+    "restoration_note": "For most felonies: automatic on release from imprisonment; re-register to vote. For the listed sex and violent offenses: automatic once finally discharged from probation or parole. For election-related offenses: only a pardon restores the right.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "The statute ties restoration to release from confinement or discharge from probation or parole, with no payment condition. Unpaid fines, fees, or restitution do not block restoration.",
+    "statute_name": "Missouri Revised Statutes § 115.133 (Qualifications of voters)",
+    "statute_cite": "Mo. Rev. Stat. § 115.133",
+    "legal_aid_name": "Missouri Legal Services",
+    "legal_aid_url": "https://www.lsmo.org/",
+    "state_note": "Missouri's rule changed recently: H.B. 1871 (effective August 28, 2026) narrowed the probation/parole bar in § 115.133(2) from all felonies to only the listed sex and violent offenses, so most people with felony convictions can now vote while on probation or parole. Older guides that say all Missouri felons must finish probation and parole are out of date.",
+    "sources": [
+      "https://revisor.mo.gov/main/OneSection.aspx?section=115.133",
+      "https://www.sos.mo.gov/elections/govotemissouri/votingrights",
+      "https://www.usvotefoundation.org/voting-rights-restoration/missouri",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights"
+    ]
+  },
+  "montana": {
+    "status": "prison-only",
+    "status_note": "A felony conviction takes away the right to vote only while the person is serving a sentence for a felony in a penal institution. People on probation or parole, people in jail before trial, and people convicted of misdemeanors can vote. The right comes back automatically on release from the institution.",
+    "restoration": "automatic",
+    "restoration_note": "No application or waiting period. Upon release, the person registers or re-registers to vote. The Montana Constitution separately provides that full rights are restored when state supervision ends.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "The constitution and statute tie the loss of the vote only to serving a felony sentence in a penal institution. Unpaid fines, fees, or restitution do not block voting after release.",
+    "statute_name": "Montana Constitution art. IV, § 2; Montana Code Annotated § 13-1-111; Mont. Const. art. II, § 28(2)",
+    "statute_cite": "Mont. Const. art. IV, § 2; Mont. Code Ann. § 13-1-111",
+    "legal_aid_name": "Montana Legal Services Association",
+    "legal_aid_url": "https://mtlsa.org/",
+    "state_note": "Montana's Constitution (art. II, § 28(2)) states that full rights are restored by termination of state supervision for any offense, and MCA § 46-18-801 restores all civil rights when the sentence expires or the person is pardoned.",
+    "sources": [
+      "https://www.usvotefoundation.org/voting-rights-restoration/montana",
+      "https://www.justice.gov/crt/media/1332106/dl?inline",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights"
+    ]
+  },
+  "nebraska": {
+    "status": "after-sentence",
+    "status_note": "A felony conviction takes away the right to vote until the full sentence is completed, including any parole term. People on probation or parole for a felony cannot vote. Once the sentence (including parole) is complete, the disqualification is automatically removed. People convicted of treason are barred until restored to civil rights.",
+    "restoration": "automatic",
+    "restoration_note": "Automatic on completion of the sentence, including any parole term. The person then submits a new voter registration application to the county election office. The Department of Corrections, parole administrator, or judge sends a notice that the sentence is complete.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "The statute conditions restoration only on completing the sentence, including any parole term, and the Secretary of State's guidance lists no separate fines, fees, or restitution payment test.",
+    "statute_name": "Nebraska Revised Statutes § 32-313; Neb. Rev. Stat. § 29-112",
+    "statute_cite": "Neb. Rev. Stat. § 32-313",
+    "legal_aid_name": "Legal Aid of Nebraska",
+    "legal_aid_url": "https://legalaidofnebraska.org/",
+    "state_note": "LB 20 (2024) removed Nebraska's old two-year waiting period after sentence completion. Two days before it took effect, the Attorney General issued an opinion calling it unconstitutional, and the Secretary of State briefly stopped registering people with felony convictions — but the Nebraska Supreme Court ordered the law implemented in State ex rel. Spung v. Evnen, 317 Neb. 800 (2024), and over 2,200 people with felony convictions registered in the two weeks before the 2024 general election.",
+    "sources": [
+      "https://sos.nebraska.gov/elections/felon-voting-rights",
+      "https://nebraskalegislature.gov/laws/statutes.php?statute=32-313",
+      "https://www.commoncause.org/nebraska/work/voting-rights-restoration/",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights"
+    ]
+  },
+  "nevada": {
+    "status": "prison-only",
+    "status_note": "A felony conviction takes away the right to vote only while the person is serving a term of imprisonment. People on parole or probation can vote, regardless of the type of felony. The right comes back automatically and immediately upon release from prison, with no waiting period.",
+    "restoration": "automatic",
+    "restoration_note": "No application, waiting period, or proof of restoration is needed. If the person's voter registration was canceled because of the conviction, they simply re-register to vote upon release.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "Restoration is automatic on release from prison regardless of the felony category and with no payment condition. Unpaid fines, fees, or restitution do not block voting.",
+    "statute_name": "Nevada Revised Statutes §§ 213.157 and 176A.850 (as amended by Assembly Bill 431, 2019)",
+    "statute_cite": "Nev. Rev. Stat. §§ 213.157, 176A.850",
+    "legal_aid_name": "Nevada Legal Services",
+    "legal_aid_url": "https://nevadalegalservices.org/",
+    "state_note": "Assembly Bill 431 (2019), effective July 1, 2019, ended Nevada's old tiered system, under which people convicted of violent category B felonies waited two years after discharge and people convicted of category A felonies had to petition a court. It also restored the vote the same day to people who had already been discharged from parole or probation before July 1, 2019.",
+    "sources": [
+      "https://www.doc.nv.gov/offender-info/restoration-of-civil-rights/",
+      "https://www.washoecounty.gov/voters/register/convicted.php",
+      "https://archive.leg.state.nv.us/Session/80th2019/Bills/AB/AB431.pdf",
+      "https://www.usvotefoundation.org/voting-rights-restoration/nevada",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights"
+    ]
+  },
+  "new hampshire": {
+    "status": "prison-only",
+    "status_note": "A felony conviction takes away the right to vote only while the person is imprisoned for the felony sentence. People on probation or parole are treated as finally discharged and can vote, as can people serving suspended sentences. Exception: people convicted of treason, bribery, or willful violation of election laws lose the vote under the state constitution and can get it back only by restoration from the New Hampshire Supreme Court.",
+    "restoration": "varies",
+    "restoration_note": "For most felonies: automatic on release from incarceration; re-register to vote. The sentencing facility must give written notice that the person may vote during suspension or parole. For treason, bribery, or willful election-law violations: restoration only by the New Hampshire Supreme Court under N.H. Const. pt. I, art. 11.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "The statute ties the loss of the vote only to imprisonment, and defines final discharge as release from incarceration. Unpaid fines, fees, or restitution do not block voting after release.",
+    "statute_name": "New Hampshire Constitution pt. I, art. 11; N.H. Rev. Stat. Ann. § 607-A:2",
+    "statute_cite": "N.H. Const. pt. I, art. 11; N.H. Rev. Stat. Ann. § 607-A:2",
+    "legal_aid_name": "New Hampshire Legal Assistance",
+    "legal_aid_url": "http://www.nhla.org/",
+    "state_note": "RSA 607-A:2 defines 'final discharge' as release from incarceration and expressly says a person on probation or parole is considered finally discharged for voting purposes. A certificate of discharge under RSA 607-A:5 states that the person's voting rights are restored.",
+    "sources": [
+      "https://law.justia.com/codes/new-hampshire/2019/title-lix/chapter-607-a/section-607-a-2/",
+      "https://www.usvotefoundation.org/voting-rights-restoration/new-hampshire",
+      "https://ballotpedia.org/Voting_rights_for_people_with_felony_convictions",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights"
+    ]
+  },
+  "new jersey": {
+    "status": "prison-only",
+    "status_note": "A person convicted of an indictable offense (New Jersey's term for a felony) loses the right to vote only while serving a sentence of incarceration. People on parole or probation can vote. The right comes back automatically on release from incarceration.",
+    "restoration": "automatic",
+    "restoration_note": "No application, petition, or waiting period. Upon release, the person registers or re-registers to vote. The Department of Corrections provides voter registration information as part of the release process.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "The statute ties the loss of the vote only to serving a sentence of incarceration. Unpaid fines, fees, or restitution do not block voting after release.",
+    "statute_name": "New Jersey Constitution art. II, § 1, ¶ 7; N.J.S.A. 19:4-1 (as amended by P.L. 2019, c. 270)",
+    "statute_cite": "N.J. Const. art. II, § 1, ¶ 7; N.J.S.A. 19:4-1",
+    "legal_aid_name": "Legal Services of New Jersey",
+    "legal_aid_url": "https://www.lsnj.org/",
+    "state_note": "Assembly Bill 5823 (P.L. 2019, c. 270), signed December 18, 2019 and effective March 17, 2020, restored voting rights to more than 80,000 New Jerseyans on probation or parole. Before that law, people could not vote until their full sentence, including parole and probation, was complete.",
+    "sources": [
+      "https://pub.njleg.gov/bills/2018/PL19/270_.HTM",
+      "https://www.brennancenter.org/our-work/analysis-opinion/new-jersey-governor-phil-murphy-signs-bill-restore-voting-rights-people",
+      "https://www.usvotefoundation.org/voting-rights-restoration/new-jersey",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights"
+    ]
+  },
+  "new mexico": {
+    "status": "prison-only",
+    "status_note": "A felony conviction takes away the right to vote only while the person is incarcerated in a correctional facility. Once released from confinement, the person can register and vote, even while on parole or probation.",
+    "restoration": "automatic",
+    "restoration_note": "Voting rights are restored automatically on release from incarceration. The person must register (or update an existing registration) to vote; inmates are offered the chance to register as they prepare for release.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "Unpaid fines, fees, or restitution do not block restoration. The statute conditions eligibility only on release from incarceration, and the Secretary of State's guidance lists no payment requirement.",
+    "statute_name": "New Mexico Constitution, Article VII, Section 1; NMSA 1978, Section 1-4-27.1",
+    "statute_cite": "N.M. Const. art. VII, § 1; NMSA 1978 § 1-4-27.1",
+    "legal_aid_name": "New Mexico Legal Aid",
+    "legal_aid_url": "https://www.newmexicolegalaid.org/",
+    "state_note": "New Mexico used to require completion of the full sentence, including probation and parole, under the old Section 31-13-1. House Bill 57 (2019) changed the rule to restoration on release from prison, so people on parole or probation can now vote.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights?ref=madisonminutes.com",
+      "https://nmlegis.gov/Sessions/19%20Regular/bills/house/HB0057JCS.pdf",
+      "https://www.usvotefoundation.org/voting-rights-restoration/new-mexico"
+    ]
+  },
+  "new york": {
+    "status": "prison-only",
+    "status_note": "A felony conviction takes away the right to vote only while the person is incarcerated. Once released from prison, the right to register and vote is restored automatically, even while on parole or post-release supervision.",
+    "restoration": "automatic",
+    "restoration_note": "Rights are restored automatically on release. The person must re-register to vote (even if registered before incarceration). Correctional facilities must offer a voter registration form and help completing it at discharge.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "Unpaid fines, fees, or restitution do not block restoration. The 2021 law restores voting on release with no payment condition.",
+    "statute_name": "New York Constitution, Article II, Section 3; New York Election Law Section 5-106",
+    "statute_cite": "N.Y. Const. art. II, § 3; N.Y. Elec. Law § 5-106 (as amended by Chapter 103 of the Laws of 2021)",
+    "legal_aid_name": "The Legal Aid Society",
+    "legal_aid_url": "https://legalaidnyc.org/",
+    "state_note": "Chapter 103 of the Laws of 2021, signed May 4, 2021, restored voting on release from prison regardless of parole status. Before that, people on parole could not vote (except through the governor's 2018 executive-order pardons).",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights?ref=madisonminutes.com",
+      "https://elections.ny.gov/notice-felon-registration-rights-0",
+      "https://elections.ny.gov/node/736"
+    ]
+  },
+  "north carolina": {
+    "status": "after-sentence",
+    "status_note": "A felony conviction takes away the right to vote until the person has completed the entire sentence, including any prison or jail time, probation, parole, and post-release supervision. The right is then restored automatically.",
+    "restoration": "automatic",
+    "restoration_note": "Rights are restored automatically once the period of supervision ends. The person must re-register to vote, even if previously registered. The supervising agency or court must issue a certificate or order showing restoration, but no application by the person is needed.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "Unpaid fines, fees, or restitution alone do not block restoration once supervision is over. However, a person's probation can be extended for failure to pay, and while probation is still running the person cannot vote.",
+    "statute_name": "North Carolina Constitution, Article VI, Section 2; North Carolina General Statutes Section 13-1",
+    "statute_cite": "N.C. Const. art. VI, § 2; N.C.G.S. § 13-1",
+    "legal_aid_name": "Legal Aid of North Carolina",
+    "legal_aid_url": "https://legalaidnc.org/",
+    "state_note": "In 2023 the North Carolina Supreme Court (384 N.C. 194) reversed lower-court rulings that would have restored voting on release from prison, so the full-sentence rule stands. Since January 1, 2024, knowingly voting while serving a felony sentence is a crime.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights?ref=madisonminutes.com",
+      "https://www.ncsbe.gov/registering/who-can-register/registering-person-criminal-justice-system",
+      "https://www.sog.unc.edu/node/97786"
+    ]
+  },
+  "north dakota": {
+    "status": "prison-only",
+    "status_note": "A felony conviction takes away the right to vote only during the term of actual incarceration. Once released from prison, the person can vote, even while on parole or probation.",
+    "restoration": "automatic",
+    "restoration_note": "Rights are restored automatically on release from incarceration. No application is needed, and North Dakota has no voter registration at all, so the person simply votes with an accepted ID.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "Unpaid fines, fees, or restitution do not block restoration. The statute conditions the loss of voting rights only on actual incarceration.",
+    "statute_name": "North Dakota Constitution, Article II, Section 2; North Dakota Century Code Section 12.1-33-01",
+    "statute_cite": "N.D. Const. art. II, § 2; N.D.C.C. § 12.1-33-01",
+    "legal_aid_name": "Legal Services of North Dakota",
+    "legal_aid_url": "https://lsnd.org/",
+    "state_note": "North Dakota is the only state with no voter registration, so a person released from prison can vote without re-registering. Only people currently incarcerated for a felony cannot vote; misdemeanor convictions never affect voting.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights?ref=madisonminutes.com",
+      "https://www.sos.nd.gov/sites/www/files/documents/elections/voting-flyers/criminal-record-flyer.pdf",
+      "https://ndlegis.gov/cencode/t12-1c33.pdf?20130408202526"
+    ]
+  },
+  "ohio": {
+    "status": "prison-only",
+    "status_note": "A felony conviction takes away the right to vote only while the person is actually incarcerated for the felony. Once released, the person can register and vote, even while on parole, probation, community control, or post-release control.",
+    "restoration": "automatic",
+    "restoration_note": "Rights are restored automatically on release from confinement. The person must re-register to vote, because the registration is cancelled while incarcerated.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "Unpaid fines, fees, or restitution do not block restoration. The statute conditions eligibility only on not being incarcerated.",
+    "statute_name": "Ohio Constitution, Article V, Section 4; Ohio Revised Code Section 2961.01",
+    "statute_cite": "Ohio Const. art. V, § 4; Ohio Rev. Code § 2961.01",
+    "legal_aid_name": "Ohio Legal Help",
+    "legal_aid_url": "https://www.ohiolegalhelp.org/",
+    "state_note": "The Ohio Secretary of State's Directive 2010-92 confirms that a person on parole, judicial release, community control, or post-release control is competent to be an elector. A person jailed only on a probation violation also cannot vote while confined.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights?ref=madisonminutes.com",
+      "https://www.ohiosos.gov/assets/dir2010-92.pdf",
+      "https://www.usvotefoundation.org/voting-after-a-conviction"
+    ]
+  },
+  "oklahoma": {
+    "status": "after-sentence",
+    "status_note": "A felony conviction takes away the right to vote until the person has fully served the sentence, including any incarceration, parole, supervision, or probation. The right is then restored automatically.",
+    "restoration": "automatic",
+    "restoration_note": "Rights are restored automatically when the sentence is complete. No petition to a court is needed; the person simply re-registers to vote. A pardon or a commutation to time served restores voting immediately, without waiting out the original sentence.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "Restoration is automatic on expiration of the sentence without requiring payment of court fees or restitution, and no petition is required.",
+    "statute_name": "Oklahoma Statutes, Title 26, Section 4-101",
+    "statute_cite": "Okla. Stat. tit. 26, § 4-101",
+    "legal_aid_name": "Legal Aid Services of Oklahoma",
+    "legal_aid_url": "https://legalaidok.org/",
+    "state_note": "House Bill 1629 (2024, effective January 1, 2025) lets a pardon or commutation restore voting immediately. House Bill 4113 (2026, effective November 1, 2026) reworded Section 4-101 without changing the rule.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights?ref=madisonminutes.com",
+      "https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hb/HB4113%20ENR.PDF",
+      "https://ccresourcecenter.org/state-restoration-profiles/oklahoma-restoration-of-rights-pardon-expungement-sealing/",
+      "https://news.ballotpedia.org/2024/05/15/oklahoma-adopts-legislation-restoring-voting-rights-to-felons-after-a-pardon-or-commutation-of-a-sentence/"
+    ]
+  },
+  "oregon": {
+    "status": "prison-only",
+    "status_note": "A felony conviction takes away the right to vote only from the date of sentencing until the person is released from incarceration. Once released, voting rights are restored automatically, even while on parole or post-prison supervision.",
+    "restoration": "automatic",
+    "restoration_note": "Rights are restored automatically on release from incarceration. The person must re-register to vote. If the person is later re-imprisoned for a parole violation, the rights are withdrawn again until the next release.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "Unpaid fines, fees, or restitution do not block restoration. The statute conditions restoration only on release from incarceration, with no payment requirement.",
+    "statute_name": "Oregon Constitution, Article II, Section 3; Oregon Revised Statutes Section 137.281",
+    "statute_cite": "Or. Const. art. II, § 3; ORS 137.281",
+    "legal_aid_name": "Legal Aid Services of Oregon",
+    "legal_aid_url": "https://lasoregon.org/",
+    "state_note": "A person sentenced to probation who is never incarcerated never loses the right to vote at all. The same rule applies to people held in a federal correctional facility in Oregon.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights?ref=madisonminutes.com",
+      "https://law.justia.com/codes/oregon/2017/volume-04/chapter-137/section-137.281/",
+      "https://multco.us/info/voting-rights-information"
+    ]
+  },
+  "pennsylvania": {
+    "status": "prison-only",
+    "status_note": "A felony conviction takes away the right to vote only while the person is confined in a correctional facility for the felony. Once released (or scheduled for release by the next election), the person can register and vote, even while on probation or parole, including in a halfway house.",
+    "restoration": "automatic",
+    "restoration_note": "Rights are restored automatically on release from confinement. The person must register or re-register to vote, online or by mail or in person at the county election office.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "Unpaid fines, fees, or restitution do not block restoration. The Department of State's guidance lists no payment condition.",
+    "statute_name": "Pennsylvania Constitution, Article VII, Section 1; Pennsylvania Election Code, 25 Pa.C.S. Section 1301, as construed in Mixon v. Commonwealth",
+    "statute_cite": "Pa. Const. art. VII, § 1; 25 Pa.C.S. § 1301; Mixon v. Commonwealth, 759 A.2d 442 (Pa. Cmwlth. 2000)",
+    "legal_aid_name": "Pennsylvania Legal Aid Network",
+    "legal_aid_url": "https://palegalaid.net/",
+    "state_note": "Until 2000, Pennsylvania barred people with felony convictions from registering for five years after release. The Commonwealth Court struck that waiting period down in Mixon v. Commonwealth (2000). A separate four-year bar still applies only to convictions for violating the Pennsylvania Election Code.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights?ref=madisonminutes.com",
+      "https://www.pa.gov/agencies/vote/voter-support/your-rights-and-the-law/criminal-status-and-voting",
+      "http://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/25/00.013.001.000..HTM"
+    ]
+  },
+  "rhode island": {
+    "status": "prison-only",
+    "status_note": "A felony conviction takes away the right to vote only while the person is incarcerated in a prison. Once discharged from incarceration, voting rights are restored, even while on probation or parole. Home confinement and halfway houses do not count as incarceration for this purpose.",
+    "restoration": "automatic",
+    "restoration_note": "Rights are restored automatically on discharge from incarceration. The Department of Corrections acts as a voter registration agency and must notify the person in writing that voting rights are restored, offer a voter registration form and help completing it, and transmit the form to the Board of Elections.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "Unpaid fines, fees, or restitution do not block restoration. The constitution and the Restoration of Voting Rights Act condition restoration only on discharge from incarceration.",
+    "statute_name": "Rhode Island Constitution, Article II, Section 1; Rhode Island General Laws Section 17-9.2-3",
+    "statute_cite": "R.I. Const. art. II, § 1; R.I. Gen. Laws § 17-9.2-3",
+    "legal_aid_name": "Rhode Island Legal Services",
+    "legal_aid_url": "https://www.rils.org/",
+    "state_note": "In November 2006, Rhode Island voters approved a constitutional amendment restoring voting on release from prison, the first such amendment in the nation passed by popular referendum. Before that, people on probation or parole, often for decades, could not vote.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights?ref=madisonminutes.com",
+      "https://rules.sos.ri.gov/Regulations/part/100-20-00-2?reg_id=11373",
+      "https://www.brennancenter.org/our-work/research-reports/voting-rights-restoration-efforts-rhode-island"
+    ]
+  },
+  "south carolina": {
+    "status": "after-sentence",
+    "status_note": "A felony conviction (or a conviction for an offense against the election laws) takes away the right to vote until the person has served the entire sentence, including probation and parole. The right is then restored automatically. A pardon restores it sooner.",
+    "restoration": "automatic",
+    "restoration_note": "Rights are restored automatically once the full sentence is complete. The person must submit a new voter registration application to the county board of voter registration and elections. A pardon from the Department of Probation, Parole and Pardon Services restores voting rights even before the sentence is finished.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "The statute itself does not list fines, fees, or restitution as a condition. However, completing probation is required, and probation can be extended for failure to pay court debts and monthly probation fees, so unpaid debt can indirectly delay restoration by keeping the person on probation.",
+    "statute_name": "South Carolina Constitution, Article II, Section 7; South Carolina Code Section 7-5-120",
+    "statute_cite": "S.C. Const. art. II, § 7; S.C. Code Ann. § 7-5-120",
+    "legal_aid_name": "South Carolina Legal Services",
+    "legal_aid_url": "https://sclegal.org/",
+    "state_note": "A pardon fully restores all civil rights, including voting, under S.C. Code Section 24-21-990. Some county election boards ask for a voter registration eligibility letter from the Department of Probation, Parole and Pardon Services before registering a person with a felony conviction.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights?ref=madisonminutes.com",
+      "https://scvotes.gov/wp-content/uploads/2024/04/Voter-Registration-Facts-in-SC-2.pdf",
+      "https://www.naacpldf.org/wp-content/uploads/South-Carolina-2018-Felony-Disenfranchisement-Card_3_29_2018-1.pdf"
+    ]
+  },
+  "south dakota": {
+    "status": "after-sentence-and-payment",
+    "status_note": "A person serving a felony sentence is removed from the voter rolls and cannot vote until the entire sentence is complete, including imprisonment, parole and probation. A suspended imposition of sentence, a sentence of probation only, or a sentence of only a fine or restitution does not take the vote away.",
+    "restoration": "automatic",
+    "restoration_note": "No application or pardon is needed once the entire sentence is complete; re-register to vote with the county auditor.",
+    "fines_fees_required": "yes",
+    "fines_fees_note": "For convictions on or after July 1, 2012, the entire sentence must be completed, which in some cases includes payment of court debt, fines, fees and restitution; a discharge certificate is not issued until then. People convicted before July 1, 2012 were disenfranchised only while serving a prison term, parole or federal supervised release.",
+    "statute_name": "S.D. Const. art. VII, § 2; S.D. Codified Laws § 12-4-18",
+    "statute_cite": "S.D. Const. art. VII, § 2; SDCL § 12-4-18",
+    "legal_aid_name": "SD Law Help",
+    "legal_aid_url": "https://sdlawhelp.org/",
+    "state_note": "South Dakota has no single statewide legal-aid firm: SD Law Help is the shared intake portal for East River Legal Services, Dakota Plains Legal Services and Access to Justice, which route one application to the right program.",
+    "sources": [
+      "https://www.sdsos.gov/elections-voting/voting/register-to-vote/felony-convictions.aspx",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://www.usvotefoundation.org/voting-rights-restoration/south-dakota",
+      "https://ccresourcecenter.org/state-restoration-profiles/south-dakota-restoration-of-rights-pardon-expungement-sealing/",
+      "https://sdlawhelp.org/"
+    ]
+  },
+  "tennessee": {
+    "status": "permanent-some",
+    "status_note": "A felony conviction after May 18, 1981 takes the vote away. Most people can get it back by court order after finishing the sentence, but some convictions are permanently disqualifying depending on the offense and date: murder, rape, treason or voter fraud in the listed periods, and, on or after July 1, 2006, certain bribery, public-corruption and felony sex offenses against a minor. Convictions on or before May 17, 1981 never took the vote away.",
+    "restoration": "application",
+    "restoration_note": "Petition the circuit court in the county of conviction or residence for a court order restoring voting rights, then give a certified copy of the order to the county Administrator of Elections and re-register to vote. A pardon is an alternative route.",
+    "fines_fees_required": "yes",
+    "fines_fees_note": "The person must owe no victim restitution and must have been compliant with child-support orders for the previous 12 months, including arrears. Court costs and fees are no longer a barrier: 2026 legislation removed the requirement to pay all court costs before restoration.",
+    "statute_name": "Tenn. Const. art. I, § 5; Tenn. Code Ann. §§ 40-29-201 to 40-29-204",
+    "statute_cite": "Tenn. Const. art. I, § 5; Tenn. Code Ann. §§ 40-29-201 to 40-29-204",
+    "legal_aid_name": "Tennessee Alliance for Legal Services",
+    "legal_aid_url": "https://www.tals.org/",
+    "state_note": "The process changed twice recently: a 2025 law made the circuit-court petition the only route and eliminated the administrative Certificate of Restoration, and a 2026 law (SB 336, signed March 26, 2026) removed the court-costs payment requirement and clarified the 12-month child-support compliance rule.",
+    "sources": [
+      "https://sos.tn.gov/restoration",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://campaignlegal.org/sites/default/files/2026-03/2026%20Tennessee%20Fact%20Sheet%20-%20final.pdf",
+      "https://www.usvotefoundation.org/voting-rights-restoration/tennessee",
+      "https://www.tals.org/"
+    ]
+  },
+  "texas": {
+    "status": "after-sentence",
+    "status_note": "A final felony conviction takes the vote away for the whole sentence, including imprisonment, parole, community supervision and probation. The right returns automatically once the sentence is fully discharged, or on pardon.",
+    "restoration": "automatic",
+    "restoration_note": "No application, court order or pardon is needed once the sentence is fully discharged; re-register to vote. Deferred adjudication is not a final conviction, so a person on deferred adjudication can vote.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "The statute lists only incarceration, parole, supervision and probation as the parts of a sentence that must be completed, and does not separately list fines, fees or restitution as a voting barrier. Case law treats a fine as part of the sentence itself, while restitution and court costs are not, so a fine imposed as part of the sentence or as a condition of supervision can delay discharge in a particular case; confirm the discharge status with the sentencing court if money is still owed.",
+    "statute_name": "Tex. Const. art. VI, § 1; Tex. Elec. Code § 11.002",
+    "statute_cite": "Tex. Const. art. VI, § 1; Tex. Elec. Code § 11.002",
+    "legal_aid_name": "Texas Legal Services Center",
+    "legal_aid_url": "https://www.tlsc.org/",
+    "state_note": "A person on federal supervised release has not fully discharged the sentence and cannot vote yet. Texas has three regional legal-aid programs in addition to the statewide Texas Legal Services Center.",
+    "sources": [
+      "https://www.sll.texas.gov/faqs/felony-conviction-vote/?shem=aimgspe%2C",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://ccresourcecenter.org/state-restoration-profiles/texas-restoration-of-rights-pardon-expungement-sealing/",
+      "https://www.tlsc.org/"
+    ]
+  },
+  "utah": {
+    "status": "prison-only",
+    "status_note": "A felony conviction takes the vote away only while the person is incarcerated. The right is restored when the person is sentenced to probation, is granted parole, or completes the term of incarceration.",
+    "restoration": "automatic",
+    "restoration_note": "No application is needed; once probation is imposed, parole is granted, or the prison term is complete, re-register to vote.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "Payment of restitution and fines is not a condition for restoring the right to vote under the voting subsection of the statute. Payment is a condition only for the separate, much stricter restoration of the right to hold elective office, which also requires 10 years since the most recent felony conviction or expungement.",
+    "statute_name": "Utah Const. art. IV, § 6; Utah Code § 20A-2-101.5",
+    "statute_cite": "Utah Const. art. IV, § 6; Utah Code § 20A-2-101.5",
+    "legal_aid_name": "Utah Legal Services",
+    "legal_aid_url": "https://www.utahlegalservices.org/",
+    "state_note": "Voting rights and office-holding rights are restored on different clocks in Utah: voting comes back on probation, parole or release, while holding office takes 10 years plus payment of restitution and fines, or expungement.",
+    "sources": [
+      "https://le.utah.gov/xcode/Title20A/Chapter2/20A-2-S101.5.html",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://www.usvotefoundation.org/voting-rights-restoration/utah",
+      "https://www.utahlegalservices.org/"
+    ]
+  },
+  "vermont": {
+    "status": "never-loses",
+    "status_note": "A felony conviction never takes the vote away in Vermont. A person can vote even while incarcerated for a felony, by absentee ballot.",
+    "restoration": "automatic",
+    "restoration_note": "Nothing needs to be restored. Register to vote, or stay registered, and vote by absentee ballot while incarcerated.",
+    "fines_fees_required": "na",
+    "fines_fees_note": "Not applicable: because the right to vote is never lost, unpaid fines, fees or restitution cannot block it.",
+    "statute_name": "Vt. Stat. Ann. tit. 28, § 807",
+    "statute_cite": "Vt. Stat. Ann. tit. 28, § 807",
+    "legal_aid_name": "Vermont Legal Aid",
+    "legal_aid_url": "https://www.vtlegalaid.org/",
+    "state_note": "Vermont is one of only two states, with Maine, where a felony conviction never disenfranchises a person, even in prison. Vermont Legal Aid works with Legal Services Vermont, which handles intake for both organizations.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://www.usvotefoundation.org/voting-rights-restoration/vermont",
+      "https://www.justice.gov/crt/media/1332106/dl",
+      "https://www.vtlegalaid.org/"
+    ]
+  },
+  "virginia": {
+    "status": "pardon-only",
+    "status_note": "As of the research date, a felony conviction takes the vote away until the Governor individually restores the person's civil rights. The Governor's practice has varied by administration, from near-automatic restoration for people who completed their sentences to case-by-case application review. This changes on January 1, 2027 (see state note).",
+    "restoration": "clemency",
+    "restoration_note": "Apply to the Governor through the Secretary of the Commonwealth for restoration of civil rights; a person who completed the sentence at least five years earlier and meets the other conditions may also petition the circuit court for an order leading to fast-track consideration by the Governor. Once restored, re-register to vote.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "Unpaid fines, fees or restitution are not a formal statutory requirement for restoration, and the requirement to pay court costs and fees was removed in 2015. An administration may still ask about restitution owed as part of its individual review, so the answer can vary by governor.",
+    "statute_name": "Va. Const. art. II, § 1",
+    "statute_cite": "Va. Const. art. II, § 1",
+    "legal_aid_name": "Virginia Legal Aid Society",
+    "legal_aid_url": "https://www.vlas.org/",
+    "state_note": "Virginia voters approved a constitutional amendment on November 3, 2026 that automatically restores voting rights on release from incarceration, effective January 1, 2027, with no application or gubernatorial approval required. After that date this entry should flip to prison-only with automatic restoration; the Governor's restoration process and the court-petition statute are being repealed. Virginia has nine regional legal-aid programs and no single statewide firm; Virginia Legal Aid Society is one of the largest.",
+    "sources": [
+      "https://www.restore.virginia.gov/",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://ccresourcecenter.org/state-restoration-profiles/virginia-restoration-of-rights-pardon-expungement-sealing/",
+      "https://law.lis.virginia.gov/vacode/title53.1/chapter12.1/section53.1-231.2/",
+      "https://www.vlas.org/"
+    ]
+  },
+  "washington": {
+    "status": "prison-only",
+    "status_note": "A felony conviction takes the vote away only while the person is serving a sentence of total confinement in prison. The right is restored automatically once the person is no longer in total confinement, even while on parole, probation or community custody.",
+    "restoration": "automatic",
+    "restoration_note": "No application or certificate of discharge is needed; re-register to vote once no longer in total confinement.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "Unpaid court fines, restitution or other legal financial obligations do not block restoration. The 2021 law that took effect January 1, 2022 removed the old rule under which a court could revoke provisional restoration for failure to pay legal financial obligations.",
+    "statute_name": "Wash. Const. art. VI, § 3; Wash. Rev. Code § 29A.08.520",
+    "statute_cite": "Wash. Const. art. VI, § 3; RCW 29A.08.520",
+    "legal_aid_name": "Northwest Justice Project",
+    "legal_aid_url": "https://www.nwjustice.org/",
+    "state_note": "Washington changed its rule in 2021 (HB 1078, effective January 1, 2022): before that, restoration was only provisional until the sentence was fully complete, and a certificate of discharge was part of the process. Confinement imposed only as a sanction for a community-custody violation does not count as total confinement for this purpose.",
+    "sources": [
+      "https://www2.sos.wa.gov/elections/voters/felons-and-voting-rights.aspx",
+      "http://app.leg.wa.gov/RCW/default.aspx?cite=29A.08.520",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://www.nwjustice.org/"
+    ]
+  },
+  "west virginia": {
+    "status": "after-sentence",
+    "status_note": "A felony, treason or election-bribery conviction takes the vote away while the person is serving the sentence, including imprisonment, probation and parole. The right is restored automatically on completion of the full sentence.",
+    "restoration": "automatic",
+    "restoration_note": "No application or pardon is needed once the sentence, including probation and parole, is complete; re-register to vote. A pardon or a court order vacating the conviction also restores eligibility.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "The statute sets restoration on completion of the sentence, including incarceration, probation and parole, and does not list payment of fines, fees or restitution as a separate requirement. Payment can still matter indirectly if it is a condition of probation or parole that has to be satisfied before supervision ends, so confirm discharge status with the supervising authority if money is owed.",
+    "statute_name": "W. Va. Const. art. IV, § 1; W. Va. Code § 3-2-2",
+    "statute_cite": "W. Va. Const. art. IV, § 1; W. Va. Code § 3-2-2",
+    "legal_aid_name": "Legal Aid of West Virginia",
+    "legal_aid_url": "https://www.lawv.net/",
+    "state_note": "Bills introduced in 2025 and 2026 would have restored the vote on release from incarceration, but as of the research date none had become law; the full-sentence rule still applies. A person convicted of a felony also cannot serve on a jury even after the sentence is complete.",
+    "sources": [
+      "https://code.wvlegislature.gov/email/3-2-2/",
+      "https://sos.wv.gov/media/466/download",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://www.usvotefoundation.org/voting-rights-restoration/west-virginia",
+      "https://www.lawv.net/"
+    ]
+  },
+  "wisconsin": {
+    "status": "after-sentence",
+    "status_note": "A felony, treason or bribery conviction takes the vote away until the person is off paper: the whole sentence must be complete, including imprisonment, parole, probation and extended supervision. The right is then restored automatically.",
+    "restoration": "automatic",
+    "restoration_note": "No application, court order or pardon is needed once off paper; the Department of Corrections or the county jailer must notify the person in writing that the right is restored, and the person must re-register to vote, as the old registration does not carry over.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "The restoration statute turns on completion of imprisonment, probation, parole or extended supervision and does not require payment of fines, fees or restitution. Some secondary guides describe being off paper as including payment, but that is not in the statute; payment can delay completion only if it is a condition of supervision that has not been satisfied, so confirm off-paper status with the probation or parole agent if money is owed.",
+    "statute_name": "Wis. Stat. §§ 6.03, 304.078",
+    "statute_cite": "Wis. Stat. §§ 6.03, 304.078",
+    "legal_aid_name": "Legal Action of Wisconsin",
+    "legal_aid_url": "https://www.legalaction.org/",
+    "state_note": "Wisconsin requires an acceptable photo ID to vote, which is a common stumbling block for people who have just regained the right. On January 1, 2026 Judicare Legal Aid merged into Legal Action of Wisconsin, now the single statewide firm.",
+    "sources": [
+      "https://docs.legis.wisconsin.gov/misc/lc/issue_briefs/2019/courts_and_criminal_law/ib_felons_vote_ph_2019_10_29.pdf",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://www.usvotefoundation.org/voting-rights-restoration/wisconsin",
+      "https://www.aclu-wi.org/news/criminal-conviction-you-can-likely-still-vote/",
+      "https://www.legalaction.org/"
+    ]
+  },
+  "wyoming": {
+    "status": "permanent-some",
+    "status_note": "A felony conviction takes the vote away. People convicted of a first-time nonviolent felony, or nonviolent felonies from the same occurrence, get voting rights back after completing the full sentence, including probation and parole. People convicted of a violent felony, a repeat felony, or a felony that is not first-time nonviolent can get the vote back only by a governor-issued certificate of restoration, and federal convictions are not eligible for restoration through the Wyoming Department of Corrections.",
+    "restoration": "varies",
+    "restoration_note": "For a first-time nonviolent Wyoming conviction completed on or after January 1, 2010, the Department of Corrections issues a certificate of restoration of voting rights automatically after sentence completion; people who completed before that date, or were convicted outside Wyoming, must submit a written request on the department's form. Anyone else must apply to the Governor for a certificate of restoration. Once restored, re-register to vote.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "The statute does not list fines, fees or restitution as part of the sentence for voting restoration, and a sentence does not include fines or restitution imposed separately by court order. Payment can still matter indirectly if it is a condition of probation or parole that must be satisfied before the sentence is complete.",
+    "statute_name": "Wyo. Stat. §§ 6-10-106, 7-13-105",
+    "statute_cite": "Wyo. Stat. §§ 6-10-106, 7-13-105",
+    "legal_aid_name": "Legal Aid of Wyoming",
+    "legal_aid_url": "https://www.lawyoming.org/",
+    "state_note": "A 2023 law (SF 120, effective July 1, 2023) made voting restoration automatic on sentence completion for first-time nonviolent felonies, removing the old five-year wait for the vote; the five-year wait still applies to the other rights lost under the statute, such as jury service and holding office. A 2025 amendment (SF 9) and a 2026 act did not change the Department of Corrections voting-restoration process.",
+    "sources": [
+      "https://corrections.wyo.gov/about-us/restoration-of-rights",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://www.usvotefoundation.org/voting-rights-restoration/wyoming",
+      "https://www.wyoleg.gov/Legislation/2025/SF0009",
+      "https://www.lawyoming.org/"
+    ]
+  }
+}

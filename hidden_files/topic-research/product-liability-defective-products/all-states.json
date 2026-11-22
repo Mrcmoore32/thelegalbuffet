@@ -1,0 +1,947 @@
+{
+ "states": {
+  "alabama": {
+   "legal_aid_name": "Legal Services Alabama",
+   "legal_aid_url": "https://legalservicesalabama.org/",
+   "repose_note": "Alabama has no enforceable statute of repose for product liability because the 10-year limit in Ala. Code § 6-5-502(c) was struck down as unconstitutional in Lankford v. Sullivan, Long & Hagerty, 416 So. 2d 996 (Ala. 1982).",
+   "repose_years": null,
+   "sol_note": "A product liability action against the original seller must be filed within 1 year of the injury, death, or property damage, with a discovery rule only for latent injuries from toxic or harmful exposure; Alabama's general 2-year personal injury period does not apply to a claim brought as a product liability action.",
+   "sol_years": 1,
+   "sources": [
+    "https://law.justia.com/codes/alabama/2009/Title6/Chapter5/6-5-502.html",
+    "https://www.findlaw.com/state/alabama-law/alabama-product-liability-laws.html",
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://legalservicesalabama.org/"
+   ],
+   "state_note": "Alabama is a pure contributory negligence state, so you recover nothing if you were even slightly at fault for your own injury.",
+   "statute_cite": null,
+   "statute_name": null,
+   "strict_liability": "yes",
+   "strict_note": "Under the Alabama Extended Manufacturer's Liability Doctrine (AEMLD), you need not prove negligence, only that the product was defective and unreasonably dangerous when it reached you and that the defect caused your injury."
+  },
+  "alaska": {
+   "legal_aid_name": "Alaska Legal Services Corporation",
+   "legal_aid_url": "https://alsc-law.org/",
+   "repose_note": "Alaska has no statute of repose for defective products because Alaska Stat. § 09.10.055(b)(1)(E) expressly excludes defective-product claims from the state's 10-year statute of repose.",
+   "repose_years": null,
+   "sol_note": "A product liability claim must be filed within 2 years under Alaska Stat. § 09.10.070(a), and the clock starts when you discover, or reasonably should have discovered, the injury and its cause.",
+   "sol_years": 2,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://protesolutio.com/2020/11/12/50-state-survey-of-statutes-of-limitations-and-repose-in-prescription-product-liability-cases/",
+    "https://www.everycrsreport.com/files/20051013_RL32560_8c8ec5ee5b46f07a994e3dcd6a979488a55b3dd5.pdf",
+    "https://alsc-law.org/"
+   ],
+   "state_note": "Alaska caps noneconomic damages such as pain and suffering at $400,000 in most injury cases, and it uses pure comparative fault, so your award is reduced by your share of fault but never barred entirely.",
+   "statute_cite": null,
+   "statute_name": null,
+   "strict_liability": "yes",
+   "strict_note": "Alaska follows strict liability for defective products under case law (Swenson Trucking & Excavating, Inc. v. Truckweld Equipment Co., 604 P.2d 1113 (Alaska 1980)), so you need not prove the maker was careless."
+  },
+  "arizona": {
+   "legal_aid_name": "Community Legal Services",
+   "legal_aid_url": "https://clsaz.org/",
+   "repose_note": "Arizona has no enforceable statute of repose for product liability because the 12-year limit in Ariz. Rev. Stat. § 12-551 was held unconstitutional in Hazine v. Montgomery Elevator Co., 861 P.2d 625 (Ariz. 1993).",
+   "repose_years": null,
+   "sol_note": "A product liability action must be filed within 2 years under Ariz. Rev. Stat. §§ 12-551 and 12-542, and Arizona's discovery rule starts the clock only when you know, or reasonably should know, the injury and its connection to the product.",
+   "sol_years": 2,
+   "sources": [
+    "https://www.findlaw.com/state/arizona-law/arizona-product-liability-laws.html",
+    "https://law.justia.com/cases/arizona/supreme-court/1988/cv-86-0525-cq-2.html",
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://clsaz.org/"
+   ],
+   "state_note": "Arizona's constitution bars the legislature from limiting the amount of damages in an injury case, so there is no statutory cap on what an injured person can recover.",
+   "statute_cite": "Ariz. Rev. Stat. §§ 12-681–12-686",
+   "statute_name": "Arizona Product Liability Act",
+   "strict_liability": "yes",
+   "strict_note": "Arizona's product liability statute makes manufacturers and sellers strictly liable for a defective product, so you need not prove negligence, only a defect that caused your injury."
+  },
+  "arkansas": {
+   "legal_aid_name": "Legal Aid of Arkansas",
+   "legal_aid_url": "https://arlegalaid.org/",
+   "repose_note": "Arkansas has no statute of repose for product liability claims, confirmed by both a 50-state survey and Arkansas practitioner analysis of Ark. Code Ann. § 16-116-203.",
+   "repose_years": null,
+   "sol_note": "A product liability action must be filed within 3 years after the death, injury, or damage occurs under Ark. Code Ann. § 16-116-203, and the discovery rule delays the clock until you know, or reasonably should know, of the injury and its probable connection to the product.",
+   "sol_years": 3,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://www.jdsupra.com/post/contentViewerEmbed.aspx?fid=17936d8b-8c63-48bc-ab50-e28910b25d8e",
+    "https://protesolutio.com/2020/11/12/50-state-survey-of-statutes-of-limitations-and-repose-in-prescription-product-liability-cases/",
+    "https://arlegalaid.org/"
+   ],
+   "state_note": "Arkansas uses modified comparative fault, so you recover nothing if you are 50 percent or more responsible for your own injury.",
+   "statute_cite": "Ark. Code Ann. §§ 16-116-101–16-116-203",
+   "statute_name": "Arkansas Product Liability Act",
+   "strict_liability": "yes",
+   "strict_note": "Arkansas allows strict liability claims against a manufacturer or supplier for a defective product under the Arkansas Product Liability Act, so you need not prove negligence."
+  },
+  "california": {
+   "legal_aid_name": "LawHelpCA",
+   "legal_aid_url": "https://www.lawhelpca.org/",
+   "repose_note": "California has no statute of repose for product liability claims; the 10-year limit in Cal. Civ. Proc. Code § 337.15 applies only to construction defects, not to products.",
+   "repose_years": null,
+   "sol_note": "A personal injury claim from a defective product must be filed within 2 years under Cal. Civ. Proc. Code § 335.1, with the clock starting when you discover, or reasonably should have discovered, the injury and that the product caused it.",
+   "sol_years": 2,
+   "sources": [
+    "https://www.findlaw.com/state/california-law/california-product-liability-laws.html",
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://protesolutio.com/2020/11/12/50-state-survey-of-statutes-of-limitations-and-repose-in-prescription-product-liability-cases/",
+    "https://lafla.org/"
+   ],
+   "state_note": "California invented modern strict product liability in Greenman v. Yuba Power Products (1963), and a claim for property damage alone gets 3 years instead of 2.",
+   "statute_cite": null,
+   "statute_name": null,
+   "strict_liability": "yes",
+   "strict_note": "California applies strict liability to defective products under Greenman v. Yuba Power Products, 59 Cal. 2d 57 (1963), so a manufacturer is liable for a defect that causes injury even if it used the utmost care."
+  },
+  "colorado": {
+   "legal_aid_name": "Colorado Legal Services",
+   "legal_aid_url": "https://coloradolegalservices.org/",
+   "repose_note": "Colorado has no general statute of repose for product liability; instead, after 10 years from first sale the product is rebuttably presumed not defective under Colo. Rev. Stat. § 13-21-403(3), and only new manufacturing equipment has a true 7-year repose period under § 13-80-107.",
+   "repose_years": null,
+   "sol_note": "A product liability action must be filed within 2 years after the claim accrues under Colo. Rev. Stat. §§ 13-80-102 and 13-80-106, and Colorado's discovery rule starts the clock when you know, or reasonably should know, of the injury and its cause.",
+   "sol_years": 2,
+   "sources": [
+    "https://www.burgsimpson.com/colorado-blog/colorado-product-liability-statute-limitations/",
+    "https://content.leg.colorado.gov/sites/default/files/r19-1326_statutes_of_repose_and_limitations_interested_persons.pdf",
+    "https://law.justia.com/codes/colorado/2021/title-13/article-21/part-4/section-13-21-403/",
+    "https://coloradolegalservices.org/"
+   ],
+   "state_note": "You usually must sue the manufacturer, not the store that sold the product, unless the manufacturer cannot be brought into the Colorado case.",
+   "statute_cite": "Colo. Rev. Stat. §§ 13-21-401–13-21-406",
+   "statute_name": "Colorado Product Liability Act",
+   "strict_liability": "yes",
+   "strict_note": "Colorado allows strict liability claims against a manufacturer for a defective product, but an ordinary seller is generally not liable unless it is also the manufacturer, under Colo. Rev. Stat. § 13-21-402."
+  },
+  "connecticut": {
+   "legal_aid_name": "Connecticut Legal Services",
+   "legal_aid_url": "https://ctlegal.org/",
+   "repose_note": "No product liability claim may be brought more than 10 years after the defendant last parted with possession or control of the product, except where the harm occurred during the product's useful safe life or under a longer express warranty.",
+   "repose_years": 10,
+   "sol_note": "A product liability claim must be brought within 3 years from when the injury, death, or property damage is first sustained or discovered, or reasonably should have been discovered, under Conn. Gen. Stat. § 52-577a(a).",
+   "sol_years": 3,
+   "sources": [
+    "https://www.cga.ct.gov/2011/FC/2011HB-06341-R000883-FC.htm",
+    "https://www.findlaw.com/state/connecticut-law/connecticut-product-liability-laws.html",
+    "https://law.justia.com/codes/connecticut/2022/title-52/chapter-925/section-52-572m/",
+    "https://ctlegal.org/"
+   ],
+   "state_note": "The Product Liability Act is the only way to sue a product seller in Connecticut, replacing separate negligence, strict liability, and warranty claims against sellers.",
+   "statute_cite": "Conn. Gen. Stat. §§ 52-572m–52-572q",
+   "statute_name": "Connecticut Product Liability Act",
+   "strict_liability": "yes",
+   "strict_note": "The Connecticut Product Liability Act expressly includes strict liability in tort among the theories a claimant may use against a product seller."
+  },
+  "delaware": {
+   "legal_aid_name": "Community Legal Aid Society, Inc.",
+   "legal_aid_url": "https://declasi.org/",
+   "repose_note": "Delaware has no statute of repose for product liability claims, confirmed by both the LawInfo 50-state chart and the Pro Te 50-state survey.",
+   "repose_years": null,
+   "sol_note": "A personal injury claim from a defective product must be filed within 2 years under 10 Del. C. § 8119, and Delaware's discovery rule delays the clock until you discover, or reasonably should have discovered, the injury.",
+   "sol_years": 2,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://openjurist.org/law/product-liability-law/delaware",
+    "https://protesolutio.com/2020/11/12/50-state-survey-of-statutes-of-limitations-and-repose-in-prescription-product-liability-cases/",
+    "https://declasi.org/"
+   ],
+   "state_note": "Delaware's sealed-container defense shields a seller that sold the product in a sealed, unaltered container without knowing of the defect, as long as the manufacturer can be identified and sued.",
+   "statute_cite": null,
+   "statute_name": null,
+   "strict_liability": "no",
+   "strict_note": "Delaware is one of the few states that never adopted strict product liability, so you must prove the company was negligent or that the product breached a warranty."
+  },
+  "florida": {
+   "legal_aid_name": "Florida Legal Services",
+   "legal_aid_url": "https://floridalegal.org/",
+   "repose_note": "No product liability claim may be brought if the harm was caused by exposure to or use of the product more than 12 years after delivery to its first purchaser, and most products are conclusively presumed to have an expected useful life of 10 years or less.",
+   "repose_years": 12,
+   "sol_note": "A product liability action must be filed within 4 years under Fla. Stat. § 95.11(3), with the clock running from when you discovered, or reasonably should have discovered, the facts giving rise to the claim under § 95.031(2)(b).",
+   "sol_years": 4,
+   "sources": [
+    "https://www.flsenate.gov/Laws/Statutes/2004/95.031",
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://www.floridabar.org/the-florida-bar-journal/back-to-the-future-renewing-strict-product-liability-in-florida/",
+    "https://floridalegal.org/"
+   ],
+   "state_note": "If the defective product kills someone, the deadline shrinks to 2 years from the date of death, not the usual 4 years.",
+   "statute_cite": null,
+   "statute_name": null,
+   "strict_liability": "yes",
+   "strict_note": "Florida adopted strict product liability in West v. Caterpillar Tractor Co., 336 So. 2d 80 (Fla. 1976), following Restatement (Second) of Torts § 402A, so you need not prove the maker was careless."
+  },
+  "georgia": {
+   "legal_aid_name": "Georgia Legal Services Program",
+   "legal_aid_url": "https://glsp.org/",
+   "repose_note": "No action may be commenced for an injury more than 10 years after the first sale of the product for use or consumption under O.C.G.A. § 51-1-11(b)(2), though the limit does not reach failure-to-warn claims or willful, reckless, or wanton conduct.",
+   "repose_years": 10,
+   "sol_note": "A personal injury claim from a defective product must be filed within 2 years under O.C.G.A. § 9-3-33, and Georgia's discovery rule measures the time from when you discovered, or should have discovered, both the injury and the product's role in causing it.",
+   "sol_years": 2,
+   "sources": [
+    "https://law.justia.com/codes/georgia/title-51/chapter-1/section-51-1-11/",
+    "https://www.findlaw.com/state/georgia-law/georgia-product-liability-laws.html",
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://glsp.org/"
+   ],
+   "state_note": "Georgia's 10-year repose limit does not apply to a claim that the manufacturer failed to warn of a danger once it knew about it.",
+   "statute_cite": "O.C.G.A. § 51-1-11",
+   "statute_name": "Georgia Product Liability Act",
+   "strict_liability": "yes",
+   "strict_note": "Under O.C.G.A. § 51-1-11(b)(1), a manufacturer is liable in tort, even without privity, to anyone injured because the product was not merchantable and reasonably suited to its intended use when sold."
+  },
+  "hawaii": {
+   "legal_aid_name": "Legal Aid Society of Hawaii",
+   "legal_aid_url": "https://www.legalaidhawaii.org/",
+   "repose_note": "Hawaii has no statute of repose for product liability, confirmed by two surveys, and its 10-year limit in § 657-8 applies only to improvements to real property.",
+   "repose_years": null,
+   "sol_note": "You have 2 years under Haw. Rev. Stat. § 657-7, and Hawaii uses a discovery rule, so the clock starts when you knew or should have known the product caused the injury.",
+   "sol_years": 2,
+   "sources": [
+    "https://www.findlaw.com/state/hawaii-law/hawaii-product-liability-laws.html",
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://protesolutio.com/2020/11/12/50-state-survey-of-statutes-of-limitations-and-repose-in-prescription-product-liability-cases/",
+    "https://www.legalaidhawaii.org/"
+   ],
+   "state_note": "Hawaii caps pain-and-suffering damages at $375,000 under § 663-8.7 with exceptions, and Legal Aid Society of Hawaii states it does not help with personal-injury matters, so a product-injury claim usually needs a private attorney.",
+   "statute_cite": null,
+   "statute_name": null,
+   "strict_liability": "yes",
+   "strict_note": "Hawaii allows product-liability claims on both negligence and strict liability, so you do not have to prove the maker was careless if the product was defective and unreasonably dangerous."
+  },
+  "idaho": {
+   "legal_aid_name": "Idaho Legal Aid Services",
+   "legal_aid_url": "https://idaholegalaid.org/",
+   "repose_note": "Idaho Code § 6-1403(2) creates a 10-year statute of repose from delivery, after which harm is presumed to have occurred after the product's useful safe life, rebuttable only by clear and convincing evidence.",
+   "repose_years": 10,
+   "sol_note": "You have 2 years from when the claim accrues under Idaho Code §§ 6-1403(3) and 5-219, and Idaho generally does not use a discovery rule, so the clock runs from the act or omission once some damage has occurred.",
+   "sol_years": 2,
+   "sources": [
+    "https://law.justia.com/codes/idaho/2021/title-6/chapter-14/section-6-1403/",
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://www.products50.com/copy-of-hawaii",
+    "https://idaholegalaid.org/"
+   ],
+   "state_note": "Idaho's 10-year repose presumption does not apply if the seller intentionally misrepresented or fraudulently concealed facts about the product, or if the harm came from prolonged exposure or a defect not discoverable within 10 years.",
+   "statute_cite": "Idaho Code §§ 6-1401–6-1410",
+   "statute_name": "Idaho Products Liability Reform Act",
+   "strict_liability": "yes",
+   "strict_note": "Idaho has adopted Restatement (Second) of Torts § 402A, so a manufacturer can be strictly liable for a defective, unreasonably dangerous product, although non-manufacturer sellers are generally liable only in the exceptions in the Act."
+  },
+  "illinois": {
+   "legal_aid_name": "Prairie State Legal Services",
+   "legal_aid_url": "https://www.pslegal.org/",
+   "repose_note": "Under 735 ILCS 5/13-213(b), no product-liability action may be brought more than 12 years from first sale, lease, or delivery by a seller or 10 years from first sale, lease, or delivery to the initial user, whichever period expires earlier.",
+   "repose_years": 10,
+   "sol_note": "Personal-injury product claims generally have 2 years from when you knew or through reasonable diligence should have known of the injury, under 735 ILCS 5/13-202 and 5/13-213(d), and in no event more than 8 years after the injury occurred.",
+   "sol_years": 2,
+   "sources": [
+    "https://codes.findlaw.com/il/chapter-735-civil-procedure/il-st-sect-735-5-13-213/",
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://www.pslegal.org/"
+   ],
+   "state_note": "Illinois's 2-year period is for personal injury, while strict-liability property-damage claims have a 5-year period, and Prairie State serves northern and central Illinois rather than the whole state.",
+   "statute_cite": "735 ILCS 5/13-213",
+   "statute_name": "Product liability; statute of repose",
+   "strict_liability": "yes",
+   "strict_note": "Illinois recognizes strict liability in tort for defective products, so you can sue without proving negligence if the product was defective and caused the injury."
+  },
+  "indiana": {
+   "legal_aid_name": "Indiana Legal Services",
+   "legal_aid_url": "https://www.indianalegalservices.org/",
+   "repose_note": "Under Ind. Code § 34-20-3-1, no product-liability action may be brought more than 10 years after delivery of the product to the initial user or consumer, except that a claim accruing in years 8 to 10 still gets a full 2 years from accrual.",
+   "repose_years": 10,
+   "sol_note": "A product-liability action must be commenced within 2 years after the cause of action accrues under Ind. Code § 34-20-3-1, generally when you knew or should have known of the injury and its cause.",
+   "sol_years": 2,
+   "sources": [
+    "https://legalclarity.org/indianas-statute-of-repose-construction-and-liability-cases/",
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://cases.justia.com/indiana/supreme-court/2020-19s-cq-590.pdf?ts",
+    "https://www.indianalegalservices.org/"
+   ],
+   "state_note": "Indiana's 10-year repose does not bar claims involving protracted exposure to an inherently dangerous foreign substance, and asbestos claims have a separate rule under § 34-20-3-2.",
+   "statute_cite": "Ind. Code § 34-20-3-1",
+   "statute_name": "Indiana Product Liability Act",
+   "strict_liability": "yes",
+   "strict_note": "The Indiana Product Liability Act covers actions in negligence or strict liability in tort, although strict liability is generally limited to manufacturing defects while design and warning claims are usually pursued as negligence."
+  },
+  "iowa": {
+   "legal_aid_name": "Iowa Legal Aid",
+   "legal_aid_url": "https://www.iowalegalaid.org/",
+   "repose_note": "Under Iowa Code § 614.1(2A)(a), a product claim based on strict liability, negligence, or breach of implied warranty may not be commenced more than 15 years after the product was first purchased, leased, bailed, or installed for use or consumption, unless expressly warranted longer.",
+   "repose_years": 15,
+   "sol_note": "Personal-injury claims generally have 2 years after the cause accrues under Iowa Code § 614.1(2), with a discovery rule for latent disease caused by exposure to a harmful material under § 614.1(2A)(b).",
+   "sol_years": 2,
+   "sources": [
+    "https://www.legis.iowa.gov/DOCS/IACODE/2003SUPPLEMENT/614/1.html",
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://iowalegalaid.org/"
+   ],
+   "state_note": "Iowa's 15-year repose is among the longest in the country, and it does not apply to the time to discover a latent disease from asbestos, dioxins, tobacco, PCBs, or pre-1992 silicone gel breast implants.",
+   "statute_cite": null,
+   "statute_name": null,
+   "strict_liability": "yes",
+   "strict_note": "Iowa Code § 614.1(2A) expressly lists strict liability in tort as one of the theories for a product-defect claim, so you do not have to prove negligence to bring a defect claim."
+  },
+  "kansas": {
+   "legal_aid_name": "Kansas Legal Services",
+   "legal_aid_url": "https://www.kansaslegalservices.org/",
+   "repose_note": "Kan. Stat. Ann. § 60-3303(b) is titled a 10-year period of repose, under which harm more than 10 years after delivery is presumed to have occurred after the product's useful safe life, rebuttable only by clear and convincing evidence.",
+   "repose_years": 10,
+   "sol_note": "You have 2 years under Kan. Stat. Ann. § 60-513(a)(4), and Kansas uses a discovery rule, so the clock starts when the injury becomes reasonably ascertainable.",
+   "sol_years": 2,
+   "sources": [
+    "https://ksrevisor.gov/statutes/chapters/ch60/060_033_0003.html",
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://www.dmlawusa.com/olathe/product-liability/",
+    "https://www.kansaslegalservices.org/"
+   ],
+   "state_note": "Kansas merges strict liability, negligence, and warranty into a single product-liability claim, and a seller who did not create the defect can step out of a case if the manufacturer can be sued in Kansas and a judgment against it would be collectible.",
+   "statute_cite": "Kan. Stat. Ann. § 60-3301 et seq.",
+   "statute_name": "Kansas Product Liability Act",
+   "strict_liability": "yes",
+   "strict_note": "Kansas applies strict liability to defective products, so the question is whether the product was unreasonably dangerous when it left the seller's control, not whether the maker was careless."
+  },
+  "kentucky": {
+   "legal_aid_name": "Kentucky Justice Online — Legal Aid Network of Kentucky",
+   "legal_aid_url": "https://www.kyjustice.org/",
+   "repose_note": "Kentucky has no statute of repose for product liability, confirmed by two surveys, and its 5-year-after-sale and 8-year-after-manufacture rules in § 411.310 are only rebuttable presumptions that the product was not defective, not filing bars.",
+   "repose_years": null,
+   "sol_note": "Kentucky gives only 1 year for personal-injury claims under Ky. Rev. Stat. Ann. § 413.140(1)(a), and it applies a discovery rule, so the clock starts when you discover or should have discovered both the injury and that the defendant may have caused it.",
+   "sol_years": 1,
+   "sources": [
+    "https://law.justia.com/codes/kentucky/2020/chapter-411/section-411-310/",
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://protesolutio.com/2020/11/12/50-state-survey-of-statutes-of-limitations-and-repose-in-prescription-product-liability-cases/",
+    "https://www.kyjustice.org/"
+   ],
+   "state_note": "Kentucky's 1-year deadline is one of the shortest in the country, and its constitution bars laws limiting damages for death or injury, so Kentucky has no damages cap of the usual kind.",
+   "statute_cite": "Ky. Rev. Stat. Ann. §§ 411.300–411.340",
+   "statute_name": "Product Liability Act of Kentucky",
+   "strict_liability": "yes",
+   "strict_note": "Kentucky adopted strict liability under Restatement (Second) of Torts § 402A in Dealers Transport Co. v. Battery Distributing Co., so a defective product claim does not require proof of negligence."
+  },
+  "louisiana": {
+   "legal_aid_name": "Southeast Louisiana Legal Services",
+   "legal_aid_url": "https://slls.org/",
+   "repose_note": "Louisiana has no statute of repose for product liability, confirmed by two sources, and its 5-year limit in La. Rev. Stat. § 9:2772 applies only to improvements to real property.",
+   "repose_years": null,
+   "sol_note": "Louisiana product-liability claims under the LPLA still have a 1-year liberative prescription, even though most other Louisiana delictual claims moved to 2 years on July 1, 2024, and the clock starts when you knew or should have known of the injury and its connection to the product.",
+   "sol_years": 1,
+   "sources": [
+    "https://legis.la.gov/legis/law.aspx?d=107259",
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://www.butler.legal/more-time-fewer-problems-louisianas-shift-to-a-two-year-prescriptive-period/",
+    "https://www.findlaw.com/state/louisiana-law/louisiana-product-liability-laws.html",
+    "https://slls.org/"
+   ],
+   "state_note": "Only a manufacturer is liable under the LPLA, not a mere seller, and Louisiana has no economic-loss rule for these claims, so you can still pursue a claim even if the only damage was to the product itself.",
+   "statute_cite": "La. Rev. Stat. § 9:2800.51 et seq.",
+   "statute_name": "Louisiana Products Liability Act",
+   "strict_liability": "no",
+   "strict_note": "The Louisiana Products Liability Act is the exclusive theory of liability for manufacturers and preempts strict-liability and negligence theories, so you must prove the product was unreasonably dangerous in one of four statutory ways: construction, design, inadequate warning, or breach of express warranty."
+  },
+  "maine": {
+   "legal_aid_name": "Pine Tree Legal Assistance",
+   "legal_aid_url": "https://www.ptla.org/",
+   "repose_note": "Maine has no statute of repose for product liability, confirmed by two sources, so the 6-year clock runs from discovery rather than from the date of sale.",
+   "repose_years": null,
+   "sol_note": "Maine gives 6 years under 14 M.R.S. § 752, and its product-liability statute § 221 runs the clock from when both the injury and its cause were known or should have been known through reasonable diligence.",
+   "sol_years": 6,
+   "sources": [
+    "https://www.mainelegislature.org/LEGIS/STATUTES/14/title14ch10.pdf",
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://www.findlaw.com/injury/product-liability/time-limits-for-filing-product-liability-cases-state-by-state.html",
+    "https://www.ptla.org/"
+   ],
+   "state_note": "Maine's 6-year period is the longest product-liability limitations period in this batch, but Maine bars recovery if you are found equally at fault, so your own share of fault matters more here than in most states.",
+   "statute_cite": "14 M.R.S. § 221",
+   "statute_name": "Defective or unreasonably dangerous goods",
+   "strict_liability": "yes",
+   "strict_note": "Maine's statute, 14 M.R.S. § 221, imposes liability for a defective, unreasonably dangerous product even if the seller exercised all possible care, which is strict liability in statutory form."
+  },
+  "maryland": {
+   "legal_aid_name": "Maryland Legal Aid",
+   "legal_aid_url": "https://www.mdlab.org/",
+   "repose_note": "Maryland has no statute of repose for product liability, confirmed by two sources, and its only general statute of repose, § 5-108, applies to improvements to real property.",
+   "repose_years": null,
+   "sol_note": "Maryland gives 3 years under Md. Code, Cts. & Jud. Proc. § 5-101, and it uses a discovery rule, so the clock starts when you knew or should have known of the harm and who caused it.",
+   "sol_years": 3,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://d27r7ebsgu0es2.cloudfront.net/reports/RL32560.html",
+    "https://mgaleg.maryland.gov/cmte_testimony/2023/jpr/1O7COq3lsoOD549fniZY7N-Px7frgcXa4.pdf",
+    "https://www.mdlab.org/"
+   ],
+   "state_note": "Maryland still applies contributory negligence to negligence claims, so even a small share of your own fault can matter, and it caps non-economic damages, so the dollar value of pain and suffering is limited by statute.",
+   "statute_cite": null,
+   "statute_name": null,
+   "strict_liability": "yes",
+   "strict_note": "Maryland recognizes strict liability for defective products under Phipps v. General Motors Corp., so you do not have to prove negligence if the product was defective and caused the injury."
+  },
+  "massachusetts": {
+   "legal_aid_name": "Greater Boston Legal Services",
+   "legal_aid_url": "https://www.gbls.org",
+   "repose_note": "Massachusetts has no statute of repose for product-liability claims, so there is no outer deadline measured from the date of sale.",
+   "repose_years": null,
+   "sol_note": "Three years from the date of injury, and the clock does not start until you discover (or reasonably should have discovered) the injury and its link to the product.",
+   "sol_years": 3,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://www.findlaw.com/state/massachusetts-law/massachusetts-product-liability-laws.html",
+    "https://www.bwglaw.com/blog/massachusetts-statute-of-limitations/"
+   ],
+   "state_note": "A defective-product claim can also be brought under the consumer-protection law (Chapter 93A), which can allow double or triple damages for unfair or deceptive practices.",
+   "statute_cite": "Mass. Gen. Laws ch. 106, §§ 2-314, 2-318; ch. 260, § 2A",
+   "statute_name": "Implied Warranty of Merchantability (Massachusetts Uniform Commercial Code)",
+   "strict_liability": "yes",
+   "strict_note": "Massachusetts reaches strict liability through its implied warranty of merchantability law, so you do not have to prove the seller was negligent, only that the product was defective and unreasonably dangerous."
+  },
+  "michigan": {
+   "legal_aid_name": "Michigan Legal Help",
+   "legal_aid_url": "https://michiganlegalhelp.org",
+   "repose_note": "Michigan has no statute of repose for product liability, though after a product has been in use for 10 years you lose the benefit of any presumption when proving your case.",
+   "repose_years": null,
+   "sol_note": "Three years from the date of injury, and Michigan does not recognize a discovery rule, so the clock generally starts when the injury occurs even if the defect is found later.",
+   "sol_years": 3,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://www.legislature.mi.gov/documents/mcl/pdf/mcl-600-5805-amended.pdf",
+    "https://www.k-law.com/blogs/understanding-product-liability-laws-in-michigan-holding-manufacturers-accountable"
+   ],
+   "state_note": "Makers of FDA-approved drugs and medical devices are largely immune from suit in Michigan unless the approval was obtained by fraud, and noneconomic damages in product cases are capped.",
+   "statute_cite": "Mich. Comp. Laws §§ 600.2945-600.2949a",
+   "statute_name": "Michigan Product Liability Act",
+   "strict_liability": "yes",
+   "strict_note": "Michigan applies strict liability for defective products, so you must prove the product was defective and caused the injury, not that the maker was careless, though design-defect claims use a risk-utility test."
+  },
+  "minnesota": {
+   "legal_aid_name": "LawHelp Minnesota",
+   "legal_aid_url": "https://www.lawhelpmn.org",
+   "repose_note": "Minnesota has no statute of repose for product liability, so there is no outer deadline measured from the date the product was sold.",
+   "repose_years": null,
+   "sol_note": "Four years from the date of injury for a strict-liability product claim, and the clock can start when a hidden injury is discovered, while a negligence claim against the maker gets six years.",
+   "sol_years": 4,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://www.revisor.mn.gov/statutes/2000/cite/541.05",
+    "https://www.findlaw.com/injury/product-liability/time-limits-for-filing-product-liability-cases-state-by-state.html"
+   ],
+   "state_note": "Suing for negligence instead of strict liability gives you six years instead of four, which can matter when a defect only shows up years after the injury.",
+   "statute_cite": null,
+   "statute_name": null,
+   "strict_liability": "yes",
+   "strict_note": "Minnesota courts apply strict liability for defective products under case law, so you do not have to prove the manufacturer was negligent."
+  },
+  "mississippi": {
+   "legal_aid_name": "Mississippi Legal Services",
+   "legal_aid_url": "https://mslegalservices.org",
+   "repose_note": "Mississippi has no statute of repose for product liability, so there is no outer deadline measured from the date the product was first sold.",
+   "repose_years": null,
+   "sol_note": "Three years after the claim accrues, and for a latent injury or disease the clock starts only when you discover (or reasonably should have discovered) the injury.",
+   "sol_years": 3,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://ezel.ai/templates/products-liability-demand/ms",
+    "https://www.recordinglaw.com/us-laws/statute-of-limitations-in-the-united-states/mississippi-statute-of-limitations/"
+   ],
+   "state_note": "Mississippi caps noneconomic damages (pain and suffering) at $1 million in most civil cases, and a seller who did not make the product is generally shielded unless it knew of the defect.",
+   "statute_cite": "Miss. Code Ann. § 11-1-63",
+   "statute_name": "Mississippi Products Liability Act",
+   "strict_liability": "yes",
+   "strict_note": "Mississippi follows strict liability, but under the Mississippi Products Liability Act you must still prove the product had one of the listed defects and was unreasonably dangerous when it left the maker's control."
+  },
+  "missouri": {
+   "legal_aid_name": "Missouri Legal Services",
+   "legal_aid_url": "https://lsmo.org/",
+   "repose_note": "Missouri has no statute of repose for product liability, so an old product can still support a claim as long as the injury itself happened within the five-year window.",
+   "repose_years": null,
+   "sol_note": "Five years from when the injury is sustained and capable of being discovered, which is one of the longest product-liability deadlines in the country.",
+   "sol_years": 5,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://allinjuryattorney.com/st-louis-defective-product-lawyer/",
+    "https://www.courts.mo.gov/page.jsp?id=43918"
+   ],
+   "state_note": "Missouri caps punitive damages at the greater of $500,000 or five times the net judgment, and the state has four regional legal-aid programs, so the right office depends on where you live.",
+   "statute_cite": "Mo. Rev. Stat. § 537.760",
+   "statute_name": "Missouri Products Liability Act",
+   "strict_liability": "yes",
+   "strict_note": "Missouri applies strict liability for defective products, so you must show the product was defective and unreasonably dangerous when used as reasonably anticipated, not that the maker was careless."
+  },
+  "montana": {
+   "legal_aid_name": "Montana Legal Services Association",
+   "legal_aid_url": "https://www.mtlsa.org",
+   "repose_note": "No product-liability claim may be brought more than 10 years after the product was first sold or leased, with exceptions for concealed defects, government-mandated recalls, and long-latency diseases.",
+   "repose_years": 10,
+   "sol_note": "Three years from when the injury occurs or is discovered, under the general personal-injury statute.",
+   "sol_years": 3,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://www.bolandaarab.com/great-falls-product-liability-lawyer/",
+    "https://www.druganddevicelawblog.com/2023/05/montana-enacts-product-liability-tort-reform-and-bans-tiktok.html"
+   ],
+   "state_note": "The 10-year repose period added in 2023 does not apply if the product was under a government-mandated safety recall or causes a respiratory or malignant disease with a latency over 10 years.",
+   "statute_cite": "Mont. Code Ann. § 27-1-719",
+   "statute_name": "Montana Product Liability Act",
+   "strict_liability": "yes",
+   "strict_note": "Montana codified strict liability for defective products, so a seller is liable for a defective, unreasonably dangerous product even if it exercised all possible care."
+  },
+  "nebraska": {
+   "legal_aid_name": "Legal Aid of Nebraska",
+   "legal_aid_url": "https://www.legalaidofnebraska.org",
+   "repose_note": "Claims must be brought within 10 years after the product was first sold or leased, but for a product made outside Nebraska the period is the manufacturing state's repose period, never less than 10 years.",
+   "repose_years": 10,
+   "sol_note": "Four years from the date the death, injury, or damage occurs, except asbestos claims, which get four years from when a doctor informs you of the injury and its cause.",
+   "sol_years": 4,
+   "sources": [
+    "http://nebraskalegislature.gov/laws/statutes.php?statute=25-224",
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://nebraskalegislature.gov/laws/statutes.php?statute=25-21,181&print=true"
+   ],
+   "state_note": "Where the product was made matters in Nebraska, because the repose period borrows the manufacturing state's law with a 10-year floor.",
+   "statute_cite": "Neb. Rev. Stat. §§ 25-21,180-25-21,182; § 25-224",
+   "statute_name": "Nebraska Product Liability Act",
+   "strict_liability": "yes",
+   "strict_note": "Nebraska recognizes strict liability for defective products, but a strict-liability claim against a seller or lessor who did not make the product is barred unless that seller also made the product or the defective part."
+  },
+  "nevada": {
+   "legal_aid_name": "Nevada Legal Services",
+   "legal_aid_url": "https://nevadalegalservices.org/",
+   "repose_note": "Nevada has no statute of repose for product liability, and the 10-year construction-defect repose period expressly excludes claims for a defect in a product.",
+   "repose_years": null,
+   "sol_note": "Two years from the date of injury, with a discovery rule that can delay the start for a latent injury that could not reasonably have been found sooner.",
+   "sol_years": 2,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://Law.Justia.com/codes/nevada/2021/chapter-11/statute-11-190/",
+    "http://spot.insure/coverage/product-liability/nevada"
+   ],
+   "state_note": "Nevada's two-year deadline is one of the shortest in the country, so a defective-product claim needs to be filed quickly, and dangerous products can also be reported to the U.S. Consumer Product Safety Commission.",
+   "statute_cite": null,
+   "statute_name": null,
+   "strict_liability": "yes",
+   "strict_note": "Nevada courts apply strict liability for defective products, so you do not have to prove the maker was negligent, only that the product was defective and caused the harm."
+  },
+  "new jersey": {
+   "legal_aid_name": "Legal Services of New Jersey",
+   "legal_aid_url": "https://www.lsnj.org",
+   "repose_note": "New Jersey has no statute of repose for product liability; the 10-year repose period sometimes cited applies only to construction and improvements to real property.",
+   "repose_years": null,
+   "sol_note": "Two years from when the injury is, or reasonably should have been, discovered, under the discovery rule.",
+   "sol_years": 2,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://www.findlaw.com/injury/product-liability/time-limits-for-filing-product-liability-cases-state-by-state.html",
+    "https://srislaw.com/product-liability-lawyer-ocean-county-nj/"
+   ],
+   "state_note": "The Products Liability Act is the exclusive remedy for a defective-product claim in New Jersey, and punitive damages are capped at five times the compensatory award or $350,000, whichever is greater.",
+   "statute_cite": "N.J.S.A. 2A:58C-1 et seq.",
+   "statute_name": "New Jersey Products Liability Act",
+   "strict_liability": "yes",
+   "strict_note": "New Jersey applies strict liability under its Products Liability Act, though a retailer can shift the claim to the manufacturer by identifying it under oath."
+  },
+  "new hampshire": {
+   "legal_aid_name": "New Hampshire Legal Assistance",
+   "legal_aid_url": "https://www.nhla.org",
+   "repose_note": "New Hampshire has no statute of repose for product liability, because the 12-year repose period in the old product-liability act was struck down as unconstitutional in 1983.",
+   "repose_years": null,
+   "sol_note": "Three years from when the injury is, or reasonably should have been, discovered, under the general personal-injury statute.",
+   "sol_years": 3,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://law.justia.com/codes/new-hampshire/2009/TITLELII/CHAPTER507-D/507-D-2.html",
+    "https://www.recordinglaw.com/us-laws/statute-of-limitations-in-the-united-states/new-hampshire-statute-of-limitations/"
+   ],
+   "state_note": "New Hampshire's product-liability act (RSA chapter 507-D) was held unconstitutional in Heath v. Sears, Roebuck & Co. (1983), so claims now run under the general three-year personal-injury statute.",
+   "statute_cite": null,
+   "statute_name": null,
+   "strict_liability": "yes",
+   "strict_note": "New Hampshire courts apply strict liability for defective products under case law, so you do not have to prove the maker was careless."
+  },
+  "new mexico": {
+   "legal_aid_name": "New Mexico Legal Aid",
+   "legal_aid_url": "https://www.newmexicolegalaid.org/",
+   "repose_note": "New Mexico has no statute of repose for product liability claims.",
+   "repose_years": null,
+   "sol_note": "Three years from the injury, but the clock starts when the person knows or reasonably should know they were injured, under N.M. Stat. Ann. § 37-1-8 and Martinez v. Showa Denko.",
+   "sol_years": 3,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://www.products50.com/copy-of-new-york",
+    "https://www.newmexicolegalaid.org/"
+   ],
+   "state_note": "New Mexico uses pure comparative negligence, so an injured person can still recover even if mostly at fault, with the award reduced by their share of fault.",
+   "statute_cite": null,
+   "statute_name": null,
+   "strict_liability": "yes",
+   "strict_note": "New Mexico adopted strict liability for defective products in Stang v. Hertz Corp., so the injured person need not prove the seller was careless, only that the product was defective and caused the harm."
+  },
+  "new york": {
+   "legal_aid_name": "The Legal Aid Society",
+   "legal_aid_url": "https://legalaidnyc.org/",
+   "repose_note": "New York has no statute of repose for product liability claims.",
+   "repose_years": null,
+   "sol_note": "Three years from the date of injury under N.Y. C.P.L.R. § 214(5), except toxic-exposure injuries, which run from discovery under C.P.L.R. § 214-c.",
+   "sol_years": 3,
+   "sources": [
+    "https://www.nysenate.gov/legislation/laws/CVP/214",
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://www.enjuris.com/new-york/product-liability-lawsuits/",
+    "https://houseslaw.com/construction-defect-law/"
+   ],
+   "state_note": "Because there is no repose period, a claim is not barred by the product's age alone, but the three-year clock from injury is strict.",
+   "statute_cite": null,
+   "statute_name": null,
+   "strict_liability": "yes",
+   "strict_note": "New York adopted strict liability for defective products in Codling v. Paglia, so a manufacturer or seller can be liable without proof of carelessness if the product was defective and caused the injury."
+  },
+  "north carolina": {
+   "legal_aid_name": "Legal Aid of North Carolina",
+   "legal_aid_url": "https://legalaidnc.org/",
+   "repose_note": "No product claim may be brought more than 12 years after the product was first purchased for use or consumption, under N.C. Gen. Stat. § 1-46.1.",
+   "repose_years": 12,
+   "sol_note": "Three years from the date of injury under N.C. Gen. Stat. § 1-52(5), with the clock starting at discovery for a latent injury that could not reasonably have been found sooner.",
+   "sol_years": 3,
+   "sources": [
+    "https://www.findlaw.com/state/north-carolina-law/north-carolina-product-liability-laws.html",
+    "https://www.ncleg.gov/Sessions/2009/BillDigests/Senate/05000999/BDS0882.pdf",
+    "https://www.jdsupra.com/post/contentViewerEmbed.aspx?fid=6fc3adf0-5282-4e83-b175-909942287319",
+    "https://legalaidnc.org/our-services/"
+   ],
+   "state_note": "North Carolina still uses contributory negligence, so any fault by the injured person can bar recovery entirely, and disease claims are exempt from the 12-year repose period.",
+   "statute_cite": "N.C. Gen. Stat. ch. 99B",
+   "statute_name": "North Carolina Product Liability Act",
+   "strict_liability": "no",
+   "strict_note": "North Carolina has no strict liability in product cases under N.C. Gen. Stat. § 99B-1.1, so the injured person must prove the manufacturer or seller was negligent or breached a warranty."
+  },
+  "north dakota": {
+   "legal_aid_name": "Legal Services of North Dakota",
+   "legal_aid_url": "https://www.lsnd.org/",
+   "repose_note": "North Dakota has no enforceable product-liability repose period because its 10-year repose statute was held unconstitutional in Dickie v. Farmers Union Oil Co.",
+   "repose_years": null,
+   "sol_note": "Six years from the injury under N.D. Cent. Code § 28-01-16(5), with the discovery rule applying to latent injuries under BASF Corp. v. Symington.",
+   "sol_years": 6,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://protesolutio.com/2020/11/12/50-state-survey-of-statutes-of-limitations-and-repose-in-prescription-product-liability-cases/",
+    "http://congressionalresearch.com/RL32560/document.php?study=Selected+Products+Liability+Issues+A+Fifty-State+Survey",
+    "https://legis.nd.gov/assembly/69-2025/testimony/HJAPPR-1623-20260121-45396-N-SAUCEDA_MARISA.pdf"
+   ],
+   "state_note": "North Dakota is the state's only civil legal-services program, and a seller who did not make the product is usually shielded once the manufacturer is sued.",
+   "statute_cite": "N.D. Cent. Code ch. 28-01.3",
+   "statute_name": "North Dakota Products Liability Act",
+   "strict_liability": "yes",
+   "strict_note": "North Dakota allows strict liability for defective products, although a non-manufacturer seller can be dismissed after identifying the manufacturer under N.D. Cent. Code § 28-01.3-04."
+  },
+  "ohio": {
+   "legal_aid_name": "Ohio Legal Help",
+   "legal_aid_url": "https://www.ohiolegalhelp.org/",
+   "repose_note": "No product claim may accrue more than 10 years after the product was delivered to its first purchaser or lessee, under Ohio Rev. Code § 2305.10(C)(1).",
+   "repose_years": 10,
+   "sol_note": "Two years after the claim accrues, normally the date of injury, under Ohio Rev. Code § 2305.10(A).",
+   "sol_years": 2,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "http://codes.ohio.gov/ohio-revised-code/section-2307.73",
+    "https://legalclarity.org/columbus-defective-product-lawsuit-filing-and-deadlines/",
+    "https://www.bblag.com/the-10-year-trap-why-ohio-s-statute-of-repose-can-end-your-product-liability-claim-before-it-starts"
+   ],
+   "state_note": "The 10-year repose period does not apply if the maker committed fraud about the product's safety or gave a written safety warranty longer than 10 years.",
+   "statute_cite": "Ohio Rev. Code §§ 2307.71-2307.80",
+   "statute_name": "Ohio Product Liability Act",
+   "strict_liability": "yes",
+   "strict_note": "Under the Ohio Product Liability Act, a manufacturer is liable if the product was defective in manufacture, design, warning, or representation, and a manufacturing defect can be proved even though the maker used all possible care under § 2307.74."
+  },
+  "oklahoma": {
+   "legal_aid_name": "Legal Aid Services of Oklahoma",
+   "legal_aid_url": "https://legalaidok.org/",
+   "repose_note": "Oklahoma has no statute of repose for product liability claims.",
+   "repose_years": null,
+   "sol_note": "Two years from the date of injury under 12 Okla. Stat. § 95(A)(3), with the clock tolled until the injured person knows or reasonably should know of the injury under Oklahoma's discovery rule.",
+   "sol_years": 2,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://protesolutio.com/2020/11/12/50-state-survey-of-statutes-of-limitations-and-repose-in-prescription-product-liability-cases/",
+    "https://www.casemine.com/commentary/us/betts-v.-toyota:-statute-of-repose-in-oklahoma-product-liability-conflicts-governed-by-restatement-145-(not-146),-typically-by-the-state-of-registration-garage/view",
+    "https://www.womenslaw.org/node/46159/O"
+   ],
+   "state_note": "Oklahoma has no product repose period, so the product's age alone does not bar a claim, but another state's repose law can still apply if the product was bought or registered there, as in Betts v. Toyota (2026).",
+   "statute_cite": null,
+   "statute_name": null,
+   "strict_liability": "yes",
+   "strict_note": "Oklahoma adopted manufacturers' products liability in Kirkland v. General Motors, so a maker can be liable for a defective product without proof of negligence."
+  },
+  "oregon": {
+   "legal_aid_name": "Legal Aid Services of Oregon",
+   "legal_aid_url": "https://lasoregon.org/",
+   "repose_note": "A product claim cannot be brought more than 10 years after the product was first purchased for use or consumption, under Or. Rev. Stat. § 30.905(1).",
+   "repose_years": 10,
+   "sol_note": "Two years after the injured person first discovers, or reasonably should discover, the injury under Or. Rev. Stat. § 30.905(2).",
+   "sol_years": 2,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://www.products50.com/copy-of-pennsylvania",
+    "https://apps.oregonlegislature.gov/liz/2007R1/Downloads/MeasureAnalysisDocument/4127",
+    "https://lasoregon.org/"
+   ],
+   "state_note": "Oregon's 10-year repose period can be longer if the state where the product was made allows more time, and it does not apply at all if that state has no repose period.",
+   "statute_cite": "Or. Rev. Stat. §§ 30.900-30.920",
+   "statute_name": "Oregon Product Liability Civil Actions",
+   "strict_liability": "yes",
+   "strict_note": "Oregon law makes a seller or lessor strictly liable for a product sold in a defective condition unreasonably dangerous to the user, under Or. Rev. Stat. § 30.920."
+  },
+  "pennsylvania": {
+   "legal_aid_name": "Pennsylvania Legal Aid Network",
+   "legal_aid_url": "https://palegalaid.net/",
+   "repose_note": "Pennsylvania has no statute of repose for product liability claims; the 12-year period in 42 Pa.C.S. § 5536 covers improvements to real property, not products.",
+   "repose_years": null,
+   "sol_note": "Two years from the date of injury under 42 Pa.C.S. § 5524(2), with the clock starting only when the injury is discovered in cases of fraudulent concealment.",
+   "sol_years": 2,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://www.products50.com/copy-of-rhode-island",
+    "http://spot.insure/coverage/product-liability/pennsylvania",
+    "https://palegalaid.net/"
+   ],
+   "state_note": "Pennsylvania places no cap on compensatory damages in product cases, and a seller anywhere in the chain of distribution can be strictly liable.",
+   "statute_cite": null,
+   "statute_name": null,
+   "strict_liability": "yes",
+   "strict_note": "Pennsylvania follows strict liability for defective products under Tincher v. Omega Flex, using a risk-utility or consumer-expectations test for whether the product was defective."
+  },
+  "rhode island": {
+   "legal_aid_name": "Rhode Island Legal Services",
+   "legal_aid_url": "https://www.rils.org/",
+   "repose_note": "Rhode Island has no enforceable product-liability repose period because the 10-year limit in R.I. Gen. Laws § 9-1-13 was held unconstitutional in Kennedy v. Cumberland Engineering Co.",
+   "repose_years": null,
+   "sol_note": "Three years after the cause of action accrues, normally the date of injury or discovery, under R.I. Gen. Laws § 9-1-14(b).",
+   "sol_years": 3,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://codes.findlaw.com/ri/title-9-courts-and-civil-procedure-procedure-generally/ri-gen-laws-sect-9-1-13/",
+    "https://www.everycrsreport.com/files/20051013_RL32560_8c8ec5ee5b46f07a994e3dcd6a979488a55b3dd5.pdf",
+    "https://www.rils.org/programs.cfm?programid=11"
+   ],
+   "state_note": "Rhode Island uses pure comparative negligence, so an injured person's own fault reduces but does not bar recovery.",
+   "statute_cite": null,
+   "statute_name": null,
+   "strict_liability": "yes",
+   "strict_note": "Rhode Island adopted strict liability for defective products in Ritter v. Narragansett Electric Co., so a seller can be liable even if it used all reasonable care."
+  },
+  "south carolina": {
+   "legal_aid_name": "South Carolina Legal Services",
+   "legal_aid_url": "https://sclegal.org/",
+   "repose_note": "South Carolina has no general statute of repose for product liability claims; its 8-year repose period in S.C. Code Ann. § 15-3-640 covers improvements to real property only.",
+   "repose_years": null,
+   "sol_note": "Three years from when the injured person knew or reasonably should have known a claim might exist, under S.C. Code Ann. §§ 15-3-530(5) and 15-3-535.",
+   "sol_years": 3,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://www.derricklawfirm.com/faqs/south-carolina-product-liability-claims-statute-of-limitations.cfm",
+    "https://legalclarity.org/statute-of-repose-in-south-carolina-what-you-need-to-know/",
+    "https://leffewlegal.com/?p=3661",
+    "https://www.womenslaw.org/find-help/sc/finding-lawyer/legal-assistance/R"
+   ],
+   "state_note": "South Carolina caps punitive damages, generally at the greater of $500,000 or three times compensatory damages, under S.C. Code Ann. § 15-32-530.",
+   "statute_cite": "S.C. Code Ann. §§ 15-73-10 to 15-73-30",
+   "statute_name": "South Carolina Products Liability Act",
+   "strict_liability": "yes",
+   "strict_note": "South Carolina's strict liability statute, S.C. Code Ann. § 15-73-10, makes a seller liable for a defective, unreasonably dangerous product even if the seller used all possible care."
+  },
+  "south dakota": {
+   "legal_aid_name": "Dakota Plains Legal Services",
+   "legal_aid_url": "https://www.dpls.org/",
+   "repose_note": "South Dakota has no statute of repose for product liability; its former six-year repose period was repealed in 1985.",
+   "repose_years": null,
+   "sol_note": "A product-liability action must be filed within three years of when the injury occurred or became known or should have become known.",
+   "sol_years": 3,
+   "sources": [
+    "https://sdlegislature.gov/api/Statutes/15-2.html?all=true",
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://law.justia.com/codes/south-dakota/title-20/chapter-09/section-20-9-9/",
+    "https://www.everycrsreport.com/files/20051013_RL32560_8c8ec5ee5b46f07a994e3dcd6a979488a55b3dd5.pdf",
+    "https://www.dpls.org/"
+   ],
+   "state_note": "A store or distributor that did not make the product is immune from strict liability unless it also made the product or knew or should have known of the defect.",
+   "statute_cite": null,
+   "statute_name": null,
+   "strict_liability": "yes",
+   "strict_note": "South Dakota allows strict-liability claims against a manufacturer for a defective product, but non-manufacturing sellers are immune unless they made the product or knew or should have known of the defect."
+  },
+  "tennessee": {
+   "legal_aid_name": "Legal Aid Society of Middle Tennessee and the Cumberlands",
+   "legal_aid_url": "https://las.org/",
+   "repose_note": "A claim must be brought within ten years from the date the product was first purchased for use or consumption, or within one year after the product's anticipated life expires, whichever is shorter, and in any event within six years of the injury.",
+   "repose_years": 10,
+   "sol_note": "A personal-injury product claim must be filed within one year after the cause of action accrues, generally the date of injury.",
+   "sol_years": 1,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://law.justia.com/cases/tennessee/supreme-court/2011/m2010-01680-sc-s09-cv.html",
+    "https://defectiveproductjustice.com/states/tennessee-amazon-product-liability-lawyer/",
+    "https://www.alfainternational.com/wp-content/uploads/FINAL_ALFA_International_2022_PLCT_Quick_Reference_Guide.pdf",
+    "https://las.org/"
+   ],
+   "state_note": "Tennessee caps noneconomic damages at $750,000 in most personal-injury cases.",
+   "statute_cite": "Tenn. Code Ann. §§ 29-28-102–29-28-103",
+   "statute_name": "Tennessee Products Liability Act",
+   "strict_liability": "yes",
+   "strict_note": "Tennessee's Products Liability Act covers claims based on strict liability as well as negligence and warranty."
+  },
+  "texas": {
+   "legal_aid_name": "Lone Star Legal Aid",
+   "legal_aid_url": "https://www.lonestarlegal.org/",
+   "repose_note": "A product-liability claim generally must be filed within 15 years after the date the defendant sold the product.",
+   "repose_years": 15,
+   "sol_note": "A personal-injury suit must be filed within two years after the cause of action accrues, with a discovery rule for harm that is not immediately apparent.",
+   "sol_years": 2,
+   "sources": [
+    "https://tcss.legis.texas.gov/resources/CP/htm/CP.16.htm",
+    "https://www.pacolaw.com/articles/texas-defective-product-injury-claims-chapter-82-basics",
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://www.lonestarlegal.org/"
+   ],
+   "state_note": "A seller that did not manufacture the product is generally not liable unless one of the exceptions in Tex. Civ. Prac. & Rem. Code section 82.003 applies, such as the manufacturer being insolvent or outside the court's jurisdiction.",
+   "statute_cite": "Tex. Civ. Prac. & Rem. Code ch. 82",
+   "statute_name": "Texas Products Liability Act",
+   "strict_liability": "yes",
+   "strict_note": "Texas adopted strict liability under Restatement (Second) of Torts section 402A, so a claimant need not prove the manufacturer was negligent."
+  },
+  "utah": {
+   "legal_aid_name": "Utah Legal Services",
+   "legal_aid_url": "https://www.utahlegalservices.org/",
+   "repose_note": "Utah's Product Liability Act sets a two-year limitations period but contains no statute of repose for product claims.",
+   "repose_years": null,
+   "sol_note": "A claim must be filed within two years from when the claimant discovered, or should have discovered, both the harm and its cause.",
+   "sol_years": 2,
+   "sources": [
+    "https://le.utah.gov/xcode/Title78B/Chapter6/78B-6-P7.html",
+    "https://le.utah.gov/xcode/Title78B/Chapter6/78B-6-S706.html?v=C78B-6-S706_1800010118000101",
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://www.utahlegalservices.org/"
+   ],
+   "state_note": "Utah voids contract clauses that make a buyer indemnify or defend a product manufacturer.",
+   "statute_cite": "Utah Code Ann. §§ 78B-6-701–78B-6-708",
+   "statute_name": "Utah Product Liability Act",
+   "strict_liability": "yes",
+   "strict_note": "Utah adopted strict liability under Restatement (Second) section 402A in 1979, so a defective, unreasonably dangerous product can support liability without proof of negligence."
+  },
+  "vermont": {
+   "legal_aid_name": "Vermont Legal Aid",
+   "legal_aid_url": "https://www.vtlegalaid.org/",
+   "repose_note": "Vermont has no general statute of repose for product liability.",
+   "repose_years": null,
+   "sol_note": "A product-liability claim must be filed within three years, with the clock starting when the injury is discovered.",
+   "sol_years": 3,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "http://spot.insure/coverage/product-liability/vermont",
+    "https://www.findlaw.com/state/vermont-law/vermont-civil-statute-of-limitations-laws.html",
+    "http://congressionalresearch.com/RL32560/document.php?study=Selected+Products+Liability+Issues+A+Fifty-State+Survey",
+    "https://vtlegalaid.org/about-vla"
+   ],
+   "state_note": "Vermont has a separate 20-year outer limit only for injuries from ionizing radiation or other noxious agents with prolonged latent development, not for ordinary product claims.",
+   "statute_cite": null,
+   "statute_name": null,
+   "strict_liability": "yes",
+   "strict_note": "Vermont adopted strict liability for defective products in Zaleskie v. Joyce (1975)."
+  },
+  "virginia": {
+   "legal_aid_name": "Virginia Legal Aid Society",
+   "legal_aid_url": "https://www.vlas.org/",
+   "repose_note": "Virginia has no general statute of repose for product liability; the five-year limit in Va. Code section 8.01-250 applies only to defective improvements to real property.",
+   "repose_years": null,
+   "sol_note": "A claim must be filed within two years from the date the injury is sustained, with no general discovery rule except for asbestos, breast-implant, and implanted-device cases.",
+   "sol_years": 2,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://phelanpetty.com/blog/what-is-the-statute-of-limitations-for-filing-a-product-liability-claim-in-virginia/",
+    "https://dls.virginia.gov/pubs/legisrec/1997/liable1.htm",
+    "https://www.vlas.org/"
+   ],
+   "state_note": "Virginia follows pure contributory negligence, so being even 1% at fault can bar recovery.",
+   "statute_cite": null,
+   "statute_name": null,
+   "strict_liability": "no",
+   "strict_note": "Virginia is one of the few states that never adopted strict liability in tort for products, so an injured person must prove negligence or breach of warranty."
+  },
+  "washington": {
+   "legal_aid_name": "Northwest Justice Project",
+   "legal_aid_url": "https://www.nwjustice.org/",
+   "repose_note": "Washington has no hard statute of repose, but harm occurring more than 12 years after delivery is presumed to be past the product's useful safe life, a presumption the claimant may rebut.",
+   "repose_years": null,
+   "sol_note": "A claim must be filed within three years from when the claimant discovered, or should have discovered, the harm and its cause.",
+   "sol_years": 3,
+   "sources": [
+    "https://app.leg.wa.gov/rcw/default.aspx?cite=7.72&a&full=true",
+    "https://codes.findlaw.com/wa/title-7-special-proceedings-and-actions/wa-rev-code-7-72-060/",
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://www.nwjustice.org/"
+   ],
+   "state_note": "Washington uses pure comparative fault, so partial fault reduces recovery but does not bar it.",
+   "statute_cite": "RCW ch. 7.72",
+   "statute_name": "Washington Product Liability Act",
+   "strict_liability": "yes",
+   "strict_note": "Washington imposes strict liability for a product that is not reasonably safe in construction or does not conform to warranty, while design and warning claims require proof of the manufacturer's negligence."
+  },
+  "west virginia": {
+   "legal_aid_name": "Legal Aid of West Virginia",
+   "legal_aid_url": "https://www.lawv.net/",
+   "repose_note": "West Virginia has no statute of repose for product liability.",
+   "repose_years": null,
+   "sol_note": "A claim must be filed within two years, and the clock starts when the plaintiff knows or should know of the injury, the maker's identity, and the product's causal role.",
+   "sol_years": 2,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://www.courtswv.gov/sites/default/pubfilesmnt/2023-11/20274.pdf",
+    "https://law.justia.com/codes/west-virginia/2022/chapter-55/article-7/section-55-7-31/",
+    "https://d27r7ebsgu0es2.cloudfront.net/reports/RL32560.html",
+    "https://www.lawv.net/"
+   ],
+   "state_note": "An innocent seller is generally shielded from product-liability claims unless it knew of the defect, controlled the design, or altered the product.",
+   "statute_cite": null,
+   "statute_name": null,
+   "strict_liability": "yes",
+   "strict_note": "West Virginia adopted strict liability for defective products in Morningstar v. Black & Decker (1979)."
+  },
+  "wisconsin": {
+   "legal_aid_name": "Legal Action of Wisconsin",
+   "legal_aid_url": "https://legalaction.org/",
+   "repose_note": "A defendant is not liable under Wisconsin's strict-liability statute if the product was manufactured 15 years or more before the claim accrued, unless the manufacturer promised a longer life.",
+   "repose_years": 15,
+   "sol_note": "A personal-injury product claim must be filed within three years after the cause of action accrues.",
+   "sol_years": 3,
+   "sources": [
+    "https://docs.legis.wisconsin.gov/statutes/statutes/895/I/047?view=section",
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "https://legalaction.org/"
+   ],
+   "state_note": "Wisconsin's 15-year limit does not apply to claims for damages caused by a latent disease.",
+   "statute_cite": "Wis. Stat. § 895.047",
+   "statute_name": "Wisconsin Product Liability Statute",
+   "strict_liability": "yes",
+   "strict_note": "Wisconsin's statute expressly provides for strict-liability claims against a manufacturer whose defective product caused harm."
+  },
+  "wyoming": {
+   "legal_aid_name": "Legal Aid of Wyoming",
+   "legal_aid_url": "https://www.lawyoming.org/",
+   "repose_note": "Wyoming has no general statute of repose for product liability; its separate 10-year limit covers only claims tied to improvements to real property.",
+   "repose_years": null,
+   "sol_note": "A product-liability claim must be filed within four years, with a discovery rule for injuries that are not immediately apparent.",
+   "sol_years": 4,
+   "sources": [
+    "https://www.lawinfo.com/resources/products-liability/statute-of-limitations-on-product-liability-claims.html",
+    "http://spot.insure/coverage/product-liability/wyoming",
+    "https://www.findlaw.com/state/wyoming-law/wyoming-civil-statute-of-limitations-laws.html",
+    "https://d27r7ebsgu0es2.cloudfront.net/reports/RL32560.html",
+    "https://www.lawyoming.org/"
+   ],
+   "state_note": "Wyoming's constitution bars caps on damages, so there is no statutory ceiling on a product-liability award.",
+   "statute_cite": null,
+   "statute_name": null,
+   "strict_liability": "yes",
+   "strict_note": "Wyoming adopted strict liability for defective products in Ogle v. Caterpillar Tractor Co. (1986)."
+  }
+ }
+}

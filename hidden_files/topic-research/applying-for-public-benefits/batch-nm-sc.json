@@ -1,0 +1,162 @@
+{
+  "new mexico": {
+    "medicaid_expanded": "yes",
+    "medicaid_note": "New Mexico expanded Medicaid, so adults up to age 65 with income up to 138% of the federal poverty level qualify, with or without children.",
+    "apply_url": "https://www.yes.state.nm.us",
+    "apply_note": "YES New Mexico is the state's one online portal for applying for Medicaid (Centennial Care), SNAP, cash assistance, and energy assistance.",
+    "agency_name": "New Mexico Health Care Authority",
+    "legal_aid_name": "New Mexico Legal Aid",
+    "legal_aid_url": "https://www.newmexicolegalaid.org",
+    "state_note": "New Mexico's Medicaid program is called Centennial Care, and households with very little income or cash can get expedited SNAP within 7 days of applying.",
+    "sources": [
+      "https://www.kff.org/affordable-care-act/state-indicator/state-activity-around-expanding-medicaid-under-the-affordable-care-act/",
+      "https://www.hca.nm.gov/2025/09/25/new-mexico-launches-yesnm-mobile-app/",
+      "http://hca.nm.gov/wp-content/uploads/MAD100_Revised-7.1.24.pdf",
+      "https://www.sbnm.org/Portals/NMBAR/ATJ-CivilLegalServiceProviders-4pages.pdf"
+    ]
+  },
+  "new york": {
+    "medicaid_expanded": "yes",
+    "medicaid_note": "New York expanded Medicaid, so most adults with income up to 138% of the federal poverty level qualify, and adults just above that line may qualify for the state's low-cost Essential Plan.",
+    "apply_url": "https://mybenefits.ny.gov",
+    "apply_note": "myBenefits is the state's online portal for applying for SNAP, Medicaid, and cash assistance outside New York City, while Medicaid can also be applied for through NY State of Health.",
+    "agency_name": "New York State Department of Health (Medicaid) and Office of Temporary and Disability Assistance (SNAP)",
+    "legal_aid_name": "The Legal Aid Society",
+    "legal_aid_url": "https://legalaidnyc.org",
+    "state_note": "Outside New York City, apply through myBenefits, but in New York City benefits are applied for through ACCESS HRA instead.",
+    "sources": [
+      "https://www.kff.org/affordable-care-act/state-indicator/state-activity-around-expanding-medicaid-under-the-affordable-care-act/",
+      "https://mybenefits.ny.gov/mybenefits/begin?eType=EmailBlastContent&eId=d060ffbe-4f21-4713-90e8-529606c743a4",
+      "https://www.lawhelpny.org/resource/mybenefits",
+      "https://legalaidnyc.org/"
+    ]
+  },
+  "north carolina": {
+    "medicaid_expanded": "yes",
+    "medicaid_note": "North Carolina expanded Medicaid on December 1, 2023, so adults ages 19 to 64 with income up to 138% of the federal poverty level now qualify.",
+    "apply_url": "https://epass.nc.gov",
+    "apply_note": "ePASS is North Carolina's online portal for applying for Medicaid (called Medical Assistance on the application), Food and Nutrition Services (SNAP), energy assistance, and Work First cash assistance.",
+    "agency_name": "North Carolina Department of Health and Human Services",
+    "legal_aid_name": "Legal Aid of North Carolina",
+    "legal_aid_url": "https://legalaidnc.org",
+    "state_note": "Applications are decided by your county Department of Social Services, and you need an NCID account to apply on ePASS.",
+    "sources": [
+      "https://www.kff.org/affordable-care-act/state-indicator/state-activity-around-expanding-medicaid-under-the-affordable-care-act/",
+      "https://medicaid.ncdhhs.gov/apply",
+      "https://www.darenc.gov/departments/health-human-services/our-units/economic-services",
+      "https://legalaidnc.org/"
+    ]
+  },
+  "north dakota": {
+    "medicaid_expanded": "yes",
+    "medicaid_note": "North Dakota expanded Medicaid, so adults ages 19 to 64 with income up to 138% of the federal poverty level qualify.",
+    "apply_url": "https://applyforhelp.nd.gov",
+    "apply_note": "The Self-Service Portal at applyforhelp.nd.gov is where North Dakotans apply online for Medicaid, SNAP, child care assistance, and Temporary Assistance for Needy Families.",
+    "agency_name": "North Dakota Department of Health and Human Services",
+    "legal_aid_name": "Legal Services of North Dakota",
+    "legal_aid_url": "https://www.legalassist.org",
+    "state_note": "North Dakota runs benefits through one statewide Customer Support Center and local Human Service Zone offices, and free help applying for SNAP is available from Great Plains Food Bank outreach workers.",
+    "sources": [
+      "https://www.kff.org/affordable-care-act/state-indicator/state-activity-around-expanding-medicaid-under-the-affordable-care-act/",
+      "https://www.hhs.nd.gov/applyforhelp/snap",
+      "https://www.stutsmancounty.gov/departments/human-services/economic-assistance/",
+      "https://legalhelpdashboard.org/site-list-by-state/"
+    ]
+  },
+  "ohio": {
+    "medicaid_expanded": "yes",
+    "medicaid_note": "Ohio expanded Medicaid in 2014, so adults with income up to 138% of the federal poverty level qualify, including adults without children.",
+    "apply_url": "https://benefits.ohio.gov",
+    "apply_note": "Ohio Benefits is the state's self-service portal for applying for SNAP (Food Assistance), Medicaid, Ohio Works First cash assistance, and child care assistance in one application.",
+    "agency_name": "Ohio Department of Job and Family Services and Ohio Department of Medicaid",
+    "legal_aid_name": "Ohio Legal Help",
+    "legal_aid_url": "https://ohiolegalhelp.org",
+    "state_note": "Ohio's benefits are run through your county Job and Family Services office, and households in urgent need can get expedited SNAP within 7 days of applying.",
+    "sources": [
+      "https://www.kff.org/affordable-care-act/state-indicator/state-activity-around-expanding-medicaid-under-the-affordable-care-act/",
+      "https://www.lakecountyohio.gov/jobs-family-services/public-assistance/",
+      "https://grantprobe.com/articles/ohio-assistance-programs",
+      "https://perfectlyparalegal.com/legal-aid-resources/"
+    ]
+  },
+  "oklahoma": {
+    "medicaid_expanded": "yes",
+    "medicaid_note": "Oklahoma expanded Medicaid on July 1, 2021, after voters approved it, so adults ages 19 to 64 with income up to 138% of the federal poverty level qualify for SoonerCare.",
+    "apply_url": "https://okdhslive.org",
+    "apply_note": "OKDHSLive is Oklahoma's online portal for applying for SNAP, TANF cash assistance, energy help, and child care, while SoonerCare (Medicaid) is applied for separately at MySoonerCare.",
+    "agency_name": "Oklahoma Health Care Authority (SoonerCare) and Oklahoma Human Services (SNAP)",
+    "legal_aid_name": "Legal Aid Services of Oklahoma",
+    "legal_aid_url": "https://www.legalaidok.org",
+    "state_note": "Oklahoma uses two separate portals, so apply for food and cash help at OKDHSLive and for SoonerCare health coverage at MySoonerCare.",
+    "sources": [
+      "https://www.kff.org/affordable-care-act/state-indicator/state-activity-around-expanding-medicaid-under-the-affordable-care-act/",
+      "https://oklahoma.gov/ohca/individuals/mysoonercare/apply-for-soonercare-online/where-to-apply.html",
+      "https://nationalreliefprogram.org/oklahoma-assistance-programs/",
+      "https://legalhelpdashboard.org/site-list-by-state/"
+    ]
+  },
+  "oregon": {
+    "medicaid_expanded": "yes",
+    "medicaid_note": "Oregon expanded Medicaid, so adults ages 19 to 64 with income up to 138% of the federal poverty level qualify for the Oregon Health Plan.",
+    "apply_url": "https://one.oregon.gov",
+    "apply_note": "ONE (Oregon Eligibility) is the state's one online system for applying for the Oregon Health Plan (Medicaid), SNAP, cash assistance, and child care benefits with a single application.",
+    "agency_name": "Oregon Department of Human Services and Oregon Health Authority",
+    "legal_aid_name": "Oregon Law Center",
+    "legal_aid_url": "https://oregonlawcenter.org",
+    "state_note": "Through Healthier Oregon, people who meet the income rules can get full Oregon Health Plan coverage regardless of immigration status.",
+    "sources": [
+      "https://www.kff.org/affordable-care-act/state-indicator/state-activity-around-expanding-medicaid-under-the-affordable-care-act/",
+      "https://www.oregon.gov/odhs/agency/pages/oep-one-system.aspx",
+      "https://www.oregon.gov/odhs/benefits/Pages/contact.aspx?jump=true",
+      "https://omls.oregon.gov/pipermail/comm-partners/attachments/20250218/ae2e2362/attachment-0004.pdf"
+    ]
+  },
+  "pennsylvania": {
+    "medicaid_expanded": "yes",
+    "medicaid_note": "Pennsylvania expanded Medicaid in 2015, so adults with income up to 138% of the federal poverty level qualify for Medical Assistance.",
+    "apply_url": "https://www.compass.state.pa.us",
+    "apply_note": "COMPASS is Pennsylvania's single online portal for applying for Medical Assistance (Medicaid), SNAP, cash assistance, LIHEAP, and child care help.",
+    "agency_name": "Pennsylvania Department of Human Services",
+    "legal_aid_name": "Pennsylvania Legal Aid Network",
+    "legal_aid_url": "https://palegalaid.net",
+    "state_note": "Pennsylvania calls Medicaid Medical Assistance, and households in urgent need can get expedited SNAP within 7 days of applying.",
+    "sources": [
+      "https://www.kff.org/affordable-care-act/state-indicator/state-activity-around-expanding-medicaid-under-the-affordable-care-act/",
+      "https://www.pa.gov/agencies/dhs/resources/snap",
+      "https://www.pa.gov/agencies/dhs/programs-services/apply-for-benefits.html",
+      "https://palegalaid.net/"
+    ]
+  },
+  "rhode island": {
+    "medicaid_expanded": "yes",
+    "medicaid_note": "Rhode Island expanded Medicaid in 2014, so adults ages 19 to 64 with income up to 138% of the federal poverty level qualify.",
+    "apply_url": "https://www.healthyrhode.ri.gov",
+    "apply_note": "HealthyRhode is Rhode Island's one online portal for applying for Medicaid, SNAP, RI Works cash assistance, and child care help, shared with HealthSource RI.",
+    "agency_name": "Rhode Island Department of Human Services and Executive Office of Health and Human Services",
+    "legal_aid_name": "Rhode Island Legal Services",
+    "legal_aid_url": "https://www.helprilaw.org",
+    "state_note": "Rhode Island uses one HealthyRhode account for Medicaid, SNAP, RI Works, and child care, and seniors and people with disabilities can use a simplified SNAP application.",
+    "sources": [
+      "https://www.kff.org/affordable-care-act/state-indicator/state-activity-around-expanding-medicaid-under-the-affordable-care-act/",
+      "https://dhs.ri.gov/apply-now",
+      "https://www.moneyfit.org/low-income/rhode-island/",
+      "https://centerforjustice.org/wp-content/uploads/2026/01/Resource-Guide-Jan-2026.pdf"
+    ]
+  },
+  "south carolina": {
+    "medicaid_expanded": "no",
+    "medicaid_note": "South Carolina has not expanded Medicaid, so it covers mainly children, pregnant women, parents with very low incomes, and people with disabilities, while most adults without children do not qualify.",
+    "apply_url": "https://apply.scdhhs.gov",
+    "apply_note": "Apply.scdhhs.gov is the online portal for applying for Healthy Connections Medicaid, while SNAP is applied for separately through the DSS Benefits Portal.",
+    "agency_name": "South Carolina Department of Health and Human Services (Medicaid) and Department of Social Services (SNAP)",
+    "legal_aid_name": "South Carolina Legal Services",
+    "legal_aid_url": "https://sclegal.org",
+    "state_note": "South Carolina has not expanded Medicaid, so adults who do not qualify should check HealthCare.gov for a subsidized private plan, and SNAP uses a separate DSS Benefits Portal from the Medicaid site.",
+    "sources": [
+      "https://www.kff.org/affordable-care-act/state-indicator/state-activity-around-expanding-medicaid-under-the-affordable-care-act/",
+      "https://www.scdhhs.gov/members/faqs",
+      "https://dss.sc.gov/assistance-programs/snap/how-do-i-apply",
+      "https://sclegal.org/"
+    ]
+  }
+}

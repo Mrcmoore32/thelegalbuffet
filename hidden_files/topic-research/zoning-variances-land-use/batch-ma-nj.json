@@ -1,0 +1,218 @@
+{
+  "Massachusetts": {
+    "variance_standard": "hardship",
+    "variance_standard_note": "The Zoning Act requires a showing of substantial hardship, financial or otherwise, caused by soil conditions, shape, or topography unique to the lot. A use variance is barred unless the local ordinance expressly permits use variances.",
+    "variance_process": "Apply or appeal to the local permit granting authority (usually the zoning board of appeals) for a variance from the zoning ordinance or by-law. The board holds a public hearing with published and mailed notice, then must make specific written findings of hardship, no substantial detriment to the public good, and no derogation from the ordinance's intent.",
+    "appeal_route": "An aggrieved person appeals to the Land Court or the Superior Court (or Housing/District Court where available) under G.L. c. 40A, § 17, asking that the decision be annulled; the court reviews the board's legal conclusions with deference but decides facts largely fresh.",
+    "appeal_deadline": "20 days",
+    "nonconforming_use": "protected",
+    "nonconforming_note": "Under G.L. c. 40A, § 6, a structure or use lawfully in existence before a zoning change may continue. It may be extended or altered only if the board finds the change will not be substantially more detrimental to the neighborhood, and a local bylaw may end protection after two or more years of non-use.",
+    "statute_name": "Zoning Act",
+    "statute_cite": "Mass. Gen. Laws ch. 40A, § 10",
+    "agency_name": null,
+    "agency_url": null,
+    "legal_aid_name": "MassLegalHelp",
+    "legal_aid_url": "https://www.masslegalhelp.org",
+    "state_note": "Massachusetts is one of the strictest variance states: the hardship must come from the land itself (soil, shape, topography), not personal or financial circumstances alone. Reform bills to replace the hardship test with a practical-difficulty test have been proposed but the substantial-hardship standard in § 10 remains the current law.",
+    "sources": [
+      "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVII/Chapter40a/Section10",
+      "https://www.mass.gov/info-details/mass-general-laws-c40a-ss-17",
+      "https://www.masslegalhelp.org"
+    ]
+  },
+  "Michigan": {
+    "variance_standard": "varies",
+    "variance_standard_note": "Michigan splits the test: a dimensional (nonuse) variance requires practical difficulties, while a use variance requires unnecessary hardship. Use variances also need a two-thirds vote of the zoning board of appeals and are only available in cities and villages, plus townships and counties that authorized them before February 15, 2006.",
+    "variance_process": "Apply to the local zoning board of appeals, which holds a hearing and applies the standards set in the local ordinance. Show that the problem comes from unique conditions of the property, not something you created, and that the variance keeps the spirit of the ordinance while doing substantial justice.",
+    "appeal_route": "An aggrieved party appeals to the circuit court for the county where the property is located under MCL 125.3606. The court reviews the record to check the decision complies with the constitution and laws, is supported by competent evidence, and was not arbitrary.",
+    "appeal_deadline": "30 days after the board issues its written decision, or 21 days after the board approves the minutes of its decision, whichever comes first",
+    "nonconforming_use": "protected",
+    "nonconforming_note": "Under MCL 125.3208, a use lawful when a zoning ordinance or amendment was adopted may continue even though it no longer conforms. The local ordinance may set terms for completion, resumption, restoration, reconstruction, extension, or substitution, and the locality may buy out or condemn a nonconforming use.",
+    "statute_name": "Michigan Zoning Enabling Act",
+    "statute_cite": "MCL 125.3604",
+    "agency_name": null,
+    "agency_url": null,
+    "legal_aid_name": "Michigan Legal Help",
+    "legal_aid_url": "https://www.michiganlegalhelp.org",
+    "state_note": "Michigan consolidated its old county, township, and city/village zoning acts into one act in 2006, but use variances remain unusually restricted: many townships and counties simply cannot grant them at all.",
+    "sources": [
+      "https://codes.findlaw.com/mi/chapter-125-planning-housing-and-zoning/mi-comp-laws-125-3604/",
+      "https://codes.findlaw.com/mi/chapter-125-planning-housing-and-zoning/mi-comp-laws-125-3606/",
+      "https://www.canr.msu.edu/news/proving_a_practical_difficulty_for_a_dimensional_variance_request",
+      "https://www.michiganlegalhelp.org"
+    ]
+  },
+  "Minnesota": {
+    "variance_standard": "practical-difficulty",
+    "variance_standard_note": "Minnesota uses a three-factor practical-difficulties test under Minn. Stat. § 462.357, subd. 6: the owner proposes a reasonable use not allowed by the ordinance, the plight comes from circumstances unique to the property and not created by the owner, and the variance will not alter the essential character of the locality. Economic considerations alone do not count, and no variance may allow a use prohibited in the district.",
+    "variance_process": "Apply to the local board of adjustment and appeals (often the city council acting as the board), which holds a hearing and must find all three practical-difficulties factors plus harmony with the ordinance's general purposes and consistency with the comprehensive plan. The board may attach conditions to protect neighbors and the public interest.",
+    "appeal_route": "An aggrieved person may seek judicial review in district court under Minn. Stat. § 462.361, after exhausting local remedies. The court reviews the local decision on the record.",
+    "appeal_deadline": "not stated in the statute",
+    "nonconforming_use": "protected",
+    "nonconforming_note": "Under Minn. Stat. § 462.357, subd. 1e, a lawful nonconformity may continue, including through repair, replacement, restoration, maintenance, or improvement, but not expansion unless the ordinance allows it. Protection ends if the use is discontinued for more than one year or destroyed by fire or other peril to more than 50 percent of its market value without a building permit application within 180 days; amortization is prohibited by subd. 1c.",
+    "statute_name": "Municipal Planning Act",
+    "statute_cite": "Minn. Stat. § 462.357, subd. 6",
+    "agency_name": null,
+    "agency_url": null,
+    "legal_aid_name": "LawHelp Minnesota",
+    "legal_aid_url": "https://www.lawhelpmn.org",
+    "state_note": "Minnesota changed the test in 2011 (2011 Minn. Laws ch. 19): the old 'undue hardship' standard, which required showing the property could not be put to any reasonable use, was replaced with the looser practical-difficulties test after the Minnesota Supreme Court's decision in Krummenacher v. City of Minnetonka (2010). The same test applies in counties under Minn. Stat. § 394.27, subd. 7.",
+    "sources": [
+      "https://www.revisor.mn.gov/bills/text.php?number=HF52&version=1&session=ls87&session_year=2011&session_number=0",
+      "https://www.lmc.org/resources/land-use-variances/",
+      "https://www.revisor.mn.gov/statutes/2024/cite/462.361/pdf",
+      "https://www.revisor.mn.gov/statutes/2022/cite/462.357",
+      "https://www.lawhelpmn.org"
+    ]
+  },
+  "Mississippi": {
+    "variance_standard": "hardship",
+    "variance_standard_note": "Mississippi follows the unnecessary-hardship test: the board of adjustment may grant a variance only where strict enforcement would cause unnecessary hardship from extraordinary and exceptional conditions unique to the property. The state enabling act leaves most variance criteria to the local ordinance, so the exact findings required vary by city and county.",
+    "variance_process": "Apply to the local board of adjustment (or the governing body where no separate board exists), which hears the request at a public hearing. Show exceptional conditions peculiar to your property, that the ordinance effectively prohibits or unreasonably restricts its use, and that the variance will not harm neighbors or the character of the district.",
+    "appeal_route": "An aggrieved person appeals a municipal or county governing body's decision to the circuit court by bill of exceptions under Miss. Code Ann. § 11-51-75. The circuit court decides the case on the record made below as an appellate court.",
+    "appeal_deadline": "10 days",
+    "nonconforming_use": "varies",
+    "nonconforming_note": "Mississippi has no statewide statute spelling out nonconforming-use protection; protection comes from the local ordinance and case law, which generally allow a lawfully established use to continue. The exemption can be lost by a change in the use or by abandonment, on terms set by the local ordinance (see Barrett v. Hinds County).",
+    "statute_name": "Zoning, Planning and Subdivision Regulation",
+    "statute_cite": "Miss. Code Ann. § 17-1-1 et seq.",
+    "agency_name": null,
+    "agency_url": null,
+    "legal_aid_name": "Mississippi Legal Services (MSLegalServices.org)",
+    "legal_aid_url": "https://www.mslegalservices.org",
+    "state_note": "Mississippi's appeal deadline is one of the shortest in the country at 10 days, and it runs from the adjournment of the meeting at which the decision was made, so a homeowner must act almost immediately after a denial.",
+    "sources": [
+      "https://unicourt.github.io/cic-code-ms/transforms/ms/ocms/r73/gov.ms.code.title.17.html",
+      "https://law.justia.com/codes/mississippi/2016/title-11/chapter-51/section-11-51-75/",
+      "https://law.justia.com/cases/mississippi/supreme-court/2017/2015-ca-01865-sct.html",
+      "https://www.mslegalservices.org"
+    ]
+  },
+  "Missouri": {
+    "variance_standard": "varies",
+    "variance_standard_note": "The statute, Mo. Rev. Stat. § 89.090, lets the board of adjustment grant a variance where there are 'practical difficulties or unnecessary hardship,' without splitting the two tests. In practice local ordinances apply practical difficulty to dimensional (non-use) variances and unnecessary hardship to use variances.",
+    "variance_process": "Apply to the local board of adjustment, which holds a hearing and may grant the variance if strict enforcement would cause practical difficulties or unnecessary hardship and the grant keeps the spirit of the ordinance, secures public safety and welfare, and does substantial justice. Four concurring votes of the board are needed to grant a variance.",
+    "appeal_route": "An aggrieved person petitions the circuit court of the county or city where the property is located for a writ of certiorari under Mo. Rev. Stat. § 89.110. The court reviews the board's decision for illegality and may take additional evidence on procedural matters.",
+    "appeal_deadline": "30 days",
+    "nonconforming_use": "varies",
+    "nonconforming_note": "Missouri's state zoning statutes do not set a general nonconforming-use rule; protection for a lawful pre-existing use comes from the local ordinance and court decisions. Local ordinances typically let the use continue but bar its expansion, and abandonment can end it, so the local ordinance controls.",
+    "statute_name": "Zoning and Planning (cities, towns and villages)",
+    "statute_cite": "Mo. Rev. Stat. § 89.090",
+    "agency_name": null,
+    "agency_url": null,
+    "legal_aid_name": "Missouri Legal Services",
+    "legal_aid_url": "https://www.lsmo.org",
+    "state_note": "In a city of 350,000 or more located in more than one county, the board of adjustment has no power at all to vary an ordinance relating to the use of land, so use variances are effectively unavailable there.",
+    "sources": [
+      "https://revisor.mo.gov/main/OneSection.aspx?section=89.090&bid=56777",
+      "https://revisor.mo.gov/main/OneSection.aspx?section=89.110&bid=4615&hl=",
+      "https://www.lsmo.org"
+    ]
+  },
+  "Montana": {
+    "variance_standard": "hardship",
+    "variance_standard_note": "Montana uses the unnecessary-hardship test: a variance is allowed where, owing to special conditions, literal enforcement would result in unnecessary hardship, the grant is not contrary to the public interest, and the spirit of the ordinance is observed. The 2023 Montana Land Use Planning Act restates the same test, adding that the hardship must not be self-imposed.",
+    "variance_process": "Apply to the local board of adjustment, which may grant a variance in appropriate cases subject to conditions and safeguards. Show special conditions peculiar to your property, that strict enforcement causes unnecessary hardship, and that the variance will not harm the public interest; four concurring votes are required.",
+    "appeal_route": "A person aggrieved by a board of adjustment decision may petition the district court (court of record) under Mont. Code Ann. § 76-2-327. The court reviews the decision for illegality.",
+    "appeal_deadline": "30 days",
+    "nonconforming_use": "protected",
+    "nonconforming_note": "Zoning regulations must allow a lawful nonconforming use to continue (Mont. Code Ann. § 76-2-208 for counties; § 76-25-301(8) under the 2023 act), but the local government may set grounds for ending it based on changes to or abandonment of the use. Any ambiguity about whether a nonconforming use is allowed must be interpreted in favor of the use.",
+    "statute_name": "Montana Land Use Planning Act",
+    "statute_cite": "Mont. Code Ann. § 76-25-502; § 76-2-323",
+    "agency_name": null,
+    "agency_url": null,
+    "legal_aid_name": "Montana Legal Services Association",
+    "legal_aid_url": "https://www.mtlsa.org",
+    "state_note": "Montana overhauled its land-use law in 2023 with the Montana Land Use Planning Act (Title 76, Chapter 25), which requires larger local governments to zone in substantial compliance with an adopted land use plan; the older county and municipal zoning framework in Title 76, Chapter 2 still applies alongside it.",
+    "sources": [
+      "https://leg.mt.gov/bills/mca/title_0760/chapter_0250/part_0050/section_0020/0760-0250-0050-0020.html",
+      "https://law.justia.com/codes/montana/title-76/chapter-25/part-3/section-76-25-301/",
+      "https://law.justia.com/codes/montana/2021/title-76/chapter-2/part-2/section-76-2-208/",
+      "https://www.mtlsa.org"
+    ]
+  },
+  "Nebraska": {
+    "variance_standard": "hardship",
+    "variance_standard_note": "Nebraska's statute blends both phrases, but the board must find undue hardship: strict application would produce undue hardship not shared generally by other properties in the district, the variance will not harm adjacent property or change the district's character, and the hardship is demonstrable and exceptional rather than for convenience, profit, or caprice.",
+    "variance_process": "Apply to the local board of adjustment, which hears the request and may grant a variance only if it makes all four findings in Neb. Rev. Stat. § 19-910(2). The hardship must come from exceptional narrowness, shallowness, shape, topography, or another extraordinary condition of the specific property.",
+    "appeal_route": "An aggrieved person presents a verified petition to the district court under Neb. Rev. Stat. § 19-912, alleging the board's decision is illegal in whole or in part. The court hears and determines the case and may affirm, reverse, or modify the decision.",
+    "appeal_deadline": "15 days",
+    "nonconforming_use": "protected",
+    "nonconforming_note": "Under Neb. Rev. Stat. § 19-904.01, a use existing and lawful when a zoning regulation or amendment was adopted may continue, and may be extended through the same building if no structural alteration is made for that purpose. The right is forfeited if the nonconforming use is discontinued for 12 months, and the local ordinance may provide for termination, including by an amortization schedule.",
+    "statute_name": "Cities and Villages; Laws Applicable to More Than One and Less Than All Classes (zoning)",
+    "statute_cite": "Neb. Rev. Stat. § 19-910",
+    "agency_name": null,
+    "agency_url": null,
+    "legal_aid_name": "Legal Aid of Nebraska",
+    "legal_aid_url": "https://www.legalaidofnebraska.org",
+    "state_note": "Nebraska's 15-day appeal deadline is unusually short, and it runs from the filing of the board's decision in the board's office, so a homeowner should get the decision date in writing immediately. Counties have a parallel 15-day appeal rule under Neb. Rev. Stat. § 23-168.04.",
+    "sources": [
+      "https://www.nebraskalegislature.gov/laws/statutes.php?statute=19-910&print=true",
+      "https://www.nebraskalegislature.gov/laws/statutes.php?statute=19-912&print=true",
+      "https://nebraskalegislature.gov/laws/statutes.php?statute=19-904.01&print=true",
+      "https://www.legalaidofnebraska.org"
+    ]
+  },
+  "Nevada": {
+    "variance_standard": "varies",
+    "variance_standard_note": "Nevada's board-of-adjustment statute, NRS 278.300(1)(c), pairs 'peculiar and exceptional practical difficulties' with 'exceptional and undue hardships' in a single test tied to the property's narrowness, shape, topography, or other extraordinary condition. It does not split use and area variances, and planning commissions and governing bodies may also grant variances under NRS 278.315, so the practical standard depends on which local body decides.",
+    "variance_process": "Apply to the local board of adjustment (or the planning commission or hearing examiner where the ordinance gives them that power), which holds a hearing and may grant the variance if strict enforcement would cause peculiar and exceptional practical difficulties or undue hardship and the relief can be granted without substantial detriment to the public good or the ordinance's intent.",
+    "appeal_route": "The route depends on the local ordinance: the aggrieved person typically appeals first to the governing body, then files a petition for judicial review in the district court of the proper county under NRS 278.310(3) and 278.3195(4). The district court reviews the decision on the record.",
+    "appeal_deadline": "25 days",
+    "nonconforming_use": "varies",
+    "nonconforming_note": "Nevada's state planning and zoning chapter has no general nonconforming-use continuation statute (it addresses only nonconforming outdoor advertising structures in NRS 278.0215). Protection for a lawful pre-existing use comes from the local ordinance, which typically lets it continue until removed or abandoned and bars expansion.",
+    "statute_name": "Planning and Zoning",
+    "statute_cite": "Nev. Rev. Stat. § 278.300",
+    "agency_name": null,
+    "agency_url": null,
+    "legal_aid_name": "Nevada Legal Services",
+    "legal_aid_url": "https://nevadalegalservices.org",
+    "state_note": "Nevada requires each governing body to adopt an ordinance letting aggrieved persons appeal land-use decisions to the governing body first, and the governing body must decide within 45 days in counties of 700,000 or more and 60 days elsewhere, so a homeowner should expect a two-step appeal before reaching court.",
+    "sources": [
+      "https://law.justia.com/codes/nevada/2021/chapter-278/statute-278-300/",
+      "https://law.justia.com/codes/nevada/chapter-278/statute-278-310/",
+      "https://law.justia.com/codes/nevada/2021/chapter-278/statute-278-3195/",
+      "https://www.leg.state.nv.us/division/legal/lawlibrary/Nrs/NRS-278.html",
+      "https://nevadalegalservices.org"
+    ]
+  },
+  "New Hampshire": {
+    "variance_standard": "hardship",
+    "variance_standard_note": "New Hampshire applies a five-factor test under RSA 674:33, with unnecessary hardship as the key factor. Hardship means either that no fair and substantial relationship exists between the ordinance's purpose and its application to the property and the proposed use is reasonable, or, failing that, that the property cannot reasonably be used in strict conformance with the ordinance.",
+    "variance_process": "Apply to the local zoning board of adjustment, usually after a permit denial, and prove all five criteria: not contrary to the public interest, spirit of the ordinance observed, substantial justice done, surrounding property values not diminished, and unnecessary hardship. The board holds a public hearing and decides by a concurring vote of three members.",
+    "appeal_route": "First file a motion for rehearing with the zoning board of adjustment within 30 days under RSA 677:2; no court appeal is allowed without it. Then petition the superior court under RSA 677:4, which reviews the decision on the certified record and reverses only for legal error or unreasonableness.",
+    "appeal_deadline": "30 days",
+    "nonconforming_use": "protected",
+    "nonconforming_note": "A lawful use or structure that predates a zoning change may generally continue as a nonconforming use, but expansion, enlargement, and abandonment are controlled by the local ordinance, so the protection is only as broad as the town or city ordinance allows.",
+    "statute_name": "Local Land Use Planning and Regulatory Powers",
+    "statute_cite": "N.H. Rev. Stat. Ann. § 674:33",
+    "agency_name": null,
+    "agency_url": null,
+    "legal_aid_name": "New Hampshire Legal Assistance",
+    "legal_aid_url": "https://www.nhla.org",
+    "state_note": "New Hampshire's rehearing requirement is a trap for the unwary: missing the 30-day motion for rehearing ends the appeal entirely, and any ground not raised in that motion generally cannot be argued in court. A granted variance must be exercised within two years or it expires.",
+    "sources": [
+      "https://law.justia.com/codes/new-hampshire/title-lxiv/chapter-674/section-674-33/",
+      "https://www.nhla.org"
+    ]
+  },
+  "New Jersey": {
+    "variance_standard": "varies",
+    "variance_standard_note": "New Jersey has three different variance tracks under N.J.S.A. 40:55D-70: (c)(1) hardship or practical-difficulty variances for bulk and dimensional rules, (c)(2) flexible variances where the benefits substantially outweigh any detriment, and (d) use variances granted only for 'special reasons' where the benefits substantially outweigh the detriment without substantially impairing the zone plan.",
+    "variance_process": "Apply to the municipal zoning board of adjustment, which holds a public hearing and decides the case on proofs. A (c) bulk variance needs a majority vote, while a (d) use variance needs at least five affirmative votes; the board must make findings that the variance can be granted without substantial impairment of the zone plan and zoning ordinance.",
+    "appeal_route": "Challenge a board decision in the Law Division of the Superior Court by an action in lieu of prerogative writs under Court Rule 4:69. The court reviews the record for whether the board acted arbitrarily, capriciously, or unreasonably.",
+    "appeal_deadline": "45 days",
+    "nonconforming_use": "protected",
+    "nonconforming_note": "A lawful use or structure that predates the ordinance may generally continue as a nonconforming use, and may be repaired or restored, but expanding it or changing it to another nonconforming use requires a (d) use variance, and abandonment can end the protection.",
+    "statute_name": "Municipal Land Use Law",
+    "statute_cite": "N.J.S.A. 40:55D-70",
+    "agency_name": null,
+    "agency_url": null,
+    "legal_aid_name": "Legal Services of New Jersey",
+    "legal_aid_url": "https://www.lsnj.org",
+    "state_note": "The 45-day clock runs from the first publication of the board's decision in the official newspaper, not from the vote, so a homeowner should watch for the published notice. New Jersey also requires a separate 'special reasons' showing for use variances, and inherently beneficial uses such as schools and hospitals get a lighter burden.",
+    "sources": [
+      "https://law.justia.com/codes/new-jersey/2022/title-40/section-40-55d-70/",
+      "https://www.lsnj.org"
+    ]
+  }
+}

@@ -1,0 +1,1177 @@
+{
+ "federal": {
+  "eligibility": "You must be at least 18 when you file and have been a lawful permanent resident (green card holder) for 5 years under INA 316, or 3 years if you are married to and living with a U.S. citizen spouse under INA 319(a). You must have lived continuously in the United States for that same 5 or 3 years, been physically present for at least 30 months out of the last 5 years (or 18 months out of the last 3 years for spouses), and lived at least 3 months in the state or USCIS district where you file. You must also show good moral character for the required period up to the oath (INA 316(a)(3)), pass English and civics tests (INA 312), and be willing to take the Oath of Allegiance and support the Constitution. You may file up to 90 days before you complete the continuous-residence requirement (INA 334).",
+  "steps": "1) Confirm you meet the eligibility rules above and gather your green card, tax returns, and travel history. 2) File Form N-400 online through a USCIS online account ($710) or by paper ($760); if you are asking for a fee waiver or reduced fee, you must file by paper. 3) Attend a biometrics appointment (fingerprints and photo) if USCIS schedules one. 4) Study for the English and civics tests, then attend your naturalization interview at a USCIS field office, where an officer reviews your application and tests you. 5) If approved, receive Form N-445, attend your oath ceremony, return your green card, take the Oath of Allegiance, and receive your Certificate of Naturalization.",
+  "fee_n400_online": 710,
+  "fee_n400_paper": 760,
+  "fee_source_url": "https://www.uscis.gov/n-400",
+  "fee_waiver": "You can ask USCIS to waive the N-400 fee entirely by filing Form I-912 (there is no fee to file I-912) with a paper N-400; you cannot file online if you request a waiver. You qualify if you receive a means-tested benefit, your household income is at or below 150% of the Federal Poverty Guidelines (for example, $21,870 for a household of 1 in the contiguous United States under the guidelines effective January 13, 2026), or you can show financial hardship. The N-400 fee remains waiver-eligible even though H.R.-1 (Pub. L. 119-21, July 4, 2025) made some other USCIS fees non-waivable.",
+  "reduced_fee": "If your household income is more than 150% but not more than 400% of the Federal Poverty Guidelines, you may qualify for a reduced N-400 fee of $380 by filing Form I-942, which is now Part 10 of Form N-400. Like a fee waiver, a reduced-fee request must be filed by paper, not online. See the USCIS reduced-fee page and the I-942 page for the current income tables.",
+  "exemptions": "If you are 50 or older and have been a lawful permanent resident for 20 years (50/20), or 55 or older with 15 years as a resident (55/15), you are exempt from the English test but must still take the civics test, which you may take in your own language with an interpreter. If you are 65 or older with 20 years as a resident (65/20), you also get a shorter civics test drawn from a special list of 20 questions. If a medically determinable physical, developmental, or mental disability lasting or expected to last at least 12 months prevents you from meeting the English and/or civics requirement, a licensed medical professional can certify the exception on Form N-648, explaining how the disability prevents you from meeting the requirement.",
+  "tests": "The English test has three parts: reading (read one of three sentences aloud), writing (write one of three sentences correctly), and speaking and understanding, which the officer assesses throughout the interview. The civics test depends on when you filed: if you filed BEFORE October 20, 2025, you take the 2008 test, drawn from 100 questions, with the officer asking up to 10 and 6 correct answers needed to pass (5 wrong answers is a fail). If you filed ON OR AFTER October 20, 2025, you take the 2025 test, drawn from 128 questions, with the officer asking 20 and 12 correct answers needed to pass (9 wrong answers is a fail). Applicants age 65 or older with 20 years as a resident (65/20) answer 10 questions from a special bank of 20 under either version. If you fail any part at your first interview, USCIS schedules a re-examination 60 to 90 days later covering only the part you failed; failing a second time means your application is denied, though you may apply again later with a new fee.",
+  "timeline": "USCIS publishes processing-time estimates by field office in its Case Processing Times tool, updated monthly, showing the time in which it completed 80% of adjudicated cases over the prior six months, from receipt to decision. There is no single national figure, so check your own field office in the tool. As of the USCIS data checked November 14, 2026, the national median was about 7.4 months for fiscal year 2026 through August 30, 2026, with published office ranges roughly 8 to 17.5 months for 80% of cases and the slowest offices over 20 months; do not treat any single number as a guarantee for your case.",
+  "after_approval": "You are not a U.S. citizen until you take the Oath of Allegiance at a naturalization ceremony (run by USCIS or by a court). USCIS sends Form N-445 telling you when and where to appear; at the ceremony you check in, return your Permanent Resident Card (green card), take the oath, and receive your Certificate of Naturalization, which you should check for errors before you leave. After the ceremony, update your Social Security record with the Social Security Administration (generally wait at least 10 days, or ask USCIS to update it when you file the N-400), apply for a U.S. passport, and register to vote where you are eligible; a voter registration application is often provided at the ceremony.",
+  "sources": [
+   "https://www.uscis.gov/n-400",
+   "https://www.uscis.gov/citizenship/learn-about-citizenship/10-steps-to-naturalization",
+   "https://www.uscis.gov/citizenship/find-study-materials-and-resources/study-for-the-test",
+   "https://www.uscis.gov/forms/filing-fees/poverty-guidelines",
+   "https://www.uscis.gov/i-912",
+   "https://www.uscis.gov/i-942",
+   "https://www.uscis.gov/citizenship/learn-about-citizenship/naturalization-ceremonies",
+   "https://www.uscis.gov/citizenship/learn-about-citizenship/the-naturalization-interview-and-test",
+   "https://www.uscis.gov/citizenship/learn-about-citizenship/commonly-asked-questions-about-the-naturalization-process"
+  ]
+ },
+ "states": {
+  "alabama": {
+   "state": "Alabama",
+   "slug": "alabama",
+   "help_orgs": [
+    {
+     "name": "Hispanic and Immigrant Center of Alabama (¡HICA!)",
+     "url": "https://hicaalabama.org/en/home",
+     "phone": null
+    },
+    {
+     "name": "Hispanic Catholic Social Services (La Casita)",
+     "url": "http://hcsslacasita.org/immigration/",
+     "phone": null
+    },
+    {
+     "name": "Catholic Social Services of Mobile",
+     "url": "https://catholicsocialservices.org/",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Montgomery"
+   ]
+  },
+  "alaska": {
+   "state": "Alaska",
+   "slug": "alaska",
+   "help_orgs": [
+    {
+     "name": "Alaska Immigration Justice Project",
+     "url": "http://www.akijp.org/",
+     "phone": "(907) 279-2457"
+    },
+    {
+     "name": "Immigrant Connection - Alaska",
+     "url": "https://www.awakenalaska.com/immigrant-connection",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Anchorage"
+   ]
+  },
+  "arizona": {
+   "state": "Arizona",
+   "slug": "arizona",
+   "help_orgs": [
+    {
+     "name": "Arizona Immigrant and Refugee Services",
+     "url": "http://airsaz.org",
+     "phone": null
+    },
+    {
+     "name": "Florence Immigrant & Refugee Rights Project",
+     "url": "http://www.firrp.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Phoenix",
+    "Tucson"
+   ]
+  },
+  "arkansas": {
+   "state": "Arkansas",
+   "slug": "arkansas",
+   "help_orgs": [
+    {
+     "name": "Arkansas United",
+     "url": "https://arkansasunited.org/",
+     "phone": null
+    },
+    {
+     "name": "Catholic Charities Immigration Services (Little Rock Office)",
+     "url": "https://www.dolr.org/catholic-charities/immigration-little-rock",
+     "phone": "(501) 664-0340"
+    }
+   ],
+   "field_office_cities": [
+    "Fort Smith"
+   ]
+  },
+  "california": {
+   "state": "California",
+   "slug": "california",
+   "help_orgs": [
+    {
+     "name": "Access California Services",
+     "url": "http://www.accesscal.org",
+     "phone": null
+    },
+    {
+     "name": "Asian Americans Advancing Justice-LA",
+     "url": "http://www.advancingjustice-la.org",
+     "phone": null
+    },
+    {
+     "name": "Asian Law Alliance",
+     "url": "http://www.asianlawalliance.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "San Jose",
+    "San Francisco",
+    "Los Angeles",
+    "Sacramento",
+    "Santa Ana",
+    "Los Angeles County",
+    "San Bernardino",
+    "San Diego",
+    "San Fernando Valley",
+    "Fresno",
+    "Imperial"
+   ]
+  },
+  "colorado": {
+   "state": "Colorado",
+   "slug": "colorado",
+   "help_orgs": [
+    {
+     "name": "Catholic Charities of Denver Immigration Services",
+     "url": "http://www.ccdenver.org",
+     "phone": null
+    },
+    {
+     "name": "Rocky Mountain Immigrant Advocacy Network (RMIAN)",
+     "url": "http://www.rmian.org",
+     "phone": null
+    },
+    {
+     "name": "Colorado Immigrant Rights Coalition",
+     "url": "http://www.coloradoimmigrant.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Denver"
+   ]
+  },
+  "connecticut": {
+   "state": "Connecticut",
+   "slug": "connecticut",
+   "help_orgs": [
+    {
+     "name": "Connecticut Institute for Refugees and Immigrants",
+     "url": "http://www.cirict.org",
+     "phone": null
+    },
+    {
+     "name": "Building One Community",
+     "url": "https://www.b1c.org",
+     "phone": null
+    },
+    {
+     "name": "Apostle Immigrant Services",
+     "url": "http://www.apostleimmigrantservices.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Hartford"
+   ]
+  },
+  "delaware": {
+   "state": "Delaware",
+   "slug": "delaware",
+   "help_orgs": [
+    {
+     "name": "Catholic Charities Inc., Diocese of Wilmington",
+     "url": "http://www.ccwilm.org/",
+     "phone": null
+    },
+    {
+     "name": "La Esperanza, Inc.",
+     "url": "http://www.laesperanza.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": []
+  },
+  "florida": {
+   "state": "Florida",
+   "slug": "florida",
+   "help_orgs": [
+    {
+     "name": "Catholic Charities Legal Services of Miami",
+     "url": "http://www.cclsmiami.org",
+     "phone": null
+    },
+    {
+     "name": "Catholic Charities of Central Florida",
+     "url": "http://www.cflcc.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Tampa",
+    "Kendall",
+    "Hialeah",
+    "Orlando",
+    "Miami",
+    "West Palm Beach",
+    "Oakland Park",
+    "Fort Myers",
+    "Jacksonville"
+   ]
+  },
+  "georgia": {
+   "state": "Georgia",
+   "slug": "georgia",
+   "help_orgs": [
+    {
+     "name": "Catholic Charities Atlanta",
+     "url": "http://www.catholiccharitiesatlanta.org",
+     "phone": null
+    },
+    {
+     "name": "Latin American Association",
+     "url": "http://www.thelaa.org",
+     "phone": null
+    },
+    {
+     "name": "Asian Americans Advancing Justice - Atlanta",
+     "url": "https://advancingjustice-atlanta.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Atlanta"
+   ]
+  },
+  "hawaii": {
+   "state": "Hawaii",
+   "slug": "hawaii",
+   "help_orgs": [
+    {
+     "name": "Catholic Charities Hawaii",
+     "url": "http://www.catholiccharitieshawaii.org",
+     "phone": null
+    },
+    {
+     "name": "Hawaii Immigrant Justice Center at the Legal Aid Society of Hawaii",
+     "url": "http://www.legalaidhawaii.org",
+     "phone": null
+    },
+    {
+     "name": "Pacific Gateway Center",
+     "url": "http://pacificgatewaycenter.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Honolulu"
+   ]
+  },
+  "idaho": {
+   "state": "Idaho",
+   "slug": "idaho",
+   "help_orgs": [
+    {
+     "name": "Catholic Charities of Idaho - Treasure Valley Center",
+     "url": "http://www.ccidaho.org",
+     "phone": null
+    },
+    {
+     "name": "Community Council of Idaho",
+     "url": "http://www.communitycouncilofidaho.org",
+     "phone": null
+    },
+    {
+     "name": "University of Idaho College of Law Immigration Law Clinic",
+     "url": "https://www.uidaho.edu/law/academics/practical-skills/clinics/immigration",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Boise"
+   ]
+  },
+  "illinois": {
+   "state": "Illinois",
+   "slug": "illinois",
+   "help_orgs": [
+    {
+     "name": "Catholic Charities of the Archdiocese of Chicago - Immigration and Naturalization Services",
+     "url": "http://www.catholiccharities.net",
+     "phone": null
+    },
+    {
+     "name": "Centro Romero",
+     "url": "http://www.centroromero.org",
+     "phone": null
+    },
+    {
+     "name": "Chicago Legal Clinic",
+     "url": "http://www.clclaw.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Chicago"
+   ]
+  },
+  "indiana": {
+   "state": "Indiana",
+   "slug": "indiana",
+   "help_orgs": [
+    {
+     "name": "Catholic Charities Indianapolis - Immigration Legal Services",
+     "url": "http://www.archindy.org/cc/indianapolis/index.html",
+     "phone": null
+    },
+    {
+     "name": "Indiana Legal Services - Immigrants' and Language Rights Center",
+     "url": "http://www.indianalegalservices.org",
+     "phone": null
+    },
+    {
+     "name": "Exodus Refugee Immigration",
+     "url": "https://www.exodusrefugee.org/",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Indianapolis"
+   ]
+  },
+  "iowa": {
+   "state": "Iowa",
+   "slug": "iowa",
+   "help_orgs": [
+    {
+     "name": "Catholic Charities of the Archdiocese of Dubuque - Immigration Legal Services",
+     "url": "https://www.catholiccharitiesdubuque.org/catholic-charities-services/immigration-legal-services/",
+     "phone": null
+    },
+    {
+     "name": "Drake Refugee Clinic",
+     "url": "https://www.drake.edu/law/clinics-centers/clinic/refugeeclinic/",
+     "phone": null
+    },
+    {
+     "name": "Iowa Migrant Movement for Justice",
+     "url": "https://www.iowammj.org/",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Des Moines"
+   ]
+  },
+  "kansas": {
+   "state": "Kansas",
+   "slug": "kansas",
+   "help_orgs": [
+    {
+     "name": "Catholic Charities of Northeast Kansas - La Luz Center",
+     "url": "http://www.catholiccharitiesks.org",
+     "phone": null
+    },
+    {
+     "name": "Catholic Charities Wichita Immigration Services",
+     "url": "http://www.catholiccharitieswichita.org",
+     "phone": null
+    },
+    {
+     "name": "El Centro de Servicios Para Hispanos",
+     "url": "http://www.elcentrooftopeka.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Wichita"
+   ]
+  },
+  "kentucky": {
+   "state": "Kentucky",
+   "slug": "kentucky",
+   "help_orgs": [
+    {
+     "name": "Catholic Charities of Louisville - Immigration Legal Services",
+     "url": "http://www.cclou.org",
+     "phone": null
+    },
+    {
+     "name": "Kentucky Refugee Ministries",
+     "url": "http://www.kyrm.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Louisville"
+   ]
+  },
+  "louisiana": {
+   "state": "Louisiana",
+   "slug": "louisiana",
+   "help_orgs": [
+    {
+     "name": "Catholic Charities Archdiocese of New Orleans - Immigration and Refugee Services",
+     "url": "http://www.ccano.org",
+     "phone": null
+    },
+    {
+     "name": "Immigration Services and Legal Advocacy (ISLA)",
+     "url": "http://www.islaimmigration.org",
+     "phone": null
+    },
+    {
+     "name": "Louisiana Organization for Refugees and Immigrants (LORI)",
+     "url": "https://www.mylori.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "New Orleans"
+   ]
+  },
+  "maine": {
+   "state": "Maine",
+   "slug": "maine",
+   "help_orgs": [
+    {
+     "name": "Immigrant Legal Advocacy Project",
+     "url": "http://www.ilapmaine.org",
+     "phone": null
+    },
+    {
+     "name": "Catholic Charities Maine - Refugee and Immigration Services",
+     "url": "http://www.ccmaine.org",
+     "phone": null
+    },
+    {
+     "name": "Maine Immigrant & Refuge Services (MEIRS)",
+     "url": "https://www.meirs.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Portland"
+   ]
+  },
+  "maryland": {
+   "state": "Maryland",
+   "slug": "maryland",
+   "help_orgs": [
+    {
+     "name": "Catholic Charities of Baltimore Immigration Legal Services, Esperanza Center",
+     "url": "http://www.catholiccharities-md.org/immigrants",
+     "phone": null
+    },
+    {
+     "name": "HIAS",
+     "url": "https://hias.org/legal-services/",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Baltimore"
+   ]
+  },
+  "massachusetts": {
+   "state": "Massachusetts",
+   "slug": "massachusetts",
+   "help_orgs": [
+    {
+     "name": "Catholic Charities of Boston - Refugee and Immigration Services",
+     "url": "http://www.ccab.org",
+     "phone": null
+    },
+    {
+     "name": "Ascentria Care Alliance",
+     "url": "http://www.ascentria.org",
+     "phone": null
+    },
+    {
+     "name": "Berkshire Immigrant Center",
+     "url": "http://www.berkshireic.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Boston",
+    "Lawrence"
+   ]
+  },
+  "michigan": {
+   "state": "Michigan",
+   "slug": "michigan",
+   "help_orgs": [
+    {
+     "name": "Arab Community Center for Economic and Social Services (ACCESS)",
+     "url": "http://www.accesscommunity.org",
+     "phone": null
+    },
+    {
+     "name": "International Institute of Metropolitan Detroit",
+     "url": "http://www.iimd.org",
+     "phone": null
+    },
+    {
+     "name": "Jewish Family Service of Metropolitan Detroit - Immigration and Citizenship Services",
+     "url": "http://www.jfsdetroit.org/immigration.htm",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Detroit"
+   ]
+  },
+  "minnesota": {
+   "state": "Minnesota",
+   "slug": "minnesota",
+   "help_orgs": [
+    {
+     "name": "Immigrant Law Center of Minnesota",
+     "url": "http://www.ilcm.org",
+     "phone": null
+    },
+    {
+     "name": "International Institute of Minnesota",
+     "url": "http://www.iimn.org",
+     "phone": null
+    },
+    {
+     "name": "Arrive Ministries",
+     "url": "http://www.arriveministries.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "St. Paul"
+   ]
+  },
+  "mississippi": {
+   "state": "Mississippi",
+   "slug": "mississippi",
+   "help_orgs": [
+    {
+     "name": "El Pueblo",
+     "url": "http://www.elpueblo-ms.org",
+     "phone": null
+    },
+    {
+     "name": "Mississippi Immigrants Rights Alliance",
+     "url": "http://www.yourmira.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": []
+  },
+  "missouri": {
+   "state": "Missouri",
+   "slug": "missouri",
+   "help_orgs": [
+    {
+     "name": "International Institute of St. Louis",
+     "url": "http://www.iistl.org",
+     "phone": null
+    },
+    {
+     "name": "Legal Services of Eastern Missouri - Immigration Law Project",
+     "url": "http://www.lsem.org",
+     "phone": null
+    },
+    {
+     "name": "Migrant and Immigrant Community Action Project (MICA)",
+     "url": "http://www.mica-project.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Kansas City",
+    "St. Louis"
+   ]
+  },
+  "montana": {
+   "state": "Montana",
+   "slug": "montana",
+   "help_orgs": [
+    {
+     "name": "International Rescue Committee (Missoula office)",
+     "url": "https://www.rescue.org/united-states/missoula-mt",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Helena"
+   ]
+  },
+  "nebraska": {
+   "state": "Nebraska",
+   "slug": "nebraska",
+   "help_orgs": [
+    {
+     "name": "Catholic Charities of Omaha - Immigration Legal Services",
+     "url": "http://www.ccomaha.org",
+     "phone": null
+    },
+    {
+     "name": "Center for Legal Immigration Assistance (CLIA)",
+     "url": "https://clianeb.org",
+     "phone": null
+    },
+    {
+     "name": "University of Nebraska College of Law - Immigration Clinic",
+     "url": "http://law.unl.edu/immigration-clinic/",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Omaha"
+   ]
+  },
+  "nevada": {
+   "state": "Nevada",
+   "slug": "nevada",
+   "help_orgs": [
+    {
+     "name": "Catholic Charities of Northern Nevada - Mother Cabrini Immigration Legal Services",
+     "url": "https://ccsnn.org/pages/immigration-assistance",
+     "phone": null
+    },
+    {
+     "name": "Legal Aid Center of Southern Nevada",
+     "url": "http://www.lacsn.org",
+     "phone": null
+    },
+    {
+     "name": "Immigrant Home Foundation",
+     "url": "https://www.immigrantfoundation.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Las Vegas",
+    "Reno"
+   ]
+  },
+  "new-hampshire": {
+   "state": "New Hampshire",
+   "slug": "new-hampshire",
+   "help_orgs": [
+    {
+     "name": "Catholic Charities New Hampshire - Immigration and Refugee Legal Services",
+     "url": "http://www.nh-cc.org",
+     "phone": null
+    },
+    {
+     "name": "International Institute of New England",
+     "url": "http://www.iine.org/legal",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Manchester"
+   ]
+  },
+  "new-jersey": {
+   "state": "New Jersey",
+   "slug": "new-jersey",
+   "help_orgs": [
+    {
+     "name": "American Friends Service Committee - Immigrant Rights Program (Newark)",
+     "url": "http://afsc.org/program/immigrant-rights-program-newark-nj",
+     "phone": null
+    },
+    {
+     "name": "Catholic Charities of the Archdiocese of Newark - Bishop Francis Center",
+     "url": "http://www.ccannj.com",
+     "phone": null
+    },
+    {
+     "name": "IACO Immigration and American Citizenship Organization",
+     "url": "https://iacoimmigration.org/en/",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Newark",
+    "New Jersey Central",
+    "Mount Laurel"
+   ]
+  },
+  "new-mexico": {
+   "state": "New Mexico",
+   "slug": "new-mexico",
+   "help_orgs": [
+    {
+     "name": "New Mexico Immigrant Law Center",
+     "url": "http://www.nmilc.org",
+     "phone": null
+    },
+    {
+     "name": "Catholic Charities of Albuquerque - Center for Immigration & Citizenship Legal Assistance",
+     "url": "http://www.ccasfnm.org/immigration.html",
+     "phone": null
+    },
+    {
+     "name": "University of New Mexico School of Law - Community Lawyering Clinic",
+     "url": "https://lawschool.unm.edu/clinic/sections/community-lawyering-clinic.html",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Albuquerque"
+   ]
+  },
+  "new-york": {
+   "state": "New York",
+   "slug": "new-york",
+   "help_orgs": [
+    {
+     "name": "Asian American Legal Defense and Education Fund",
+     "url": "http://aaldef.org",
+     "phone": null
+    },
+    {
+     "name": "Cabrini Immigrant Services of NYC",
+     "url": "http://www.cis-nyc.org",
+     "phone": null
+    },
+    {
+     "name": "American Civic Association",
+     "url": "http://www.americancivic.com",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "New York",
+    "Queens",
+    "Brooklyn",
+    "Long Island",
+    "Buffalo",
+    "Albany"
+   ]
+  },
+  "north-carolina": {
+   "state": "North Carolina",
+   "slug": "north-carolina",
+   "help_orgs": [
+    {
+     "name": "Catholic Charities Diocese of Charlotte",
+     "url": "http://www.ccdoc.org",
+     "phone": null
+    },
+    {
+     "name": "Catholic Charities of Raleigh",
+     "url": "http://www.catholiccharitiesraleigh.org",
+     "phone": null
+    },
+    {
+     "name": "Church World Service - Immigration and Refugee Program (Durham)",
+     "url": "http://www.cwsrdu.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Charlotte",
+    "Raleigh"
+   ]
+  },
+  "north-dakota": {
+   "state": "North Dakota",
+   "slug": "north-dakota",
+   "help_orgs": [
+    {
+     "name": "Global Friends Coalition",
+     "url": "http://www.gfcoalition.org",
+     "phone": null
+    },
+    {
+     "name": "Global Refuge",
+     "url": "https://www.globalrefuge.org/what-we-do/immigration-legal-services/",
+     "phone": null
+    }
+   ],
+   "field_office_cities": []
+  },
+  "ohio": {
+   "state": "Ohio",
+   "slug": "ohio",
+   "help_orgs": [
+    {
+     "name": "Advocates for Basic Legal Equality",
+     "url": "http://www.ablelaw.org",
+     "phone": null
+    },
+    {
+     "name": "Catholic Charities Diocese of Cleveland - Migration and Refugee Services / Immigration Legal Services",
+     "url": "http://www.ccdocle.org",
+     "phone": null
+    },
+    {
+     "name": "Community Refugee and Immigration Services",
+     "url": "http://www.crisohio.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Columbus",
+    "Cleveland",
+    "Cincinnati"
+   ]
+  },
+  "oklahoma": {
+   "state": "Oklahoma",
+   "slug": "oklahoma",
+   "help_orgs": [
+    {
+     "name": "Catholic Charities of Oklahoma City - Immigration Legal Services",
+     "url": "http://www.catholiccharitiesok.org",
+     "phone": null
+    },
+    {
+     "name": "Catholic Charities of Tulsa",
+     "url": "http://www.cctulsa.org",
+     "phone": null
+    },
+    {
+     "name": "University of Tulsa College of Law Legal Clinic (Immigrant Rights Project)",
+     "url": "http://law.utulsa.edu/academics/legal-clinics/immigrant-rights-project",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Oklahoma City"
+   ]
+  },
+  "oregon": {
+   "state": "Oregon",
+   "slug": "oregon",
+   "help_orgs": [
+    {
+     "name": "Catholic Charities of Portland - Immigration Legal Services",
+     "url": "http://www.catholiccharitiesoregon.org",
+     "phone": null
+    },
+    {
+     "name": "Immigration Counseling Service",
+     "url": "http://www.ics-law.org",
+     "phone": null
+    },
+    {
+     "name": "SOAR Immigration Legal Services",
+     "url": "http://www.soarlegal.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Portland"
+   ]
+  },
+  "pennsylvania": {
+   "state": "Pennsylvania",
+   "slug": "pennsylvania",
+   "help_orgs": [
+    {
+     "name": "HIAS Pennsylvania",
+     "url": "http://www.hiaspa.org",
+     "phone": null
+    },
+    {
+     "name": "Catholic Social Services, Archdiocese of Philadelphia - Immigration Legal Services",
+     "url": "http://cssphiladelphia.org/immigration-legal-services/",
+     "phone": null
+    },
+    {
+     "name": "Esperanza Immigration Legal Services",
+     "url": "http://www.esperanza.us/eils",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Philadelphia",
+    "Pittsburgh"
+   ]
+  },
+  "rhode-island": {
+   "state": "Rhode Island",
+   "slug": "rhode-island",
+   "help_orgs": [
+    {
+     "name": "Dorcas International Institute of Rhode Island - Citizenship and Immigration Services",
+     "url": "http://www.diiri.org",
+     "phone": null
+    },
+    {
+     "name": "Catholic Charities of Providence - Office of Immigration and Refugee Services",
+     "url": "http://www.dioceseofprovidence.org",
+     "phone": null
+    },
+    {
+     "name": "Progreso Latino",
+     "url": "https://www.progresolatino.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Providence"
+   ]
+  },
+  "south-carolina": {
+   "state": "South Carolina",
+   "slug": "south-carolina",
+   "help_orgs": [
+    {
+     "name": "Catholic Charities Immigration Services",
+     "url": "http://charitiessc.org",
+     "phone": null
+    },
+    {
+     "name": "Carolina Immigrant Alliance",
+     "url": "https://carolinaimmigrantalliance.org/",
+     "phone": null
+    },
+    {
+     "name": "Charleston Legal Access",
+     "url": "https://www.charlestonlegalaccess.org/",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Charleston",
+    "Greer"
+   ]
+  },
+  "south-dakota": {
+   "state": "South Dakota",
+   "slug": "south-dakota",
+   "help_orgs": [
+    {
+     "name": "LSS-SD Center for New Americans",
+     "url": "https://lsssd.org",
+     "phone": null
+    },
+    {
+     "name": "South Dakota Voices for Peace",
+     "url": "http://sdvfpeace.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": []
+  },
+  "tennessee": {
+   "state": "Tennessee",
+   "slug": "tennessee",
+   "help_orgs": [
+    {
+     "name": "Advocates for Immigrant Rights",
+     "url": "http://airlegal.org",
+     "phone": null
+    },
+    {
+     "name": "Catholic Charities of Tennessee",
+     "url": "http://www.cctenn.org",
+     "phone": null
+    },
+    {
+     "name": "Tennessee Justice For Our Neighbors",
+     "url": "http://tnjfon.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Nashville",
+    "Memphis"
+   ]
+  },
+  "texas": {
+   "state": "Texas",
+   "slug": "texas",
+   "help_orgs": [
+    {
+     "name": "American Gateways",
+     "url": "http://www.americangateways.org",
+     "phone": null
+    },
+    {
+     "name": "BakerRipley Immigration and Citizenship Program",
+     "url": "https://www.bakerripley.org/",
+     "phone": null
+    },
+    {
+     "name": "Catholic Charities Dallas - Immigration and Legal Services",
+     "url": "https://ccdallas.org/need-help/immigration-legal-services/",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Houston",
+    "Dallas",
+    "San Antonio",
+    "El Paso",
+    "Harlingen"
+   ]
+  },
+  "utah": {
+   "state": "Utah",
+   "slug": "utah",
+   "help_orgs": [
+    {
+     "name": "Catholic Community Services of Utah - Migration & Refugee Services",
+     "url": "http://www.ccsutah.org",
+     "phone": null
+    },
+    {
+     "name": "Holy Cross Ministries of Utah - Immigration Services",
+     "url": "http://www.holycrossministries.org",
+     "phone": null
+    },
+    {
+     "name": "BYU Community Legal Clinic",
+     "url": "https://law.byu.edu/explore/resources/centers-clinics/community-legal-clinic",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Salt Lake City"
+   ]
+  },
+  "vermont": {
+   "state": "Vermont",
+   "slug": "vermont",
+   "help_orgs": [
+    {
+     "name": "Center for Justice Reform Clinic - Vermont Law and Graduate School",
+     "url": "https://www.vermontlaw.edu/academics/centers-and-programs/center-for-justice-reform",
+     "phone": null
+    },
+    {
+     "name": "Vermont Asylum Assistance Project",
+     "url": "https://www.vaapvt.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "St. Albans"
+   ]
+  },
+  "virginia": {
+   "state": "Virginia",
+   "slug": "virginia",
+   "help_orgs": [
+    {
+     "name": "Ayuda (Fairfax Office)",
+     "url": "http://www.ayuda.com",
+     "phone": null
+    },
+    {
+     "name": "Catholic Charities Diocese of Arlington, Hogar Immigrant Services - Legal",
+     "url": "http://www.ccda.net/hogarlegal",
+     "phone": null
+    },
+    {
+     "name": "Just Neighbors",
+     "url": "http://www.justneighbors.org",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Norfolk"
+   ]
+  },
+  "washington": {
+   "state": "Washington",
+   "slug": "washington",
+   "help_orgs": [
+    {
+     "name": "Northwest Immigrant Rights Project (Seattle Office)",
+     "url": "http://www.nwirp.org",
+     "phone": null
+    },
+    {
+     "name": "Asian Counseling and Referral Service (ACRS)",
+     "url": "http://www.acrs.org",
+     "phone": null
+    },
+    {
+     "name": "Catholic Community Services of Western Washington - Catholic Immigration Legal Services (Seattle Office)",
+     "url": "http://www.ccsww.org/cils",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Seattle",
+    "Yakima",
+    "Spokane"
+   ]
+  },
+  "west-virginia": {
+   "state": "West Virginia",
+   "slug": "west-virginia",
+   "help_orgs": [
+    {
+     "name": "Mountain State Justice",
+     "url": "https://mountainstatejustice.org/",
+     "phone": null
+    },
+    {
+     "name": "West Virginia University College of Law Immigration Clinic",
+     "url": "http://law.wvu.edu/clinics/immigration",
+     "phone": null
+    }
+   ],
+   "field_office_cities": []
+  },
+  "wisconsin": {
+   "state": "Wisconsin",
+   "slug": "wisconsin",
+   "help_orgs": [
+    {
+     "name": "Catholic Charities of Milwaukee - Refugee and Immigration Services",
+     "url": "http://www.risccmke.org",
+     "phone": null
+    },
+    {
+     "name": "International Institute of Wisconsin",
+     "url": "http://www.iiwisconsin.org",
+     "phone": null
+    },
+    {
+     "name": "Catholic Multicultural Center",
+     "url": "https://cmcmadison.org/",
+     "phone": null
+    }
+   ],
+   "field_office_cities": [
+    "Milwaukee"
+   ]
+  },
+  "wyoming": {
+   "state": "Wyoming",
+   "slug": "wyoming",
+   "help_orgs": [
+    {
+     "name": "Immigrant Hope - Wyoming Idaho",
+     "url": "https://www.immigranthopewyomingidaho.org/",
+     "phone": null
+    },
+    {
+     "name": "University of Wyoming College of Law - Legal Services Program",
+     "url": "http://www.uwyo.edu/law",
+     "phone": null
+    }
+   ],
+   "field_office_cities": []
+  }
+ }
+}

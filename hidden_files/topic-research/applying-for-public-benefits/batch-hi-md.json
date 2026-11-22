@@ -1,0 +1,154 @@
+{
+  "hawaii": {
+    "medicaid_expanded": "yes",
+    "medicaid_note": "Hawaii expanded Medicaid in 2014, so adults ages 19-64 with income up to 138% of Hawaii's higher federal poverty level can qualify for Med-QUEST, along with children, pregnant women, seniors, and people with disabilities at higher limits.",
+    "apply_url": "https://mybenefits.hawaii.gov",
+    "apply_note": "MyBenefits Hawaii is the state's online portal for applying for Med-QUEST (Medicaid) and SNAP, and for checking an application and uploading documents.",
+    "agency_name": "Hawaii Department of Human Services",
+    "legal_aid_name": "Legal Aid Society of Hawai'i",
+    "legal_aid_url": "https://www.legalaidhawaii.org",
+    "state_note": "Hawaii uses its own higher federal poverty guidelines, so income limits and SNAP benefit amounts are higher than on the mainland, and Med-QUEST members pick one of five QUEST Integration health plans.",
+    "sources": [
+      "https://medquest.hawaii.gov/en/members-applicants/get-started/how-to-apply",
+      "https://humanservices.hawaii.gov/bessd/snap/",
+      "https://www.legalaidhawaii.org"
+    ]
+  },
+  "idaho": {
+    "medicaid_expanded": "yes",
+    "medicaid_note": "Idaho expanded Medicaid in 2020, so adults ages 19-64 with income up to 138% of the federal poverty level can qualify whether or not they have children.",
+    "apply_url": "https://idalink.idaho.gov",
+    "apply_note": "Idalink is Idaho's online benefits portal for applying for Medicaid, food assistance (SNAP), cash assistance, and child care assistance, and for renewals and reporting changes.",
+    "agency_name": "Idaho Department of Health and Welfare",
+    "legal_aid_name": "Idaho Legal Aid Services",
+    "legal_aid_url": "https://idaholegalaid.org",
+    "state_note": "Starting January 1, 2027, some adults covered through Medicaid expansion must meet new work or community-engagement requirements to keep coverage.",
+    "sources": [
+      "https://healthandwelfare.idaho.gov/dhw-voice/navigating-idalink-can-make-managing-benefits-easier",
+      "https://www.blackhealth.org/medicaid/idaho/",
+      "https://idaholegalaid.org/apply-for-help"
+    ]
+  },
+  "illinois": {
+    "medicaid_expanded": "yes",
+    "medicaid_note": "Illinois expanded Medicaid in 2014, so adults ages 19-64 with income up to 138% of the federal poverty level can qualify whether or not they have children.",
+    "apply_url": "https://abe.illinois.gov",
+    "apply_note": "ABE (Application for Benefits Eligibility) is Illinois's official portal for applying for Medicaid, SNAP, and cash assistance, and for managing a case online.",
+    "agency_name": "Illinois Department of Healthcare and Family Services (Medicaid) and Illinois Department of Human Services (SNAP)",
+    "legal_aid_name": "Illinois Legal Aid Online",
+    "legal_aid_url": "https://www.illinoislegalaid.org",
+    "state_note": "Starting January 2027, expansion adults face a federal work requirement and move to six-month renewals, so keep your ABE contact information current and respond quickly to notices.",
+    "sources": [
+      "https://hfs.illinois.gov/medicalclients/medicaidguide/applying.html",
+      "https://www.blackhealth.org/medicaid/illinois/",
+      "https://www.illinoislegalaid.org/get-legal-help"
+    ]
+  },
+  "indiana": {
+    "medicaid_expanded": "yes",
+    "medicaid_note": "Indiana expanded Medicaid in 2015 through the Healthy Indiana Plan (HIP), so adults ages 19-64 with income up to 138% of the federal poverty level can qualify.",
+    "apply_url": "https://fssabenefits.in.gov",
+    "apply_note": "The FSSA Benefits Portal is Indiana's online portal for applying for Medicaid (including HIP), SNAP (Food Assistance), TANF, and child care assistance.",
+    "agency_name": "Indiana Family and Social Services Administration",
+    "legal_aid_name": "Indiana Legal Services",
+    "legal_aid_url": "https://www.indianalegalservices.org",
+    "state_note": "Beginning January 1, 2027, some Healthy Indiana Plan (HIP) members ages 19-64 must meet work, volunteer, training, or education requirements to keep their coverage.",
+    "sources": [
+      "https://fssabenefits.in.gov",
+      "https://www.blackhealth.org/medicaid/indiana/",
+      "https://www.indianalegalservices.org"
+    ]
+  },
+  "iowa": {
+    "medicaid_expanded": "yes",
+    "medicaid_note": "Iowa expanded Medicaid in 2014 through the Iowa Health and Wellness Plan, so adults ages 19-64 with income up to 138% of the federal poverty level can qualify.",
+    "apply_url": "https://hhsservices.iowa.gov/apspssp/ssp.portal",
+    "apply_note": "Iowa's HHS Self-Service Portal is the state's online portal for applying for Medicaid, SNAP (Food Assistance), and FIP cash assistance in one application.",
+    "agency_name": "Iowa Department of Health and Human Services",
+    "legal_aid_name": "Iowa Legal Aid",
+    "legal_aid_url": "https://www.iowalegalaid.org",
+    "state_note": "Starting December 1, 2026, some Iowa Health and Wellness Plan members ages 19-64 must report monthly work, school, or volunteer activity to stay covered, with many exemptions.",
+    "sources": [
+      "https://hhs.iowa.gov/assistance-programs/food-assistance/snap/apply-snap",
+      "https://hhsservices.iowa.gov/apspssp/ssp.portal",
+      "https://www.iowalegalaid.org"
+    ]
+  },
+  "kansas": {
+    "medicaid_expanded": "no",
+    "medicaid_note": "Kansas has not expanded Medicaid, so it covers only children, pregnant women, very low-income parents (up to 38% of the poverty level), seniors, and people with disabilities, and most childless adults cannot qualify.",
+    "apply_url": "https://www.applyforkancare.ks.gov",
+    "apply_note": "ApplyForKanCare is the KanCare Medical Consumer Self-Service Portal for applying for Medicaid online; SNAP (Food Assistance) is applied for separately through the Kansas Department for Children and Families at dcfapp.kees.ks.gov.",
+    "agency_name": "Kansas Department of Health and Environment (KanCare/Medicaid) and Kansas Department for Children and Families (SNAP)",
+    "legal_aid_name": "Kansas Legal Services",
+    "legal_aid_url": "https://www.kansaslegalservices.org",
+    "state_note": "If you have little or no income and need food help fast, tell your local DCF Service Center, since expedited SNAP can be decided within 7 days.",
+    "sources": [
+      "https://www.kancare.ks.gov/apply-now/",
+      "https://www.healthinsurance.org/medicaid/kansas/",
+      "https://content.dcf.ks.gov/EES/KEESM/forms/ES-2007_food_asst_brochure.pdf",
+      "https://www.kansaslegalservices.org/"
+    ]
+  },
+  "kentucky": {
+    "medicaid_expanded": "yes",
+    "medicaid_note": "Kentucky expanded Medicaid in 2014, so adults ages 19-64 with income up to 138% of the federal poverty level can qualify whether or not they have children.",
+    "apply_url": "https://kynect.ky.gov",
+    "apply_note": "kynect benefits is Kentucky's online portal for applying for Medicaid, KCHIP, SNAP, KTAP cash assistance, and child care assistance.",
+    "agency_name": "Kentucky Cabinet for Health and Family Services",
+    "legal_aid_name": "Kentucky Justice Online (partnership of Kentucky's four legal aid programs)",
+    "legal_aid_url": "https://www.kyjustice.org",
+    "state_note": "Applications are also taken in person at a Department for Community Based Services (DCBS) office in all 120 counties.",
+    "sources": [
+      "https://www.blackhealth.org/medicaid/kentucky/",
+      "https://khbe.ky.gov/About/FactsandResources/kynect_benefits_Application_Intake_QRG.pdf",
+      "https://www.kyjustice.org"
+    ]
+  },
+  "louisiana": {
+    "medicaid_expanded": "yes",
+    "medicaid_note": "Louisiana expanded Medicaid in 2016, so adults ages 19-64 with income up to 138% of the federal poverty level can qualify whether or not they have children.",
+    "apply_url": "https://www.mymedicaid.la.gov",
+    "apply_note": "MyMedicaid is Louisiana's Medicaid Self-Service Portal for applying for Medicaid online; SNAP is applied for separately through the LA CAFE portal run by the Department of Children and Family Services.",
+    "agency_name": "Louisiana Department of Health (Medicaid) and Louisiana Department of Children and Family Services (SNAP)",
+    "legal_aid_name": "Southeast Louisiana Legal Services",
+    "legal_aid_url": "https://www.slls.org",
+    "state_note": "After approval you choose one of the Healthy Louisiana managed-care plans, and starting in December 2026 expansion adults renew every 6 months instead of yearly.",
+    "sources": [
+      "https://ldh.la.gov/assets/LLHA/2025/2025-Medicaid-Fact-Sheet.pdf",
+      "https://www.mymedicaid.la.gov",
+      "https://sspweb.ie.dcfs.la.gov/selfservice/selfserviceJSPController?id=0.08774569067928584&tab=1&fromPi-lot=true",
+      "https://www.slls.org"
+    ]
+  },
+  "maine": {
+    "medicaid_expanded": "yes",
+    "medicaid_note": "Maine expanded Medicaid in 2019, so adults ages 19-64 with income up to 138% of the federal poverty level can qualify for MaineCare whether or not they have children.",
+    "apply_url": "https://www.mymaineconnection.gov",
+    "apply_note": "My Maine Connection is Maine's online portal for applying for MaineCare (Medicaid), SNAP (Food Supplement), and TANF cash assistance.",
+    "agency_name": "Maine Department of Health and Human Services",
+    "legal_aid_name": "Pine Tree Legal Assistance",
+    "legal_aid_url": "https://www.ptla.org",
+    "state_note": "SNAP and TANF applications require an interview before eligibility is decided, and MaineCare decisions come within 45 days.",
+    "sources": [
+      "http://www.maine.gov/dhhs/mainecare.shtml",
+      "https://www.blackhealth.org/medicaid/maine/",
+      "https://www.ptla.org"
+    ]
+  },
+  "maryland": {
+    "medicaid_expanded": "yes",
+    "medicaid_note": "Maryland expanded Medicaid in 2014, so adults ages 19-64 with income up to 138% of the federal poverty level can qualify whether or not they have children.",
+    "apply_url": "https://marylandbenefits.gov",
+    "apply_note": "Maryland Benefits (formerly myMDTHINK) is Maryland's online benefits platform, and its One Application covers Medicaid, SNAP, TANF, WIC, and energy assistance in a single application.",
+    "agency_name": "Maryland Department of Health (Medicaid) and Maryland Department of Human Services (SNAP)",
+    "legal_aid_name": "Maryland Legal Aid",
+    "legal_aid_url": "https://www.mdlab.org",
+    "state_note": "Maryland launched the Maryland Benefits One Application in July 2025, a single mobile-friendly application for Medicaid, SNAP, TANF, WIC, and energy assistance.",
+    "sources": [
+      "https://health.maryland.gov/newsroom/Pages/Governor-Moore-Announces-Streamlined-Benefits-Access-for-Marylanders-Through-Maryland-Benefits-One-Application.aspx",
+      "https://www.blackhealth.org/medicaid/maryland/",
+      "https://www.mdlab.org"
+    ]
+  }
+}
