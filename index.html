@@ -1409,11 +1409,16 @@
   topicSel.addEventListener("change", tryGo);
   stateSel.addEventListener("change", tryGo);
 
+  /* Topics with their own page per state (split-pages pilot). Add a slug
+     here when its topic splits; the helper then links straight to it. */
+  var SPLIT_TOPICS = { "timeshare-exit": true };
+
   function helperUrl(topicOpt, stateSlug) {
     var url = "states/" + stateSlug + ".html";
     var exact = topicOpt ? topicOpt.getAttribute("data-anchor-exact") : null;
     if (exact) return url + "#" + exact;
     var anchor = topicOpt ? (topicOpt.getAttribute("data-anchor") || "") : "";
+    if (anchor && SPLIT_TOPICS[anchor]) return "states/" + stateSlug + "/" + anchor + "/";
     if (anchor) url += "#" + anchor + "-in-" + stateSlug;
     return url;
   }
