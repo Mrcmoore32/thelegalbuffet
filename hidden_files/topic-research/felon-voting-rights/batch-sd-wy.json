@@ -1,0 +1,198 @@
+{
+  "South Dakota": {
+    "status": "after-sentence-and-payment",
+    "status_note": "A person serving a felony sentence is removed from the voter rolls and cannot vote until the entire sentence is complete, including imprisonment, parole and probation. A suspended imposition of sentence, a sentence of probation only, or a sentence of only a fine or restitution does not take the vote away.",
+    "restoration": "automatic",
+    "restoration_note": "No application or pardon is needed once the entire sentence is complete; re-register to vote with the county auditor.",
+    "fines_fees_required": "yes",
+    "fines_fees_note": "For convictions on or after July 1, 2012, the entire sentence must be completed, which in some cases includes payment of court debt, fines, fees and restitution; a discharge certificate is not issued until then. People convicted before July 1, 2012 were disenfranchised only while serving a prison term, parole or federal supervised release.",
+    "statute_name": "S.D. Const. art. VII, § 2; S.D. Codified Laws § 12-4-18",
+    "statute_cite": "S.D. Const. art. VII, § 2; SDCL § 12-4-18",
+    "legal_aid_name": "SD Law Help",
+    "legal_aid_url": "https://sdlawhelp.org/",
+    "state_note": "South Dakota has no single statewide legal-aid firm: SD Law Help is the shared intake portal for East River Legal Services, Dakota Plains Legal Services and Access to Justice, which route one application to the right program.",
+    "sources": [
+      "https://www.sdsos.gov/elections-voting/voting/register-to-vote/felony-convictions.aspx",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://www.usvotefoundation.org/voting-rights-restoration/south-dakota",
+      "https://ccresourcecenter.org/state-restoration-profiles/south-dakota-restoration-of-rights-pardon-expungement-sealing/",
+      "https://sdlawhelp.org/"
+    ]
+  },
+  "Tennessee": {
+    "status": "permanent-some",
+    "status_note": "A felony conviction after May 18, 1981 takes the vote away. Most people can get it back by court order after finishing the sentence, but some convictions are permanently disqualifying depending on the offense and date: murder, rape, treason or voter fraud in the listed periods, and, on or after July 1, 2006, certain bribery, public-corruption and felony sex offenses against a minor. Convictions on or before May 17, 1981 never took the vote away.",
+    "restoration": "application",
+    "restoration_note": "Petition the circuit court in the county of conviction or residence for a court order restoring voting rights, then give a certified copy of the order to the county Administrator of Elections and re-register to vote. A pardon is an alternative route.",
+    "fines_fees_required": "yes",
+    "fines_fees_note": "The person must owe no victim restitution and must have been compliant with child-support orders for the previous 12 months, including arrears. Court costs and fees are no longer a barrier: 2026 legislation removed the requirement to pay all court costs before restoration.",
+    "statute_name": "Tenn. Const. art. I, § 5; Tenn. Code Ann. §§ 40-29-201 to 40-29-204",
+    "statute_cite": "Tenn. Const. art. I, § 5; Tenn. Code Ann. §§ 40-29-201 to 40-29-204",
+    "legal_aid_name": "Tennessee Alliance for Legal Services",
+    "legal_aid_url": "https://www.tals.org/",
+    "state_note": "The process changed twice recently: a 2025 law made the circuit-court petition the only route and eliminated the administrative Certificate of Restoration, and a 2026 law (SB 336, signed March 26, 2026) removed the court-costs payment requirement and clarified the 12-month child-support compliance rule.",
+    "sources": [
+      "https://sos.tn.gov/restoration",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://campaignlegal.org/sites/default/files/2026-03/2026%20Tennessee%20Fact%20Sheet%20-%20final.pdf",
+      "https://www.usvotefoundation.org/voting-rights-restoration/tennessee",
+      "https://www.tals.org/"
+    ]
+  },
+  "Texas": {
+    "status": "after-sentence",
+    "status_note": "A final felony conviction takes the vote away for the whole sentence, including imprisonment, parole, community supervision and probation. The right returns automatically once the sentence is fully discharged, or on pardon.",
+    "restoration": "automatic",
+    "restoration_note": "No application, court order or pardon is needed once the sentence is fully discharged; re-register to vote. Deferred adjudication is not a final conviction, so a person on deferred adjudication can vote.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "The statute lists only incarceration, parole, supervision and probation as the parts of a sentence that must be completed, and does not separately list fines, fees or restitution as a voting barrier. Case law treats a fine as part of the sentence itself, while restitution and court costs are not, so a fine imposed as part of the sentence or as a condition of supervision can delay discharge in a particular case; confirm the discharge status with the sentencing court if money is still owed.",
+    "statute_name": "Tex. Const. art. VI, § 1; Tex. Elec. Code § 11.002",
+    "statute_cite": "Tex. Const. art. VI, § 1; Tex. Elec. Code § 11.002",
+    "legal_aid_name": "Texas Legal Services Center",
+    "legal_aid_url": "https://www.tlsc.org/",
+    "state_note": "A person on federal supervised release has not fully discharged the sentence and cannot vote yet. Texas has three regional legal-aid programs in addition to the statewide Texas Legal Services Center.",
+    "sources": [
+      "https://www.sll.texas.gov/faqs/felony-conviction-vote/?shem=aimgspe%2C",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://ccresourcecenter.org/state-restoration-profiles/texas-restoration-of-rights-pardon-expungement-sealing/",
+      "https://www.tlsc.org/"
+    ]
+  },
+  "Utah": {
+    "status": "prison-only",
+    "status_note": "A felony conviction takes the vote away only while the person is incarcerated. The right is restored when the person is sentenced to probation, is granted parole, or completes the term of incarceration.",
+    "restoration": "automatic",
+    "restoration_note": "No application is needed; once probation is imposed, parole is granted, or the prison term is complete, re-register to vote.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "Payment of restitution and fines is not a condition for restoring the right to vote under the voting subsection of the statute. Payment is a condition only for the separate, much stricter restoration of the right to hold elective office, which also requires 10 years since the most recent felony conviction or expungement.",
+    "statute_name": "Utah Const. art. IV, § 6; Utah Code § 20A-2-101.5",
+    "statute_cite": "Utah Const. art. IV, § 6; Utah Code § 20A-2-101.5",
+    "legal_aid_name": "Utah Legal Services",
+    "legal_aid_url": "https://www.utahlegalservices.org/",
+    "state_note": "Voting rights and office-holding rights are restored on different clocks in Utah: voting comes back on probation, parole or release, while holding office takes 10 years plus payment of restitution and fines, or expungement.",
+    "sources": [
+      "https://le.utah.gov/xcode/Title20A/Chapter2/20A-2-S101.5.html",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://www.usvotefoundation.org/voting-rights-restoration/utah",
+      "https://www.utahlegalservices.org/"
+    ]
+  },
+  "Vermont": {
+    "status": "never-loses",
+    "status_note": "A felony conviction never takes the vote away in Vermont. A person can vote even while incarcerated for a felony, by absentee ballot.",
+    "restoration": "automatic",
+    "restoration_note": "Nothing needs to be restored. Register to vote, or stay registered, and vote by absentee ballot while incarcerated.",
+    "fines_fees_required": "na",
+    "fines_fees_note": "Not applicable: because the right to vote is never lost, unpaid fines, fees or restitution cannot block it.",
+    "statute_name": "Vt. Stat. Ann. tit. 28, § 807",
+    "statute_cite": "Vt. Stat. Ann. tit. 28, § 807",
+    "legal_aid_name": "Vermont Legal Aid",
+    "legal_aid_url": "https://www.vtlegalaid.org/",
+    "state_note": "Vermont is one of only two states, with Maine, where a felony conviction never disenfranchises a person, even in prison. Vermont Legal Aid works with Legal Services Vermont, which handles intake for both organizations.",
+    "sources": [
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://www.usvotefoundation.org/voting-rights-restoration/vermont",
+      "https://www.justice.gov/crt/media/1332106/dl",
+      "https://www.vtlegalaid.org/"
+    ]
+  },
+  "Virginia": {
+    "status": "pardon-only",
+    "status_note": "As of the research date, a felony conviction takes the vote away until the Governor individually restores the person's civil rights. The Governor's practice has varied by administration, from near-automatic restoration for people who completed their sentences to case-by-case application review. This changes on January 1, 2027 (see state note).",
+    "restoration": "clemency",
+    "restoration_note": "Apply to the Governor through the Secretary of the Commonwealth for restoration of civil rights; a person who completed the sentence at least five years earlier and meets the other conditions may also petition the circuit court for an order leading to fast-track consideration by the Governor. Once restored, re-register to vote.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "Unpaid fines, fees or restitution are not a formal statutory requirement for restoration, and the requirement to pay court costs and fees was removed in 2015. An administration may still ask about restitution owed as part of its individual review, so the answer can vary by governor.",
+    "statute_name": "Va. Const. art. II, § 1",
+    "statute_cite": "Va. Const. art. II, § 1",
+    "legal_aid_name": "Virginia Legal Aid Society",
+    "legal_aid_url": "https://www.vlas.org/",
+    "state_note": "Virginia voters approved a constitutional amendment on November 3, 2026 that automatically restores voting rights on release from incarceration, effective January 1, 2027, with no application or gubernatorial approval required. After that date this entry should flip to prison-only with automatic restoration; the Governor's restoration process and the court-petition statute are being repealed. Virginia has nine regional legal-aid programs and no single statewide firm; Virginia Legal Aid Society is one of the largest.",
+    "sources": [
+      "https://www.restore.virginia.gov/",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://ccresourcecenter.org/state-restoration-profiles/virginia-restoration-of-rights-pardon-expungement-sealing/",
+      "https://law.lis.virginia.gov/vacode/title53.1/chapter12.1/section53.1-231.2/",
+      "https://www.vlas.org/"
+    ]
+  },
+  "Washington": {
+    "status": "prison-only",
+    "status_note": "A felony conviction takes the vote away only while the person is serving a sentence of total confinement in prison. The right is restored automatically once the person is no longer in total confinement, even while on parole, probation or community custody.",
+    "restoration": "automatic",
+    "restoration_note": "No application or certificate of discharge is needed; re-register to vote once no longer in total confinement.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "Unpaid court fines, restitution or other legal financial obligations do not block restoration. The 2021 law that took effect January 1, 2022 removed the old rule under which a court could revoke provisional restoration for failure to pay legal financial obligations.",
+    "statute_name": "Wash. Const. art. VI, § 3; Wash. Rev. Code § 29A.08.520",
+    "statute_cite": "Wash. Const. art. VI, § 3; RCW 29A.08.520",
+    "legal_aid_name": "Northwest Justice Project",
+    "legal_aid_url": "https://www.nwjustice.org/",
+    "state_note": "Washington changed its rule in 2021 (HB 1078, effective January 1, 2022): before that, restoration was only provisional until the sentence was fully complete, and a certificate of discharge was part of the process. Confinement imposed only as a sanction for a community-custody violation does not count as total confinement for this purpose.",
+    "sources": [
+      "https://www2.sos.wa.gov/elections/voters/felons-and-voting-rights.aspx",
+      "http://app.leg.wa.gov/RCW/default.aspx?cite=29A.08.520",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://www.nwjustice.org/"
+    ]
+  },
+  "West Virginia": {
+    "status": "after-sentence",
+    "status_note": "A felony, treason or election-bribery conviction takes the vote away while the person is serving the sentence, including imprisonment, probation and parole. The right is restored automatically on completion of the full sentence.",
+    "restoration": "automatic",
+    "restoration_note": "No application or pardon is needed once the sentence, including probation and parole, is complete; re-register to vote. A pardon or a court order vacating the conviction also restores eligibility.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "The statute sets restoration on completion of the sentence, including incarceration, probation and parole, and does not list payment of fines, fees or restitution as a separate requirement. Payment can still matter indirectly if it is a condition of probation or parole that has to be satisfied before supervision ends, so confirm discharge status with the supervising authority if money is owed.",
+    "statute_name": "W. Va. Const. art. IV, § 1; W. Va. Code § 3-2-2",
+    "statute_cite": "W. Va. Const. art. IV, § 1; W. Va. Code § 3-2-2",
+    "legal_aid_name": "Legal Aid of West Virginia",
+    "legal_aid_url": "https://www.lawv.net/",
+    "state_note": "Bills introduced in 2025 and 2026 would have restored the vote on release from incarceration, but as of the research date none had become law; the full-sentence rule still applies. A person convicted of a felony also cannot serve on a jury even after the sentence is complete.",
+    "sources": [
+      "https://code.wvlegislature.gov/email/3-2-2/",
+      "https://sos.wv.gov/media/466/download",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://www.usvotefoundation.org/voting-rights-restoration/west-virginia",
+      "https://www.lawv.net/"
+    ]
+  },
+  "Wisconsin": {
+    "status": "after-sentence",
+    "status_note": "A felony, treason or bribery conviction takes the vote away until the person is off paper: the whole sentence must be complete, including imprisonment, parole, probation and extended supervision. The right is then restored automatically.",
+    "restoration": "automatic",
+    "restoration_note": "No application, court order or pardon is needed once off paper; the Department of Corrections or the county jailer must notify the person in writing that the right is restored, and the person must re-register to vote, as the old registration does not carry over.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "The restoration statute turns on completion of imprisonment, probation, parole or extended supervision and does not require payment of fines, fees or restitution. Some secondary guides describe being off paper as including payment, but that is not in the statute; payment can delay completion only if it is a condition of supervision that has not been satisfied, so confirm off-paper status with the probation or parole agent if money is owed.",
+    "statute_name": "Wis. Stat. §§ 6.03, 304.078",
+    "statute_cite": "Wis. Stat. §§ 6.03, 304.078",
+    "legal_aid_name": "Legal Action of Wisconsin",
+    "legal_aid_url": "https://www.legalaction.org/",
+    "state_note": "Wisconsin requires an acceptable photo ID to vote, which is a common stumbling block for people who have just regained the right. On January 1, 2026 Judicare Legal Aid merged into Legal Action of Wisconsin, now the single statewide firm.",
+    "sources": [
+      "https://docs.legis.wisconsin.gov/misc/lc/issue_briefs/2019/courts_and_criminal_law/ib_felons_vote_ph_2019_10_29.pdf",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://www.usvotefoundation.org/voting-rights-restoration/wisconsin",
+      "https://www.aclu-wi.org/news/criminal-conviction-you-can-likely-still-vote/",
+      "https://www.legalaction.org/"
+    ]
+  },
+  "Wyoming": {
+    "status": "permanent-some",
+    "status_note": "A felony conviction takes the vote away. People convicted of a first-time nonviolent felony, or nonviolent felonies from the same occurrence, get voting rights back after completing the full sentence, including probation and parole. People convicted of a violent felony, a repeat felony, or a felony that is not first-time nonviolent can get the vote back only by a governor-issued certificate of restoration, and federal convictions are not eligible for restoration through the Wyoming Department of Corrections.",
+    "restoration": "varies",
+    "restoration_note": "For a first-time nonviolent Wyoming conviction completed on or after January 1, 2010, the Department of Corrections issues a certificate of restoration of voting rights automatically after sentence completion; people who completed before that date, or were convicted outside Wyoming, must submit a written request on the department's form. Anyone else must apply to the Governor for a certificate of restoration. Once restored, re-register to vote.",
+    "fines_fees_required": "no",
+    "fines_fees_note": "The statute does not list fines, fees or restitution as part of the sentence for voting restoration, and a sentence does not include fines or restitution imposed separately by court order. Payment can still matter indirectly if it is a condition of probation or parole that must be satisfied before the sentence is complete.",
+    "statute_name": "Wyo. Stat. §§ 6-10-106, 7-13-105",
+    "statute_cite": "Wyo. Stat. §§ 6-10-106, 7-13-105",
+    "legal_aid_name": "Legal Aid of Wyoming",
+    "legal_aid_url": "https://www.lawyoming.org/",
+    "state_note": "A 2023 law (SF 120, effective July 1, 2023) made voting restoration automatic on sentence completion for first-time nonviolent felonies, removing the old five-year wait for the vote; the five-year wait still applies to the other rights lost under the statute, such as jury service and holding office. A 2025 amendment (SF 9) and a 2026 act did not change the Department of Corrections voting-restoration process.",
+    "sources": [
+      "https://corrections.wyo.gov/about-us/restoration-of-rights",
+      "https://www.ncsl.org/elections-and-campaigns/felon-voting-rights",
+      "https://www.usvotefoundation.org/voting-rights-restoration/wyoming",
+      "https://www.wyoleg.gov/Legislation/2025/SF0009",
+      "https://www.lawyoming.org/"
+    ]
+  }
+}

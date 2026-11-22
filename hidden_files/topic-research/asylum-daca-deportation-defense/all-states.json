@@ -1,0 +1,664 @@
+{
+ "states": {
+  "alabama": {
+   "court_city": "Atlanta",
+   "immigration_court": "Atlanta Immigration Court",
+   "legal_aid_name": "Hispanic and Immigrant Center of Alabama (¡HICA!)",
+   "legal_aid_url": "https://hicaalabama.org/",
+   "sources": [
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list",
+    "https://hicaalabama.org/",
+    "https://www.immigrationadvocates.org/nonprofit/legaldirectory/search?state=AL"
+   ],
+   "state_note": "Alabama has no immigration court, so removal cases are heard at the Atlanta Immigration Court in Georgia (detained cases go to Oakdale, Louisiana).",
+   "has_court_in_state": false
+  },
+  "alaska": {
+   "court_city": "Portland",
+   "immigration_court": "Portland Immigration Court",
+   "legal_aid_name": "Alaska Institute for Justice (Alaska Immigration Justice Project)",
+   "legal_aid_url": "http://www.akijp.org/",
+   "sources": [
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list",
+    "https://www.akijp.org/alaska-immigration-justice-project/",
+    "https://www.immigrationadvocates.org/nonprofit/volunteer/search?state=AK&type=email"
+   ],
+   "state_note": "Alaska has no immigration court — cases for the Anchorage DHS office are handled by the Portland Immigration Court in Oregon.",
+   "has_court_in_state": false
+  },
+  "arizona": {
+   "court_city": "Phoenix",
+   "immigration_court": "Phoenix Immigration Court",
+   "legal_aid_name": "Florence Immigrant & Refugee Rights Project (The Florence Project)",
+   "legal_aid_url": "https://firrp.org/",
+   "sources": [
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list",
+    "https://firrp.org/",
+    "https://www.immigrationlawhelp.org/search?state=AZ"
+   ],
+   "state_note": "Non-detained cases are heard at the Phoenix (or Tucson) Immigration Court, while the Eloy and Florence courts hear only detained cases.",
+   "has_court_in_state": true
+  },
+  "arkansas": {
+   "court_city": "Memphis",
+   "immigration_court": "Memphis Immigration Court",
+   "legal_aid_name": "Arkansas Immigrant Defense (AID Arkansas)",
+   "legal_aid_url": "https://www.aidarkansas.com/",
+   "sources": [
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list",
+    "https://www.aidarkansas.com/",
+    "https://www.fayetteville-ar.gov/3524/Immigration-Law"
+   ],
+   "state_note": "Arkansas has no immigration court — cases are heard at the Memphis Immigration Court in Tennessee, which covers Arkansas.",
+   "has_court_in_state": false
+  },
+  "california": {
+   "court_city": "Los Angeles",
+   "immigration_court": "Los Angeles Immigration Court",
+   "legal_aid_name": "Immigrant Legal Resource Center (ILRC)",
+   "legal_aid_url": "https://www.ilrc.org/",
+   "sources": [
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list",
+    "https://www.ilrc.org/",
+    "https://www.cdss.ca.gov/inforesources/immigration/legal-services"
+   ],
+   "state_note": "California has many immigration courts (Los Angeles, San Francisco, San Diego, Sacramento, and others), and the state Department of Social Services funds free immigration legal services statewide — use its referral list to find the nearest provider.",
+   "has_court_in_state": true
+  },
+  "colorado": {
+   "court_city": "Denver",
+   "immigration_court": "Denver Immigration Court",
+   "legal_aid_name": "Rocky Mountain Immigrant Advocacy Network (RMIAN)",
+   "legal_aid_url": "https://www.rmian.org/",
+   "sources": [
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list",
+    "https://www.rmian.org/nonprofit-legal-service-providers-in-colorado",
+    "https://lawhelp.colorado.gov/an-immigration-case"
+   ],
+   "state_note": "Non-detained cases go to the Denver Immigration Court, while detained cases are heard at the Aurora Immigration Court inside the GEO detention center.",
+   "has_court_in_state": true
+  },
+  "connecticut": {
+   "court_city": "Hartford",
+   "immigration_court": "Hartford Immigration Court",
+   "legal_aid_name": "Connecticut Institute for Refugees and Immigrants (CIRI)",
+   "legal_aid_url": "https://cirict.org/",
+   "sources": [
+    "https://www.justice.gov/eoir/hartford-immigration-court",
+    "https://cirict.org/immigration-legal-services/",
+    "https://library.ctstate.edu/immigration-resources"
+   ],
+   "state_note": "CIRI is the only DOJ-recognized statewide immigration legal services nonprofit in Connecticut, with offices in Bridgeport, Hartford, Stamford, New Haven, and Waterbury.",
+   "has_court_in_state": true
+  },
+  "delaware": {
+   "court_city": "Philadelphia",
+   "immigration_court": "Philadelphia Immigration Court",
+   "legal_aid_name": "Community Legal Aid Society, Inc. (CLASI)",
+   "legal_aid_url": "https://www.declasi.org/",
+   "sources": [
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list",
+    "https://www.justice.gov/eoir/philadelphia-pa",
+    "https://www.immigrationadvocates.org/nonprofit/legaldirectory/search?state=DE&national=0&county=&legalArea=&legalService=&nonLegalService=&interestArea=&population=&legalNetwork=&language=&detentionFacility=&text=&zip=&interpreting=0&type=email&type=email&type=email"
+   ],
+   "state_note": "Delaware has no immigration court — cases are heard at the Philadelphia Immigration Court in Pennsylvania, which covers Delaware.",
+   "has_court_in_state": false
+  },
+  "florida": {
+   "court_city": "Miami",
+   "immigration_court": "Miami Immigration Court",
+   "legal_aid_name": "Catholic Charities Legal Services, Archdiocese of Miami",
+   "legal_aid_url": "http://www.cclsmiami.org",
+   "sources": [
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list",
+    "https://www.immigrationadvocates.org/legaldirectory/organization.392757-Catholic_Charities_Legal_Services_of_Miami_Miami_Downtown_Office",
+    "https://immlawcenter.com/deportation-removal/"
+   ],
+   "state_note": "Florida has three immigration courts — Miami, Miami (Krome, detained cases only), and Orlando — and the court named on your Notice to Appear is the one that has your case.",
+   "has_court_in_state": true
+  },
+  "georgia": {
+   "court_city": "Atlanta",
+   "immigration_court": "Atlanta Immigration Court",
+   "legal_aid_name": "Georgia Asylum & Immigration Network (GAIN)",
+   "legal_aid_url": "https://www.georgiaasylum.org/",
+   "sources": [
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list",
+    "https://www.justice.gov/eoir/lumpkin-immigration-court",
+    "https://www.georgiaasylum.org/",
+    "https://www.immigrationadvocates.org/legaldirectory/search?zip=30213&x=10&y=7&type=email"
+   ],
+   "state_note": "Georgia has two non-detained courts in Atlanta plus the Stewart Immigration Court in Lumpkin, which hears only detained cases at the Stewart Detention Center.",
+   "has_court_in_state": true
+  },
+  "hawaii": {
+   "court_city": "Honolulu",
+   "immigration_court": "Honolulu Immigration Court",
+   "legal_aid_name": "Hawai'i Immigrant Justice Center at the Legal Aid Society of Hawaii",
+   "legal_aid_url": "https://www.legalaidhawaii.org/hawailsquoi-immigrant-justice-center.html",
+   "sources": [
+    "https://www.justice.gov/eoir/honolulu-immigration-court",
+    "https://www.legalaidhawaii.org/hawailsquoi-immigrant-justice-center.html",
+    "https://www.schatz.senate.gov/imo/media/doc/immigration_courts_letter_2026.pdf"
+   ],
+   "state_note": "Honolulu is Hawaii's only immigration court, so residents of Maui, Kauai, and Hawaii Island must fly to Oahu for in-person hearings.",
+   "has_court_in_state": true
+  },
+  "idaho": {
+   "court_city": "Portland",
+   "immigration_court": "Portland Immigration Court",
+   "legal_aid_name": "International Rescue Committee in Boise — Immigration Legal Services",
+   "legal_aid_url": "https://www.rescue.org/united-states/boise-id",
+   "sources": [
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list",
+    "https://www.rescue.org/united-states/boise-id",
+    "https://www.aila.org/aila-files/30D23CA1-946D-415D-B760-97D39204270F/23081509.pdf?1697589391"
+   ],
+   "state_note": "Idaho has no immigration court since the Boise hearing location closed on August 31, 2023, so Idaho cases are now heard by the Portland, Oregon court.",
+   "has_court_in_state": false
+  },
+  "illinois": {
+   "court_city": "Chicago",
+   "immigration_court": "Chicago Immigration Court",
+   "legal_aid_name": "National Immigrant Justice Center",
+   "legal_aid_url": "https://www.immigrantjustice.org",
+   "sources": [
+    "https://www.justice.gov/eoir/chicago-immigration-court",
+    "https://www.immigrantjustice.org",
+    "https://www.immigrationadvocates.org/legaldirectory/organization.392874"
+   ],
+   "state_note": "NIJC runs a free Immigration Court Help Desk at the Chicago Immigration Court for people facing removal proceedings without a lawyer.",
+   "has_court_in_state": true
+  },
+  "indiana": {
+   "court_city": "Indianapolis",
+   "immigration_court": "Indianapolis Immigration Court",
+   "legal_aid_name": "Neighborhood Christian Legal Clinic — Immigrant Services",
+   "legal_aid_url": "https://www.nclegalclinic.org",
+   "sources": [
+    "https://www.justice.gov/eoir/indianapolis-immigration-court",
+    "https://www.nclegalclinic.org",
+    "https://www.theindianalawyer.com/articles/new-immigration-court-opens-in-indianapolis"
+   ],
+   "state_note": "Indianapolis got Indiana's first immigration court in January 2025; before that, all Indiana cases were heard in Chicago.",
+   "has_court_in_state": true
+  },
+  "iowa": {
+   "court_city": "Omaha",
+   "immigration_court": "Omaha Immigration Court",
+   "legal_aid_name": "Iowa Migrant Movement for Justice",
+   "legal_aid_url": "https://www.iowammj.org",
+   "sources": [
+    "https://www.justice.gov/eoir/omaha-immigration-court",
+    "https://www.iowammj.org",
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list"
+   ],
+   "state_note": "Iowa has no immigration court of its own; all non-detained Iowa cases are heard at the Omaha, Nebraska court.",
+   "has_court_in_state": false
+  },
+  "kansas": {
+   "court_city": "Kansas City",
+   "immigration_court": "Kansas City Immigration Court",
+   "legal_aid_name": "Catholic Charities of Northeast Kansas — La Luz Center for Legal Assistance",
+   "legal_aid_url": "https://www.catholiccharitiesks.org",
+   "sources": [
+    "https://www.justice.gov/eoir/kansas-city-immigration-court",
+    "https://www.catholiccharitiesks.org",
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list"
+   ],
+   "state_note": "Kansas has no immigration court; all non-detained Kansas cases are heard at the Kansas City, Missouri court.",
+   "has_court_in_state": false
+  },
+  "kentucky": {
+   "court_city": "Memphis",
+   "immigration_court": "Memphis Immigration Court",
+   "legal_aid_name": "Kentucky Refugee Ministries — Immigration & Citizenship Services",
+   "legal_aid_url": "https://kyrm.org/services/immigration-naturalization/",
+   "sources": [
+    "https://www.justice.gov/eoir/memphis-immigration-court",
+    "https://kyrm.org/services/immigration-naturalization/",
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list"
+   ],
+   "state_note": "Kentucky has no immigration court of its own since Louisville closed in 2021 — cases fall under the Memphis court, with hearings at the Louisville hearing location — and KRM's immigration legal services are fee-based, so ask about cost up front.",
+   "has_court_in_state": false
+  },
+  "louisiana": {
+   "court_city": "New Orleans",
+   "immigration_court": "New Orleans Immigration Court",
+   "legal_aid_name": "Immigration Services and Legal Advocacy (ISLA)",
+   "legal_aid_url": "https://www.islaimmigration.org",
+   "sources": [
+    "https://www.justice.gov/eoir/new-orleans-immigration-court",
+    "https://www.islaimmigration.org",
+    "https://www.immigrationadvocates.org/embedded/iamerica/organization.811023-Immigration_Services_and_Legal_Advocacy_ISLA"
+   ],
+   "state_note": "Louisiana holds several large ICE detention centers, including Oakdale and Pine Prairie, and ISLA visits detained immigrants weekly and represents them in removal proceedings.",
+   "has_court_in_state": true
+  },
+  "maine": {
+   "court_city": "Boston",
+   "immigration_court": "Boston Immigration Court",
+   "legal_aid_name": "Immigrant Legal Advocacy Project (ILAP)",
+   "legal_aid_url": "https://ilapmaine.org",
+   "sources": [
+    "https://www.justice.gov/eoir/boston-immigration-court",
+    "https://ilapmaine.org",
+    "https://www.ice.gov/field-office/boston-field-office"
+   ],
+   "state_note": "Maine has no immigration court, so cases are heard in Boston, Massachusetts, and ILAP is Maine's only statewide immigration legal aid organization.",
+   "has_court_in_state": false
+  },
+  "maryland": {
+   "court_city": "Baltimore",
+   "immigration_court": "Baltimore Immigration Court",
+   "legal_aid_name": "We Are CASA — Maryland Legal Services",
+   "legal_aid_url": "https://wearecasa.org/legal-services-md/",
+   "sources": [
+    "https://www.justice.gov/eoir/baltimore-immigration-court",
+    "https://wearecasa.org/legal-services-md/",
+    "https://governor.maryland.gov/immigrant-affairs/immigration-resources"
+   ],
+   "state_note": "Maryland has two immigration courts, Baltimore and Hyattsville, so check your hearing notice to see which one has your case.",
+   "has_court_in_state": true
+  },
+  "massachusetts": {
+   "court_city": "Boston",
+   "immigration_court": "Boston Immigration Court",
+   "legal_aid_name": "Massachusetts Immigrant and Refugee Advocacy Coalition (MIRA Coalition)",
+   "legal_aid_url": "https://miracoalition.org",
+   "sources": [
+    "https://www.justice.gov/eoir/boston-immigration-court",
+    "https://www.mass.gov/info-details/resources-for-immigrants-in-massachusetts",
+    "https://thelatinonewsletter.org/p/closing-the-legal-gap-in-massachusetts-for-immigrants-facing-deportation"
+   ],
+   "state_note": "Massachusetts funds free lawyers for low-income immigrants in deportation cases through the Massachusetts Access to Counsel Initiative (MACI), run by MIRA.",
+   "has_court_in_state": true
+  },
+  "michigan": {
+   "court_city": "Detroit",
+   "immigration_court": "Detroit Immigration Court",
+   "legal_aid_name": "Michigan Immigrant Rights Center (MIRC)",
+   "legal_aid_url": "https://michiganimmigrant.org",
+   "sources": [
+    "https://www.justice.gov/eoir/detroit-immigration-court",
+    "https://michiganimmigrant.org/immigration-legal-services"
+   ],
+   "state_note": "MIRC provides all of its services free, runs the helpdesk at the Detroit Immigration Court, and gives free advice to everyone detained by ICE in Michigan.",
+   "has_court_in_state": true
+  },
+  "minnesota": {
+   "court_city": "Fort Snelling",
+   "immigration_court": "Fort Snelling Immigration Court",
+   "legal_aid_name": "Immigrant Law Center of Minnesota (ILCM)",
+   "legal_aid_url": "https://www.ilcm.org/",
+   "sources": [
+    "https://www.justice.gov/eoir/fort-snelling-immigration-court",
+    "https://www.ilcm.org/intake-process"
+   ],
+   "state_note": "ILCM provides free immigration representation statewide to low-income immigrants and runs a detention line at (651) 641-1011 for people detained by ICE in Minnesota.",
+   "has_court_in_state": true
+  },
+  "mississippi": {
+   "court_city": "Memphis",
+   "immigration_court": "Memphis Immigration Court",
+   "legal_aid_name": "Mississippi Immigrants Rights Alliance (MIRA)",
+   "legal_aid_url": "https://yourmira.org/",
+   "sources": [
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list",
+    "https://www.immigrationadvocates.org/nonprofit/legaldirectory/search?state=MS&national=0&county&legalArea&legalService&nonLegalService&interestArea&population&legalNetwork&language&detentionFacility&text&zip&interpreting=0&type=email",
+    "https://www.womenslaw.org/find-help/ms/finding-lawyer/legal-assistance?ref=blog.counselstack.com"
+   ],
+   "state_note": "Mississippi has no immigration court of its own; EOIR assigns cases in Mississippi north of Jackson to the Memphis Immigration Court in Tennessee, so residents must travel out of state for hearings.",
+   "has_court_in_state": false
+  },
+  "missouri": {
+   "court_city": "Kansas City",
+   "immigration_court": "Kansas City Immigration Court",
+   "legal_aid_name": "Migrant and Immigrant Community Action Project (MICA Project)",
+   "legal_aid_url": "https://www.mica-project.org/",
+   "sources": [
+    "https://www.justice.gov/eoir/kansas-city-immigration-court",
+    "https://www.stlmosaicproject.org/_files/ugd/f61b19_1035d5b43242407c811f2e276e747099.pdf",
+    "https://www.mercy.net/content/dam/mercy/en/pdf/mnm-resources/immigrant-and-refugee-resources-st-louis-area.pdf"
+   ],
+   "state_note": "Missouri's only immigration court is in Kansas City, and the MICA Project offers free or low-cost removal defense and family immigration help to low- to moderate-income immigrants in Missouri and Illinois.",
+   "has_court_in_state": true
+  },
+  "montana": {
+   "court_city": "Portland",
+   "immigration_court": "Portland Immigration Court",
+   "legal_aid_name": "Montana Legal Services Association",
+   "legal_aid_url": "https://www.mtlsa.org/",
+   "sources": [
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list",
+    "https://www.mtlsa.org/apply-for-services/",
+    "https://insideimmigration.com/judges/jurisdictions"
+   ],
+   "state_note": "Montana has no immigration court; EOIR assigns Montana cases (Helena DHS office) to the Portland Immigration Court in Oregon, and the Montana Legal Services Association provides free civil legal help statewide, including immigrant legal services.",
+   "has_court_in_state": false
+  },
+  "nebraska": {
+   "court_city": "Omaha",
+   "immigration_court": "Omaha Immigration Court",
+   "legal_aid_name": "Immigrant Legal Center (now Center for Immigrant and Refugee Advancement)",
+   "legal_aid_url": "https://www.immigrantlc.org",
+   "sources": [
+    "https://www.justice.gov/eoir/omaha-immigration-court",
+    "https://www.adminrelief.org/legalhelp/organization.393089.",
+    "https://faithandleadership.com/emiliano-lerda-growing-nebraska-nonprofit-faith-roots-focuses-free-legal-aid-immigrants"
+   ],
+   "state_note": "The Immigrant Legal Center runs the statewide Nebraska Immigration Legal Assistance Hotline at 1-855-307-6730, which routes callers to the nonprofit provider that can help fastest.",
+   "has_court_in_state": true
+  },
+  "nevada": {
+   "court_city": "Las Vegas",
+   "immigration_court": "Las Vegas Immigration Court",
+   "legal_aid_name": "Legal Aid Center of Southern Nevada",
+   "legal_aid_url": "https://www.lacsn.org",
+   "sources": [
+    "https://www.justice.gov/eoir/las-vegas-immigration-court",
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list",
+    "https://www.immigrationadvocates.org/nonprofit/volunteer/search?state=NV"
+   ],
+   "state_note": "Nevada's only immigration court is in Las Vegas, and people detained at the Nevada Southern Detention Center in Pahrump have their cases heard there.",
+   "has_court_in_state": true
+  },
+  "new hampshire": {
+   "court_city": "Boston",
+   "immigration_court": "Boston Immigration Court",
+   "legal_aid_name": "Catholic Charities New Hampshire - Immigration and Refugee Legal Services",
+   "legal_aid_url": "https://www.cc-nh.org/",
+   "sources": [
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list",
+    "https://www.immigrationadvocates.org/embedded/iamerica/search?state=NH&national=0&county=&legalArea=&legalService=&nonLegalService=&interestArea=&population=&legalNetwork=&language=&detentionFacility=&text=&zip=&interpreting=0&type=email&type=email&type=email&type=email&type=email&type=email",
+    "https://immway.com/states/nh/merrimack"
+   ],
+   "state_note": "New Hampshire has no immigration court; detained cases go to the Chelmsford Immigration Court in Massachusetts and non-detained cases to Boston, and New Hampshire requires lawful presence for a driver's license.",
+   "has_court_in_state": false
+  },
+  "new jersey": {
+   "court_city": "Newark",
+   "immigration_court": "Newark Immigration Court",
+   "legal_aid_name": "American Friends Service Committee - Immigrant Rights Program (Newark Office)",
+   "legal_aid_url": "http://afsc.org/program/immigrant-rights-program-newark-nj",
+   "sources": [
+    "https://www.justice.gov/eoir/newark-immigration-court",
+    "https://www.justice.gov/eoir/elizabeth-immigration-court",
+    "https://www.immigrationadvocates.org/nonprofit/volunteer/organization.393104"
+   ],
+   "state_note": "New Jersey has two immigration courts: Newark for people who are not in detention, and Elizabeth, inside a detention facility, for detained cases.",
+   "has_court_in_state": true
+  },
+  "new mexico": {
+   "court_city": "El Paso",
+   "immigration_court": "El Paso Immigration Court",
+   "legal_aid_name": "New Mexico Immigrant Law Center (NMILC)",
+   "legal_aid_url": "https://www.nmilc.org",
+   "sources": [
+    "https://www.justice.gov/eoir/el-paso-immigration-courts",
+    "https://www.nmilc.org/asylum",
+    "https://www.immigrationlawhelp.org/organization.393123."
+   ],
+   "state_note": "New Mexico has no non-detained immigration court, so hearings for New Mexico residents take place at the El Paso Immigration Court, and NMILC also serves people detained at the Cibola and Torrance County facilities.",
+   "has_court_in_state": false
+  },
+  "new york": {
+   "court_city": "New York",
+   "immigration_court": "New York - Federal Plaza Immigration Court",
+   "legal_aid_name": "The Legal Aid Society - Immigration Law Unit",
+   "legal_aid_url": "https://legalaidnyc.org/get-help/immigration-deportation/",
+   "sources": [
+    "https://www.justice.gov/eoir/new-york-federal-plaza-immigration-court",
+    "https://legalaidnyc.org/get-help/immigration-deportation/",
+    "https://legalaidnyc.org/programs-projects-units/immigration-law-unit/"
+   ],
+   "state_note": "New York's free State Office for New Americans hotline (1-800-566-7636) can refer immigrants anywhere in the state to free legal help and naturalization assistance.",
+   "has_court_in_state": true
+  },
+  "north carolina": {
+   "court_city": "Charlotte",
+   "immigration_court": "Charlotte Immigration Court",
+   "legal_aid_name": "Charlotte Center for Legal Advocacy - Immigrant Justice Program",
+   "legal_aid_url": "https://charlottelegaladvocacy.org/what-we-do/immigration/",
+   "sources": [
+    "https://www.justice.gov/eoir/charlotte-immigration-court",
+    "https://charlottelegaladvocacy.org/what-we-do/immigration/",
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list"
+   ],
+   "state_note": "The Charlotte Immigration Court serves both North and South Carolina and has one of the largest backlogs in the country, with more than 130,000 pending cases.",
+   "has_court_in_state": true
+  },
+  "north dakota": {
+   "court_city": "Fort Snelling",
+   "immigration_court": "Fort Snelling Immigration Court",
+   "legal_aid_name": "Immigrant Law Center of Minnesota (ILCM)",
+   "legal_aid_url": "https://www.ilcm.org/",
+   "sources": [
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list",
+    "https://www.ilcm.org/intake-process",
+    "https://www.ilcm.org/mission-history",
+    "https://www.hhs.nd.gov/cfs/refugee-resettlement-program/immigration-services"
+   ],
+   "state_note": "North Dakota has no immigration court and no in-state immigration legal aid office, so residents rely on Minnesota-based help such as ILCM, which serves North Dakota for free, and travel to the Fort Snelling court.",
+   "has_court_in_state": false
+  },
+  "ohio": {
+   "court_city": "Cleveland",
+   "immigration_court": "Cleveland Immigration Court",
+   "legal_aid_name": "Community Refugee & Immigration Services (CRIS)",
+   "legal_aid_url": "https://www.crisohio.org/services/legal-services",
+   "sources": [
+    "https://www.justice.gov/eoir/cleveland-immigration-court",
+    "https://www.crisohio.org/services/legal-services",
+    "https://www.columbus.gov/Government/Mayors-Office/All-of-Us/Legal-Support"
+   ],
+   "state_note": "Ohio's only immigration court is in Cleveland, so immigrants in Columbus, Cincinnati, and southern Ohio must travel north for hearings.",
+   "has_court_in_state": true
+  },
+  "oklahoma": {
+   "court_city": "Dallas",
+   "immigration_court": "Dallas Immigration Court",
+   "legal_aid_name": "Catholic Charities of Oklahoma City - Immigration Legal Services",
+   "legal_aid_url": "https://www.catholiccharitiesok.org/",
+   "sources": [
+    "https://www.justice.gov/eoir/dallas-immigration-court",
+    "https://www.okbar.org/navigating-immigration-court-hearings-for-oklahoma-residents-master-calendar-and-individual-hearings-explained/",
+    "https://www.immigrationadvocates.org/nonprofit/legaldirectory/search?state=OK&type=email",
+    "https://www.ocjn.org/by-legal-need/?frm-page-773=2"
+   ],
+   "state_note": "Oklahoma has no immigration court, so residents' cases are heard at the Dallas Immigration Court, and Catholic Charities of Oklahoma City does not handle asylum cases.",
+   "has_court_in_state": false
+  },
+  "oregon": {
+   "court_city": "Portland",
+   "immigration_court": "Portland Immigration Court",
+   "legal_aid_name": "Immigration Counseling Service (ICS)",
+   "legal_aid_url": "https://www.ics-law.org",
+   "sources": [
+    "https://www.justice.gov/eoir/portland-immigration-court",
+    "https://egov.oregon.gov/odhs/about/Documents/oira-legal-directory.pdf",
+    "https://www.immigrationlawhelp.org/search?state=OR"
+   ],
+   "state_note": "Oregon's state-funded Equity Corps of Oregon provides free removal defense statewide, supplementing nonprofits like ICS in Portland.",
+   "has_court_in_state": true
+  },
+  "pennsylvania": {
+   "court_city": "Philadelphia",
+   "immigration_court": "Philadelphia Immigration Court",
+   "legal_aid_name": "HIAS Pennsylvania",
+   "legal_aid_url": "https://hiaspa.org",
+   "sources": [
+    "https://www.justice.gov/eoir/philadelphia-pa",
+    "https://hiaspa.org/get-help/access-our-services/",
+    "https://www.immigrationadvocates.org/nonprofit/legaldirectory/organization.393274-HIAS_Pennsylvania"
+   ],
+   "state_note": "Pennsylvania has a second, detained-only immigration court in York in addition to Philadelphia, and HIAS Pennsylvania serves low-income immigrants with intake by phone on Wednesdays and Thursdays.",
+   "has_court_in_state": true
+  },
+  "rhode island": {
+   "court_city": "Boston",
+   "immigration_court": "Boston Immigration Court",
+   "legal_aid_name": "Dorcas International Institute of Rhode Island - Citizenship and Immigration Services",
+   "legal_aid_url": "https://www.diiri.org/what-we-do/citizenship-immigration/",
+   "sources": [
+    "https://www.justice.gov/eoir/boston-immigration-court",
+    "https://brookslawfirm.com/rhode-island-immigration-lawyer/immigration-appeals/",
+    "https://www.immigrationadvocates.org/nonprofit/legaldirectory/organization.393284.",
+    "https://www.risd.edu/sites/default/files/2025-09/immigration-assistance-legal-referral-list.pdf"
+   ],
+   "state_note": "Rhode Island has no immigration court, so residents travel about an hour to the Boston Immigration Court, and Dorcas International is the state's only federally authorized refugee resettlement agency.",
+   "has_court_in_state": false
+  },
+  "south carolina": {
+   "court_city": "Charlotte",
+   "immigration_court": "Charlotte Immigration Court",
+   "legal_aid_name": "Catholic Charities Immigration Services (Diocese of Charleston)",
+   "legal_aid_url": "https://charitiessc.org/immigration-legal-services",
+   "sources": [
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list",
+    "https://www.justice.gov/eoir/charlotte-immigration-court",
+    "https://www.adminrelief.org/legalhelp/search?state=SC&type=email&type=email&type=email",
+    "https://themiscellany.org/welcoming-stranger-ministry-church-south-carolina"
+   ],
+   "state_note": "South Carolina has no immigration court and no sanctuary protections, so cases go to the Charlotte Immigration Court, and the main statewide provider, Catholic Charities Immigration Services, does not take asylum or removal-defense cases.",
+   "has_court_in_state": false
+  },
+  "south dakota": {
+   "court_city": "Fort Snelling",
+   "immigration_court": "Fort Snelling Immigration Court",
+   "legal_aid_name": "Lutheran Social Services of South Dakota — Center for New Americans",
+   "legal_aid_url": "https://lsssd.org/what-we-do/center-for-new-americans/",
+   "sources": [
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list",
+    "https://www.justice.gov/eoir/fort-snelling-immigration-court",
+    "https://lsssd.org/what-we-do/center-for-new-americans/",
+    "https://www.immigrationadvocates.org/embedded/iamerica/organization.548024."
+   ],
+   "state_note": "South Dakota has no immigration court — all non-detained cases are heard at Fort Snelling in Minnesota — and its main provider, LSS Center for New Americans in Sioux Falls, serves the whole state (including remotely) but does not do deportation defense.",
+   "has_court_in_state": false
+  },
+  "tennessee": {
+   "court_city": "Memphis",
+   "immigration_court": "Memphis Immigration Court",
+   "legal_aid_name": "Tennessee Justice for Our Neighbors",
+   "legal_aid_url": "https://www.tnjfon.org/",
+   "sources": [
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list",
+    "https://www.tnjfon.org/",
+    "https://www.immigrationadvocates.org/nonprofit/legaldirectory/search?state=TN"
+   ],
+   "state_note": "Tennessee's only immigration court is in Memphis, and Tennessee Justice for Our Neighbors in Nashville provides free or low-cost help statewide, focusing on humanitarian cases such as asylum, U and T visas, and VAWA.",
+   "has_court_in_state": true
+  },
+  "texas": {
+   "court_city": "Dallas",
+   "immigration_court": "Dallas Immigration Court",
+   "legal_aid_name": "Refugee and Immigrant Center for Education and Legal Services (RAICES)",
+   "legal_aid_url": "https://raicestexas.org/",
+   "sources": [
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list",
+    "https://raicestexas.org/",
+    "https://www.immigrationadvocates.org/legaldirectory/organization.626652"
+   ],
+   "state_note": "Texas has more immigration courts than any other state — Dallas, Houston (three courts), San Antonio, El Paso, Harlingen, Laredo and several detention-center courts — so always go by the court named on your hearing notice, not the nearest one.",
+   "has_court_in_state": true
+  },
+  "utah": {
+   "court_city": "West Valley City",
+   "immigration_court": "Salt Lake City Immigration Court",
+   "legal_aid_name": "Catholic Community Services of Utah — Migration & Refugee Services (Immigration Program)",
+   "legal_aid_url": "https://ccsutah.org/programs/immigration",
+   "sources": [
+    "https://www.justice.gov/eoir/salt-lake-city-immigration-court",
+    "https://ccsutah.org/programs/immigration",
+    "https://noiceinschools.org/states/ut/resources/",
+    "https://www.utcourts.gov/en/self-help/legal-help/finding-legal-help/legal-clinics/organizations.html"
+   ],
+   "state_note": "Utah's nonprofit immigration lawyers share one hotline — the Utah Immigration Collaborative at 801-382-9027 — that connects callers to the right provider anywhere in the state.",
+   "has_court_in_state": true
+  },
+  "vermont": {
+   "court_city": "Boston",
+   "immigration_court": "Boston Immigration Court",
+   "legal_aid_name": "Vermont Asylum Assistance Project (VAAP)",
+   "legal_aid_url": "https://www.vaapvt.org/",
+   "sources": [
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list",
+    "https://www.justice.gov/eoir/boston-immigration-court",
+    "https://www.vaapvt.org/",
+    "https://vtlawhelp.org/immigration-and-citizenship"
+   ],
+   "state_note": "Vermont has no immigration court — cases are heard in Boston, Massachusetts — and the state's nonprofits share one intake system run by VAAP, so submit one request at vaapvt.org and it is routed to the available free lawyer instead of contacting each group separately.",
+   "has_court_in_state": false
+  },
+  "virginia": {
+   "court_city": "Annandale",
+   "immigration_court": "Annandale Immigration Court",
+   "legal_aid_name": "Just Neighbors",
+   "legal_aid_url": "https://www.justneighbors.org/",
+   "sources": [
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list",
+    "https://www.justice.gov/eoir/annandale-immigration-court",
+    "https://www.justneighbors.org/",
+    "https://www.dss.virginia.gov/community-and-volunteer-services/ona/immigrant-services/resources/"
+   ],
+   "state_note": "Virginia's main non-detained immigration court is in Annandale, with a second court in Sterling, and Just Neighbors in Annandale provides immigration legal services to low-income immigrants, asylees and refugees in northern Virginia.",
+   "has_court_in_state": true
+  },
+  "washington": {
+   "court_city": "Seattle",
+   "immigration_court": "Seattle Immigration Court",
+   "legal_aid_name": "Northwest Immigrant Rights Project (NWIRP)",
+   "legal_aid_url": "https://www.nwirp.org/",
+   "sources": [
+    "https://www.justice.gov/eoir/immigration-court-administrative-control-list",
+    "https://www.nwirp.org/",
+    "https://www.ltgov.wa.gov/7457"
+   ],
+   "state_note": "Washington's detained cases are heard at the Tacoma Immigration Court inside the Northwest ICE Processing Center, while non-detained cases go to Seattle, and NWIRP serves low-income immigrants statewide at or below 200% of the federal poverty level.",
+   "has_court_in_state": true
+  },
+  "west virginia": {
+   "court_city": "Sterling",
+   "immigration_court": "Sterling Immigration Court",
+   "legal_aid_name": "Catholic Charities West Virginia — Refugee Resettlement and Immigration Services",
+   "legal_aid_url": "https://www.catholiccharitieswv.org/",
+   "sources": [
+    "https://www.justice.gov/eoir/media/1376676/dl?inline",
+    "https://www.catholiccharitieswv.org/",
+    "https://www.immigrationadvocates.org/embedded/iamerica/search?state=WV&type=email",
+    "https://www.wvimmigrantvoices.org/support.html"
+   ],
+   "state_note": "West Virginia has no immigration court — EOIR sends its cases to Sterling, Virginia — and free immigration help in the state is very thin, with Catholic Charities West Virginia and the WVU Immigration Law Clinic in Morgantown among the few options.",
+   "has_court_in_state": false
+  },
+  "wisconsin": {
+   "court_city": "Chicago",
+   "immigration_court": "Chicago Immigration Court",
+   "legal_aid_name": "Catholic Charities of Milwaukee — Refugee and Immigration Services",
+   "legal_aid_url": "https://risccmke.org/en/",
+   "sources": [
+    "https://www.justice.gov/eoir/media/1376676/dl?inline",
+    "https://risccmke.org/en/",
+    "https://www.immigrationadvocates.org/embedded/iamerica/organization.393447-Catholic_Charities_of_Milwaukee_Refugee_and_Immigration_Services",
+    "https://naswwi.socialworkers.org/Professional-Development/Professional-Resources/Resources-for-Clients"
+   ],
+   "state_note": "Wisconsin has no immigration court — cases are heard in Chicago, Illinois — and Voces de la Frontera runs a statewide ICE-watch emergency hotline at 1-800-427-0213.",
+   "has_court_in_state": false
+  },
+  "wyoming": {
+   "court_city": "Denver",
+   "immigration_court": "Denver Immigration Court",
+   "legal_aid_name": "Immigrant Hope — Wyoming Idaho",
+   "legal_aid_url": "https://www.immigranthopewyomingidaho.org/",
+   "sources": [
+    "https://www.justice.gov/eoir/media/1376676/dl?inline",
+    "https://www.immigranthopewyomingidaho.org/",
+    "https://www.immigrationadvocates.org/legaldirectory/search?state=WY&national=0&county=&legalArea=&legalService=&nonLegalService=&interestArea=&population=&legalNetwork=&language=&detentionFacility=&text=&zip=&interpreting=0&type=email&type=email&type=email&type=email&type=email&type=email&type=email&type=email&type=email&type=email&type=email&type=email&type=email&type=email&type=email&type=email",
+    "https://search.wyoming211.org/search?query=FT-3600&query_label=Immigration%2FNaturalization%20Legal%20Services&query_type=taxonomy"
+   ],
+   "state_note": "Wyoming has no immigration court — eastern counties go to Denver, Colorado and western counties to Salt Lake City, Utah, depending on ZIP code — and only three nonprofit immigration legal providers are listed statewide.",
+   "has_court_in_state": false
+  }
+ }
+}

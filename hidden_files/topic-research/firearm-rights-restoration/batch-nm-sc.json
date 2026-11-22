@@ -1,0 +1,185 @@
+{
+  "New Mexico": {
+    "restoration_possible": "limited",
+    "restoration_note": "A person with a felony conviction can get firearm rights back only through a governor's pardon, and the pardon must specifically ask for the right to bear arms.",
+    "process": "pardon",
+    "process_note": "Apply to the Governor for a pardon to restore civil rights, asking specifically for the right to bear arms; the Parole Board investigates and recommends, and the Governor decides.",
+    "waiting_period": "5 to 8 years after discharge from supervision, depending on the felony level (5 years for a 4th-degree felony up to 8 years for a 1st-degree felony), plus one more year to seek the right to bear arms",
+    "statute_name": "Possession of firearms by a felon",
+    "statute_cite": "N.M. Stat. Ann. § 30-7-16",
+    "agency_name": "Office of the Governor of New Mexico (pardons; New Mexico Parole Board investigates)",
+    "agency_url": "https://governor.nm.gov/contact-the-governor/apply-for-clemency/",
+    "legal_aid_name": "New Mexico Legal Aid",
+    "legal_aid_url": "https://www.newmexicolegalaid.org/",
+    "state_note": "State law bans a person with a felony conviction from having a firearm for 10 years after the sentence ends, and a pardon that does not mention firearms will not restore gun rights.",
+    "sources": [
+      "https://governor.nm.gov/contact-the-governor/apply-for-clemency/",
+      "https://www.governor.nm.gov/assets/www.governor.state.nm.us/wp-content/uploads/2022/02/Executive-Clemency-Guidelines-2022.pdf",
+      "https://ccresourcecenter.org/state-restoration-profiles/new-mexico-restoration-of-rights-pardon-expungement-sealing/"
+    ]
+  },
+  "New York": {
+    "restoration_possible": "limited",
+    "restoration_note": "A person with a felony conviction can get firearm rights back through a Certificate of Relief from Disabilities or a Certificate of Good Conduct, but some convictions are excluded and a handgun still needs a separate license.",
+    "process": "court-petition",
+    "process_note": "Apply for a Certificate of Relief from Disabilities from the sentencing court, or a Certificate of Good Conduct from the Department of Corrections and Community Supervision, and the certificate must specifically state that it restores firearm rights.",
+    "waiting_period": "none for a Certificate of Relief from Disabilities; 1 to 5 years after release for a Certificate of Good Conduct, depending on the felony level",
+    "statute_name": "Certificates of Relief from Disabilities and Certificates of Good Conduct",
+    "statute_cite": "N.Y. Correct. Law §§ 701, 703-b",
+    "agency_name": "New York State Department of Corrections and Community Supervision (DOCCS), Certificate Review Unit, and the sentencing court",
+    "agency_url": "http://doccs.ny.gov/certificate-relief-disabilities-certificate-good-conduct-application-and-instructions-0",
+    "legal_aid_name": "The Legal Aid Society",
+    "legal_aid_url": "https://legalaidnyc.org/get-help/wrongful-convictions-clemency-sealing/",
+    "state_note": "A certificate must specifically say it restores firearm rights, and Class A-I felonies and violent felonies cannot have the pistol-license bar lifted by a certificate.",
+    "sources": [
+      "http://doccs.ny.gov/certificate-relief-disabilities-certificate-good-conduct-application-and-instructions-0",
+      "https://ccresourcecenter.org/state-restoration-profiles/new-york-restoration-of-rights-pardon-expungement-sealing/"
+    ]
+  },
+  "North Carolina": {
+    "restoration_possible": "limited",
+    "restoration_note": "A person with a single nonviolent felony conviction can ask a court to restore firearm rights, but violent felonies and people with more than one felony cannot use this route.",
+    "process": "court-petition",
+    "process_note": "Petition the district court in the county where the person lives, after a hearing where the person must show they meet the law's requirements and are not disqualified.",
+    "waiting_period": "20 years after civil rights were restored (when the sentence ended)",
+    "statute_name": "Restoration of firearms rights",
+    "statute_cite": "N.C.G.S. § 14-415.4",
+    "agency_name": "North Carolina District Court in the county where the person lives",
+    "agency_url": null,
+    "legal_aid_name": "Legal Aid of North Carolina",
+    "legal_aid_url": "https://legalaidnc.org/",
+    "state_note": "Only one nonviolent felony qualifies, and Class A, B1, and B2 felonies plus assault, firearm, and sex-offender-registration offenses are excluded.",
+    "sources": [
+      "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/ByArticle/Chapter_14/Article_54A.html",
+      "https://www.ncleg.gov/EnactedLegislation/SessionLaws/HTML/2021-2022/SL2021-116.html"
+    ]
+  },
+  "North Dakota": {
+    "restoration_possible": "yes",
+    "restoration_note": "Firearm rights come back on their own when the ban period ends, and a person with a nonviolent felony can also ask a court to restore them sooner.",
+    "process": "automatic",
+    "process_note": "No application is needed once the ban period runs out, but a person with a nonviolent felony may petition the district court for earlier restoration if fines are paid, the sentence is finished, and they are not likely to be a danger to others.",
+    "waiting_period": "5 years after conviction or release from prison, parole, or probation for a nonviolent felony, or 10 years for a violent felony, whichever is latest",
+    "statute_name": "Persons who are not to possess firearms; Restoration of right to possess firearm",
+    "statute_cite": "N.D. Cent. Code §§ 62.1-02-01, 62.1-02-01.1",
+    "agency_name": "North Dakota District Court",
+    "agency_url": "https://www.ndcourts.gov/legal-self-help/other-resources",
+    "legal_aid_name": "Legal Services of North Dakota",
+    "legal_aid_url": "https://lsnd.org/",
+    "state_note": "The early court petition is only open to nonviolent felonies, so a person with a violent felony must wait out the full 10-year ban.",
+    "sources": [
+      "https://statecodesfiles.justia.com/north-dakota/2023/title-62-1/chapter-62-1-02/chapter-62-1-02.pdf?ts=1712867906",
+      "https://codes.findlaw.com/nd/title-62-1-weapons/nd-cent-code-sect-62-1-02-01-1/"
+    ]
+  },
+  "Ohio": {
+    "restoration_possible": "yes",
+    "restoration_note": "A person with a felony conviction can ask a court to lift the firearm ban once the sentence is fully finished.",
+    "process": "court-petition",
+    "process_note": "Apply to the Court of Common Pleas in the county where the person lives for relief from the weapons disability, showing full discharge from prison and supervision and a law-abiding life since then.",
+    "waiting_period": "none — a person may apply any time after being fully discharged from prison, community control, post-release control, and parole",
+    "statute_name": "Relief from disability",
+    "statute_cite": "Ohio Rev. Code § 2923.14",
+    "agency_name": "Court of Common Pleas in the county where the person lives",
+    "agency_url": "https://www.supremecourt.ohio.gov/",
+    "legal_aid_name": "Ohio Legal Help",
+    "legal_aid_url": "https://www.ohiolegalhelp.org/letters-forms/criminal-sealing-eligibility",
+    "state_note": "Relief restores all civil firearm rights, but the court can revoke it, and it is automatically void if the person later commits a violent or drug-trafficking offense.",
+    "sources": [
+      "http://codes.ohio.gov/ohio-revised-code/section-2923.14/9-30-2011",
+      "https://www.supremecourt.ohio.gov/docs/Boards/Sentencing/resources/judPractitioner/adultRightsRestoration.pdf?ref=blog.counselstack.com"
+    ]
+  },
+  "Oklahoma": {
+    "restoration_possible": "limited",
+    "restoration_note": "A person with a felony conviction can get firearm rights back only through a full pardon, and there is no court petition that restores them.",
+    "process": "pardon",
+    "process_note": "Apply for a pardon through the Pardon and Parole Board, which investigates and holds a hearing; if a majority recommends it, the Governor decides whether to grant the pardon.",
+    "waiting_period": "5 years after being discharged from all sentences and supervision, or after 5 straight years of parole or probation just before applying",
+    "statute_name": "Possession of firearms by convicted felons",
+    "statute_cite": "Okla. Stat. tit. 21, § 1283",
+    "agency_name": "Oklahoma Pardon and Parole Board (recommends; Governor grants)",
+    "agency_url": "https://oklahoma.gov/ppb/pardons-commutations/pardons.html",
+    "legal_aid_name": "Legal Aid Services of Oklahoma",
+    "legal_aid_url": "https://legalaidok.org/",
+    "state_note": "Only a full and complete pardon restores firearm rights in Oklahoma, and a pardon does not erase the conviction from the record.",
+    "sources": [
+      "https://oklahoma.gov/ppb/pardons-commutations/pardons.html",
+      "https://ccresourcecenter.org/state-restoration-profiles/oklahoma-restoration-of-rights-pardon-expungement-sealing/"
+    ]
+  },
+  "Oregon": {
+    "restoration_possible": "yes",
+    "restoration_note": "A person with a felony conviction can ask a court to lift the firearm ban, though Measure 11 offenses and person felonies involving a firearm or deadly weapon are excluded.",
+    "process": "court-petition",
+    "process_note": "File a petition in the circuit court of the county where the person lives, serve a copy on the local police chief or sheriff, and prove by clear and convincing evidence that the person is not a threat to the public or to themselves.",
+    "waiting_period": "1 year after the felony sentence ends, including parole, probation, and post-prison supervision",
+    "statute_name": "Relief from prohibition against possessing or receiving a firearm",
+    "statute_cite": "ORS 166.274",
+    "agency_name": "Oregon Circuit Court in the county where the person lives (Oregon Judicial Department)",
+    "agency_url": "https://www.courts.oregon.gov/",
+    "legal_aid_name": "Legal Aid Services of Oregon",
+    "legal_aid_url": "https://lasoregon.org/",
+    "state_note": "Time alone does not restore rights in Oregon — the state Supreme Court has held the 15-year provision does not lift the ban, so a court order, set-aside, or pardon is needed.",
+    "sources": [
+      "https://www.oregonlegislature.gov/bills_laws/lawsstatutes/2010orLaw0086.html",
+      "https://law.justia.com/codes/oregon/2017/volume-04/chapter-166/section-166.274/",
+      "https://www.courts.oregon.gov/forms/Documents/CriminalSetAside_AdultCases.pdf"
+    ]
+  },
+  "Pennsylvania": {
+    "restoration_possible": "limited",
+    "restoration_note": "A person with a felony conviction can get firearm rights back through a governor's pardon, and some people can also ask a court for relief after 10 years.",
+    "process": "pardon",
+    "process_note": "Apply to the Board of Pardons for clemency; the Board investigates and holds a hearing, and the Governor can only grant a pardon if the Board recommends it.",
+    "waiting_period": "no fixed period for a pardon; 10 years after release from prison for the court-petition route under 18 Pa.C.S. § 6105(d)",
+    "statute_name": "Persons not to possess, use, manufacture, control, sell or transfer firearms",
+    "statute_cite": "18 Pa.C.S. § 6105",
+    "agency_name": "Pennsylvania Board of Pardons",
+    "agency_url": "https://www.pa.gov/agencies/bop",
+    "legal_aid_name": "Pennsylvania Legal Aid Network",
+    "legal_aid_url": "https://palegalaid.net/overview",
+    "state_note": "A pardon is the most common route, and the Board of Pardons must recommend it before the Governor can grant it.",
+    "sources": [
+      "https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/18/00.061.005.000..HTM",
+      "https://www.pa.gov/agencies/bop"
+    ]
+  },
+  "Rhode Island": {
+    "restoration_possible": "limited",
+    "restoration_note": "Rhode Island's firearm ban covers crimes of violence rather than every felony, and for a crime of violence there is no court process to restore rights — only a governor's pardon, which is rarely granted.",
+    "process": "pardon",
+    "process_note": "Petition the Governor directly in writing for a pardon, since there is no pardon board or formal application form; the Governor also needs the Senate's consent before granting one.",
+    "waiting_period": "no fixed period — a person may petition the Governor at any time, but pardons are rarely granted",
+    "statute_name": "Possession of firearms by certain persons prohibited",
+    "statute_cite": "R.I. Gen. Laws § 11-47-5",
+    "agency_name": "Office of the Governor of Rhode Island",
+    "agency_url": null,
+    "legal_aid_name": "Rhode Island Legal Services",
+    "legal_aid_url": "https://www.rils.org/",
+    "state_note": "Rhode Island's ban covers crimes of violence, not every felony, so a nonviolent felony alone does not bar firearm possession under state law.",
+    "sources": [
+      "https://ccresourcecenter.org/state-restoration-profiles/rhode-island-restoration-of-rights-pardon-expungement-sealing/",
+      "https://webserver.rilegislature.gov/BillText23/SenateText23/S0744.htm"
+    ]
+  },
+  "South Carolina": {
+    "restoration_possible": "limited",
+    "restoration_note": "A person with a felony conviction can get firearm rights back only through a pardon, which is granted by a board rather than the Governor.",
+    "process": "pardon",
+    "process_note": "Apply to the Department of Probation, Parole and Pardon Services with three letters of support and the fee; the Board of Paroles and Pardons holds a hearing and must approve by at least two-thirds.",
+    "waiting_period": "none after discharge from a sentence or probation; 5 years under supervision for parolees",
+    "statute_name": "Guidelines for determining eligibility for pardon",
+    "statute_cite": "S.C. Code Ann. § 24-21-950",
+    "agency_name": "South Carolina Department of Probation, Parole and Pardon Services (Board of Paroles and Pardons)",
+    "agency_url": "https://ppp.sc.gov/parole-pardon-release-services/pardon-application",
+    "legal_aid_name": "South Carolina Legal Services",
+    "legal_aid_url": "https://sclegal.org/",
+    "state_note": "In South Carolina pardons are granted by a seven-member board, not the Governor, and all restitution must be paid in full before a pardon can be granted.",
+    "sources": [
+      "https://ppp.sc.gov/parole-pardon-release-services/pardon-application",
+      "https://law.justia.com/codes/south-carolina/2022/title-24/chapter-21/section-24-21-950/",
+      "https://law.justia.com/cases/south-carolina/court-of-appeals/2001/3337.html"
+    ]
+  }
+}
