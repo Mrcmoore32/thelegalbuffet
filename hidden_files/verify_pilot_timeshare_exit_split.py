@@ -18,7 +18,7 @@ Checks, all against the main branch as the baseline:
 5. Helper (real helperUrl code, run in node): all topics x all states — only
    timeshare-exit destinations changed vs the old logic.
 6. Anchor-catch (real script from 3 hub pages, run in node): matching hash
-   redirects to 'timeshare-exit/', anything else does not.
+   redirects to '/states/<state>/timeshare-exit/', anything else does not.
 7. Sitemaps: sitemap.xml is an index listing 51 sitemaps; every per-state
    sitemap lists its new page; sitemap-pages.xml lists the original 60;
    robots.txt still points at sitemap.xml.
@@ -128,14 +128,27 @@ def main():
         new = (ROOT / "states" / f"{slug}.html").read_text()
         old = git_main(f"states/{slug}.html")
         problems = []
-        if f'Timeshare exit in {state} now has its own page: <a href="timeshare-exit/">read the full guide &rarr;</a>' not in new:
+        if f'Timeshare exit in {state} now has its own page: <a href="/states/{slug}/timeshare-exit/">read the full guide &rarr;</a>' not in new:
             problems.append("stub link")
-        if f'href="timeshare-exit/"' not in new:
+        if f'href="/states/{slug}/timeshare-exit/"' not in new:
             problems.append("contents li")
         if 'The cooling-off window: your best exit' in new:
             problems.append("section content still present")
-        if f"'#timeshare-exit-in-{slug}': 'timeshare-exit/'" not in new:
+        if f"'#timeshare-exit-in-{slug}': '/states/{slug}/timeshare-exit/'" not in new:
             problems.append("catch script")
+        # Resolve the hub's timeshare links against the hub's REAL url
+        # (states/<slug>.html, base /states/) — a bare 'timeshare-exit/'
+        # would land on /states/timeshare-exit/ and 404 (bug found live
+        # 2026-11-22). Absolute paths must survive urljoin unchanged.
+        from urllib.parse import urljoin
+        base = f"https://thelegalbuffet.com/states/{slug}.html"
+        want = f"https://thelegalbuffet.com/states/{slug}/timeshare-exit/"
+        for href in re.findall(r'href="([^"]*timeshare-exit/[^"]*)"', new):
+            if urljoin(base, href) != want:
+                problems.append(f"hub link resolves wrong: {href}")
+        m = re.search(r"'#timeshare-exit-in-" + re.escape(slug) + r"': '([^']+)'", new)
+        if not m or urljoin(base, m.group(1)) != want:
+            problems.append("catch dest resolves wrong")
         old_h2 = set(re.findall(r'<h2 id="([^"]+)">', old))
         new_h2 = set(re.findall(r'<h2 id="([^"]+)">', new))
         # On the old hub the timeshare id lives on the <section> tag, not the h2;
@@ -154,7 +167,8 @@ def main():
         stub = re.search(r'<section class="block"[^>]*>\s*<h2 id="timeshare-exit-in-'
                          + re.escape(slug) + r'".*?</section>', new, re.DOTALL).group(0)
         script = re.search(r'<script>\n/\* Split-pages pilot.*?</script>', new, re.DOTALL).group(0)
-        allowed_lost = Counter(tokens(sec))
+        old_script = re.search(r'<script>\n/\* Split-pages pilot.*?</script>', old, re.DOTALL).group(0)
+        allowed_lost = Counter(tokens(sec)) + Counter(tokens(old_script))
         allowed_gained = Counter(tokens(stub)) + Counter(tokens(script))
         extra_lost = [k for k in lost if lost[k] > allowed_lost.get(k, 0)]
         extra_gained = [k for k in gained if gained[k] > allowed_gained.get(k, 0)]
@@ -289,49 +303,50 @@ const CASES = {
 
 
 def node_helper():
+    # Test the CURRENT helperUrl directly (no baseline: main already has the
+    # pilot, so an old-vs-new diff can no longer show the change). For every
+    # topic option x every state, the destination must follow helperUrl's
+    # rules: exact-anchor topics to states/<s>.html#<exact>, split topics to
+    # states/<s>/<slug>/, the rest to states/<s>.html#<slug>-in-<s>.
     html = (ROOT / "index.html").read_text()
-    main_html = git_main("index.html")
-    for label, src, new in (("new", html, True), ("old", main_html, False)):
-        m = re.search(r'var SPLIT_TOPICS = \{[^}]*\};\s*\n\s*function helperUrl\(topicOpt, stateSlug\) \{[\s\S]*?\n  \}'
-                      if new else
-                      r'function helperUrl\(topicOpt, stateSlug\) \{[\s\S]*?\n  \}', src)
-        if not m:
-            check(f"helperUrl extract ({label})", False)
-            return
-        (ROOT / "hidden_files" / f"_verify_helper_{label}.js").write_text(
-            m.group(0) + "\nmodule.exports = helperUrl;\n")
+    m = re.search(r'var SPLIT_TOPICS = \{[^}]*\};\s*\n\s*function helperUrl\(topicOpt, stateSlug\) \{[\s\S]*?\n  \}', html)
+    if not m:
+        check("helperUrl extract", False)
+        return
+    (ROOT / "hidden_files" / "_verify_helper_new.js").write_text(
+        m.group(0) + "\nmodule.exports = helperUrl;\n")
     # options from the helper select
     opts = re.findall(r'<option value="([^"]+)"(?: data-anchor="([^"]+)")?(?: data-anchor-exact="([^"]+)")?', html)
     script = r'''
-const fs = require('fs');
-const oldFn = require(process.argv[2]);
-const newFn = require(process.argv[3]);
-const opts = JSON.parse(process.argv[4]);
-const states = JSON.parse(process.argv[5]);
+const newFn = require(process.argv[2]);
+const opts = JSON.parse(process.argv[3]);
+const states = JSON.parse(process.argv[4]);
 function opt(o) { return { getAttribute: n => n === 'data-anchor' ? (o[1] || null) : n === 'data-anchor-exact' ? (o[2] || null) : null }; }
-let changed = [], bad = [];
+let split = 0, bad = [];
 for (const o of opts) for (const s of states) {
-  const a = oldFn(opt(o), s), b = newFn(opt(o), s);
-  if (a !== b) changed.push([o[0], s, a, b]);
-  if (o[1] === 'timeshare-exit' && b !== 'states/' + s + '/timeshare-exit/') bad.push([s, b]);
+  const b = newFn(opt(o), s);
+  const want = o[2] ? 'states/' + s + '.html#' + o[2]
+    : o[1] === 'timeshare-exit' ? 'states/' + s + '/timeshare-exit/'
+    : o[1] ? 'states/' + s + '.html#' + o[1] + '-in-' + s
+    : 'states/' + s + '.html';
+  if (o[1] === 'timeshare-exit') split++;
+  if (b !== want) bad.push([o[0], s, b, want]);
 }
-const ok = changed.length === 50 && changed.every(c => c[2] === 'states/' + c[1] + '.html#timeshare-exit-in-' + c[1] && c[3] === 'states/' + c[1] + '/timeshare-exit/') && bad.length === 0;
-console.log('HELPER changed=' + changed.length + ' bad=' + bad.length);
-if (!ok) console.log(JSON.stringify(changed.slice(0, 5)));
-process.exit(ok ? 0 : 1);
+console.log('HELPER split=' + split + ' bad=' + bad.length);
+if (bad.length) console.log(JSON.stringify(bad.slice(0, 5)));
+process.exit(split === 50 && bad.length === 0 ? 0 : 1);
 '''
     (ROOT / "hidden_files" / "_verify_helper_probe.js").write_text(script)
     # state slugs from the helper's JS state list (the select is JS-populated)
     states = sorted(set(re.findall(r'\["[^"]+", "([a-z-]+)"\]', html)))
     assert len(states) == 50, f"state list has {len(states)} entries"
     r = subprocess.run(['node', str(ROOT / "hidden_files" / "_verify_helper_probe.js"),
-                        str(ROOT / "hidden_files" / "_verify_helper_old.js"),
                         str(ROOT / "hidden_files" / "_verify_helper_new.js"),
                         json.dumps(opts),
                         json.dumps(states)],
                        capture_output=True, text=True)
     print(r.stdout.strip())
-    check("helper simulation: only timeshare-exit changed (50 states)", r.returncode == 0,
+    check("helper simulation: only timeshare-exit split (50 states)", r.returncode == 0,
           r.stderr.strip()[:200] or r.stdout.strip()[:300])
 
 
@@ -349,7 +364,7 @@ function run(hash) {
   return dest;
 }
 const slug = process.argv[3];
-const good = run('#timeshare-exit-in-' + slug) === 'timeshare-exit/';
+const good = run('#timeshare-exit-in-' + slug) === '/states/' + slug + '/timeshare-exit/';
 const noOther = run('#divorce-in-' + slug) === null && run('') === null;
 console.log(slug + ' match=' + good + ' other=' + noOther);
 process.exit(good && noOther ? 0 : 1);
