@@ -1,0 +1,185 @@
+{
+  "new mexico": {
+    "state": "New Mexico",
+    "slug": "new-mexico",
+    "overview": "New Mexico tackles kids' online safety mostly through school bullying-prevention rules and criminal laws against online solicitation of children. The state has no dedicated teen-sexting law and no social-media age-verification statute, so most teen sexting cases fall under the state's child sexual exploitation law. The Attorney General's Internet Crimes Against Children Unit runs the statewide task force and triages reports from the national CyberTipline.",
+    "cyberbullying": "Safe Schools for All Students Act, NMSA 1978 §§ 22-35-1 through 22-35-5 (implemented by 6.12.7 NMAC) — 'cyberbullying' means bullying through electronic communication, and every local school board must adopt and enforce a bullying prevention policy.",
+    "sexting": "No dedicated teen-sexting law (a 2016 bill, SB 320, that would have created one was never enacted); minors are charged under NMSA 1978 § 30-6A-3 (Sexual Exploitation of Children — possession is a 4th-degree felony, distribution a 3rd-degree felony), with a narrow exception for consensual close-in-age possession by minors aged 14–18.",
+    "grooming": "NMSA 1978 § 30-37-3.2, 'Child solicitation by electronic communication device' — it is a crime for a person at least 4 years older than the child to knowingly solicit a child under 16 by electronic device to engage in sexual conduct; a 4th-degree felony (child 13–15) or 3rd-degree felony (child under 13), with a higher penalty if the person shows up at an arranged meeting.",
+    "age_design": "",
+    "report_name": "New Mexico Department of Justice, Internet Crimes Against Children Unit",
+    "report_url": "https://nmdoj.gov/about-the-office/criminal-affairs/special-investigations/",
+    "legal_aid_name": "New Mexico Legal Aid",
+    "legal_aid_url": "https://newmexicolegalaid.org/",
+    "sources": [
+      "https://www.srca.nm.gov/parts/title06/06.012.0007.pdf",
+      "https://nmlegis.gov/Sessions/07%20Regular/bills/house/HB0663.html",
+      "https://nmdoj.gov/about-the-office/criminal-affairs/special-investigations/"
+    ]
+  },
+  "new york": {
+    "state": "New York",
+    "slug": "new-york",
+    "overview": "New York protects kids online through school anti-bullying rules, criminal laws against luring children online, and a diversion option that keeps many teen sexting cases out of court. Its 2024 SAFE for Kids Act will limit addictive social-media feeds and overnight notifications for under-18s once it takes effect in January 2027. The New York State Police run the statewide Internet Crimes Against Children Task Force out of Albany.",
+    "cyberbullying": "Dignity for All Students Act (DASA), N.Y. Educ. Law §§ 10–18 — school districts must adopt policies prohibiting harassment, bullying, and cyberbullying, including off-campus conduct that affects the school environment.",
+    "sexting": "No dedicated teen-sexting statute; teens can face felony charges under N.Y. Penal Law Article 263, but Penal Law § 60.37 (with Soc. Serv. Law § 458-l) lets a court divert eligible young people (both parties under 20, no more than 5 years apart) to an education program instead of prosecution.",
+    "grooming": "N.Y. Penal Law § 120.70, 'Luring a child' — a Class E felony for an adult 18 or older who uses a computer to solicit a child under 17 for sexual intercourse, sexual contact, or a sexual performance, or to arrange in-person contact for a listed sex offense.",
+    "age_design": "Stop Addictive Feeds Exploitation (SAFE) for Kids Act (S7694A, signed June 20, 2024) — enacted, takes effect January 25, 2027; requires age determination and bars 'addictive feeds' and overnight notifications (12:00 AM–6:00 AM) to users under 18 without parental consent, enforced by the Attorney General with penalties up to $5,000 per violation. A companion law, the NY Child Data Protection Act, took effect June 20, 2025.",
+    "report_name": "New York State Internet Crimes Against Children Task Force",
+    "report_url": "https://nysicac.com/",
+    "legal_aid_name": "LawHelpNY",
+    "legal_aid_url": "https://www.lawhelpny.org/",
+    "sources": [
+      "https://legislation.nysenate.gov/pdf/bills/2025/a7687c",
+      "https://nysicac.com/",
+      "https://ag.ny.gov/press-release/2003/internet-crimes-against-children-task-force-0"
+    ]
+  },
+  "north carolina": {
+    "state": "North Carolina",
+    "slug": "north-carolina",
+    "overview": "North Carolina is one of the few states that makes cyberbullying itself a crime, and it has a dedicated computer-solicitation law for adults who target children online. It has no dedicated teen-sexting law and no enacted social-media age-verification law, so teen sexting is prosecuted under felony sexual-exploitation statutes. The State Bureau of Investigation's Computer Crimes Unit leads the state's Internet Crimes Against Children Task Force.",
+    "cyberbullying": "N.C.G.S. § 14-458.1, 'Cyber-bullying; penalty' — a criminal offense for using a computer or network to intimidate or torment a minor (fake profiles, posting private or sexual information, hacking accounts, repeated messages, and more); a Class 1 misdemeanor if the defendant is 18 or older, a Class 2 misdemeanor if under 18, with possible diversion and expungement for under-18 offenders.",
+    "sexting": "No dedicated teen-sexting law; prosecuted under felony Sexual Exploitation of a Minor statutes, N.C.G.S. §§ 14-190.16 (1st degree), 14-190.17 (2nd degree — recording or distributing, Class E felony), and 14-190.17A (3rd degree — possession, Class H felony).",
+    "grooming": "N.C.G.S. § 14-202.3, 'Solicitation of child by computer or certain other electronic devices to commit an unlawful sex act' — a person 16 or older who knowingly entices a child under 16 (at least 5 years younger) by computer or electronic device to meet to commit an unlawful sex act commits a Class G felony on a first offense (Class E for a second offense; Class D if the person shows up at the meeting place); the child's consent is not a defense.",
+    "age_design": "",
+    "report_name": "North Carolina State Bureau of Investigation, Computer Crimes Unit",
+    "report_url": "https://www.ncsbi.gov/Divisions/Field-Operations/Computer-Crimes.aspx",
+    "legal_aid_name": "Legal Aid of North Carolina",
+    "legal_aid_url": "https://legalaidnc.org/",
+    "sources": [
+      "https://www.ncleg.gov/enactedlegislation/statutes/pdf/bysection/chapter_14/gs_14-458.1.pdf?preview=true&",
+      "https://www.ncleg.gov/EnactedLegislation/SessionLaws/PDF/2005-2006/SL2005-121.pdf",
+      "https://www.ncsbi.gov/Divisions/Field-Operations/Computer-Crimes.aspx"
+    ]
+  },
+  "north dakota": {
+    "state": "North Dakota",
+    "slug": "north-dakota",
+    "overview": "North Dakota handles cyberbullying through school-district policies, covers online conduct that reaches into the school, and prosecutes online luring of minors under a 2001 computer-luring law. It has no dedicated teen-sexting offense and no social-media age-verification law; teen sexting cases are usually charged under a general law against creating or sharing sexually explicit images without consent, or under felony child sexual abuse material laws. The Attorney General's Bureau of Criminal Investigation runs the state's Internet Crimes Against Children Task Force.",
+    "cyberbullying": "N.D. Cent. Code §§ 15.1-19-17, 15.1-19-18, and 15.1-19-20 — 'bullying' includes conduct by electronic device, and since 2019 it covers cyberbullying sent or received off school property that puts a student in fear of harm or substantially disrupts school; every school district board must adopt a policy prohibiting bullying.",
+    "sexting": "No minor-specific sexting offense; the closest law is N.D. Cent. Code § 12.1-27.1-03.3, which makes it a Class A misdemeanor to secretly create or possess a sexually expressive image without written consent, or to share one to cause emotional harm — but it does not turn on the depicted person's age. Other conduct falls under felony child sexual abuse material laws (N.D.C.C. ch. 12.1-27.2).",
+    "grooming": "N.D.C.C. § 12.1-20-05.1, 'Luring minors by computer or other electronic means' — an adult who knowingly uses a computer or electronic means to communicate sexual content with a person believed to be a minor and invites or induces them into sexual acts, sexual contact, or a sexual performance commits a Class A misdemeanor, graded up to a Class B or C felony depending on the ages involved.",
+    "age_design": "",
+    "report_name": "North Dakota Office of Attorney General, Bureau of Criminal Investigation",
+    "report_url": "https://attorneygeneral.nd.gov/",
+    "legal_aid_name": "Legal Services of North Dakota",
+    "legal_aid_url": "https://www.legalassist.org/",
+    "sources": [
+      "https://ndlegis.gov/prod/assembly/66-2019/documents/19-0523-04000.pdf",
+      "https://ndlegis.gov/prod/cencode/t12-1c27-2.pdf",
+      "https://attorneygeneral.nd.gov/"
+    ]
+  },
+  "ohio": {
+    "state": "Ohio",
+    "slug": "ohio",
+    "overview": "Ohio requires every school district to have an anti-bullying policy that expressly covers cyberbullying, and it has a dedicated law against minors sexting, with an educational diversion option. Its social-media parental-consent law is tied up in court and is not currently being enforced. The statewide Internet Crimes Against Children Task Force, chaired by the Cuyahoga County Prosecutor, covers all 88 counties.",
+    "cyberbullying": "Ohio Rev. Code § 3313.666 (Jessica Logan Act, 2012) — every school district board must adopt a policy prohibiting harassment, intimidation, or bullying, expressly including acts by 'electronic act' (cell phone, computer, or other device), with anonymous reporting, possible suspension for cyberbullying, and annual instruction.",
+    "sexting": "Ohio Rev. Code § 2907.324 — a person under 19 may not create, send, or possess sexually explicit digital material depicting a minor through a telecommunications device, with exceptions for self-images that are not shared and for lawful purposes; courts must offer an educational diversion program for eligible first-time offenders. Teens can also face felony charges under ORC §§ 2907.322 and 2907.323.",
+    "grooming": "Ohio Rev. Code § 2907.07, 'Importuning' — an adult 18 or older who solicits a minor by telecommunications device to engage in sexual activity commits a felony (3rd degree for victims under 13, 5th degree for victims 13–15); current version effective August 9, 2024.",
+    "age_design": "Ohio Social Media Parental Notification Act (2023, ORC § 1349.09) — required platforms to verify users are 16 or older or get parental consent for users under 16; NOT currently in effect: a federal court permanently enjoined it on April 16, 2025, the Sixth Circuit vacated that injunction on June 18, 2026, and the mandate was stayed on August 17, 2026 while NetChoice seeks U.S. Supreme Court review.",
+    "report_name": "Ohio Internet Crimes Against Children Task Force",
+    "report_url": "https://www.ccprosecutor.us/what-we-do/",
+    "legal_aid_name": "Ohio Legal Help",
+    "legal_aid_url": "https://www.ohiolegalhelp.org/",
+    "sources": [
+      "https://codes.ohio.gov/assets/laws/revised-code/authenticated/29/2907/2907.07/8-9-2024/2907.07-8-9-2024.pdf",
+      "https://www.legislature.ohio.gov/download?key=10427",
+      "https://www.ccprosecutor.us/what-we-do/"
+    ]
+  },
+  "oklahoma": {
+    "state": "Oklahoma",
+    "slug": "oklahoma",
+    "overview": "Oklahoma fights cyberbullying through school policies, has one of the country's few dedicated teen-sexting laws with tiered juvenile penalties, and criminalizes online solicitation of minors. It has no enacted social-media age-verification law. The State Bureau of Investigation hosts the Oklahoma Internet Crimes Against Children Task Force, which has more than 50 partner agencies.",
+    "cyberbullying": "School Safety and Bullying Prevention Act, 70 O.S. §§ 24-100.3 and 24-100.4 — 'bullying' includes conduct by electronic communication, and every district board of education must adopt a policy addressing bullying by students at school and by electronic communication, with anonymous reporting, investigation, discipline, and referral procedures.",
+    "sexting": "10A O.S. § 2-8-221, 'Transmission of Obscene or Sexual Abuse Materials' — a dedicated teen-sexting law: a person under 18 who sends or forwards obscene material or child sexual abuse material depicting a real person under 18 faces a tiered juvenile misdemeanor (fines $500–$1,800), though the district attorney may elect to file a felony instead; adults face felony charges under 21 O.S. § 1021.2.",
+    "grooming": "21 O.S. § 1040.13a — it is unlawful to facilitate, encourage, offer, or solicit sexual conduct with a minor, or a person believed to be a minor, by use of any technology, or to communicate with a minor by technology for sexual or prurient interest; a Class B4 felony (up to 10 years, fine up to $10,000), with each communication a separate offense.",
+    "age_design": "",
+    "report_name": "Oklahoma State Bureau of Investigation, Internet Crimes Against Children (ICAC) Unit",
+    "report_url": "https://oklahoma.gov/osbi/services/investigative-services-division/investigative-statewide-units/internet-crimes-against-children-icac.html",
+    "legal_aid_name": "Legal Aid Services of Oklahoma",
+    "legal_aid_url": "https://legalaidok.org/",
+    "sources": [
+      "https://www.oklegislature.gov/cf_pdf/2011-12%20INT/hB/HB2891%20INT.PDF",
+      "https://oklahoma.gov/osbi/services/investigative-services-division/investigative-statewide-units/internet-crimes-against-children-icac.html",
+      "https://law.justia.com/codes/oklahoma/title-21/section-21-1040-13a/"
+    ]
+  },
+  "oregon": {
+    "state": "Oregon",
+    "slug": "oregon",
+    "overview": "Oregon requires school districts to ban cyberbullying, prosecutes teen sexting under felony child sexual abuse laws (there is no dedicated sexting statute), and has online sexual corruption laws aimed at adults who solicit children and try to meet them. It has no social-media age-verification law, though a 2025 privacy law limits how companies can use data from children under 16. The Department of Justice runs the state's Internet Crimes Against Children Task Force and its 'Keeping Kids Safe' initiative.",
+    "cyberbullying": "ORS 339.356 (definitions at ORS 339.351) — every school district must adopt a policy prohibiting harassment, intimidation, or bullying and prohibiting cyberbullying (using any electronic communication device to harass, intimidate, or bully), with uniform reporting and investigation procedures, anonymous reporting, parental notification, and consequences.",
+    "sexting": "No dedicated sexting statute; prosecuted under ORS 163.684 (encouraging child sexual abuse, 1st degree, Class B felony — distribution), ORS 163.686 (2nd degree, Class C felony — possession or viewing), ORS 163.687 (3rd degree, Class A misdemeanor), and ORS 163.689/163.690 (possession of materials depicting sexually explicit conduct of a child), with no age-based exception for minors.",
+    "grooming": "ORS 163.432 (online sexual corruption of a child in the 2nd degree, Class C felony) and ORS 163.433 (1st degree, Class B felony) — a person 18 or older who knowingly uses an online communication to solicit a child to engage in sexual contact or sexually explicit conduct and offers or agrees to physically meet; 1st degree adds intentionally taking a substantial step toward meeting. ORS 167.057, 'Luring a minor,' is also a Class C felony.",
+    "age_design": "",
+    "report_name": "Oregon Department of Justice, Keeping Kids Safe",
+    "report_url": "https://www.doj.state.or.us/oregon-department-of-justice/office-of-the-attorney-general/keeping-kids-safe/",
+    "legal_aid_name": "Oregon Law Help",
+    "legal_aid_url": "https://oregonlawhelp.org/",
+    "sources": [
+      "https://stage.oregon.gov/ode/students-and-family/healthsafety/Documents/bullyingguidance.pdf",
+      "https://www.doj.state.or.us/oregon-department-of-justice/office-of-the-attorney-general/keeping-kids-safe/",
+      "https://codes.findlaw.com/or/title-30-education-and-culture/or-rev-st-sect-339-356/"
+    ]
+  },
+  "pennsylvania": {
+    "state": "Pennsylvania",
+    "slug": "pennsylvania",
+    "overview": "Pennsylvania requires every school to have a bullying policy that covers electronic acts, has a tiered sexting law that favors diversion for first-time teen offenders, and criminalizes unlawful contact with a minor, including contact made online. It has no enacted social-media age-verification law. The Pennsylvania Internet Crimes Against Children Task Force, administered by the Delaware County District Attorney, is the statewide clearinghouse for national CyberTips.",
+    "cyberbullying": "24 Pa. Stat. § 13-1303.1-A, 'Policy relating to bullying' — 'bullying' means an intentional electronic, written, verbal, or physical act directed at another student that is severe, persistent, or pervasive and substantially interferes with education or creates a threatening environment; every school entity must adopt a policy, post it online and in every classroom, review it with students yearly, and review the policy every 3 years.",
+    "sexting": "18 Pa.C.S. § 6321, 'Transmission of sexually explicit images by minor' — tiered: a summary offense for a minor who knowingly transmits an explicit image of themself or possesses or views an image of a minor 12 or older; a 3rd-degree misdemeanor for transmitting an image of another minor 12 or older; a 2nd-degree misdemeanor if done to coerce, intimidate, torment, or harass; first consideration goes to a diversionary program with expungement on successful completion. Images showing intercourse, penetration, or commercial use fall under § 6312 instead.",
+    "grooming": "18 Pa.C.S. § 6318, 'Unlawful contact with minor' — intentionally contacting a minor (or a law-enforcement officer posing as a minor) to engage in a listed prohibited activity, including sex offenses, human trafficking, and sexual abuse or exploitation of children; graded the same as the most serious underlying offense or a 3rd-degree felony, whichever is greater; the Attorney General has concurrent jurisdiction when contact is made by computer or network.",
+    "age_design": "",
+    "report_name": "Pennsylvania Internet Crimes Against Children (ICAC) Task Force",
+    "report_url": "https://www.onlinesafety.com/",
+    "legal_aid_name": "Pennsylvania Legal Aid Network",
+    "legal_aid_url": "https://palegalaid.net/",
+    "sources": [
+      "https://www.legis.state.pa.us/WU01/LI/LI/US/HTM/2012/0/0198..HTM",
+      "https://www.legis.state.pa.us/WU01/LI/LI/CT/HTM/18/00.063.018.000..HTM",
+      "https://www.stopbullying.gov/resources/laws/pennsylvania",
+      "https://www.onlinesafety.com/"
+    ]
+  },
+  "rhode island": {
+    "state": "Rhode Island",
+    "slug": "rhode-island",
+    "overview": "Rhode Island requires all schools to follow a statewide bullying policy that expressly covers cyberbullying, and it was an early adopter of a teen-sexting law that treats a minor's self-image as a status offense in Family Court rather than a crime. It has no social-media age-verification law. The Rhode Island State Police run the state's Internet Crimes Against Children Task Force.",
+    "cyberbullying": "R.I. Gen. Laws § 16-21-33, Safe School Act — defines 'bullying' and 'cyber-bullying' (bullying through technology or electronic communication, including impersonation pages and mass distribution); § 16-21-34 requires the state education department to set a statewide bullying policy that all schools must adopt, covering reporting, investigation, discipline, parental notification, and counseling.",
+    "sexting": "R.I. Gen. Laws § 11-9-1.4, 'Minor electronically disseminating indecent material to another person — Sexting prohibited' — a minor under 18 who knowingly and voluntarily, without threat or coercion, uses a computer or phone to transmit an indecent image of themself commits a status offense handled in Family Court, not a crime, and cannot be charged under the child-pornography statute for that conduct or required to register as a sex offender. Possessing or forwarding another minor's image still falls under child-pornography laws.",
+    "grooming": "R.I. Gen. Laws § 11-37-8.8, 'Indecent solicitation of a child' — knowingly soliciting a person under 18, or one believed to be under 18, for prostitution or any act violating Title 11 chapters 9, 34, or 37; 'solicit' includes contact by computer or through the Internet; penalty under § 11-37-8.9 is imprisonment of not less than 5 years.",
+    "age_design": "",
+    "report_name": "Rhode Island State Police, Internet Crimes Against Children Task Force",
+    "report_url": "https://risp.ri.gov/ccu/icac",
+    "legal_aid_name": "Rhode Island Legal Services",
+    "legal_aid_url": "https://www.rils.org/",
+    "sources": [
+      "https://rules.sos.ri.gov/Regulations/part/200-30-10-2?reg_id=10048",
+      "http://webserver.rilegislature.gov/BillText12/HouseText12/H7496.htm",
+      "https://webserver.rilegislature.gov/PublicLaws/law04/law04612.htm",
+      "https://risp.ri.gov/ccu/icac"
+    ]
+  },
+  "south carolina": {
+    "state": "South Carolina",
+    "slug": "south-carolina",
+    "overview": "South Carolina requires school districts to adopt anti-bullying policies under its Safe Schools Act, prosecutes teen sexting under felony sexual-exploitation laws, and criminalizes online solicitation of minors. In February 2026 it became one of the first states to enact an age-appropriate design code for online services likely to be used by minors. The Attorney General runs the state's Internet Crimes Against Children Task Force.",
+    "cyberbullying": "S.C. Code Ann. §§ 59-63-110 to -150, Safe Schools Act — § 59-63-120 defines 'harassment, intimidation, or bullying,' and § 59-63-140 requires every local school district to adopt a policy prohibiting it; the 2006 statutory definition does not expressly say 'electronic,' but the state Department of Education's model policy covers cyberbullying.",
+    "sexting": "No dedicated teen-sexting law (a 2011 bill, S.296, to create a civil sexting offense never passed); prosecuted under felony Sexual Exploitation of a Minor statutes, S.C. Code §§ 16-15-395 (1st degree), 16-15-405 (2nd degree), and 16-15-410 (3rd degree), with a first-offense Family Court or misdemeanor valve under § 16-15-390(D) for the obscenity-based charge and under §§ 16-15-395(E)/405(E)/410(E) for morphed images.",
+    "grooming": "S.C. Code Ann. § 16-15-342, 'Criminal solicitation of a minor' — a person 18 or older who knowingly contacts or communicates with a person under 18, or reasonably believed to be under 18, to persuade, induce, entice, or coerce them into sexual activity or a violent crime, or to perform a sexual activity in their presence; 'contacts or communicates' includes electronic communications and computers; a felony punishable by a fine up to $5,000 and/or up to 10 years in prison; consent is a defense only if the minor is 16 or older.",
+    "age_design": "South Carolina Social Media Regulation Act / Age-Appropriate Design Code, H 3431 (Act No. 96 of 2026) — in effect since February 5, 2026; adds S.C. Code Title 39, Chapter 80, requiring covered online services reasonably likely to be accessed by minors (under 18) to exercise reasonable care in the use of minors' personal data and in the design and operation of their services (including infinite scroll, autoplay, gamification, visible likes, push notifications, and in-app purchases), provide parental controls, and file annual independent audit reports; enforced by the Attorney General.",
+    "report_name": "South Carolina Attorney General, Internet Crimes Against Children Task Force",
+    "report_url": "https://icac.scag.gov/",
+    "legal_aid_name": "South Carolina Legal Services",
+    "legal_aid_url": "https://sclegal.org/",
+    "sources": [
+      "https://www.scstatehouse.gov/sess116_2005-2006/prever/98_20050224.htm",
+      "https://www.scstatehouse.gov/billsearch?billnumbers=3431&session=126&summary=B&headerfooter=1",
+      "https://law.justia.com/codes/south-carolina/2019/title-16/chapter-15/section-16-15-342/",
+      "https://icac.scag.gov/"
+    ]
+  }
+}

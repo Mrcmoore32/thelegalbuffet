@@ -1,0 +1,183 @@
+{
+ "south dakota": {
+  "age_design": "",
+  "cyberbullying": "S.D. Codified Laws §§ 13-32-14 to 13-32-19 — every school district must adopt a bullying policy; the definition in § 13-32-15 includes threatening use of data or computer software, and § 13-32-18 says the time or place of electronic conduct is no defense to school discipline.",
+  "grooming": "SDCL § 22-24A-5 (solicitation of a minor) — an adult 18 or older who solicits a minor (15 or younger under § 22-24A-4) by computer or other electronic means to engage in a prohibited sexual act commits a felony; consent and mistake of age are not defenses.",
+  "legal_aid_name": "South Dakota Law Help",
+  "legal_aid_url": "https://www.sdlawhelp.org/",
+  "overview": "South Dakota handles kids' online safety mainly through schools and criminal law. Every school district must have a bullying policy that covers electronic conduct, and the state has a dedicated juvenile-sexting misdemeanor and a felony solicitation-of-a-minor law. No state social-media age-verification law was verified for South Dakota.",
+  "report_name": "South Dakota Division of Criminal Investigation",
+  "report_url": "https://dci.sd.gov/",
+  "sexting": "SDCL § 26-10-33 (juvenile sexting, 2012) — a minor who intentionally creates, distributes or possesses a nude or sexually explicit image of a minor by computer or digital media commits juvenile sexting, a Class 1 misdemeanor, instead of a felony under the child-pornography chapter.",
+  "slug": "south-dakota",
+  "sources": [
+   "http://sdlegislature.gov/Statutes/Codified_Laws/DisplayStatute.aspx?Type=Statute&Statute=13-32-14",
+   "https://www.stopbullying.gov/resources/laws/south-dakota",
+   "https://mylrc.sdlegislature.gov/api/Documents/22770.html?Year=2012",
+   "https://mylrc.sdlegislature.gov/api/Documents/14138.html?Year=2010"
+  ],
+  "state": "South Dakota"
+ },
+ "tennessee": {
+  "age_design": "Protecting Children from Social Media Act, HB 1891 (2024), Tenn. Code Ann. § 47-18-5701 et seq. — requires social-media companies to verify account holders' ages and obtain parental consent for minors; in effect since January 1, 2025, with no injunction in place, while NetChoice's challenge (NetChoice v. Skrmetti) remains pending after a Sixth Circuit remand in August 2026.",
+  "cyberbullying": "Tenn. Code Ann. § 39-17-308(a)(5) — intentionally engaging in bullying or cyber-bullying (bullying by electronic device) is a criminal offense under the harassment law; a minor's violation is a delinquent act that can include a one-year driver's license suspension.",
+  "grooming": "Tenn. Code Ann. § 39-13-528 (solicitation of a minor) — an adult who, by oral, written or electronic communication including the internet, intentionally solicits a person they know or should know is under 18 to engage in a listed sex offense commits an offense graded one class below the offense solicited; see also § 39-13-529 (electronic solicitation).",
+  "legal_aid_name": "HELP4TN (Tennessee Alliance for Legal Services)",
+  "legal_aid_url": "https://www.help4tn.org/",
+  "overview": "Tennessee combines a criminal cyberbullying offense with a school-reporting duty and a new social-media age-verification law. The harassment statute makes bullying and cyber-bullying a crime, and the 2024 Protecting Children from Social Media Act requires age verification and parental consent for minors' accounts. The Tennessee Bureau of Investigation runs the state's ICAC task force.",
+  "report_name": "Tennessee Bureau of Investigation",
+  "report_url": "https://www.tn.gov/tbi.html",
+  "sexting": "Tenn. Code Ann. § 39-17-1003 (sexual exploitation of a minor) — knowingly possessing material showing a minor in sexual activity is a crime and applies even when the person sharing the image is also a minor; minors are handled in juvenile court.",
+  "slug": "tennessee",
+  "sources": [
+   "https://www.capitol.tn.gov/Bills/113/Amend/HA0681.pdf",
+   "https://preprodprotecttnforests.tn.gov/content/dam/tn/attorneygeneral/documents/ops/2013/op13-083.pdf",
+   "https://www.govinfo.gov/content/pkg/USCOURTS-tnmd-3_24-cv-01191/pdf/USCOURTS-tnmd-3_24-cv-01191-2.pdf"
+  ],
+  "state": "Tennessee"
+ },
+ "texas": {
+  "age_design": "Securing Children Online through Parental Empowerment (SCOPE) Act, HB 18 (2023), Tex. Bus. & Com. Code ch. 509 — requires age registration, parental supervision tools and limits on data collection and targeted ads for known minors; partly enjoined: a federal preliminary injunction bars enforcement of the content-monitoring and filtering duty against CCIA and NetChoice members, and the Fifth Circuit granted en banc rehearing in October 2026, vacating its July 2026 panel opinion, so litigation is ongoing.",
+  "cyberbullying": "Tex. Educ. Code § 37.0832 (David's Law, SB 179, 2017) — defines cyberbullying as bullying by electronic means and requires public schools to address it, including off-campus cyberbullying that interferes with a student's education or disrupts school.",
+  "grooming": "Tex. Penal Code § 15.032 (Child Grooming, added 2023) — a person who knowingly persuades, induces, entices or coerces a child under 18 to engage in conduct that would be a sexual offense commits a third-degree felony; see also § 33.021 (online solicitation of a minor).",
+  "legal_aid_name": "TexasLawHelp.org",
+  "legal_aid_url": "https://texaslawhelp.org/",
+  "overview": "Texas has some of the most detailed kids'-online-safety laws in this batch, including David's Law on school cyberbullying, a dedicated minor-sexting statute, a 2023 child-grooming felony, and the SCOPE Act on social-media duties for minors. Parts of the SCOPE Act are tied up in federal court, so its content-filtering duties are partly blocked while the rest remains in force.",
+  "report_name": "Texas Attorney General — Internet Crimes Against Children (ICAC)",
+  "report_url": "https://oag.state.tx.us/grants/types-grants/internet-crimes-against-children-icac",
+  "sexting": "Tex. Penal Code § 43.261 — a minor who intentionally or knowingly promotes or possesses by electronic means visual material depicting a minor in sexual conduct commits an offense graded as a misdemeanor (Class C for a first offense), with a court-ordered sexting education program under Tex. Educ. Code § 37.218.",
+  "slug": "texas",
+  "sources": [
+   "https://capitol.texas.gov/tlodocs/85R/billtext/html/SB00179F.HTM",
+   "https://capitol.texas.gov/tlodocs/82R/analysis/html/SB00407I.htm",
+   "https://www.texasattorneygeneral.gov/cj/cyber-safety"
+  ],
+  "state": "Texas"
+ },
+ "utah": {
+  "age_design": "Utah Minor Protection in Social Media Act, SB 194 (2024), Utah Code §§ 13-71-101 to -401, which replaced the 2023 Social Media Regulation Act (HB 311/SB 152) — requires age assurance and default privacy protections for minor accounts; enjoined: a federal court issued a preliminary injunction in September 2024 (NetChoice v. Reyes), and the law is stayed pending a decision by the U.S. Court of Appeals for the 10th Circuit.",
+  "cyberbullying": "Utah Code §§ 53G-9-601 to 53G-9-607 — 'cyber-bullying' is defined in § 53G-9-601(5) as using the internet, a cell phone or another device to send or post text, video or an image meant to hurt, embarrass or threaten someone, and schools must prohibit it and respond to reports.",
+  "grooming": "Utah Code § 76-4-401 (enticing a minor) — a person who knowingly uses the internet or text messaging to solicit, seduce, lure or entice a minor (under 18) to engage in sexual activity that violates state law commits enticement of a minor, graded by the seriousness of the sexual activity solicited.",
+  "legal_aid_name": "Utah Legal Services",
+  "legal_aid_url": "https://www.utahlegalservices.org/",
+  "overview": "Utah was the first state to regulate social media for minors, but its 2024 replacement law is currently blocked by a federal court while an appeal is pending. Alongside that, Utah has school cyberbullying rules, a law against enticing minors online, and an attorney-general-run ICAC task force.",
+  "report_name": "Utah Attorney General — Internet Crimes Against Children (ICAC) Task Force",
+  "report_url": "https://attorneygeneral.utah.gov/utah-icac/",
+  "sexting": "Utah Code § 76-5c-205 (renumbered from § 76-10-1206 in 2025; dealing in material harmful to a minor) — the statute typically used for teen sexting; a 16- or 17-year-old faces a Class A misdemeanor and a minor under 16 a Class B misdemeanor, while adults face felony sexual-exploitation charges.",
+  "slug": "utah",
+  "sources": [
+   "https://le.utah.gov/xcode/Title53G/Chapter9/53G-9-S601.html",
+   "https://house.utleg.gov/2026-utah-leads-the-nation-on-social-media-and-child-safety/",
+   "https://attorneygeneral.utah.gov/utah-icac/"
+  ],
+  "state": "Utah"
+ },
+ "vermont": {
+  "age_design": "",
+  "cyberbullying": "16 V.S.A. § 570 — every school board must adopt, enforce and make available harassment, hazing and bullying prevention policies at least as strict as the state model policy; 'bullying' in § 11(a)(32) includes electronic acts, including off-campus acts that substantially interfere with a student's access to education.",
+  "grooming": "13 V.S.A. § 2828 (luring a child) — knowingly soliciting, luring, manipulating or enticing a child under 16, or a person believed to be under 16, to engage in a sexual act or lewd and lascivious conduct is a crime, and it applies expressly to solicitation by electronic communication.",
+  "legal_aid_name": "Vermont Legal Aid",
+  "legal_aid_url": "https://www.vtlegalaid.org/",
+  "overview": "Vermont relies on school bullying-prevention policies that expressly cover electronic acts, a juvenile sexting law that keeps first-time teen sexting in family court and off the sex-offender registry, and a luring statute that covers online solicitation. No Vermont social-media age-verification law was verified.",
+  "report_name": "Vermont Internet Crimes Against Children Task Force (VT-ICAC)",
+  "report_url": "https://ago.vermont.gov/attorney-generals-office-divisions-and-unit/criminal-justice",
+  "sexting": "13 V.S.A. § 2802b — a minor who knowingly and voluntarily, without threat or coercion, sends an indecent picture of himself or herself by phone or computer commits a juvenile offense handled in family court, with diversion available; a first offense cannot be prosecuted as sexual exploitation of a child and does not require sex-offender registration, and the record is expunged at 18.",
+  "slug": "vermont",
+  "sources": [
+   "https://legislature.vermont.gov/statutes/section/16/009/00570",
+   "https://legislature.vermont.gov/statutes/section/13/064/02828",
+   "https://legislature.vermont.gov/statutes/fullchapter/13/063"
+  ],
+  "state": "Vermont"
+ },
+ "virginia": {
+  "age_design": "",
+  "cyberbullying": "Va. Code §§ 22.1-276.01 and 22.1-279.6 (as amended by SB 908, 2025) — 'cyberbullying' is bullying through technology, and the Board of Education's model student-conduct policies and each school board's code of conduct must address bullying and cyberbullying.",
+  "grooming": "Va. Code § 18.2-374.3 — using a communications system, including computers or the internet, to solicit a child with lascivious intent is a felony (Class 5 for soliciting a child under 15, or Class 6 for procuring a minor for child-pornography offenses under subsection B).",
+  "legal_aid_name": "Virginia Legal Aid Society",
+  "legal_aid_url": "https://vlas.org/",
+  "overview": "Virginia addresses online safety through school conduct codes that must cover cyberbullying, felony child-pornography laws that also apply to teen sexting, and a computer-solicitation statute for adults who target children online. No Virginia social-media age-verification law was verified in this batch.",
+  "report_name": "Virginia State Police",
+  "report_url": "https://www.vsp.virginia.gov/",
+  "sexting": "Va. Code §§ 18.2-374.1 and 18.2-374.1:1 — Virginia prosecutes teen sexting under its child-pornography statutes: creating or distributing a sexually explicit image of a minor is a felony under § 18.2-374.1, and knowingly possessing one is a Class 6 felony under § 18.2-374.1:1, with no distinction between adults and minors.",
+  "slug": "virginia",
+  "sources": [
+   "https://law.lis.virginia.gov/vacode/18.2-374.3/",
+   "https://vscc.virginia.gov/Sexting.pdf",
+   "https://www.vsp.virginia.gov/"
+  ],
+  "state": "Virginia"
+ },
+ "washington": {
+  "age_design": "",
+  "cyberbullying": "RCW 28A.600.477 — every school district must adopt a policy prohibiting harassment, intimidation and bullying (HIB), defined to include intentional electronic acts, and designate a primary contact to receive complaints.",
+  "grooming": "RCW 9.68A.090 (communication with a minor for immoral purposes) — communicating with a minor, including by electronic communication, for immoral purposes (including grooming for sexual exploitation) is a gross misdemeanor, or a Class C felony on a repeat conviction or when done electronically; see also RCW 9A.40.090 (luring).",
+  "legal_aid_name": "Washington LawHelp (Northwest Justice Project)",
+  "legal_aid_url": "https://www.washingtonlawhelp.org/",
+  "overview": "Washington requires every school district to prohibit harassment, intimidation and bullying, including electronic acts, and has a minor-specific sexting law and a law against communicating with a minor for immoral purposes. The Washington State Patrol's Missing and Exploited Children Task Force investigates online exploitation.",
+  "report_name": "Washington State Patrol — Missing and Exploited Children Task Force (MECTF)",
+  "report_url": "https://www.wsp.wa.gov/crime/mectf/",
+  "sexting": "RCW 9.68A.053 (Sexually explicit images — crimes by minors) — Washington has a minor-specific law for teens who send or share sexually explicit images of minors, separate from the adult dealing statute RCW 9.68A.050; the legislature's 2019 Responsible Teen Communications Act also directed prevention and intervention work on teen image-sharing.",
+  "slug": "washington",
+  "sources": [
+   "https://ospi.k12.wa.us/student-success/health-safety/school-safety-center/harassment-intimidation-and-bullying-hib",
+   "https://lawfilesext.leg.wa.gov/Law/RCWArchive/2024/pdf/RCW%20%20%209%20%20TITLE/RCW%20%20%209%20.%2068A%20CHAPTER/RCW%20%20%209%20.%2068A%20COMBINEDCHAPTER.pdf",
+   "https://www.wsp.wa.gov/crime/mectf/"
+  ],
+  "state": "Washington"
+ },
+ "west virginia": {
+  "age_design": "",
+  "cyberbullying": "W. Va. Code §§ 18-2C-2 and 18-2C-3 — 'harassment, intimidation or bullying' expressly includes intentional electronic acts, and each county board of education must adopt a policy prohibiting it, with reporting, investigation and discipline procedures.",
+  "grooming": "W. Va. Code § 61-3C-14b — an adult over 18 who knowingly uses a computer to solicit, entice, seduce or lure a minor at least four years younger to engage in a prohibited sexual act commits a felony (2–10 years), with a harsher penalty if the adult travels to meet the minor.",
+  "legal_aid_name": "Legal Aid of West Virginia",
+  "legal_aid_url": "https://www.lawv.net/",
+  "overview": "West Virginia requires county school boards to prohibit harassment, intimidation or bullying, including electronic acts, and has a dedicated juvenile sexting law with an educational diversion option. Adults who solicit minors by computer face felony charges under the state's computer-crime law.",
+  "report_name": "West Virginia State Police",
+  "report_url": "https://www.wvsp.gov/",
+  "sexting": "W. Va. Code § 61-8C-3b — a minor who intentionally possesses, creates or distributes a nude or partially nude image of a minor commits an act of juvenile delinquency (not a felony), with no sex-offender registration, and W. Va. Code § 49-4-717 allows an educational diversion program before a petition is filed.",
+  "slug": "west-virginia",
+  "sources": [
+   "https://code.wvlegislature.gov/pdf/18-2C-3/",
+   "https://code.wvlegislature.gov/email/61-8C/",
+   "https://code.wvlegislature.gov/pdf/61-3C-14b/"
+  ],
+  "state": "West Virginia"
+ },
+ "wisconsin": {
+  "age_design": "",
+  "cyberbullying": "Wis. Stat. § 118.46 — the Department of Public Instruction must develop a model school bullying policy and each public school board must adopt a policy prohibiting bullying; the model policy's definition includes bullying by electronic means, and Wis. Stat. § 947.0125 criminalizes threatening or obscene electronic messages.",
+  "grooming": "Wis. Stat. § 948.072 (grooming of a child for sexual activity) — engaging in a course of conduct to condition, seduce, solicit, lure or entice a child for sexual contact or to produce sexual images of the child is a Class G felony, and computer or internet contact with the child is listed as a grooming act; see also § 948.075 (use of a computer to facilitate a child sex crime).",
+  "legal_aid_name": "Legal Action of Wisconsin",
+  "legal_aid_url": "https://www.legalaction.org/",
+  "overview": "Wisconsin requires public school boards to adopt anti-bullying policies, criminalizes threatening or obscene electronic messages, and has a specific grooming statute that lists online contact as a grooming act. Teen sexting, however, is still prosecuted under the state's child-pornography laws rather than a dedicated teen law.",
+  "report_name": "Wisconsin Department of Justice",
+  "report_url": "https://www.wisdoj.gov/",
+  "sexting": "Wis. Stat. § 948.12 — Wisconsin prosecutes teen sexting under its child-pornography law: a minor who knowingly possesses an explicit image of a person under 18 faces a Class I felony, though the 3-year mandatory minimum does not apply to offenders under 18 (Wis. Stat. § 939.617(3)).",
+  "slug": "wisconsin",
+  "sources": [
+   "https://dpi.wi.gov/sspw/safe-schools/bullying-prevention",
+   "https://docs.legis.wisconsin.gov/document/statutes/2023/948.07",
+   "https://docs.legis.wisconsin.gov/statutes/statutes/948/075?up=1"
+  ],
+  "state": "Wisconsin"
+ },
+ "wyoming": {
+  "age_design": "",
+  "cyberbullying": "Wyo. Stat. §§ 21-4-311 to 21-4-315 (Safe School Climate Act) — harassment, intimidation or bullying is prohibited and defined to include intentional electronic communication, and each school district must adopt a policy prohibiting it; the law covers conduct initiated, occurring or received at school.",
+  "grooming": "",
+  "legal_aid_name": "Legal Aid of Wyoming",
+  "legal_aid_url": "https://www.lawyoming.org/",
+  "overview": "Wyoming's Safe School Climate Act requires school districts to prohibit harassment, intimidation or bullying, including electronic communication at school, and the state has a graduated minor-sexting law that treats most teen sexting as a status offense or misdemeanor. No Wyoming online-enticement statute was verified; online enticement cases in Wyoming have been prosecuted under federal law.",
+  "report_name": "Wyoming Division of Criminal Investigation — Child Sexual Exploitation / ICAC",
+  "report_url": "https://wyomingdci.wyo.gov/operations/child-sexual-exploitation",
+  "sexting": "Wyo. Stat. § 6-4-305 (2017) — a dedicated minor-sexting law with graduated degrees: sharing your own nude image or possessing another minor's is a third-degree status offense, knowingly sharing another minor's image is a second-degree misdemeanor, and sharing or secretly capturing one to coerce, intimidate or harass is a first-degree misdemeanor; images showing explicit sexual conduct fall outside it and remain felonies under § 6-4-303.",
+  "slug": "wyoming",
+  "sources": [
+   "https://www.stopbullying.gov/resources/laws/wyoming",
+   "https://wyoleg.gov/2017/Introduced/HB0238.pdf",
+   "https://wyomingdci.wyo.gov/operations/child-sexual-exploitation"
+  ],
+  "state": "Wyoming"
+ }
+}
