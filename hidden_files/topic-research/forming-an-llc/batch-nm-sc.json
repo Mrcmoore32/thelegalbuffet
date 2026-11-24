@@ -1,0 +1,192 @@
+{
+  "new-mexico": {
+    "state": "New Mexico",
+    "slug": "new-mexico",
+    "overview": "New Mexico has one of the cheapest and simplest LLC setups in the country: a $50 online-only filing and no annual report or recurring Secretary of State fee afterward. All business filings are handled online through the Secretary of State's SOS Enterprise portal, and paper filings are no longer accepted. The articles do not list member names, which gives New Mexico LLCs a degree of privacy.",
+    "filing_fee": "$50 online",
+    "fee_verified_url": "https://www.sos.nm.gov/business-services/",
+    "filing_office": "New Mexico Secretary of State, Business Services Division",
+    "filing_url": "https://enterprise.sos.nm.gov/",
+    "registered_agent": "Every LLC must continuously maintain a registered office and a registered agent in New Mexico (NMSA 1978, Section 53-19-5). The agent may be an individual resident of New Mexico, a New Mexico corporation, LLC or partnership, or a foreign entity authorized to do business in New Mexico.",
+    "operating_agreement": "recommended, not required - New Mexico law does not require an operating agreement and it is not filed with the Secretary of State",
+    "annual_report": "No annual report; $0 - New Mexico law requires no annual or biennial report and charges no recurring Secretary of State fee",
+    "series_llc": "",
+    "foreign_llc": "An out-of-state LLC must register with the Secretary of State by filing an Application for Registration with a certificate of good standing from its home state dated within 30 days; fee $100 (NMSA 1978, Section 53-19-63)",
+    "single_member": "Single-member LLCs are allowed and follow the same formation steps as multi-member LLCs; the articles state whether the LLC is single-member or multi-member, and a single-member LLC needs an EIN only if it has employees or elects corporate tax treatment",
+    "sources": [
+      "https://www.sos.nm.gov/business-services/",
+      "https://enterprise.sos.nm.gov/"
+    ]
+  },
+  "new-york": {
+    "state": "New York",
+    "slug": "new-york",
+    "overview": "New York is one of the most expensive and demanding states for LLC formation: the $200 filing fee is only the start, because most LLCs must also publish a formation notice in two county newspapers for six weeks and file a Certificate of Publication. The Secretary of State is the statutory agent for service of process for every LLC, so a separate registered agent is optional. New York is also one of the few states that requires a written operating agreement.",
+    "filing_fee": "$200",
+    "fee_verified_url": "https://dos.ny.gov/articles-organization-domestic-limited-liability-company-0/",
+    "filing_office": "New York Department of State, Division of Corporations",
+    "filing_url": "https://dos.ny.gov/articles-organization-domestic-limited-liability-company-0/",
+    "registered_agent": "The Secretary of State is the statutory agent for service of process for every New York LLC under LLC Law Section 301, and the LLC must designate an address where process is mailed; hiring a separate commercial registered agent is optional, not required",
+    "operating_agreement": "required - members shall adopt a written operating agreement under LLC Law Section 417, before, at the time of, or within 90 days after filing the Articles of Organization; it is an internal document and is not filed with the Department of State",
+    "annual_report": "Biennial Statement due every two years in the calendar month the Articles of Organization were filed; $9. LLCs also owe a separate annual filing fee to the Department of Taxation and Finance based on New York source gross income, starting at $25",
+    "series_llc": "No - state law does not authorize series LLCs",
+    "foreign_llc": "An out-of-state LLC must file an Application for Authority under LLC Law Section 802; fee $250, and the publication requirement also applies to foreign LLCs",
+    "single_member": "Single-member LLCs are allowed; an LLC may be formed by one or more persons, and the same $200 fee, publication requirement and operating agreement rule apply",
+    "sources": [
+      "https://dos.ny.gov/articles-organization-domestic-limited-liability-company-0/",
+      "https://dos.ny.gov/"
+    ]
+  },
+  "north-carolina": {
+    "state": "North Carolina",
+    "slug": "north-carolina",
+    "overview": "North Carolina charges a moderate $125 to form an LLC, but its $200 annual report is one of the highest recurring LLC fees in the country, so the long-term cost matters more than the formation fee. Articles of Organization (Form L-01) are filed with the Secretary of State, Business Registration Division, online or by mail. The annual report is due every April 15 starting the year after formation.",
+    "filing_fee": "$125 online or by mail (online card payments add a $3 electronic fee, $2 by ACH)",
+    "fee_verified_url": "https://www.sosnc.gov/",
+    "filing_office": "North Carolina Secretary of State, Business Registration Division",
+    "filing_url": "https://www.sosnc.gov/",
+    "registered_agent": "Every LLC must continuously maintain a registered agent with a physical street address in North Carolina; a P.O. box does not qualify. The agent may be an individual North Carolina resident or a domestic or foreign entity authorized to do business in North Carolina, and must be available during business hours",
+    "operating_agreement": "recommended, not required - North Carolina does not require an operating agreement; where there is none, the default rules of N.C.G.S. Chapter 57D, Section 57D-2-30 apply",
+    "annual_report": "Annual report due April 15 each year, starting the year after the year of formation; $200 on paper, $203 online by card or $202 by ACH",
+    "series_llc": "No - state law does not authorize series LLCs",
+    "foreign_llc": "An out-of-state LLC must file an Application for Certificate of Authority with a certificate of existence from its home state issued within 6 months; fee $250, and foreign LLCs file the same April 15 annual report",
+    "single_member": "",
+    "sources": [
+      "https://www.sosnc.gov/",
+      "https://sosnc.gov/"
+    ]
+  },
+  "north-dakota": {
+    "state": "North Dakota",
+    "slug": "north-dakota",
+    "overview": "North Dakota forms LLCs entirely through the Secretary of State's FirstStop online portal, with a $135 filing fee and a $50 annual report due each November 15. The articles name only the organizers and the registered agent, not the members. North Dakota offers business, farm and ranch, nonprofit and professional LLC types, all at the same $135 fee.",
+    "filing_fee": "$135 online through FirstStop",
+    "fee_verified_url": "https://firststop.sos.nd.gov",
+    "filing_office": "North Dakota Secretary of State, Business Services",
+    "filing_url": "https://firststop.sos.nd.gov",
+    "registered_agent": "Every LLC must maintain a registered agent with a physical street address in North Dakota; a P.O. box does not qualify. The agent may be a commercial registered agent on the state's list or a noncommercial agent such as a North Dakota resident individual, and the LLC itself may not serve as its own registered agent",
+    "operating_agreement": "recommended, not required - North Dakota law does not require a written operating agreement (N.D.C.C. Section 10-32.1-13); an operating agreement may be oral, written, implied or a combination (N.D.C.C. Section 10-32.1-02(36)) and is not filed with the state",
+    "annual_report": "Annual report due by November 15 each year, starting the year after formation; $50, plus a $50 late fee if filed after the deadline. Farm, ranch and authorized livestock farm LLCs file by April 15 instead",
+    "series_llc": "Yes - North Dakota law provides for series LLCs under N.D.C.C. Chapter 10-32.1, with separate assets and liabilities for each series when separate records are kept",
+    "foreign_llc": "An out-of-state LLC must obtain a certificate of authority from the Secretary of State before transacting business in North Dakota; fee $135, the same as a domestic LLC",
+    "single_member": "",
+    "sources": [
+      "https://firststop.sos.nd.gov",
+      "https://sos.nd.gov/"
+    ]
+  },
+  "ohio": {
+    "state": "Ohio",
+    "slug": "ohio",
+    "overview": "Ohio is a low-cost, low-maintenance state for LLCs: a $99 filing fee and no annual report or recurring state fee afterward. LLCs file Articles of Organization (Form 610) with the Secretary of State online through Ohio Business Central or by mail. Ohio calls the registered agent a statutory agent, and the agent's signed acceptance must accompany the filing.",
+    "filing_fee": "$99 online or by mail",
+    "fee_verified_url": "https://www.ohiosos.gov/business/business-filing-forms",
+    "filing_office": "Ohio Secretary of State",
+    "filing_url": "https://www.ohiobusinesscentral.gov",
+    "registered_agent": "Every LLC must appoint a statutory agent before filing, under Ohio Rev. Code Section 1706.09. The agent must be an Ohio resident individual or an entity with a business address in Ohio, with a physical street address (a P.O. box alone does not qualify), and the agent's signed acceptance is filed with the articles",
+    "operating_agreement": "recommended, not required - Ohio does not require an operating agreement and it is not filed with the state; Ohio law recognizes written, oral or implied agreements",
+    "annual_report": "No annual report; $0 - Ohio does not require LLCs to file an annual report or pay a yearly state fee",
+    "series_llc": "Yes - Ohio law permits series LLCs under Ohio Rev. Code Chapter 1706; the articles must include a series statement, and each series has separate assets and liabilities if records are kept separate",
+    "foreign_llc": "An out-of-state LLC registers by filing a Registration of a Foreign Limited Liability Company (Form 617) with the Secretary of State; fee $99",
+    "single_member": "Single-member LLCs are allowed; Ohio permits an LLC with just one owner, and the same $99 filing and statutory agent rules apply",
+    "sources": [
+      "https://www.ohiosos.gov/business/business-filing-forms",
+      "https://www.ohiobusinesscentral.gov"
+    ]
+  },
+  "oklahoma": {
+    "state": "Oklahoma",
+    "slug": "oklahoma",
+    "overview": "Oklahoma is one of the cheapest states to run an LLC: a $100 formation fee and a $25 Annual Certificate each year, with no franchise tax on LLCs. Articles of Organization (Form 0073) are filed with the Secretary of State online, by mail or in person. Oklahoma also authorizes registered series LLCs, which are uncommon.",
+    "filing_fee": "$100 online, by mail or in person (online card payments add about a 4% service charge, about $104 total)",
+    "fee_verified_url": "https://www.sos.ok.gov/",
+    "filing_office": "Oklahoma Secretary of State, Business Filing Department",
+    "filing_url": "https://sos.ok.gov/",
+    "registered_agent": "Every LLC must continuously maintain a registered office in Oklahoma and a registered agent under 18 O.S. Section 2010. The agent may be the LLC itself, an individual Oklahoma resident, or a domestic or qualified foreign corporation, LLC or partnership, with a street address (not a P.O. box) and a business office open during regular business hours",
+    "operating_agreement": "recommended, not required - Oklahoma law defines an operating agreement as any agreement of the members, including a sole member, whether oral, in a record, implied or a combination (18 O.S. Section 2001(16)); it is not filed with the Secretary of State",
+    "annual_report": "Annual Certificate due each year on the anniversary date of the filing of the Articles of Organization; $25, with a 60-day grace period before the LLC loses good standing",
+    "series_llc": "Yes - Oklahoma law authorizes registered series LLCs; each series is registered with the Secretary of State and the filing fee for a registered series LLC is $100",
+    "foreign_llc": "An out-of-state LLC files a Registration of Foreign Limited Liability Company with the Secretary of State; fee $300",
+    "single_member": "",
+    "sources": [
+      "https://www.sos.ok.gov/",
+      "https://sos.ok.gov/"
+    ]
+  },
+  "oregon": {
+    "state": "Oregon",
+    "slug": "oregon",
+    "overview": "Oregon charges $100 to form an LLC and the same $100 every year to renew, so formation and upkeep cost exactly the same. Articles of Organization are filed with the Secretary of State, Corporation Division, through the Oregon Business Registry online or by mail. The annual report (renewal) is due each year on the anniversary of the original filing.",
+    "filing_fee": "$100 online or by mail",
+    "fee_verified_url": "http://sos.oregon.gov/business/Documents/business-registry-forms/br-fee-schedule.pdf",
+    "filing_office": "Oregon Secretary of State, Corporation Division (Business Registry)",
+    "filing_url": "https://sos.oregon.gov/business",
+    "registered_agent": "Every LLC must appoint and keep a registered agent with a physical street address in Oregon; a P.O. box does not qualify. The agent must be an Oregon resident or an Oregon or authorized foreign business entity, and must be available during regular business hours (ORS 63.111)",
+    "operating_agreement": "recommended, not required - Oregon does not require an operating agreement and it is not filed with the state; without one, the default rules of ORS Chapter 63 apply (ORS 63.057)",
+    "annual_report": "Annual report (renewal) due each year on the anniversary date of the original filing; $100, filed online through the Oregon Business Registry",
+    "series_llc": "No - state law does not authorize series LLCs",
+    "foreign_llc": "An out-of-state LLC must file an Application for Authority to Transact Business with the Secretary of State, with a certificate of existence from its home state dated within 60 days; fee $275, and the foreign annual renewal is also $275",
+    "single_member": "",
+    "sources": [
+      "http://sos.oregon.gov/business/Documents/business-registry-forms/br-fee-schedule.pdf",
+      "https://sos.oregon.gov/business"
+    ]
+  },
+  "pennsylvania": {
+    "state": "Pennsylvania",
+    "slug": "pennsylvania",
+    "overview": "Pennsylvania forms LLCs with a Certificate of Organization (Form DSCB:15-8821) plus a docketing statement, for $125, and is very cheap to maintain afterward thanks to a $7 annual report. Pennsylvania does not use the term registered agent: LLCs name a registered office instead. Since 2025 every LLC files a $7 annual report by September 30, replacing the old once-a-decade report.",
+    "filing_fee": "$125 online or by mail",
+    "fee_verified_url": "https://www.dos.pa.gov/Pages/default.aspx",
+    "filing_office": "Pennsylvania Department of State, Bureau of Corporations and Charitable Organizations",
+    "filing_url": "https://file.dos.pa.gov",
+    "registered_agent": "Every LLC must have a registered office in Pennsylvania at a street address or rural route box number; a P.O. box alone is not acceptable. A separate registered agent is not required, and an LLC with no Pennsylvania address may instead name a Commercial Registered Office Provider (CROP) from the Department's list",
+    "operating_agreement": "recommended, not required - Pennsylvania does not require an operating agreement; an agreement may be oral, implied, in a record, or a combination, and it is not filed with the Department of State",
+    "annual_report": "Annual report (Form DSCB:15-146) due January 1 through September 30 each year, starting the year after formation; $7 for a for-profit LLC, no fee for a not-for-profit LLC. From reports due in 2027, a missed report can lead to administrative dissolution six months after the due date",
+    "series_llc": "No - state law does not authorize series LLCs",
+    "foreign_llc": "An out-of-state LLC must file a Foreign Registration Statement (Form DSCB:15-412) with a docketing statement (Form DSCB:15-134A) with the Department of State; fee $250, and foreign LLCs file the same $7 annual report",
+    "single_member": "",
+    "sources": [
+      "https://www.dos.pa.gov/Pages/default.aspx",
+      "https://file.dos.pa.gov"
+    ]
+  },
+  "rhode-island": {
+    "state": "Rhode Island",
+    "slug": "rhode-island",
+    "overview": "Rhode Island costs more to keep than to form: the $150 filing fee is modest, but every LLC also owes a $400 annual minimum tax to the Division of Taxation whether or not it makes a profit, plus a $50 annual report. Articles of Organization (Form 400) are filed with the Department of State, Business Services Division, online, by mail or in person.",
+    "filing_fee": "$150 online, by mail or in person",
+    "fee_verified_url": "https://www.sos.ri.gov/divisions/business-services/business-basics/costs-and-fees",
+    "filing_office": "Rhode Island Department of State, Business Services Division",
+    "filing_url": "https://www.sos.ri.gov/",
+    "registered_agent": "Every LLC must have a resident agent for service of process in Rhode Island. The agent must be a Rhode Island resident or a Rhode Island or authorized foreign corporation, LLC or limited partnership, with an actual Rhode Island street address, available during normal business hours; a P.O. box is not accepted (R.I. Gen. Laws Section 7-16-11)",
+    "operating_agreement": "recommended, not required - Rhode Island does not require an operating agreement and it is not filed with the state",
+    "annual_report": "Annual Report for a Limited Liability Company (Form 632) due February 1 through May 1 each year, starting the year after formation; $50, plus a $2.50 enhanced access fee online and a $25 late penalty after June 1. Every LLC also owes a $400 minimum annual tax to the Division of Taxation, not prorated",
+    "series_llc": "",
+    "foreign_llc": "An out-of-state LLC registers by filing an Application for Registration for a Foreign Limited Liability Company (Form 450) with the Department of State; fee $150",
+    "single_member": "",
+    "sources": [
+      "https://www.sos.ri.gov/divisions/business-services/business-basics/costs-and-fees",
+      "https://www.sos.ri.gov/"
+    ]
+  },
+  "south-carolina": {
+    "state": "South Carolina",
+    "slug": "south-carolina",
+    "overview": "South Carolina is one of the simplest states for LLC upkeep: a $110 formation fee and, for most LLCs, no annual report and no recurring Secretary of State fee at all. Articles of Organization are filed with the Secretary of State online through Business Entities Online or by mail. Only LLCs that elect corporate tax treatment owe an annual report, and that goes to the Department of Revenue, not the Secretary of State.",
+    "filing_fee": "$110 ($125 online including the $15 SC.gov service fee)",
+    "fee_verified_url": "https://businessfilings.sc.gov/",
+    "filing_office": "South Carolina Secretary of State",
+    "filing_url": "https://businessfilings.sc.gov/",
+    "registered_agent": "Every LLC must have an agent for service of process with a physical street address in South Carolina; a P.O. box does not qualify. The agent's name and address are listed on the Articles of Organization",
+    "operating_agreement": "recommended, not required - South Carolina does not require an operating agreement and it is not filed with the Secretary of State",
+    "annual_report": "No annual report for most LLCs; $0. An LLC taxed as a corporation files an annual report (CL-1) with the Department of Revenue, with a $25 license fee",
+    "series_llc": "",
+    "foreign_llc": "An out-of-state LLC registers by filing an Application for a Certificate of Authority by a Foreign Limited Liability Company (Form F0008) with a certificate of good standing from its home state; fee $110",
+    "single_member": "Single-member LLCs are allowed; an LLC may be formed by a single owner or with partners, following the same filing steps",
+    "sources": [
+      "https://businessfilings.sc.gov/",
+      "https://www.sos.sc.gov/"
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "south-dakota": {
+    "state": "South Dakota",
+    "slug": "south-dakota",
+    "overview": "South Dakota is a low-cost place to form an LLC, with a $150 online filing fee and online filings processed immediately. There is no state income tax, and the state authorizes series LLCs. The only routine recurring state cost is the annual report, $55 online.",
+    "filing_fee": "$150 online / $165 by mail",
+    "fee_verified_url": "https://sdsos.gov/general-information/filing-fees.aspx/1000",
+    "filing_office": "South Dakota Secretary of State — Business Services Division",
+    "filing_url": "https://sosenterprise.sd.gov",
+    "registered_agent": "Every LLC must continuously maintain a registered agent with a physical street address in South Dakota (not a P.O. box) who is available during normal business hours to accept legal papers; the agent may be a South Dakota resident or a business entity authorized to do business in the state.",
+    "operating_agreement": "recommended, not required (SDCL 47-34A-103)",
+    "annual_report": "Annual report due each year by the last day of the anniversary month; $55 online / $70 by paper",
+    "series_llc": "Yes — South Dakota authorizes series LLCs under SDCL 47-34A-202.1; articles of organization for a series LLC cost $200",
+    "foreign_llc": "A foreign LLC must file a Certificate of Authority with the Secretary of State before transacting business in South Dakota; the fee is $750 online / $765 by paper",
+    "single_member": "Single-member LLCs are allowed; members and managers do not have to be South Dakota residents",
+    "sources": [
+      "https://sdsos.gov/general-information/filing-fees.aspx/1000",
+      "https://sdsos.gov/docs/business/llc-domestic-articlesoforganization.pdf"
+    ]
+  },
+  "tennessee": {
+    "state": "Tennessee",
+    "slug": "tennessee",
+    "overview": "Tennessee charges by the member rather than a flat fee, so it is one of the pricier states for larger LLCs: $300 minimum for up to six members, rising by $50 per member to a $3,000 maximum. LLCs also owe a separate franchise and excise tax return to the Department of Revenue each year. After filing, a copy of the Articles of Organization must be recorded with the county Register of Deeds.",
+    "filing_fee": "$300 minimum (1-6 members); $50 per additional member over 6, up to $3,000",
+    "fee_verified_url": "https://sos.tn.gov/businesses/forms-and-fees",
+    "filing_office": "Tennessee Secretary of State — Division of Business and Charitable Organizations",
+    "filing_url": "https://tncab.tnsos.gov",
+    "registered_agent": "Every LLC must continuously maintain a registered agent with a physical street address in Tennessee (not a P.O. box) who is available during normal business hours to accept legal papers; the agent may be a Tennessee resident or a business entity authorized to do business in the state.",
+    "operating_agreement": "recommended, not required",
+    "annual_report": "Annual report due each year on or before the first day of the fourth month after the fiscal year ends (April 1 for a calendar-year LLC); $300 minimum, $50 per member over six, up to $3,000",
+    "series_llc": "Yes — Tennessee authorizes series LLCs under Tenn. Code Ann. Title 48, Chapter 249, Part 9, at no extra formation fee",
+    "foreign_llc": "An LLC formed in another state must file an Application for Certificate of Authority with the Tennessee Secretary of State before transacting business in Tennessee and must maintain a Tennessee registered agent",
+    "single_member": "Single-member LLCs are allowed; Tennessee also requires recording a copy of the Articles of Organization with the county Register of Deeds",
+    "sources": [
+      "https://sos.tn.gov/businesses/forms-and-fees",
+      "https://tncab.tnsos.gov"
+    ]
+  },
+  "texas": {
+    "state": "Texas",
+    "slug": "texas",
+    "overview": "Texas charges a flat $300 to file a Certificate of Formation (Form 205) with the Secretary of State, the same by every filing method. There is no annual report and no state income tax, but every LLC files a franchise tax report and Public Information Report with the Texas Comptroller each year. Texas also authorizes series LLCs.",
+    "filing_fee": "$300",
+    "fee_verified_url": "https://www.sos.state.tx.us/corp/forms/205_boc.pdf",
+    "filing_office": "Texas Secretary of State — Corporations Section",
+    "filing_url": "https://www.sos.state.tx.us/corp/forms/205_boc.pdf",
+    "registered_agent": "Every LLC must continuously maintain a registered agent with a physical street address in Texas (not a P.O. box) who is available during normal business hours to accept legal papers; the agent may be a Texas resident or an entity authorized to do business in Texas (Tex. Bus. Orgs. Code Sec. 5.201)",
+    "operating_agreement": "recommended, not required (Tex. Bus. Orgs. Code Sec. 101.052)",
+    "annual_report": "No annual report with the Secretary of State; $0. Instead, file a franchise tax report and Public Information Report with the Texas Comptroller by May 15 each year; no franchise tax is due if annualized revenue is at or below the $2.65 million no-tax-due threshold (2026)",
+    "series_llc": "Yes — Texas authorizes series LLCs under Tex. Bus. Orgs. Code Chapter 101, Subchapter M; each series can hold separate assets and liabilities",
+    "foreign_llc": "A foreign LLC must register with the Texas Secretary of State before transacting business in Texas; the registration fee is $750",
+    "single_member": "Single-member LLCs are allowed; a single-member LLC is taxed as a disregarded entity by default for federal tax purposes",
+    "sources": [
+      "https://www.sos.state.tx.us/corp/forms/205_boc.pdf",
+      "https://comptroller.texas.gov/help/franchise/information-report.php?category=help/1000"
+    ]
+  },
+  "utah": {
+    "state": "Utah",
+    "slug": "utah",
+    "overview": "Utah is one of the cheapest states for LLCs: a $59 Certificate of Organization (Utah's name for the articles of organization) and an $18 annual renewal. Business filings go through the Department of Commerce, Division of Corporations and Commercial Code, not a Secretary of State, and most online filings are approved immediately. Utah also authorizes series LLCs through the operating agreement.",
+    "filing_fee": "$59",
+    "fee_verified_url": "https://commerce.utah.gov/wp-content/uploads/2023/04/currentfees.pdf",
+    "filing_office": "Utah Department of Commerce — Division of Corporations and Commercial Code",
+    "filing_url": "https://businessregistration.utah.gov",
+    "registered_agent": "Every LLC must continuously maintain a registered agent with a physical street address in Utah (not a P.O. box) who is available during normal business hours to accept legal papers; the agent may be a Utah resident or a business entity authorized to do business in the state",
+    "operating_agreement": "recommended, not required (Utah Code Sec. 48-3a-110)",
+    "annual_report": "Annual renewal due each year in the anniversary month of formation; $18",
+    "series_llc": "Yes — Utah Code Sec. 48-3a-1201 authorizes designated series of transferable interests created by the operating agreement; no separate state filing per series, but the certificate of organization must include notice of the limitation on liability (Sec. 48-3a-1202)",
+    "foreign_llc": "A foreign LLC must file an Application for Registration with the Division of Corporations and Commercial Code before transacting business in Utah and must maintain a Utah registered agent",
+    "single_member": "Single-member LLCs are allowed",
+    "sources": [
+      "https://commerce.utah.gov/wp-content/uploads/2023/04/currentfees.pdf",
+      "https://businessregistration.utah.gov"
+    ]
+  },
+  "vermont": {
+    "state": "Vermont",
+    "slug": "vermont",
+    "overview": "Vermont charges $155 to file Articles of Organization, the same online or by mail, and online filings are normally processed in under one business day. Note the Secretary of State fee page may still show the older $125 figure; the $155 fee was set by statute (11 V.S.A. Sec. 4012, Act 77 of 2023). Vermont does not authorize series LLCs, but it does allow blockchain-based LLCs.",
+    "filing_fee": "$155",
+    "fee_verified_url": "https://legislature.vermont.gov/statutes/section/11/025/04012",
+    "filing_office": "Vermont Secretary of State — Business Services Division",
+    "filing_url": "https://bizfilings.vermont.gov/",
+    "registered_agent": "Every LLC must designate and continuously maintain an agent for service of process with a physical street address in Vermont (not a P.O. box) who is available during normal business hours; the agent may be a Vermont resident or a business entity authorized to do business in the state (11 V.S.A. Sec. 4007)",
+    "operating_agreement": "recommended, not required (11 V.S.A. Sec. 4003)",
+    "annual_report": "Annual report due each year within three months after the end of the LLC's fiscal year (March 31 for a calendar-year LLC); $45",
+    "series_llc": "No — state law does not authorize series LLCs; Vermont has no series LLC statute under 11 V.S.A. Chapter 25, so each property or venture needs its own LLC",
+    "foreign_llc": "A foreign LLC must obtain a certificate of authority from the Vermont Secretary of State before transacting business in Vermont and must maintain a Vermont agent for service of process",
+    "single_member": "Single-member LLCs are allowed; Vermont also permits blockchain-based LLCs under 11 V.S.A. Sec. 4173",
+    "sources": [
+      "https://legislature.vermont.gov/statutes/section/11/025/04012",
+      "https://legislature.vermont.gov/statutes/section/11/025/04005",
+      "https://bizfilings.vermont.gov/"
+    ]
+  },
+  "virginia": {
+    "state": "Virginia",
+    "slug": "virginia",
+    "overview": "Virginia has no Secretary of State for business filings; LLCs file with the State Corporation Commission (SCC) for a flat $100. Virginia files no annual report at all, charging instead a $50 annual registration fee. Virginia also authorizes series LLCs with protected series.",
+    "filing_fee": "$100",
+    "fee_verified_url": "https://law.lis.virginia.gov/vacode/13.1-1005/",
+    "filing_office": "Virginia State Corporation Commission — Office of the Clerk",
+    "filing_url": "https://cis.scc.virginia.gov",
+    "registered_agent": "Every LLC must continuously maintain a registered agent with a physical street address in Virginia (not a P.O. box) who is available during normal business hours to accept legal papers; the agent may be a Virginia resident or a business entity authorized to do business in Virginia (Va. Code Sec. 13.1-1015)",
+    "operating_agreement": "recommended, not required (Va. Code Sec. 13.1-1023)",
+    "annual_report": "No annual report; $0. Instead, a $50 annual registration fee is assessed by the SCC, due by the last day of the anniversary month each year after formation",
+    "series_llc": "Yes — Virginia authorizes series LLCs with protected series under Va. Code Sec. 13.1-1088 et seq. (Article 16, Protected Series); each protected series is registered separately with the SCC",
+    "foreign_llc": "A foreign LLC must obtain a certificate of registration from the State Corporation Commission before transacting business in Virginia; the fee is $100, the same as a domestic filing",
+    "single_member": "Single-member LLCs are allowed",
+    "sources": [
+      "https://law.lis.virginia.gov/vacode/13.1-1005/",
+      "http://law.lis.virginia.gov/vacodefull/title13.1/chapter12/article16/"
+    ]
+  },
+  "washington": {
+    "state": "Washington",
+    "slug": "washington",
+    "overview": "Washington charges $200 to file a Certificate of Formation online ($180 by mail), plus a $10 Initial Report due within 120 days of formation. There is no state income tax, but LLCs pay business and occupation (B&O) tax on gross receipts and most need a separate business license from the Department of Revenue. Washington does not authorize series LLCs.",
+    "filing_fee": "$200 online / $180 by mail",
+    "fee_verified_url": "https://www.sos.wa.gov/sites/default/files/2025-06/6.2025%20-%20LLC%20-%20COF_0.pdf",
+    "filing_office": "Washington Secretary of State — Corporations and Charities Division",
+    "filing_url": "https://ccfs.sos.wa.gov/",
+    "registered_agent": "Every LLC must continuously maintain a registered agent with a physical street address in Washington (not a P.O. box) who is available during normal business hours to accept legal papers; the agent may be a Washington resident or a business entity authorized to do business in the state (RCW 23.95.415)",
+    "operating_agreement": "recommended, not required",
+    "annual_report": "Annual report due each year by the last day of the anniversary month; $70. An Initial Report is also due within 120 days of formation ($10 if filed separately from the Certificate of Formation)",
+    "series_llc": "No — state law does not authorize series LLCs; Washington has not adopted series LLC legislation, and RCW 25.15 contains no series provisions",
+    "foreign_llc": "A foreign LLC must file a Foreign Registration Statement with the Secretary of State before transacting business in Washington; the fee is $200 online / $180 by mail, the same as a domestic filing",
+    "single_member": "Single-member LLCs are allowed; Washington courts may foreclose on a charging-order lien against a member's interest (RCW 25.15.252)",
+    "sources": [
+      "https://www.sos.wa.gov/sites/default/files/2025-06/6.2025%20-%20LLC%20-%20COF_0.pdf",
+      "http://app.leg.wa.gov/RCW/default.aspx?Cite=25"
+    ]
+  },
+  "west-virginia": {
+    "state": "West Virginia",
+    "slug": "west-virginia",
+    "overview": "West Virginia charges $100 to file Articles of Organization (Form LLD-1), with the initial fee waived for veteran-owned businesses and for West Virginia residents under 30. A separate $30 business registration certificate from the State Tax Department is also required. As of 2026, West Virginia authorizes protected series LLCs under a new law.",
+    "filing_fee": "$100 by mail / $101 online (includes $1 portal processing fee)",
+    "fee_verified_url": "https://code.wvlegislature.gov/59-1-2/",
+    "filing_office": "West Virginia Secretary of State — Business and Licensing Division",
+    "filing_url": "https://sos.wv.gov/media/282/download?inline",
+    "registered_agent": "Every LLC must continuously maintain an agent for service of process with a physical street address in West Virginia (not a P.O. box) who is available during normal business hours to accept legal papers; the agent may be a West Virginia resident or a business entity authorized to do business in the state (W. Va. Code Sec. 31B-1-108)",
+    "operating_agreement": "recommended, not required",
+    "annual_report": "Annual report due each year between January 1 and June 30 (due July 1); $25, with a $50 late fee after July 1",
+    "series_llc": "Yes — West Virginia adopted the Uniform Protected Series Act in 2026 (W. Va. Code Sec. 31B-14-101 et seq., effective June 12, 2026); a protected series is designated by filing Form LLD-11 with the Secretary of State for $25",
+    "foreign_llc": "A foreign LLC must register with the West Virginia Secretary of State before transacting business in West Virginia; the fee is $150",
+    "single_member": "Single-member LLCs are allowed",
+    "sources": [
+      "https://code.wvlegislature.gov/59-1-2/",
+      "https://sos.wv.gov/media/724/download?inline",
+      "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=sb670%20sub1%20enr.htm&yr=2026&sesstype=RS&i=670"
+    ]
+  },
+  "wisconsin": {
+    "state": "Wisconsin",
+    "slug": "wisconsin",
+    "overview": "Wisconsin LLCs file with the Department of Financial Institutions, not the Secretary of State, and online filing costs $40 less than paper ($130 versus $170). The annual report is cheap at $25 online but has an unusual deadline: the end of the calendar quarter containing the formation anniversary. Full-time student entrepreneurs can have the formation fee waived.",
+    "filing_fee": "$130 online / $170 by paper",
+    "fee_verified_url": "https://docs.legis.wisconsin.gov/document/statutes/183.0122(2)(d)1.",
+    "filing_office": "Wisconsin Department of Financial Institutions — Division of Corporate and Consumer Services",
+    "filing_url": "https://dfi.wi.gov/Documents/BusinessServices/BusinessEntities/Forms/CORP502.pdf",
+    "registered_agent": "Every LLC must maintain a registered agent with a physical street address in Wisconsin (not a P.O. box or mailbox service) who is available during normal business hours to accept legal papers; the agent may be a Wisconsin resident or a business entity authorized to do business in the state (Wis. Stat. Sec. 183.0115). An LLC may not name itself as its own registered agent.",
+    "operating_agreement": "recommended, not required (Wis. Stat. Sec. 183.0201(2))",
+    "annual_report": "Annual report due each year by the end of the calendar quarter containing the formation anniversary (March 31, June 30, September 30 or December 31), starting the year after formation; $25 online / $40 by paper",
+    "series_llc": "Yes — Wisconsin authorizes series LLCs under Wis. Stat. Chapter 183, Subchapter XIII; note Wisconsin law lacks a clear inter-series liability shield, so the protection is weaker than in some other series states",
+    "foreign_llc": "A foreign LLC must register with the Department of Financial Institutions before transacting business in Wisconsin; the fee is $100",
+    "single_member": "Single-member LLCs are allowed",
+    "sources": [
+      "https://docs.legis.wisconsin.gov/document/statutes/183.0122(2)(d)1.",
+      "https://dfi.wi.gov/Documents/BusinessServices/BusinessEntities/Forms/CORP502.pdf"
+    ]
+  },
+  "wyoming": {
+    "state": "Wyoming",
+    "slug": "wyoming",
+    "overview": "Wyoming is a popular formation state: a flat $100 filing fee, no state income tax, no franchise tax, and member and manager names are not listed in public filings. It was the first state to authorize series LLCs. The annual report carries a license tax of at least $60 a year, based on Wyoming assets.",
+    "filing_fee": "$100",
+    "fee_verified_url": "https://sos.wyo.gov/Forms/Business/LLC/LLC-ArticlesOrganization.pdf",
+    "filing_office": "Wyoming Secretary of State — Business Division",
+    "filing_url": "https://wyobiz.wyo.gov",
+    "registered_agent": "Every LLC must continuously maintain a registered agent with a physical street address in Wyoming (not a P.O. box) who is available during normal business hours to accept legal papers; the agent may be a Wyoming resident or a business entity authorized to do business in the state (Wyo. Stat. Sec. 17-28-103)",
+    "operating_agreement": "recommended, not required (Wyo. Stat. Sec. 17-29-110)",
+    "annual_report": "Annual report due each year on or before the first day of the anniversary month, starting the year after formation; license tax of $60 minimum or $0.0002 per dollar of Wyoming assets, whichever is greater",
+    "series_llc": "Yes — Wyoming was the first state to authorize series LLCs; Wyo. Stat. Sec. 17-29-211 allows an LLC to establish one or more series with separate assets and liabilities",
+    "foreign_llc": "A foreign LLC must file a Certificate of Authority with the Wyoming Secretary of State before transacting business in Wyoming and must maintain a Wyoming registered agent",
+    "single_member": "Single-member LLCs are allowed; Wyoming does not list members or managers in public filings, and a creditor's sole remedy against a member's interest is a charging order (Wyo. Stat. Sec. 17-29-503)",
+    "sources": [
+      "https://sos.wyo.gov/Forms/Business/LLC/LLC-ArticlesOrganization.pdf",
+      "https://wyobiz.wyo.gov"
+    ]
+  }
+}

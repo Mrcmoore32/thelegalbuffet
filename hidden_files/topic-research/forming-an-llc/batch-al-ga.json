@@ -1,0 +1,192 @@
+{
+  "alabama": {
+    "state": "Alabama",
+    "slug": "alabama",
+    "overview": "Alabama LLCs are formed by filing a Certificate of Formation with the Alabama Secretary of State. Alabama is distinctive because you must first obtain a Certificate of Name Reservation before filing, and there is no annual report to file with the Secretary of State.",
+    "filing_fee": "$200 by mail / $208 online",
+    "fee_verified_url": "https://www.sos.alabama.gov/business-entities/llcs",
+    "filing_office": "Alabama Secretary of State — Business Services",
+    "filing_url": "https://www.sos.alabama.gov/business-entities/llcs",
+    "registered_agent": "Every LLC must maintain a registered agent with a physical street address in Alabama where legal papers can be delivered; the agent may be an Alabama resident or a business authorized to do business in Alabama.",
+    "operating_agreement": "Recommended, not required — Alabama law defines a limited liability company agreement as written, oral or implied, and no written agreement must be filed with the state (Ala. Code 10A-5A-1.02(l))",
+    "annual_report": "No annual report; $0. Alabama eliminated the annual report requirement for all business entities effective October 1, 2024 under Act 2024-213.",
+    "series_llc": "Yes — Alabama authorizes series LLCs under Ala. Code 10A-5A-11.01 to 10A-5A-11.16, with separate series that can hold their own assets and liabilities if records are kept separate.",
+    "foreign_llc": "An LLC formed in another state must register as a foreign LLC with the Alabama Secretary of State before doing business in Alabama; the filing fee is $150.",
+    "single_member": "Single-member LLCs are allowed in Alabama and follow the same formation process as multi-member LLCs.",
+    "sources": [
+      "https://www.sos.alabama.gov/business-entities/llcs",
+      "https://www.sos.alabama.gov/sites/default/files/form-files/FeeSchedule.pdf"
+    ]
+  },
+  "alaska": {
+    "state": "Alaska",
+    "slug": "alaska",
+    "overview": "Alaska has no Secretary of State; LLCs are formed with the Division of Corporations, Business and Professional Licensing. Alaska has one of the highest formation fees at $250, and a new LLC also needs a separate state business license before doing business.",
+    "filing_fee": "$250",
+    "fee_verified_url": "https://www.commerce.alaska.gov/web/cbpl/Corporations/CorporationFormsFees",
+    "filing_office": "Alaska Division of Corporations, Business and Professional Licensing — Corporations Section",
+    "filing_url": "https://www.commerce.alaska.gov/web/cbpl/Corporations/CorporationFormsFees",
+    "registered_agent": "Every LLC must maintain a registered agent with a physical street address in Alaska, with both a physical address and a mailing address in Alaska; the agent may be an Alaska resident or a corporation authorized in Alaska, and the LLC cannot be its own agent.",
+    "operating_agreement": "Recommended, not required — Alaska law addresses operating agreements in AS 10.50.095, but no operating agreement must be filed with the state.",
+    "annual_report": "Biennial report (not annual): $100 every two years, due before January 2 of the filing year; a free initial report is due within 6 months of formation, and a separate Alaska business license costs $50 per year.",
+    "series_llc": "No — state law does not authorize series LLCs; the Alaska LLC Act (AS 10.50) has no series provisions.",
+    "foreign_llc": "An LLC formed in another state must register as a foreign LLC with the Division of Corporations on Form 08-0497; the filing fee is $350.",
+    "single_member": "Single-member LLCs are allowed in Alaska and follow the same formation process as multi-member LLCs.",
+    "sources": [
+      "https://www.commerce.alaska.gov/web/cbpl/Corporations/CorporationFormsFees",
+      "https://www.commerce.alaska.gov/web/cbpl/"
+    ]
+  },
+  "arizona": {
+    "state": "Arizona",
+    "slug": "arizona",
+    "overview": "Arizona LLCs are formed with the Arizona Corporation Commission, not the Secretary of State, for a low $50 filing fee. Arizona has no annual report, but most new LLCs must publish a notice of formation in a newspaper unless the statutory agent is in Maricopa or Pima County.",
+    "filing_fee": "$50 ($85 with expedited processing)",
+    "fee_verified_url": "https://azcc.gov/docs/default-source/corps-files/fee-schedules/fee-schedule-llcs.pdf",
+    "filing_office": "Arizona Corporation Commission — Corporations Division",
+    "filing_url": "https://azcc.gov/",
+    "registered_agent": "Every LLC must maintain a statutory agent with a physical street address in Arizona where legal papers can be delivered during business hours; the agent may be an Arizona resident or a business authorized to do business in Arizona.",
+    "operating_agreement": "Recommended, not required — Arizona law allows an operating agreement to be written, oral or implied (A.R.S. 29-3105), and no operating agreement is filed with the Commission.",
+    "annual_report": "No annual report; $0. Arizona LLCs file no annual or biennial report with the Corporation Commission.",
+    "series_llc": "No — state law does not authorize series LLCs; the Arizona Limited Liability Company Act (A.R.S. Title 29, Chapter 7) has no series provisions.",
+    "foreign_llc": "An LLC formed in another state must register as a foreign LLC with the Arizona Corporation Commission on Form L-025; the filing fee is $150 ($185 expedited).",
+    "single_member": "Single-member LLCs are allowed in Arizona and follow the same formation process as multi-member LLCs.",
+    "sources": [
+      "https://azcc.gov/docs/default-source/corps-files/fee-schedules/fee-schedule-llcs.pdf",
+      "https://azcc.gov/"
+    ]
+  },
+  "arkansas": {
+    "state": "Arkansas",
+    "slug": "arkansas",
+    "overview": "Arkansas LLCs are formed by filing a Certificate of Organization with the Arkansas Secretary of State. Formation is inexpensive, but every LLC then owes a flat $150 franchise tax each year, which is much larger than the formation fee.",
+    "filing_fee": "$45 online / $50 by mail",
+    "fee_verified_url": "https://sos.arkansas.gov/",
+    "filing_office": "Arkansas Secretary of State — Business and Commercial Services Division",
+    "filing_url": "https://sos.arkansas.gov/",
+    "registered_agent": "Every LLC must maintain a registered agent with a physical street address in Arkansas, not a post office box, where legal papers can be delivered during business hours.",
+    "operating_agreement": "Recommended, not required — Arkansas law does not require an operating agreement, and no operating agreement is filed with the state.",
+    "annual_report": "Annual LLC Franchise Tax Report: $150 flat, due on or before May 1 each year, starting in the calendar year after formation.",
+    "series_llc": "Yes — Arkansas authorizes series LLCs under the Arkansas Uniform Protected Series Act, Ark. Code Ann. 4-37-101 to 4-37-805, effective October 1, 2019; each additional protected series requires a separate $50 filing.",
+    "foreign_llc": "An LLC formed in another state must register as a foreign LLC with the Arkansas Secretary of State on Form FL-01; the filing fee is $270 online / $300 by mail.",
+    "single_member": "Single-member LLCs are allowed in Arkansas and follow the same formation process as multi-member LLCs.",
+    "sources": [
+      "https://sos.arkansas.gov/",
+      "https://www.sos.arkansas.gov/"
+    ]
+  },
+  "california": {
+    "state": "California",
+    "slug": "california",
+    "overview": "California LLCs are formed by filing Articles of Organization (Form LLC-1) with the California Secretary of State for $70. The filing fee is low, but California is expensive to maintain: every LLC owes an $800 minimum annual tax to the Franchise Tax Board.",
+    "filing_fee": "$70",
+    "fee_verified_url": "https://bpd.cdn.sos.ca.gov/llc/forms/llc-1.pdf",
+    "filing_office": "California Secretary of State — Business Programs Division",
+    "filing_url": "https://bizfileonline.sos.ca.gov/",
+    "registered_agent": "Every LLC must maintain an agent for service of process with a physical street address in California where legal papers can be delivered during normal business hours.",
+    "operating_agreement": "Required — California requires every LLC, including a single-member LLC, to have an operating agreement, whether written or oral, though it is kept with the LLC records and not filed with the state (Cal. Corp. Code 17701.01 to 17701.02).",
+    "annual_report": "Statement of Information: $20, due within 90 days of formation and then every two years; plus an $800 minimum annual tax to the Franchise Tax Board, due by the 15th day of the 4th month after formation.",
+    "series_llc": "No — state law does not authorize domestic series LLCs; a series LLC formed in another state may register in California, but each series is treated as a separate LLC for California tax purposes.",
+    "foreign_llc": "An LLC formed in another state must register as a foreign LLC with the California Secretary of State on Form LLC-5; the filing fee is $70.",
+    "single_member": "A single-member LLC is allowed in California, but it must still have an operating agreement, and it still owes the $800 minimum annual tax.",
+    "sources": [
+      "https://bpd.cdn.sos.ca.gov/llc/forms/llc-1.pdf",
+      "https://bizfileonline.sos.ca.gov/"
+    ]
+  },
+  "colorado": {
+    "state": "Colorado",
+    "slug": "colorado",
+    "overview": "Colorado LLCs are formed online only with the Colorado Secretary of State for $50, one of the lowest formation fees in the country. Ongoing compliance is also cheap, with a single yearly Periodic Report.",
+    "filing_fee": "$50 online",
+    "fee_verified_url": "https://www.sos.state.co.us/pubs/info_center/fees/business.html",
+    "filing_office": "Colorado Secretary of State",
+    "filing_url": "https://sos.colorado.gov/",
+    "registered_agent": "Every LLC must maintain a registered agent with a physical street address in Colorado, not a post office box; since July 1, 2025, an individual agent must verify Colorado residency with a Colorado driver license or state ID number.",
+    "operating_agreement": "Recommended, not required — Colorado law does not require an operating agreement, and no operating agreement is filed with the state.",
+    "annual_report": "Periodic Report: $25 per year, filed online in the window from two months before to two months after the LLC formation anniversary month.",
+    "series_llc": "No — state law does not authorize series LLCs; Colorado law has no provision for creating protected series within a single LLC.",
+    "foreign_llc": "An LLC formed in another state must register as a foreign LLC with the Colorado Secretary of State by filing a Statement of Foreign Entity Authority; the filing fee is $100.",
+    "single_member": "Single-member LLCs are allowed in Colorado and follow the same formation process as multi-member LLCs.",
+    "sources": [
+      "https://www.sos.state.co.us/pubs/info_center/fees/business.html",
+      "https://www.sos.state.co.us/pubs/newsRoom/pressReleases/2024/PR20240617Fees.html"
+    ]
+  },
+  "connecticut": {
+    "state": "Connecticut",
+    "slug": "connecticut",
+    "overview": "Connecticut LLCs are formed by filing a Certificate of Organization with the Secretary of the State for $120. The certificate includes the appointment of the registered agent, and the LLC then files an $80 annual report each year.",
+    "filing_fee": "$120",
+    "fee_verified_url": "https://portal.ct.gov/-/media/sots/business-services/bsd-forms/fee-schedule-revised-712020.pdf",
+    "filing_office": "Connecticut Secretary of the State — Business Services Division",
+    "filing_url": "https://business.ct.gov/",
+    "registered_agent": "Every LLC must maintain a registered agent, called a statutory agent, with a physical street address in Connecticut where legal papers can be delivered; the agent appointment is included in the Certificate of Organization.",
+    "operating_agreement": "Recommended, not required — Connecticut law defines an operating agreement broadly to include oral, implied or written agreements (Conn. Gen. Stat. 34-243a(20)), and no operating agreement is filed with the state.",
+    "annual_report": "Annual report: $80, filed online each year between January 1 and March 31, starting in the calendar year after formation.",
+    "series_llc": "No — state law does not authorize series LLCs; the Connecticut Uniform Limited Liability Company Act (Conn. Gen. Stat. Chapter 613a, sections 34-243 to 34-283d) has no series provision.",
+    "foreign_llc": "An LLC formed in another state must register as a foreign LLC with the Secretary of the State by filing a Foreign Registration Statement; the filing fee is $120.",
+    "single_member": "Single-member LLCs are allowed in Connecticut and follow the same formation process as multi-member LLCs.",
+    "sources": [
+      "https://portal.ct.gov/-/media/sots/business-services/bsd-forms/fee-schedule-revised-712020.pdf",
+      "https://business.ct.gov/-/media/BusinessOneStop/BSD_Forms/CERTIFICATE_OF_ORGANIZATION-fillable.pdf/1000"
+    ]
+  },
+  "delaware": {
+    "state": "Delaware",
+    "slug": "delaware",
+    "overview": "Delaware LLCs are formed by filing a short Certificate of Formation with the Division of Corporations for $110. Delaware is popular for its flexible LLC law and privacy, but every LLC pays a flat annual tax and must keep a Delaware registered agent.",
+    "filing_fee": "$110",
+    "fee_verified_url": "https://corp.delaware.gov/LLC_Forms/LLC%20Formation.pdf",
+    "filing_office": "Delaware Department of State — Division of Corporations",
+    "filing_url": "https://corp.delaware.gov/",
+    "registered_agent": "Every LLC must maintain a registered agent with a physical street address in Delaware, not a post office box, where legal papers can be delivered; the agent may be a Delaware resident or a business authorized to do business in Delaware.",
+    "operating_agreement": "Recommended, not required — Delaware law is built around the LLC agreement, but it is a private internal document and is not filed with the state.",
+    "annual_report": "No annual report; $400 annual LLC tax due June 1 each year, for tax year 2026 onward.",
+    "series_llc": "Yes — Delaware authorizes series LLCs under 6 Del. C. 18-215; a series may hold assets, enter contracts, and sue or be sued in its own name, and each registered series owes an additional $100 annual tax.",
+    "foreign_llc": "An LLC formed in another state must register as a foreign LLC with the Division of Corporations by filing a Certificate of Registration, with a certificate of existence from its home state dated within 6 months; the filing fee is $200, plus the $400 annual tax.",
+    "single_member": "Single-member LLCs are allowed in Delaware and follow the same formation process as multi-member LLCs.",
+    "sources": [
+      "https://corp.delaware.gov/LLC_Forms/LLC%20Formation.pdf",
+      "https://corpfiles.delaware.gov/LLC_Forms/Foreign%20LLC.pdf"
+    ]
+  },
+  "florida": {
+    "state": "Florida",
+    "slug": "florida",
+    "overview": "Florida LLCs are formed by filing Articles of Organization with the Division of Corporations through Sunbiz for $125 total. Florida has no state personal income tax, but its $138.75 annual report is higher than the formation fee and carries a $400 late penalty after May 1.",
+    "filing_fee": "$125 ($100 for the Articles of Organization plus $25 for the registered agent designation)",
+    "fee_verified_url": "https://dos.fl.gov/sunbiz/",
+    "filing_office": "Florida Department of State — Division of Corporations (Sunbiz)",
+    "filing_url": "https://dos.fl.gov/sunbiz/",
+    "registered_agent": "Every LLC must continuously maintain a registered agent with a physical street address in Florida, not a post office box, who is available during business hours to accept service of process; the agent must sign a written acceptance.",
+    "operating_agreement": "Recommended, not required — Florida law allows an operating agreement to be oral, implied, in a record, or any combination (Fla. Stat. 605.0102), and no operating agreement is filed with the state.",
+    "annual_report": "Annual report: $138.75, due between January 1 and May 1 each year, starting in the calendar year after formation; a $400 late fee applies after May 1.",
+    "series_llc": "Yes — Florida authorizes protected series LLCs under Fla. Stat. 605.2101 to 605.2802, the Uniform Protected Series Provisions, effective July 1, 2026; an existing Florida LLC designates a protected series online for $25 per series.",
+    "foreign_llc": "An LLC formed in another state must register as a foreign LLC with the Division of Corporations; the filing fee is $125 ($100 plus $25 for the registered agent designation).",
+    "single_member": "Single-member LLCs are allowed in Florida and follow the same formation process as multi-member LLCs.",
+    "sources": [
+      "https://dos.fl.gov/sunbiz/forms/limited-liability-company/florida-series-llc/",
+      "https://dos.fl.gov/sunbiz/"
+    ]
+  },
+  "georgia": {
+    "state": "Georgia",
+    "slug": "georgia",
+    "overview": "Georgia LLCs are formed by filing Articles of Organization with the Secretary of State Corporations Division. Formation is inexpensive, and the only recurring state filing is a $60 Annual Registration due each spring.",
+    "filing_fee": "$110 ($100 filing fee plus $10 service charge, online or by mail)",
+    "fee_verified_url": "https://sos.ga.gov:8443/sites/default/files/forms/Filing%20Template%20-%20Articles%20of%20Organization%20for%20LLC%20%28CD%20030%29.pdf",
+    "filing_office": "Georgia Secretary of State — Corporations Division",
+    "filing_url": "https://ecorp.sos.ga.gov/",
+    "registered_agent": "Every LLC must continuously maintain a registered agent with a physical street address in Georgia, not a post office box, who is available during business hours to accept legal papers (O.C.G.A. 14-11-209).",
+    "operating_agreement": "Recommended, not required — Georgia law does not require an operating agreement, and no operating agreement is filed with the state.",
+    "annual_report": "Annual Registration: $60 ($50 plus $10 service charge), due each year between January 1 and April 1, starting in the calendar year after formation.",
+    "series_llc": "No — state law does not authorize series LLCs; the Georgia Limited Liability Company Act (O.C.G.A. Title 14, Chapter 11) has no series provision.",
+    "foreign_llc": "An LLC formed in another state must register as a foreign LLC with the Corporations Division by filing an Application for Certificate of Authority (Form CD 241); the filing fee is $235 ($225 plus $10 service charge).",
+    "single_member": "Single-member LLCs are allowed in Georgia and follow the same formation process as multi-member LLCs.",
+    "sources": [
+      "https://sos.ga.gov:8443/sites/default/files/forms/Filing%20Template%20-%20Articles%20of%20Organization%20for%20LLC%20%28CD%20030%29.pdf",
+      "https://georgia.gov/register-llc"
+    ]
+  }
+}

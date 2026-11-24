@@ -1,0 +1,194 @@
+{
+  "massachusetts": {
+    "state": "Massachusetts",
+    "slug": "massachusetts",
+    "overview": "Massachusetts has the most expensive LLC costs in the country: $500 to form and $500 every year for the annual report. You file a Certificate of Organization with the Secretary of the Commonwealth, and the LLC only legally exists once the state approves it. Every LLC must have a resident agent with a Massachusetts street address.",
+    "filing_fee": "$500 by mail / $520 online",
+    "fee_verified_url": "https://www.mass.gov/info-details/starting-a-limited-liability-company-llc-in-massachusetts",
+    "filing_office": "Massachusetts Secretary of the Commonwealth — Corporations Division",
+    "filing_url": "https://www.sec.state.ma.us/divisions/corporations/",
+    "registered_agent": "Every LLC must have a resident agent with a street address in Massachusetts who can accept legal papers for the LLC; the agent can be a member, a manager, or a commercial agent service.",
+    "operating_agreement": "recommended, not required — M.G.L. c. 156C does not require an operating agreement, but the state lists creating one as a formation step",
+    "annual_report": "Annual report due each year on the anniversary of the original filing; $500",
+    "series_llc": "No — state law does not authorize series LLCs; M.G.L. c. 156C contains no series provisions",
+    "foreign_llc": "An out-of-state LLC must file a Foreign Limited Liability Company Application for Registration (M.G.L. c. 156C, sec. 48) with the Secretary of the Commonwealth; $500, plus a $500 annual report each year",
+    "single_member": "A single-member LLC is taxed as a sole proprietorship by default and must get an EIN from the IRS if it meets IRS criteria, such as having employees",
+    "sources": [
+      "https://www.mass.gov/info-details/starting-a-limited-liability-company-llc-in-massachusetts",
+      "https://www.sec.state.ma.us/divisions/corporations/general-information/corporations-filing-fees.htm"
+    ]
+  },
+  "michigan": {
+    "state": "Michigan",
+    "slug": "michigan",
+    "overview": "Michigan is one of the cheapest states to form an LLC: $50 to file Articles of Organization (Form CSCL/CD-700) with the Department of Licensing and Regulatory Affairs (LARA), and a $25 annual statement due every February 15. Michigan charges no franchise tax on LLCs. Online filing runs through the MiBusiness Registry portal.",
+    "filing_fee": "$50",
+    "fee_verified_url": "https://www.michigan.gov/-/media/Project/Websites/lara/cscl/Folder6/Filing_Fees.pdf?rev=c74f2002f79e442a8095eaa6a5d3d5f4",
+    "filing_office": "Michigan Department of Licensing and Regulatory Affairs (LARA) — Corporations, Securities and Commercial Licensing Bureau, Corporations Division",
+    "filing_url": "https://www.michigan.gov/lara",
+    "registered_agent": "Every LLC must have a resident agent and a registered office with a street address in Michigan; the agent can be a member, a manager, or a commercial registered agent service.",
+    "operating_agreement": "recommended, not required — the Michigan LLC Act defines an operating agreement (MCL 450.4102) but does not require one; to count as an operating agreement under Michigan law it must be in writing",
+    "annual_report": "Annual statement due February 15 each year; $25 for an LLC ($75 for a professional LLC, with a $50 late fee after February 15)",
+    "series_llc": "No — state law does not authorize series LLCs; the Michigan Limited Liability Company Act (MCL 450.4101 et seq.) contains no series provisions",
+    "foreign_llc": "An out-of-state LLC must file an Application for Certificate of Authority to Transact Business in Michigan with LARA; $50",
+    "single_member": "A single-member LLC is permitted; its operating agreement must be in writing to qualify as an operating agreement under MCL 450.4102",
+    "sources": [
+      "https://www.michigan.gov/-/media/Project/Websites/lara/cscl/Folder6/Filing_Fees.pdf?rev=c74f2002f79e442a8095eaa6a5d3d5f4",
+      "https://www.michigan.gov/lara/news-releases/2025/06/24/lara-alerts-michigan-businesses-of-scheme-to-file-their-limited-liability-company-annual-statement"
+    ]
+  },
+  "minnesota": {
+    "state": "Minnesota",
+    "slug": "minnesota",
+    "overview": "Minnesota LLCs file Articles of Organization under Chapter 322C with the Secretary of State. The fee is $135 by mail or $155 online or in person, which counts as expedited service. There is no fee for the yearly annual renewal, but it must still be filed every year by December 31 or the LLC is administratively terminated.",
+    "filing_fee": "$155 online or in person / $135 by mail",
+    "fee_verified_url": "https://www.sos.mn.gov/business-liens/start-a-business/business-filing-certification-fee-schedule/",
+    "filing_office": "Minnesota Secretary of State — Business Services",
+    "filing_url": "https://www.sos.mn.gov",
+    "registered_agent": "Every LLC must continuously maintain a registered office in Minnesota and a registered agent at that office to accept legal papers (Minn. Stat. sec. 322C.0113); the agent can be a member or a commercial agent.",
+    "operating_agreement": "recommended, not required — Minn. Stat. ch. 322C does not require an operating agreement",
+    "annual_report": "Annual renewal due December 31 each year; $0 — free to file, but missing it triggers administrative termination with no grace period",
+    "series_llc": "No — state law does not authorize series LLCs; Minn. Stat. ch. 322C contains no series provisions and Minnesota has not enacted the Uniform Protected Series Act",
+    "foreign_llc": "An out-of-state LLC must file a Certificate of Authority before transacting business in Minnesota (Minn. Stat. sec. 322C.0803); $185 by mail / $205 online or in person",
+    "single_member": "",
+    "sources": [
+      "https://www.sos.mn.gov/business-liens/start-a-business/business-filing-certification-fee-schedule/",
+      "https://www.revisor.mn.gov/statutes/cite/322C.0108"
+    ]
+  },
+  "mississippi": {
+    "state": "Mississippi",
+    "slug": "mississippi",
+    "overview": "Mississippi charges only $50 to form an LLC and the yearly annual report is free. Filings are made online through the Secretary of State's Corporations portal. Every LLC must have a registered agent with a Mississippi street address.",
+    "filing_fee": "$50",
+    "fee_verified_url": "https://www.sos.ms.gov/content/documents/Business/FeeSchedule.pdf",
+    "filing_office": "Mississippi Secretary of State — Business Services Division",
+    "filing_url": "https://corp.sos.ms.gov",
+    "registered_agent": "Every LLC must appoint and maintain a registered agent with a street address in Mississippi under the Mississippi Registered Agents Act (Miss. Code Ann. sec. 79-35-5); the agent can be a member or a commercial agent.",
+    "operating_agreement": "recommended, not required — Mississippi law allows an LLC to be formed and operated without one; Miss. Code Ann. sec. 79-29-123 recognizes operating agreements as binding between members",
+    "annual_report": "Annual report due April 15 each year; $0 for a domestic LLC (foreign LLCs pay $250)",
+    "series_llc": "No — state law does not authorize series LLCs; the Revised Mississippi Limited Liability Company Act (Miss. Code Ann. secs. 79-29-101 to 79-29-1317) contains no series provisions",
+    "foreign_llc": "An out-of-state LLC must file an Application for Registration of Foreign LLC; $250, plus a $250 annual report each year",
+    "single_member": "",
+    "sources": [
+      "https://www.sos.ms.gov/content/documents/Business/FeeSchedule.pdf",
+      "https://www.sos.ms.gov/content/documents/Business/Services%20&%20Fees%20Document.pdf"
+    ]
+  },
+  "missouri": {
+    "state": "Missouri",
+    "slug": "missouri",
+    "overview": "Missouri charges $50 to file Articles of Organization online or $105 on paper, and Missouri LLCs file no annual report at all. Missouri is one of the few states whose statute says members shall adopt an operating agreement, and it authorizes series LLCs. The fee gap between the statute and the SOS schedule is a $5 Technology Fund charge.",
+    "filing_fee": "$50 online / $105 by mail",
+    "fee_verified_url": "https://s1.sos.mo.gov/CMSImages/Business/llc1.pdf",
+    "filing_office": "Missouri Secretary of State — Business Services Division (Corporations Division)",
+    "filing_url": "https://www.sos.mo.gov/business",
+    "registered_agent": "Every LLC must have a registered agent with a street address in Missouri to accept legal papers; the agent can be a member, a manager, or a commercial agent service.",
+    "operating_agreement": "required — RSMo sec. 347.081.1 states the member or members shall adopt an operating agreement; a single-member LLC must have a written declaration (RSMo sec. 347.015(13))",
+    "annual_report": "No annual report; $0 — Missouri LLCs file no annual or periodic report with the Secretary of State",
+    "series_llc": "Yes — RSMo sec. 347.186 authorizes designated series of members, managers, or LLC interests; the articles of organization must separately identify each series and give notice of the liability limitation, and separate records must be kept for each series",
+    "foreign_llc": "An out-of-state LLC must register on Form LLC-4, Application for Registration of a Foreign LLC; $105",
+    "single_member": "A single-member LLC must adopt its operating agreement as a written declaration, since RSMo sec. 347.015(13) does not recognize an oral agreement with only one member",
+    "sources": [
+      "https://s1.sos.mo.gov/CMSImages/Business/llc1.pdf",
+      "https://revisor.mo.gov/main/OneSection.aspx?section=347.179&bid=18457"
+    ]
+  },
+  "montana": {
+    "state": "Montana",
+    "slug": "montana",
+    "overview": "Montana has the lowest LLC formation fee in the country at $35, filed online only through the Secretary of State's Business Filing Portal. The annual report is normally $20 due April 15, but the state has waived the on-time fee for 2026 and 2027. Montana authorizes series LLCs.",
+    "filing_fee": "$35 (plus $50 for each series member named in a series LLC)",
+    "fee_verified_url": "https://sosmt.gov/business/fees/",
+    "filing_office": "Montana Secretary of State — Business Services Division",
+    "filing_url": "https://biz.sosmt.gov",
+    "registered_agent": "Every LLC must have a registered agent with a street address in Montana to accept legal papers (MCA sec. 35-7-105); the agent can be a member or a commercial agent.",
+    "operating_agreement": "recommended, not required — the Montana LLC Act does not require an operating agreement, but a series LLC must include the operating agreement of each series in its articles of organization (MCA sec. 35-8-202)",
+    "annual_report": "Annual report due April 15 each year; $20 normally, but $0 for on-time filings under the state's fee waiver for 2026 and 2027",
+    "series_llc": "Yes — MCA sec. 35-8-202 and sec. 35-8-304 authorize series of members; the articles must name each series, state whether a series debts are enforceable against that series assets only, and set out each series relative rights, and the filing fee adds $50 for each series member named",
+    "foreign_llc": "An out-of-state LLC must file a Certificate of Authority; $70 (plus $50 for each series member named)",
+    "single_member": "",
+    "sources": [
+      "https://sosmt.gov/business/fees/",
+      "https://law.justia.com/codes/montana/2017/title-35/chapter-8/part-2/section-35-8-202/"
+    ]
+  },
+  "nebraska": {
+    "state": "Nebraska",
+    "slug": "nebraska",
+    "overview": "Nebraska is one of only three states that require a new LLC to publish a notice of its formation in a newspaper for three straight weeks, then file proof of publication with the Secretary of State. The Certificate of Organization costs $100 online or $110 on paper, and LLCs file a biennial report every two years instead of an annual one.",
+    "filing_fee": "$100 online / $110 in office or by mail",
+    "fee_verified_url": "https://sos.nebraska.gov/sites/default/files/doc/business-services/Corporations/Forms/CertificateOfOrganization.pdf",
+    "filing_office": "Nebraska Secretary of State — Business Services Division",
+    "filing_url": "https://sos.nebraska.gov/business-services/forms-and-fee-information",
+    "registered_agent": "Every LLC must have a registered agent for service of process with a street address in Nebraska (Neb. Rev. Stat. sec. 21-117); the agent can be a member or a commercial agent.",
+    "operating_agreement": "recommended, not required — the Nebraska Uniform Limited Liability Company Act does not require an operating agreement",
+    "annual_report": "Biennial report due January 1 to April 1 of each odd-numbered year; $25 online / $30 on paper (Neb. Rev. Stat. sec. 21-125)",
+    "series_llc": "Yes — the Nebraska Uniform Protected Series Act (Neb. Rev. Stat. secs. 21-501 to 21-542) authorizes protected series; each protected series is a distinct person, created by a filed designation costing $100 electronically or $110 in writing per series",
+    "foreign_llc": "An out-of-state LLC must file a Certificate of Authority; $100 online / $110 in writing",
+    "single_member": "",
+    "sources": [
+      "https://sos.nebraska.gov/sites/default/files/doc/business-services/Corporations/Forms/CertificateOfOrganization.pdf",
+      "https://nebraskalegislature.gov/FloorDocs/105/PDF/Slip/LB1121.pdf",
+      "https://sos.nebraska.gov/business-services/annualbiennial-reporting"
+    ]
+  },
+  "nevada": {
+    "state": "Nevada",
+    "slug": "nevada",
+    "overview": "Nevada's headline $75 articles fee is only part of the cost: formation also requires a $150 Initial List of Managers or Members and a $200 State Business License filed at the same time, for $425 total. Nevada has no state income tax and authorizes series LLCs. Filings go through the Secretary of State's online portal, now called ORION.",
+    "filing_fee": "$75 for the Articles of Organization (total $425 at formation including the $150 Initial List and $200 State Business License, all filed together)",
+    "fee_verified_url": "https://www.nvsos.gov",
+    "filing_office": "Nevada Secretary of State — Commercial Recordings Division",
+    "filing_url": "https://www.nvsos.gov",
+    "registered_agent": "Every LLC must have a registered agent with a physical street address in Nevada who is available during business hours (NRS 77.310 and NRS 86.161); the agent can be a member or a commercial agent, and the agent must file a certificate of acceptance.",
+    "operating_agreement": "recommended, not required — NRS 86.286 permits an operating agreement but does not require one",
+    "annual_report": "Annual List of Managers or Members ($150) plus State Business License renewal ($200), $350 total, due each year by the last day of the formation anniversary month",
+    "series_llc": "Yes — NRS 86.296 authorizes series of members; each series can own property, contract, and sue or be sued in its own name, and a series debts are enforceable only against that series assets if separate records are kept and the articles or operating agreement so provide",
+    "foreign_llc": "An out-of-state LLC must register as a foreign LLC; $75 for registration (NRS 86.561), plus the $150 list and $200 business license",
+    "single_member": "",
+    "sources": [
+      "https://www.nvsos.gov",
+      "https://law.justia.com/codes/nevada/2022/chapter-86/statute-86-561/",
+      "https://law.justia.com/codes/nevada/2023/chapter-86/statute-86-296/"
+    ]
+  },
+  "new-hampshire": {
+    "state": "New Hampshire",
+    "slug": "new-hampshire",
+    "overview": "New Hampshire charges $100 to file a Certificate of Formation (Form LLC-1) with the Corporation Division, or $102 online with the $2 electronic handling charge. Every LLC files a $100 annual report due April 1. New Hampshire has no individual income tax.",
+    "filing_fee": "$100 by mail / $102 online (includes a $2 electronic handling charge)",
+    "fee_verified_url": "https://www.sos.nh.gov/corporations-0/forms-and-fees/limited-liability-companies",
+    "filing_office": "New Hampshire Secretary of State (Department of State) — Corporation Division",
+    "filing_url": "https://www.sos.nh.gov/corporations-0/forms-and-fees/limited-liability-companies",
+    "registered_agent": "Every LLC must designate and continuously maintain a registered agent with a street address in New Hampshire (RSA 304-C:36); the agent must be a New Hampshire resident or an entity authorized to do business in New Hampshire, and must consent to the appointment.",
+    "operating_agreement": "recommended, not required — RSA chapter 304-C does not require an operating agreement",
+    "annual_report": "Annual report due April 1 each year; $100 ($102 if filed online)",
+    "series_llc": "No — state law does not authorize series LLCs; RSA chapter 304-C contains no series provisions",
+    "foreign_llc": "An out-of-state LLC must file an Application for Registration as a Foreign LLC with the Corporation Division",
+    "single_member": "",
+    "sources": [
+      "https://www.sos.nh.gov/corporations-0/forms-and-fees/limited-liability-companies",
+      "https://www.sos.nh.gov"
+    ]
+  },
+  "new-jersey": {
+    "state": "New Jersey",
+    "slug": "new-jersey",
+    "overview": "New Jersey LLCs file a Certificate of Formation with the Division of Revenue and Enterprise Services (DORES) in the Department of the Treasury, not the Secretary of State. The fee was cut from $125 to $100 effective July 1, 2026, and the annual report is $75 due in the LLC's formation anniversary month.",
+    "filing_fee": "$100",
+    "fee_verified_url": "https://www.nj.gov/treasury/revenue/fees.shtml",
+    "filing_office": "New Jersey Department of the Treasury — Division of Revenue and Enterprise Services (DORES)",
+    "filing_url": "https://business.nj.gov",
+    "registered_agent": "Every LLC must have a registered agent with a street address in New Jersey to accept legal papers (N.J.S.A. 42:2C-14); the agent can be a member or a commercial agent.",
+    "operating_agreement": "recommended, not required — the New Jersey Revised Uniform Limited Liability Company Act does not require an operating agreement",
+    "annual_report": "Annual report due each year by the last day of the LLC's formation anniversary month; $75",
+    "series_llc": "No — state law does not authorize series LLCs; N.J.S.A. 42:2C-1 et seq. contains no series provisions",
+    "foreign_llc": "An out-of-state LLC must file an Application for a Certificate of Authority; $100 (N.J.S.A. 42:2C-93, as amended by P.L. 2026, c.24)",
+    "single_member": "",
+    "sources": [
+      "https://www.nj.gov/treasury/revenue/fees.shtml",
+      "https://nj.gov/treasury/taxation/taxamnesty/treasury/revenue/fees.shtml"
+    ]
+  }
+}

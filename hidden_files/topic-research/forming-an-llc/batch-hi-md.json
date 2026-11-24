@@ -1,0 +1,196 @@
+{
+  "hawaii": {
+    "state": "Hawaii",
+    "slug": "hawaii",
+    "overview": "Hawaii has no Secretary of State for business filings; LLCs file with the Department of Commerce and Consumer Affairs, Business Registration Division. The filing fee is low at $51 total. Annual reports follow an unusual quarterly schedule tied to the calendar quarter in which the LLC registered.",
+    "filing_fee": "$51 total ($50 filing fee plus $1 State Archives fee)",
+    "fee_verified_url": "https://cca.hawaii.gov/breg/registration/dllc/",
+    "filing_office": "Hawaii Department of Commerce and Consumer Affairs — Business Registration Division",
+    "filing_url": "https://cca.hawaii.gov/breg/registration/dllc/",
+    "registered_agent": "Every LLC must continuously maintain a registered agent with a business address in Hawaii; the agent may be a Hawaii resident individual or a domestic or foreign entity authorized to do business in Hawaii (HRS section 428-107).",
+    "operating_agreement": "recommended, not required (HRS section 428-103 permits an operating agreement; it is not filed with the DCCA)",
+    "annual_report": "Annual report due each year by the end of the calendar quarter in which the LLC registered (March 31, June 30, September 30 or December 31), starting the year after formation; $12.50 online / $15 on paper",
+    "series_llc": "",
+    "foreign_llc": "A foreign LLC must file an Application for Certificate of Authority (Form FLLC-1) with the DCCA before transacting business in Hawaii; $50 plus $1 State Archives fee",
+    "single_member": "",
+    "sources": [
+      "https://cca.hawaii.gov/breg/registration/dllc/",
+      "https://files.hawaii.gov/dcca/breg/registration/forms/llc-1-instr.pdf",
+      "https://cca.hawaii.gov/wp-content/uploads/2025/12/Form-Fee-Schedule-12-2022.pdf"
+    ]
+  },
+  "idaho": {
+    "state": "Idaho",
+    "slug": "idaho",
+    "overview": "Idaho LLCs are formed by filing a Certificate of Organization with the Secretary of State, online through SOSBiz or on paper. Filing costs $100 online, and the required annual report is free, making Idaho one of the cheapest states to maintain an LLC in.",
+    "filing_fee": "$100 online / $120 by mail or in person ($100 plus $20 manual processing fee)",
+    "fee_verified_url": "https://archive.sos.idaho.gov/CORP/forms/LLC/LLC%20Cert%20Org.pdf",
+    "filing_office": "Idaho Secretary of State",
+    "filing_url": "https://sosbiz.idaho.gov/",
+    "registered_agent": "The registered agent must be an Idaho resident individual or a business entity authorized in Idaho, with a physical Idaho street address (no P.O. box), available during normal business hours (Idaho Code section 30-21-403).",
+    "operating_agreement": "recommended, not required (Idaho Code sections 30-25-102(9) and 30-25-201(c); the agreement may be oral, implied or written and is not filed with the Secretary of State)",
+    "annual_report": "Annual report due each year by the last day of the LLC's formation month, starting the year after formation; $0 (no fee)",
+    "series_llc": "",
+    "foreign_llc": "A foreign LLC must file a foreign registration statement with the Idaho Secretary of State before transacting business in Idaho.",
+    "single_member": "One person can form an Idaho LLC; the operating agreement is the agreement of all the members, including a sole member, and may be oral, implied or written (Idaho Code section 30-25-102).",
+    "sources": [
+      "https://archive.sos.idaho.gov/CORP/forms/LLC/LLC%20Cert%20Org.pdf",
+      "https://sosbiz.idaho.gov/"
+    ]
+  },
+  "illinois": {
+    "state": "Illinois",
+    "slug": "illinois",
+    "overview": "Illinois LLCs file Articles of Organization (Form LLC-5.5) with the Secretary of State, Department of Business Services, for $150. Illinois is one of the states that authorizes series LLCs, at a higher $400 filing fee. There is no newspaper publication requirement.",
+    "filing_fee": "$150 ($400 for an LLC with the power to establish series)",
+    "fee_verified_url": "https://www.ilga.gov/legislation/ILCS/details?MajorTopic=BUSINESS AND EMPLOYMENT&Chapter=BUSINESS ORGANIZATIONS&ActName=Limited Liability Company Act.&ActID=2290&ChapterID=65&ChapAct=805+ILCS+180%2F&SeqStart=14450000&SeqEnd=15800000",
+    "filing_office": "Illinois Secretary of State, Department of Business Services",
+    "filing_url": "https://www.ilsos.gov/llcarticles/",
+    "registered_agent": "The LLC must have a registered agent with an Illinois street address (registered office in Illinois) who can accept legal papers on behalf of the LLC.",
+    "operating_agreement": "recommended, not required (805 ILCS 180/1-5 and 180/15-5; the agreement may be oral, in a record, implied or any combination, and is not filed with the state)",
+    "annual_report": "Annual report (Form LLC-50.1) due each year within the 60 days before the first day of the LLC's anniversary month; $75 (plus $50 for each series with a certificate of designation)",
+    "series_llc": "Yes — Illinois authorizes series LLCs under 805 ILCS 180/37-40; the articles of organization must authorize series, each series needs a certificate of designation ($50), and each series must keep separate records and assets, with the operating agreement providing for the series.",
+    "foreign_llc": "A foreign LLC must file an application for admission with the Illinois Secretary of State before transacting business in Illinois; $150 (805 ILCS 180/50-10)",
+    "single_member": "One member is enough to form an Illinois LLC, and a sole member can have an operating agreement (805 ILCS 180/1-5).",
+    "sources": [
+      "https://www.ilga.gov/legislation/ILCS/details?MajorTopic=BUSINESS AND EMPLOYMENT&Chapter=BUSINESS ORGANIZATIONS&ActName=Limited Liability Company Act.&ActID=2290&ChapterID=65&ChapAct=805+ILCS+180%2F&SeqStart=14450000&SeqEnd=15800000",
+      "http://ilsos.gov/publications/pdf_publications/llc55s.pdf"
+    ]
+  },
+  "indiana": {
+    "state": "Indiana",
+    "slug": "indiana",
+    "overview": "Indiana LLCs file Articles of Organization (State Form 49459) with the Secretary of State, Business Services Division, through the INBiz portal. Indiana has no annual report and no franchise tax; instead LLCs file a Business Entity Report only every two years. Indiana also authorizes series LLCs.",
+    "filing_fee": "$95 online / $100 by mail",
+    "fee_verified_url": "https://law.justia.com/codes/indiana/title-23/article-0-5/chapter-9/section-23-0-5-9-19/",
+    "filing_office": "Indiana Secretary of State, Business Services Division",
+    "filing_url": "https://inbiz.in.gov/BOS/Home/Index",
+    "registered_agent": "The LLC must have a registered agent in Indiana, either an Indiana resident individual or an entity authorized in Indiana, with an Indiana street address.",
+    "operating_agreement": "recommended, not required (Ind. Code section 23-18-4-4; not filed with the state)",
+    "annual_report": "No annual report; a Business Entity Report is due every two years in the LLC's formation anniversary month; $32 online / $50 by mail",
+    "series_llc": "Yes — Indiana authorizes series LLCs under Ind. Code Title 23, Article 18.1; a master LLC's articles of organization must authorize series, the master LLC must have an operating agreement, and each series can have separate rights, assets and liabilities if records and accounts are kept separate.",
+    "foreign_llc": "A foreign LLC must file a Foreign Registration Statement with the Indiana Secretary of State through INBiz before transacting business in Indiana.",
+    "single_member": "",
+    "sources": [
+      "https://law.justia.com/codes/indiana/title-23/article-0-5/chapter-9/section-23-0-5-9-19/",
+      "https://www.in.gov/sos/business/division-forms/business-forms/",
+      "https://law.justia.com/codes/indiana/2016/title-23/article-18.1/chapter-4/"
+    ]
+  },
+  "iowa": {
+    "state": "Iowa",
+    "slug": "iowa",
+    "overview": "Iowa LLCs are formed by filing a Certificate of Organization with the Secretary of State for $50. Unusually, Iowa publishes no fill-in form for the certificate; the filer drafts it to the requirements of Iowa Code section 489.201 and uploads it through Fast Track Filing. Iowa has no annual report, only a biennial report in odd-numbered years.",
+    "filing_fee": "$50",
+    "fee_verified_url": "https://www.legis.iowa.gov/docs/code/2025/489.122.pdf",
+    "filing_office": "Iowa Secretary of State, Business Services Division",
+    "filing_url": "https://filings.sos.iowa.gov/",
+    "registered_agent": "The LLC must designate and maintain a registered agent with a place of business in Iowa, with an Iowa street address and mailing address (Iowa Code section 489.115).",
+    "operating_agreement": "recommended, not required (Iowa Code sections 489.102 and 489.105; the agreement may be oral, implied or written and is not filed with the Secretary of State)",
+    "annual_report": "No annual report; a biennial report is due January 1 to April 1 of each odd-numbered year, starting the first odd-numbered year after formation; $30 online / $45 on paper",
+    "series_llc": "Yes — Iowa authorizes protected series under Iowa Code chapter 489, subchapter XIV, sections 489.14101 et seq. (Uniform Protected Series Act); each protected series is treated as a separate LLC with its own assets and liabilities.",
+    "foreign_llc": "A foreign LLC must file an application for a certificate of registration with the Iowa Secretary of State before transacting business in Iowa; $100 (Iowa Code section 489.122)",
+    "single_member": "One person can form an Iowa LLC, and a sole member's operating agreement is recognized under Iowa law.",
+    "sources": [
+      "https://www.legis.iowa.gov/docs/code/2025/489.122.pdf",
+      "https://www.legis.iowa.gov/docs/code/489.14108.pdf"
+    ]
+  },
+  "kansas": {
+    "state": "Kansas",
+    "slug": "kansas",
+    "overview": "Kansas LLCs file Articles of Organization (Form DL) with the Secretary of State for $85 online, after a fee cut effective February 27, 2026. Kansas has no annual report; LLCs file a Business Entity Information Report every two years. Kansas also authorizes series LLCs.",
+    "filing_fee": "$85 online / $90 on paper",
+    "fee_verified_url": "https://sos.ks.gov/forms/business_services/DL.pdf",
+    "filing_office": "Kansas Secretary of State",
+    "filing_url": "https://www.sos.ks.gov/businesses/register-a-business.html",
+    "registered_agent": "The LLC must have a resident agent in Kansas, a Kansas resident individual or an entity authorized in Kansas, with a Kansas street address (a P.O. box is not accepted), available during business hours (K.S.A. 17-7925).",
+    "operating_agreement": "recommended, not required (K.S.A. 17-7663 defines an operating agreement as written, oral or implied; it is not filed with the Secretary of State)",
+    "annual_report": "No annual report; a Business Entity Information Report is due every two years by April 15 of the reporting year, based on whether the LLC formed in an even or odd year; $90 online / $110 on paper",
+    "series_llc": "Yes — Kansas authorizes series LLCs under K.S.A. 17-76,143; file Articles of Organization for an LLC that may create series (Form LAO), and the operating agreement may establish one or more designated series with separate rights, powers and duties.",
+    "foreign_llc": "A foreign LLC must register with the Kansas Secretary of State before transacting business in Kansas.",
+    "single_member": "",
+    "sources": [
+      "https://sos.ks.gov/forms/business_services/DL.pdf",
+      "https://sos.ks.gov/forms/business_services/LAO.pdf",
+      "https://sos.ks.gov/forms/business_services/ILC.pdf"
+    ]
+  },
+  "kentucky": {
+    "state": "Kentucky",
+    "slug": "kentucky",
+    "overview": "Kentucky has one of the lowest LLC filing fees in the country at $40, filed with the Secretary of State, Division of Business Filings. A copy of the Articles of Organization must also be filed with the county clerk where the registered office is located. Kentucky LLCs also owe a Limited Liability Entity Tax with a $175 minimum each year.",
+    "filing_fee": "$40 (waived for a veteran-owned business)",
+    "fee_verified_url": "https://sos.ky.gov/bus/business-filings/Pages/Fees.aspx",
+    "filing_office": "Kentucky Secretary of State, Division of Business Filings",
+    "filing_url": "https://www.sos.ky.gov/",
+    "registered_agent": "The LLC must have a registered agent and a registered office in Kentucky, with a Kentucky street address; a copy of the Articles of Organization must also be filed with the county clerk of the county where the registered office is located (KRS 14A.2-040).",
+    "operating_agreement": "recommended, not required (KRS 275.015(21) defines an operating agreement as written or oral; it is not filed with the state)",
+    "annual_report": "Annual report due each year between January 1 and June 30, starting the year after formation; $15",
+    "series_llc": "",
+    "foreign_llc": "A foreign LLC must file an Application for Certificate of Authority with the Kentucky Secretary of State before transacting business in Kentucky; $90",
+    "single_member": "One member is enough to form a Kentucky LLC.",
+    "sources": [
+      "https://sos.ky.gov/bus/business-filings/Pages/Fees.aspx",
+      "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=39663"
+    ]
+  },
+  "louisiana": {
+    "state": "Louisiana",
+    "slug": "louisiana",
+    "overview": "Louisiana LLCs file Articles of Organization (Form 365) with the Secretary of State, Commercial Division, together with a required Initial Report (Form 973). The fee rose from $100 to $125 on October 1, 2026 under Act 921. Online filing through geauxBIZ is required in 14 parishes, and online filers are prompted for an EIN because formation and tax registration run together.",
+    "filing_fee": "$125 (covers the Articles of Organization and the Initial Report filed together; rose from $100 on October 1, 2026 under Act 921)",
+    "fee_verified_url": "https://www.sos.la.gov/business-services/forms-fee-schedule",
+    "filing_office": "Louisiana Secretary of State, Commercial Division",
+    "filing_url": "https://www.sos.la.gov/business-services/file-business-documents",
+    "registered_agent": "The LLC must have a registered agent with a physical Louisiana street address (a P.O. box alone is not enough), and the agent must sign an acceptance on the Initial Report.",
+    "operating_agreement": "recommended, not required (La. R.S. 12:1301(A)(16) defines the operating agreement as written or oral for multi-member LLCs; a single-member LLC's agreement must be written; a written agreement must be kept at the registered office under La. R.S. 12:1319)",
+    "annual_report": "Annual report due each year on or before the anniversary of the LLC's organization; $35",
+    "series_llc": "",
+    "foreign_llc": "A foreign LLC must file an application for authority to transact business with the Louisiana Secretary of State; $185 (since October 1, 2026 under Act 921)",
+    "single_member": "A single-member LLC's operating agreement must be in writing (La. R.S. 12:1301(A)(16)).",
+    "sources": [
+      "https://www.sos.la.gov/business-services/forms-fee-schedule",
+      "https://static.sos.la.gov/shared/fee_changes_2026.pdf"
+    ]
+  },
+  "maine": {
+    "state": "Maine",
+    "slug": "maine",
+    "overview": "Maine LLCs file a Certificate of Formation (Form MLLC-6) with the Secretary of State, Division of Corporations, UCC and Commissions, for $175. Formation is by mail or in person only; there is no online filing for forming an LLC. Maine is unusual in requiring that an LLC agreement exist, even though it is never filed with the state.",
+    "filing_fee": "$175",
+    "fee_verified_url": "https://www.maine.gov/sos/corporations-commissions/i-need-a-business-form/limited-liability-company-forms",
+    "filing_office": "Maine Secretary of State, Division of Corporations, UCC and Commissions",
+    "filing_url": "https://www.maine.gov/sos/corporations-commissions/i-need-a-business-form/limited-liability-company-forms",
+    "registered_agent": "The LLC must have a registered agent, either a commercial or noncommercial registered agent, with a physical Maine street address (P.O. boxes are not accepted).",
+    "operating_agreement": "required — a limited liability company agreement must exist before, at or after filing (31 MRSA section 1531), but it is not filed with the state and may be written, oral or implied (31 MRSA section 1502)",
+    "annual_report": "Annual report due each year between January 1 and June 1, starting the year after formation; $85 for a domestic LLC",
+    "series_llc": "",
+    "foreign_llc": "A foreign LLC must file a Statement of Foreign Qualification (Form MLLC-12) with the Maine Secretary of State before conducting activities in Maine; $250",
+    "single_member": "",
+    "sources": [
+      "https://www.maine.gov/sos/corporations-commissions/i-need-a-business-form/limited-liability-company-forms",
+      "https://www1.maine.gov/sos/sites/maine.gov.sos/files/inline-files/mllc6.pdf",
+      "https://legislature.maine.gov/legis/statutes/31/title31ch21.pdf"
+    ]
+  },
+  "maryland": {
+    "state": "Maryland",
+    "slug": "maryland",
+    "overview": "Maryland LLCs file Articles of Organization with the State Department of Assessments and Taxation (SDAT), not the Secretary of State, for $100. The filing fee is modest but the ongoing cost is high: every LLC pays a $300 annual report fee each year. Standard review can take 6 to 8 weeks unless expedited review is paid for.",
+    "filing_fee": "$100",
+    "fee_verified_url": "https://dat.maryland.gov/SDAT%20Forms/artorgan.pdf",
+    "filing_office": "Maryland State Department of Assessments and Taxation (SDAT)",
+    "filing_url": "https://dat.maryland.gov/",
+    "registered_agent": "The LLC must have a resident agent who is a Maryland resident individual, a Maryland corporation, LLC or limited partnership, with a Maryland street address (not a P.O. box) (Md. Code, Corporations and Associations sections 1-101(x) and 4A-210).",
+    "operating_agreement": "recommended, not required (Md. Code, Corporations and Associations section 4A-402: members may enter into an operating agreement and it need not be in writing unless the articles of organization require it; not filed with the state)",
+    "annual_report": "Annual Report and Personal Property Return (Form 1) due each year by April 15, starting the year after formation; $300",
+    "series_llc": "No — Maryland law does not authorize domestic series LLCs; foreign series companies formed under another state's series statute may register to do business in Maryland.",
+    "foreign_llc": "A foreign LLC must register with SDAT before transacting business in Maryland; $100 (Md. Code, Corporations and Associations section 4A-1001)",
+    "single_member": "One member is enough to form a Maryland LLC, and the statute expressly accepts a one-member operating agreement (Md. Code, Corporations and Associations section 4A-402).",
+    "sources": [
+      "https://dat.maryland.gov/SDAT%20Forms/artorgan.pdf",
+      "https://mgaleg.maryland.gov/cmte_testimony/2020/jpr/3380_02252020_114144-988.pdf"
+    ]
+  }
+}
